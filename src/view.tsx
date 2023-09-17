@@ -63,24 +63,23 @@ const View1 = () => {
       setAnnotations([...annotations, { id: currEp, image: currFrame, states: annotation }])
     }
     const nextIdx = frames.indexOf(currItem) + direction
-    try {
-      const nextItem = frames[nextIdx]
-      setCurrAnnotation("")
-      setCurrItem(nextItem)
-      setCurrFrame(nextItem.image.substring(2, 18))
-      setImageUrl(`./data/frames/${currEp}/${nextItem.image.substring(2)}`);
-      console.log(annotations)
+
+    if (nextIdx < 0 || nextIdx >= frames.length) {
+      message.info("no next/prev frame in this episode")
     }
-    catch (e) {
-      message.info("no next frame in this episode")
-    }
+    const nextItem = frames[nextIdx]
+    setCurrAnnotation("")
+    setCurrItem(nextItem)
+    setCurrFrame(nextItem.image.substring(2, 18))
+    setImageUrl(`./data/frames/${currEp}/${nextItem.image.substring(2)}`);
+    console.log(annotations)
+
   }
 
   function downloadJSON() {
     // Convert the JSON data to a Blob
     const jsonData = new Blob([JSON.stringify(annotations.slice(1))], { type: 'application/json' });
 
-    console.log("hah")
     // Create a temporary link element
     const a = document.createElement('a');
     a.href = URL.createObjectURL(jsonData);
