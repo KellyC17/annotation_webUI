@@ -14,8 +14,9 @@ const View1 = () => {
   const [currFrame, setCurrFrame] = useState("frame_0000000082")
   const [currItem, setCurrItem] = useState({ "ep_id": "P01_11__0", "id": "P01_11_0", "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P01/rgb_frames/P01_11.tar", "image": "./frame_0000000082.jpg", "action": "take plate", "description": "In the image, there is a man standing on a kitchen floor, holding a plate and a spoon. The plate is positioned on the ground, and the spoon is being held in the man's hand. The man is performing the action of holding the plate and spoon, possibly preparing to serve food or clean up after a meal. The image shows the man's hand holding the spoon and the plate, indicating that he is in the process of using the spoon to scoop or serve food from the plate.", "answer_id": "g6234enEcPchyCH4GiVLty", "model_id": "llava-llama-2-7b-chat-hf-lightning-merge" })
   const [frames, setFrames] = useState([currItem])
+  const [currAnnotationList, setCurrAnnotationList] = useState([""])
   const [currAnnotation, setCurrAnnotation] = useState("")
-  const [annotations, setAnnotations] = useState([{ id: "", image: "", states: "" }])
+  const [annotations, setAnnotations] = useState([{ id: "", image: "", states: [""] }])
 
 
   const loadImage = () => {
@@ -41,7 +42,7 @@ const View1 = () => {
 
   }, [currEp]);
 
-  useEffect(() => { findTextAndIndex(currFrame); loadImage(); setCurrAnnotation("") }, [frames])
+  useEffect(() => { findTextAndIndex(currFrame); loadImage(); setCurrAnnotationList([""]) }, [frames])
 
   function findTextAndIndex(imageName: string) {
     const item = frames.find((item) => item.image === `./${imageName}.jpg`);
@@ -53,14 +54,24 @@ const View1 = () => {
     }
   }
 
-  const saveNextorPrev = (annotation: string, direction: number) => {
+  const onEnter = (annotation: string) => {
+    if (currAnnotationList[0] === "") {
+      setCurrAnnotationList([annotation])
+    }
+    else {
+      setCurrAnnotationList([...currAnnotationList, annotation])
+    }
+    setCurrAnnotation("")
+  }
+
+  const saveNextorPrev = (direction: number) => {
     const existed = annotations.findIndex((item) => item.id === currEp && item.image === currFrame)
 
     if (existed != -1) {
-      annotations[existed] = { id: currEp, image: currFrame, states: annotation }
+      annotations[existed] = { id: currEp, image: currFrame, states: currAnnotationList.slice(1) }
     }
     else {
-      setAnnotations([...annotations, { id: currEp, image: currFrame, states: annotation }])
+      setAnnotations([...annotations, { id: currEp, image: currFrame, states: currAnnotationList.slice(1) }])
     }
     const nextIdx = frames.indexOf(currItem) + direction
 
@@ -69,6 +80,7 @@ const View1 = () => {
     }
     else {
       const nextItem = frames[nextIdx]
+      setCurrAnnotationList([""])
       setCurrAnnotation("")
       setCurrItem(nextItem)
       setCurrFrame(nextItem.image.substring(2, 18))
@@ -124,17 +136,20 @@ const View1 = () => {
           <Title level={4}>Description</Title>
           {currItem.description}
           <Title level={4}>States Annotation</Title>
-          <TextArea value={currAnnotation} style={{ height: 100 }} onChange={(e) => setCurrAnnotation(e.target.value)} onPressEnter={(e) => { e.preventDefault(); saveNextorPrev(currAnnotation, 1) }} />
+          <TextArea value={currAnnotation} style={{ height: 100 }} onChange={(e) => setCurrAnnotation(e.target.value)} onPressEnter={(e) => { e.preventDefault(); onEnter(currAnnotation) }} />
+          <div style={{ marginTop: '10px' }}></div>
+          <TextArea value={JSON.stringify(currAnnotationList)} onChange={(e) => setCurrAnnotationList(eval(e.target.value))
+          } />
         </Card>
 
       </Space>
       <div style={{ display: 'flex', justifyContent: 'flex-end', marginBottom: '20px', marginTop: 10 }}>
         <Space align='end' >
-          <Button onClick={() => saveNextorPrev(currAnnotation, -1)}>
+          <Button onClick={() => saveNextorPrev(-1)}>
             Prev
           </Button>
-          <Button type='primary' onClick={() => saveNextorPrev(currAnnotation, 1)}>
-            Save & Next ↵
+          <Button type='primary' onClick={() => saveNextorPrev(1)}>
+            Save & Next
           </Button>
         </Space>
       </div>
