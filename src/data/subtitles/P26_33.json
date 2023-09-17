@@ -1,0 +1,52 @@
+[
+    {
+        "ep_id": "P26_33__0",
+        "id": "P26_33_0",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P26/rgb_frames/P26_33.tar",
+        "image": "./frame_0000000177.jpg",
+        "action": "turn muffin",
+        "description": "In the image, there is a person holding a spatula and a bowl, with a coffee cup and a plate on the stove. The person is about to pour the coffee into the cup. The spatula is being used to scoop the coffee from the bowl and pour it into the cup. The coffee cup is positioned on the stove, and the plate is placed on top of the stove. The person's hand is holding the spatula, and they are about to perform the action of pouring the coffee into the cup.",
+        "answer_id": "MCxJ8iPUrXpjrGFuoovCwe",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P26_33__0",
+        "id": "P26_33_1",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P26/rgb_frames/P26_33.tar",
+        "image": "./frame_0000000509.jpg",
+        "action": "open door",
+        "description": "In the image, we see a person holding a glass of water and a bowl of fruit, such as apples or oranges, in a kitchen setting. The person is standing in front of a window, and the glass of water and bowl of fruit are positioned on a counter or table near the window. The person is likely preparing to eat the fruit or drink the water, as they are holding the glass and bowl in their hands. This scene suggests that the person is getting ready to enjoy a healthy snack or refresh themselves with a glass of water.",
+        "answer_id": "U8wMXQT4a8fPJFZYC3fvcP",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P26_33__0",
+        "id": "P26_33_2",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P26/rgb_frames/P26_33.tar",
+        "image": "./frame_0000000590.jpg",
+        "action": "pick up napkin",
+        "description": "In the image, there is a man standing in a kitchen, holding a dish towel and a sponge. He is holding the sponge in one hand and the dish towel in the other. The man is positioned in front of a sink, which is filled with water. He is likely cleaning the sink or preparing to clean it. The objects in the image include the sink, the sponge, the dish towel, and the man. The man is performing the action of cleaning the sink, which is an essential task in maintaining a clean and hygienic kitchen environment.",
+        "answer_id": "E7fJoj7sNWVawA9yqN96mV",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P26_33__0",
+        "id": "P26_33_3",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P26/rgb_frames/P26_33.tar",
+        "image": "./frame_0000000747.jpg",
+        "action": "put napkin",
+        "description": "In the image, there is a man sitting in a kitchen, and he is holding a cup of coffee. The cup is placed on a countertop, and the man is looking at it. There is also a stove in the kitchen, which suggests that the man might be preparing food or cooking. The scene appears to be a moment of contemplation or pause in the man's daily routine, as he is taking a break to enjoy his coffee.",
+        "answer_id": "E5GsuvZw4sm8Rzn5kZM8Uc",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P26_33__0",
+        "id": "P26_33_4",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P26/rgb_frames/P26_33.tar",
+        "image": "./frame_0000001282.jpg",
+        "action": "adjust flame",
+        "description": "In the image, there is a man sitting at a kitchen counter with a stove on it. He is holding a cup of coffee and has a plate of food in front of him. The plate is filled with a slice of bread, and the man is about to put the slice into the toaster. The toaster is positioned on the stove, and the man is using the stove to cook the bread. The man is also holding a spatula, which he might use to flip the bread once it is toasted. The scene suggests that the man is preparing breakfast or a snack, and the presence of the coffee cup indicates that he might be enjoying a cup of coffee while doing so.",
+        "answer_id": "Ka5Jd4ZbdoS8aVUG6nSpQj",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    }
+]

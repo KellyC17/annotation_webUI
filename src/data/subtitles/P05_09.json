@@ -1,0 +1,662 @@
+[
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_0",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000000177.jpg",
+        "action": "take pan",
+        "description": "In the image, we see a kitchen counter with various objects, including a coffee maker, a microwave, a toaster, a kettle, and a sink. The objects are positioned on the countertop, with the coffee maker and microwave placed side by side. A human is holding a spoon and is about to pour a liquid into the coffee maker. The scene suggests that the person is preparing to make coffee or tea using the coffee maker.",
+        "answer_id": "nKBg87ju8d6qWodiPMtg5W",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_1",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000000282.jpg",
+        "action": "put pan in cupboard",
+        "description": "In the image, there is a person holding a spoon and a bowl, both of which are positioned on a countertop. The person is also holding a cup, which is placed on the countertop next to the bowl. They are performing the action of stirring the contents in the bowl with the spoon. The scene appears to be in a kitchen setting, where the person is preparing or serving food. The objects in the image, such as the spoon, bowl, and cup, are common kitchen utensils and are used for various tasks related to food preparation and consumption.",
+        "answer_id": "SsjLq3NKfQa6n7ALm5J244",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_2",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000000385.jpg",
+        "action": "take pot",
+        "description": "In the image, we see a person holding a spoon and a bowl, with a plate and a cup on the counter. The person is likely preparing a meal or snack, as they are holding a spoon and a bowl, which are commonly used for eating. The objects are positioned on the counter, with the cup and plate being placed on the surface. The person is performing the action of preparing the food by holding the spoon and bowl, which suggests that they are about to eat or serve the meal.",
+        "answer_id": "iAGXSMWV5A4prADCHQoYPs",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_3",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000000506.jpg",
+        "action": "put pot in cupboard",
+        "description": "In the image, we see a man standing in a kitchen, holding a spoon and a bowl. The spoon is in his hand, and the bowl is on the counter, with a cup of water next to it. The man is about to pour water from the cup into the bowl using the spoon. This action indicates that he is preparing to make a beverage, possibly a cup of tea or coffee. The objects are positioned in a way that facilitates easy access to the cup and the bowl, allowing the man to perform the task efficiently.",
+        "answer_id": "ikJiVQ5GzgajzYEuAKkLuM",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_4",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000000599.jpg",
+        "action": "take colander",
+        "description": "In the image, we see a man standing at a kitchen counter, holding a cup of coffee and a spoon. He is positioned next to a stove, which is turned on. There are also a few utensils, such as a spatula, on the counter. The man is performing the action of stirring the coffee with the spoon, possibly preparing to drink it. The presence of the stove suggests that the man might be preparing a meal or cooking something on it. The overall scene shows a kitchen setting where the man is engaged in a daily activity, such as cooking or preparing a meal, while enjoying his coffee.",
+        "answer_id": "LcZLZb5SqqgXB5iJzwZmNB",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_5",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000000649.jpg",
+        "action": "put colander in cupboard",
+        "description": "In the image, we see a person holding a glass of water and standing in front of a kitchen counter. The person is positioned in front of a refrigerator, and the glass of water is placed on the counter. The person is likely about to put the glass of water into the refrigerator, as they are holding it in their hand and looking at the refrigerator. This action suggests that the person might be trying to store the water in the refrigerator for later use or to keep it cold.",
+        "answer_id": "eCqE5NJX2jmWDAsNwfj84K",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_6",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000000822.jpg",
+        "action": "take container from cupboard",
+        "description": "In the image, a human is holding a bottle of water and a spoon, and they are positioned in a kitchen cabinet. The human is likely preparing to put the bottle of water and spoon into the cabinet. The image shows the bottle of water and spoon placed on a shelf inside the cabinet, and the human is reaching in to put them away. This action indicates that the human is tidying up the kitchen by organizing the items in the cabinet.",
+        "answer_id": "Z5e5DHPkW3966ap4svUhEv",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_7",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000001113.jpg",
+        "action": "take lid from cupboard",
+        "description": "In the image, there is a person standing in front of a refrigerator, with a bottle of water and a glass on the counter. The person is holding a spoon and is about to pour the water into the glass. The bottle of water is placed on the counter, and the glass is positioned next to the bottle. The person is preparing to pour the water into the glass, which suggests that they are about to drink the water or perform some other action related to the water.",
+        "answer_id": "Z5fWAN6PFyCSu5xLMyrLrz",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_8",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000001384.jpg",
+        "action": "take cup",
+        "description": "In the image, there is a man sitting on a counter, holding a cup of coffee, and looking at a laptop. The objects in the scene include a laptop, a cup of coffee, and a plate of food. The man is sitting on the counter, which is positioned on the floor. He is holding the cup of coffee and looking at the laptop, possibly checking his email or browsing the internet. The presence of the plate of food suggests that the man might be taking a break or enjoying a snack while working on his laptop.",
+        "answer_id": "BSGQVxWtnyWvhytUz3abki",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_9",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000001505.jpg",
+        "action": "take kettle",
+        "description": "In the image, a person is holding a kettle and pouring water into it. The kettle is placed on a countertop, and the person is standing next to it. The image shows a kitchen setting with a microwave oven, a stove, and a sink nearby. The person is preparing to make a cup of tea or coffee, as the kettle is filled with water and ready to be boiled. The action being performed by the human is pouring water into the kettle, which will then be heated on the stove or microwave oven to make the desired beverage.",
+        "answer_id": "jk6LGfWstRL75cyEvSJ26M",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_10",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000001645.jpg",
+        "action": "empty kettle into pitcher",
+        "description": "In the image, we see a man standing in a kitchen, holding a dish towel and a sponge. The man is positioned in front of a sink, with the dish towel and sponge on the counter next to the sink. The man is likely preparing to wash dishes or clean up after a meal. The presence of the dish towel and sponge suggests that the man is getting ready to clean the dishes, as these items are commonly used for washing and drying dishes. The image provides a glimpse into the daily chores that people perform in their kitchens, such as washing dishes and cleaning up after meals.",
+        "answer_id": "7jnBcURpMCJMKpcAvyGw8F",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_11",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000002384.jpg",
+        "action": "fill kettle",
+        "description": "In the image, we see a person holding a sponge and a dishrag, both of which are used for cleaning. The person is standing in a sink, with the sponge and dishrag in their hands. They are positioned in the sink, with the sponge in one hand and the dishrag in the other. The person is performing the action of cleaning the sink, using the sponge and dishrag to remove any dirt, grime, or food residue from the sink.",
+        "answer_id": "3CdQAmerU2A6EVWYW5UQ2a",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_12",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000002514.jpg",
+        "action": "place kettle on base",
+        "description": "In the image, there is a person holding a kettle and pouring water into it. The kettle is placed on a countertop, and there are various items, such as a cup, a bag of chips, and a bottle of water, nearby. The person is pouring water into the kettle, which is likely to be used for making tea or coffee. The scene shows a person preparing to make a hot beverage, and the objects in the background are used for consumption or convenience.",
+        "answer_id": "R96iPDqz9PvRQeSUCAEAth",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_13",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000002598.jpg",
+        "action": "turn on kettle",
+        "description": "In the image, there is a person holding a toaster and a kettle, both of which are positioned on a countertop. The person is standing next to the countertop, with the toaster and kettle in front of them. They are likely preparing to make breakfast or tea using these appliances. The image captures a moment of the person's activity, as they are about to start the process of making food or beverages.",
+        "answer_id": "2BguDAQ6hj7LPEcsQ9Q78E",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_14",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000002869.jpg",
+        "action": "take spoon",
+        "description": "In the image, we see a kitchen counter with various objects, including a toaster, a microwave, a coffee maker, a kettle, and a plate of cookies. The human is holding a cup of coffee and is about to pour it into the cup. The objects are positioned on the counter in a neat and organized manner, with the coffee maker and the kettle being placed on the left side, while the toaster and the microwave are on the right side. The human is performing the action of pouring the coffee into the cup, which suggests that they might be preparing to drink the coffee or serve it to someone else.",
+        "answer_id": "9J72V8xd8kfyKYKsSEoWGY",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_15",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000002980.jpg",
+        "action": "take sugar",
+        "description": "In the image, there is a person standing next to a kitchen counter, holding a red cup. The cup is being used to clean a coffee maker, which is positioned on the counter. The person is using the cup to clean the coffee maker, and the cup is being filled with water from a nearby faucet. The scene shows the person performing a routine task, such as cleaning the coffee maker, and the objects in the kitchen, like the cup, faucet, and coffee maker, are arranged in a way that facilitates the cleaning process.",
+        "answer_id": "XuqAQjJcCmgXQ7tD99ncgb",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_16",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000003341.jpg",
+        "action": "pour sugar into cup",
+        "description": "In the image, there is a man sitting on a counter, and he is holding a cup of coffee. The counter is located in a kitchen, and there are several objects on it, including a microwave, a toaster, and a coffee maker. The man is pouring coffee into a cup, and he is also holding a bag of chips. The objects on the counter are positioned in a way that they are easily accessible for the man to use them. The scene suggests that the man is preparing to make a snack or a beverage, possibly using the microwave or the coffee maker.",
+        "answer_id": "hSibYQgm6FveGfugDzDnUc",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_17",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000003561.jpg",
+        "action": "place sugar bowl on table",
+        "description": "In the image, a human is holding a red cup and pouring hot liquid from it into a pot on the stove. The cup is positioned on a countertop, and the human is standing next to the stove, holding the cup with one hand while pouring the liquid into the pot with the other hand. The pot is placed on the stove, and there are other kitchen items, such as a spoon and a bag of chips, nearby. The scene suggests that the human is preparing a meal or snack, and the act of pouring hot liquid into the pot is an essential step in the process.",
+        "answer_id": "P8LASyMB8gnbAmjL3Awqym",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_18",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000003711.jpg",
+        "action": "open cupboard",
+        "description": "In the image, we see a kitchen with a refrigerator, a stove, and a sink. The refrigerator is positioned on the left side of the kitchen, while the stove and sink are located on the right side. A human is standing in front of the sink, possibly washing their hands or preparing food. The objects in the kitchen are neatly arranged, which suggests that the kitchen is well-organized and functional. The presence of the sink and stove indicates that the kitchen is equipped for cooking and food preparation, while the refrigerator serves as a storage unit for perishable items. The human's action of standing in front of the sink suggests that they are engaging in a task related to food preparation or cleaning.",
+        "answer_id": "3kEEeKZbsvrKH6z2LHmFWs",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_19",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000003800.jpg",
+        "action": "take tea pack from cupboard",
+        "description": "In the image, there is a man standing in front of a shelf with a glass of wine on it. The shelf is filled with various items, such as bottles, books, and other objects. The man is holding a bottle of wine and is about to place it on the shelf. He is positioned close to the shelf, and his hand is reaching out to place the bottle on the top shelf. The image captures the moment when the man is about to put the bottle in its designated spot, indicating that he is organizing the shelf and ensuring that the items are properly arranged.",
+        "answer_id": "ZNWoW6qMueGhsFkTEs8oaD",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_20",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000004006.jpg",
+        "action": "put tea pack in cupboard",
+        "description": "In the image, we see a man standing in front of a kitchen counter, which is filled with various objects such as a microwave, a toaster, and a coffee maker. The man is holding a cup of coffee and has a spoon in his hand. He is looking at the microwave and appears to be contemplating or deciding what to do next. The objects are positioned on the counter, with the microwave being the primary focus of the man's attention. The scene suggests that the man is in the process of preparing or consuming food or drinks, and the microwave is likely being used for heating or cooking purposes.",
+        "answer_id": "kgpRP52QzSm8VXkXfGM8g8",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_21",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000004509.jpg",
+        "action": "open cupboard",
+        "description": "In the image, a person is holding a towel and is about to wipe down a shower wall. The person is standing in front of the shower, with the towel in their hand, and the wall is visible behind them. The towel is being used to clean the wall, which is likely a part of the shower's cleaning process. The person is positioned in front of the shower wall, and the towel is being held in their hand, ready to be used for cleaning.",
+        "answer_id": "LVcQUQwdjdjTuKXrRU9CCu",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_22",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000004595.jpg",
+        "action": "take food from cupboard",
+        "description": "In the image, a human is reaching into a refrigerator to grab a carton of milk. The refrigerator is located in a kitchen, and the human is standing in front of it. The carton of milk is placed on the top shelf of the refrigerator, and the human is reaching up to grab it. This action suggests that the person might be preparing to consume the milk or store it in a different location. The image provides a glimpse into the daily life of the person, showcasing their routine of reaching for food items in the kitchen.",
+        "answer_id": "F5p82PuUVJU3TviXTdXKsG",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_23",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000004941.jpg",
+        "action": "take plate",
+        "description": "In the image, there is a kitchen counter with a microwave oven, a toaster, and a coffee maker. A human is standing in front of the counter, possibly preparing food or drinks. The objects are positioned on the counter, with the microwave oven being the centerpiece. The human is performing an action, possibly turning on the microwave oven or toasting bread in the toaster. The image shows a well-equipped kitchen with various appliances, indicating that the human is likely preparing a meal or snack.",
+        "answer_id": "ijYPUsKnoJbbDW7xcjNqRn",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_24",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000006284.jpg",
+        "action": "pour food on plate",
+        "description": "In the image, we see a man standing in front of a kitchen counter with a white plate and a cup. The man is holding a fork and appears to be preparing to eat from the plate. The cup is positioned next to the plate, and the man is using the fork to pick up food from the plate. The scene suggests that the man is about to consume a meal or snack from the plate, and the cup may be used for drinking beverages. The image captures a moment in time, highlighting the act of eating and the objects involved in the process.",
+        "answer_id": "5q242iegyE95n8pxdvJmwA",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_25",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000006668.jpg",
+        "action": "throw packaging",
+        "description": "In the image, there is a human holding a large orange bag and standing in front of a wooden door. The bag is open, and the human is rummaging through it. The door is open, and the human is likely in the process of cleaning the room or organizing the contents of the bag. The objects in the bag are various items, such as clothes, shoes, and other personal belongings. The scene suggests that the human is in the middle of a task, possibly cleaning their living space or preparing for a move.",
+        "answer_id": "PiUVvMEPsBkiGWk7VHyckA",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_26",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000006956.jpg",
+        "action": "open microwave",
+        "description": "In the image, we see a man standing in front of a kitchen counter with a microwave oven, a sink, and a refrigerator. The man is holding a glass of water and is about to pour it into the sink. The microwave oven is empty, and the sink is filled with water. The refrigerator is also visible in the background. The scene suggests that the man is preparing to wash his hands or clean the sink, as he is holding a glass of water and is about to pour it into the sink.",
+        "answer_id": "a4yytDRzknCmQjpV2xP6iE",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_27",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000007139.jpg",
+        "action": "put plate in microwave oven",
+        "description": "In the image, there is a man standing in front of a sink, with a toilet paper roll and a toilet brush on the counter. The man is holding a toilet brush and appears to be cleaning the sink. The toilet paper roll is placed on the counter next to the sink, and the man is using the toilet brush to clean the sink. The objects are positioned in a way that allows the man to access the sink and perform the cleaning task efficiently. The image shows the man actively engaging in cleaning the sink, demonstrating his responsibility and attention to detail in maintaining a clean environment.",
+        "answer_id": "i2aBogYs6BfANLPnPJb9k7",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_28",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000007205.jpg",
+        "action": "close microwave",
+        "description": "In the image, there are two men standing in a kitchen, one of them is holding a bottle of water and the other is holding a spray bottle. They are positioned near a sink, with the man holding the bottle of water standing next to the sink and the man holding the spray bottle standing behind him. The man holding the bottle of water is pouring water into the spray bottle, which is likely being used for cleaning purposes. The scene shows the men working together in the kitchen, possibly preparing for a cleaning task or performing a routine maintenance activity.",
+        "answer_id": "FUckiu49GfEra5SYCyLafP",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_29",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000007338.jpg",
+        "action": "turn on microwave oven",
+        "description": "In the image, we see a man sitting on a couch with a laptop on his lap. He is typing on the laptop, and there is a remote control on the floor next to him. The laptop is positioned on his lap, and the remote control is placed on the floor, which suggests that the man is actively using the laptop and possibly watching a video or browsing the internet. The scene shows a typical everyday activity where the man is engaging in online activities while sitting on the couch.",
+        "answer_id": "RPTRNKC3qCUJVrYQdWyfN4",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_30",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000009869.jpg",
+        "action": "turn off kettle",
+        "description": "In the image, we see a kitchen counter with various objects placed on it. There is a microwave oven, a coffee maker, and a kettle, all of which are positioned next to each other. A human is pouring water into the kettle, which is sitting on the counter. The objects are arranged in a neat and organized manner, with the coffee maker and kettle placed on the countertop. The human is performing the action of pouring water into the kettle, which is likely to be used for making tea or coffee.",
+        "answer_id": "h7UunqqewZNoP3ewdEDD5a",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_31",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000009918.jpg",
+        "action": "press switch",
+        "description": "In the image, there is a man sitting on a kitchen counter, holding a cup of coffee and looking at a laptop. The laptop is positioned on the counter next to a microwave oven. The man is likely using the laptop to watch a video or browse the internet while enjoying his coffee. The presence of the microwave oven suggests that the man might be preparing or consuming a meal or snack. The objects in the image are arranged in a way that allows the man to comfortably use the laptop while also having access to the microwave oven for food preparation.",
+        "answer_id": "fA2N7T9Bfw32L5EkgKw7eX",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_32",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000010021.jpg",
+        "action": "take kettle",
+        "description": "In the image, there is a person holding a kettle, which is positioned on a countertop next to a microwave oven. The person is pouring water into the kettle, which is likely to be used for making tea or coffee. The microwave oven is also nearby, suggesting that the person might be preparing to heat up a beverage in it. The scene shows a kitchen setting with a countertop, microwave oven, and kettle, indicating that the person is engaged in a routine task of making a hot beverage.",
+        "answer_id": "mvHnc9ohc3M7m5wn5cewL9",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_33",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000010554.jpg",
+        "action": "pour water into cup",
+        "description": "In the image, there is a man standing next to a table with a cup of coffee and a spoon. The cup is placed on a plate, and the spoon is being used to stir the coffee. The man is holding a mug of hot water, which he is pouring into the cup. The objects are positioned on the table, with the cup and spoon being used for the coffee, and the mug of hot water being held by the man. The action being performed by the man is pouring hot water into the cup, which is likely part of the process of making a cup of coffee.",
+        "answer_id": "jsv3pEMMzzCgUnmuisGT37",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_34",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000010646.jpg",
+        "action": "place kettle on base",
+        "description": "In the image, there is a man holding a cup of hot beverage, possibly tea or coffee, while standing in front of a kitchen counter. The counter is filled with various items such as a toaster, a microwave, and a coffee maker. The man is holding the cup with one hand and using the other hand to operate the coffee maker. The coffee maker is positioned on the counter, and the man is pouring the hot beverage into a cup. This scene suggests that the man is preparing to enjoy his morning coffee or tea while using the kitchen appliances.",
+        "answer_id": "8nxSEajKNyuDzKKGY9u5KZ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_35",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000010734.jpg",
+        "action": "stir water",
+        "description": "In the image, there is a man standing in front of a kitchen counter, with a cup of coffee and a spoon in his hand. He is looking at a microwave oven and a toaster, which are positioned next to each other on the counter. The man is possibly preparing to make a cup of coffee using the microwave oven, as he is holding a cup and a spoon. The scene suggests that the man is about to heat up his coffee using the microwave, and then he might be preparing a snack or breakfast using the toaster.",
+        "answer_id": "dGFos4J4cpJnTi643WM4fH",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_36",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000011070.jpg",
+        "action": "put tea bag in cup",
+        "description": "In the image, there is a man sitting at a table with a cup of coffee and a plate of food. The man is holding a spoon and stirring the coffee, while the cup is placed on a tray. The tray is placed on a table, and the man is sitting on a chair. The scene appears to be a casual, everyday setting, where the man is enjoying his coffee and food.",
+        "answer_id": "fcAiaVsHMMvoA3CopgBJWt",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_37",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000011302.jpg",
+        "action": "open refrigerator",
+        "description": "In the image, a human is holding a metal door handle and is about to open a door. The door handle is positioned on the door, and the human is standing in front of the door. The door handle is being held by the human's hand, and the door is likely to be a refrigerator door. The human is preparing to open the refrigerator door to access the contents inside.",
+        "answer_id": "Gb4hvMhJN9QroPpiJhMUhw",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_38",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000011504.jpg",
+        "action": "take containers",
+        "description": "In the image, a human is holding a spatula and is about to put food on a hot plate. The spatula is positioned above the hot plate, and the human is holding it with one hand. The hot plate is placed on a countertop, and the human is preparing to put the food on it. The scene suggests that the person is about to cook or prepare a meal, and the spatula is an essential tool for this process.",
+        "answer_id": "TqCXYHNx2m6W2SheffSFeb",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_39",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000011769.jpg",
+        "action": "take milk container",
+        "description": "In the image, we see a kitchen counter with various objects placed on it, including a microwave oven, a toaster, a coffee maker, and a dishwasher. The human is holding a spatula and is likely preparing food or cleaning up after a meal. The objects are positioned in a neat and organized manner on the counter, indicating that the human is taking care to keep the kitchen clean and tidy. The presence of the dishwasher suggests that the human might be in the process of washing dishes, while the other objects could be used for cooking, preparing food, or cleaning up after a meal.",
+        "answer_id": "AwaJ2tQCvdEWVvUBGXtHV9",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_40",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000011781.jpg",
+        "action": "place milk container on table",
+        "description": "In the image, we see a kitchen with a man standing in front of a stove, holding a sponge and a bottle of cleaning solution. The man is cleaning the stove, which is positioned in the center of the kitchen. The objects in the kitchen include a microwave, a dishwasher, and a sink. The man is using the sponge and cleaning solution to clean the stove, which is likely a common task in maintaining the kitchen's cleanliness and hygiene.",
+        "answer_id": "D5KZNoV6bsfRe7epaVxYsf",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_41",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000011935.jpg",
+        "action": "take spoon",
+        "description": "In the image, we see a kitchen with a microwave, a dishwasher, and a refrigerator. The microwave is positioned on the counter, and there are several dishes and utensils placed on the counter as well. A human is holding a spoon and is about to put it in the microwave. This scene suggests that the person is preparing to heat up food in the microwave.",
+        "answer_id": "YhmVkMsQR23cRrMxgnpKzX",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_42",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000012370.jpg",
+        "action": "open container",
+        "description": "In the image, a man is standing in front of a kitchen counter, surrounded by various objects. He is holding a large plastic container, which is filled with food, and is about to put it into the microwave oven. The microwave oven is positioned on the counter, and the man is standing next to it. The objects on the counter include a bowl, a spoon, and a cup. The man is likely preparing a meal or reheating food using the microwave oven.",
+        "answer_id": "KFm5eQNvZYUvFBNsV3ALGt",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_43",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000014703.jpg",
+        "action": "pour pasta in container",
+        "description": "In the image, we see a man standing in front of a kitchen counter, surrounded by various food containers. He is holding a spoon and is about to scoop out food from one of the containers. The containers are placed on the counter, and the man is positioned in front of the counter, ready to eat. The scene suggests that the man is preparing to have a meal or snack, possibly from a leftover meal or a pre-packaged food item. The image captures a moment in time, where the man is about to consume the food, and it could be a casual or informal setting.",
+        "answer_id": "dSd6i4BiDdzsoZp6Ptf9fM",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_44",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000015539.jpg",
+        "action": "close container",
+        "description": "In the image, we see a person holding a spoon and a fork while standing in front of a kitchen counter with several containers and a microwave. The person is likely preparing or serving food, as they are holding the utensils and looking at the containers. The containers are placed on the counter, and the microwave is positioned nearby. The person might be about to eat or serve the food, as they are holding the utensils and looking at the containers. This scene shows the person's interaction with the kitchen appliances and the food preparation process.",
+        "answer_id": "bVRhCrQ7NveS8Eh7z7kExL",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_45",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000015888.jpg",
+        "action": "open container",
+        "description": "In the image, we see a man standing in front of a kitchen counter with a microwave oven, a refrigerator, and a stove. He is holding a tray of food, which appears to be a meal or a snack, and is about to place it in the microwave oven. The tray is positioned on the counter next to the microwave, and the man is holding it with one hand while using the other hand to open the microwave door. This scene suggests that the man is preparing to heat up his meal or snack using the microwave oven.",
+        "answer_id": "dCvvDPjZsWjshPiGwsZ6b2",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_46",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000016771.jpg",
+        "action": "pour meat in container",
+        "description": "In the image, a man is standing in front of a kitchen counter, holding a spoon and a bowl. There are several containers and bowls on the counter, and the man is scooping food from one of the bowls into the spoon. The containers and bowls are positioned on the counter, and the man is preparing to eat the food he has scooped from the bowl. The image suggests that the man is either preparing a meal or eating a snack, as he is holding a spoon and bowl.",
+        "answer_id": "Knqa2RVo45FSpkoh9RhqpX",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_47",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000019045.jpg",
+        "action": "close container",
+        "description": "In the image, we see a person holding a spoon and a fork while standing in front of a microwave oven. The person is likely preparing or eating food, as the microwave oven is filled with food. The person is holding the utensils, which suggests that they are about to eat or serve the food. The utensils are positioned on the countertop next to the microwave oven, and the person is standing in front of the microwave, possibly to check the food or to prepare it for consumption.",
+        "answer_id": "Uj3LdgquiCDsYSQbtB6DUo",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_48",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000019508.jpg",
+        "action": "place spoon in sink",
+        "description": "In the image, there is a person standing in front of a sink, holding a sponge. The sink is filled with water, and the person is using the sponge to clean the sink. The sink is positioned on a countertop, and the person is standing in front of it, holding the sponge and cleaning the sink with it. This image shows the person performing a daily chore, which is cleaning the sink, and demonstrates the importance of maintaining a clean and hygienic environment in the kitchen.",
+        "answer_id": "XEyeinwoAwNwMeswFGoPXN",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__0",
+        "id": "P05_09_49",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000020125.jpg",
+        "action": "close container",
+        "description": "In the image, a person is standing in front of a kitchen counter, holding a spoon and a bowl. The bowl is filled with food, and the spoon is being used to scoop up the food. The person is positioned near a sink, which is also visible in the image. The scene appears to be a person preparing or eating a meal, possibly using the sink for washing their hands or utensils. The objects in the image are the bowl of food, the spoon, and the sink, which are all positioned in a kitchen setting.",
+        "answer_id": "78fzp5GhP5YPZy2Typ7YaK",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__1",
+        "id": "P05_09_50",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000020544.jpg",
+        "action": "put containers in refrigerator",
+        "description": "In the image, a person is standing on a kitchen counter, holding a spatula and looking at a microwave. The person is positioned on the counter, which is located above the kitchen sink. The microwave is placed on the counter next to the sink, and the spatula is being held by the person. The person is likely preparing food or cleaning the microwave using the spatula. The image shows a close-up view of the person's hand holding the spatula, indicating that they are performing a specific task related to the microwave or the food they are preparing.",
+        "answer_id": "W5xoUDC6fNvaVQi5FhL3Hj",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__1",
+        "id": "P05_09_51",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000020859.jpg",
+        "action": "take rag",
+        "description": "In the image, there is a sink with a faucet, a dish rack, and a bowl of food. The human is washing their hands in the sink. The dish rack is placed on the counter next to the sink, and the bowl of food is on the counter as well. The sink is positioned in the middle of the kitchen, and the human is standing in front of it, washing their hands. This scene shows the daily routine of washing hands in a kitchen setting, where the sink is used for cleaning and preparing food.",
+        "answer_id": "3fY65CtzgrdY2WSU9Mai4P",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__1",
+        "id": "P05_09_52",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000021044.jpg",
+        "action": "wipe table",
+        "description": "In the image, there is a sink with a faucet, a dish rack, and a dishwasher. The human is washing dishes in the sink, using the faucet to rinse the dishes. The dish rack is placed next to the sink, and the dishwasher is positioned nearby. The scene shows a typical kitchen setting where people often perform daily chores like washing dishes.",
+        "answer_id": "LnnGZv2ejahLPuRMas6FU7",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__1",
+        "id": "P05_09_53",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000021053.jpg",
+        "action": "place rag",
+        "description": "In the image, we see a kitchen sink, a stove, and a person holding a sponge. The person is using the sponge to clean the sink, which is positioned on the countertop. The stove is also present in the kitchen, and it appears to be empty. The human is performing the action of cleaning the sink, which is a common task in maintaining a clean and hygienic kitchen environment.",
+        "answer_id": "AvErzZR6a7y8xV6DVS7exr",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__1",
+        "id": "P05_09_54",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000021491.jpg",
+        "action": "wash spoon",
+        "description": "In the image, a human is standing in a kitchen, holding a sponge and a bottle of dish soap. The human is positioned near a sink, with a faucet and a dish rack nearby. The human is likely about to clean a dish or a sink using the sponge and dish soap. The objects are arranged in a way that facilitates the cleaning process, with the sponge and soap bottle close to the sink and the faucet. This scene shows the human performing a routine task in the kitchen, which is essential for maintaining cleanliness and hygiene in the home.",
+        "answer_id": "gNUdim49agaNz3tfU9wepQ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__1",
+        "id": "P05_09_55",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000022954.jpg",
+        "action": "throw tea bag",
+        "description": "In the image, there is a man standing in front of a kitchen counter, with a kettle, a toaster, and a microwave on the counter. He is holding a cup and pouring coffee into it. The objects are positioned on the counter, with the kettle and microwave placed on the left side, and the toaster on the right side. The man is performing the action of pouring coffee from the kettle into the cup, which is likely a morning routine for him.",
+        "answer_id": "aBhsSRAsXSQEwTKM4mx5ZC",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__1",
+        "id": "P05_09_56",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000023345.jpg",
+        "action": "take milk container",
+        "description": "In the image, you can see a toaster, a microwave, and a kettle on a countertop. The human is holding a cup of coffee and is about to pour it into the kettle. The objects are positioned next to each other on the countertop, with the kettle being the central focus of the scene. The human is preparing to pour the coffee into the kettle, which is likely to be used for making tea or heating water for the coffee. The presence of the toaster and microwave suggests that the person might be preparing breakfast or a snack, as these appliances are commonly used for cooking and heating food.",
+        "answer_id": "KeEXc6dQGtWgPrD7QzL95z",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__1",
+        "id": "P05_09_57",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000023530.jpg",
+        "action": "pour milk into cup",
+        "description": "In the image, there is a man standing in front of a counter with a microwave, a toaster, and a kettle on it. The microwave is on, and the man is holding a cup of coffee. He is pouring the coffee into the cup, and the image captures the moment when he is about to pour the liquid into the cup. The objects are positioned on the counter, with the microwave being the primary focus of the image. The man is performing the action of pouring the coffee into the cup, which suggests that he might be preparing to drink it or serve it to someone else.",
+        "answer_id": "ctG6yvWoPnjcEr3FhssUBJ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__1",
+        "id": "P05_09_58",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000023946.jpg",
+        "action": "put milk container in refrigerator",
+        "description": "In the image, a man is standing on a wooden floor, holding a spatula in his hand. He is positioned in front of a stove, with a pot on the stove. The man is using the spatula to stir the contents of the pot, possibly cooking food. The objects in the image are the man, the spatula, the pot, and the stove. The man is performing the action of stirring the food in the pot using the spatula, which is an essential tool for cooking and preparing meals.",
+        "answer_id": "aGS98YFfZWAMqoG89sZZmS",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__1",
+        "id": "P05_09_59",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000024116.jpg",
+        "action": "close refrigerator",
+        "description": "In the image, we see a human standing on a staircase, holding a broom and a dustpan. The human is positioned on the stairs, with the broom and dustpan in their hands. The broom is being held up, and the human is about to sweep the floor. This action is likely part of a daily chore, such as cleaning the house or maintaining the living space. The image captures a moment in time where the human is preparing to perform a task, which is essential for maintaining a clean and organized environment.",
+        "answer_id": "7netWqXeaZucXChrvgYtvG",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__1",
+        "id": "P05_09_60",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000024459.jpg",
+        "action": "open microwave",
+        "description": "In the image, a man is standing in front of a kitchen counter, holding a plate and a spoon. He is positioned next to a stove, which is turned on. The man is likely preparing a meal or snack, as he is holding a plate and a spoon, which are commonly used for eating. The stove is turned on, indicating that the man is in the process of cooking or heating food. The man's action is likely to be either adding ingredients to the food on the stove or preparing a dish to be served.",
+        "answer_id": "9nGQ7qB58qhxwpyeXKmfS9",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__1",
+        "id": "P05_09_61",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000024508.jpg",
+        "action": "remove plate from microwave oven",
+        "description": "In the image, there is a man holding a plate of food and standing in front of a kitchen sink. The man is holding the plate with one hand while using the other hand to wash the plate. The plate is positioned on a countertop or a table, and the man is standing next to the sink, which is located in the kitchen. The action being performed by the man is washing the plate, which suggests that he has just finished eating and is cleaning up afterward.",
+        "answer_id": "643mCuqKn56aXUHLgevuZd",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__1",
+        "id": "P05_09_62",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000024607.jpg",
+        "action": "close microwave",
+        "description": "In the image, a man is standing in a bathroom, holding a microwave oven. He is positioned in front of the sink, with the microwave on the counter next to the sink. The man is likely preparing to use the microwave to heat up food or water. The presence of a cup and a plate on the counter suggests that he might be preparing a meal or snack. The image captures a moment in time when the man is about to use the microwave, and it highlights the practical use of the kitchen appliance in daily life.",
+        "answer_id": "M5eX3WHuPef6SAHCpvh4J6",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__1",
+        "id": "P05_09_63",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000024672.jpg",
+        "action": "place plate on table",
+        "description": "In the image, we see a kitchen counter with various objects, including a microwave, a toaster, a coffee maker, and a plate of food. The human is holding a cup of coffee and is about to pour it into the coffee maker. The objects are positioned on the counter, with the coffee maker being the center of attention. The human is performing the action of pouring the coffee into the coffee maker, which is a common task in the kitchen.",
+        "answer_id": "BxCSQSPzQwFTmoQsYf82jJ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__1",
+        "id": "P05_09_64",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000024820.jpg",
+        "action": "press switch",
+        "description": "In the image, there is a woman standing in front of a kitchen counter, with a cup of coffee on a plate and a spoon on a plate. The woman is holding a spoon and has a cup of coffee in her hand. She is positioned near a microwave oven, which is also on the counter. The woman is likely preparing a cup of coffee or taking a break from her daily activities. The presence of the cup of coffee and the spoon suggests that she might be enjoying a hot beverage or about to consume it. The microwave oven could be used to heat up the coffee or prepare a snack. The scene shows a casual and relaxed atmosphere in the kitchen, where the woman is taking a moment to enjoy her coffee and possibly prepare a meal or snack.",
+        "answer_id": "HUtbViMUohuhu3hjBB4Dth",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_09__1",
+        "id": "P05_09_65",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_09.tar",
+        "image": "./frame_0000024985.jpg",
+        "action": "stir mug",
+        "description": "In the image, there is a human hand holding a cup of coffee, which is being poured into a cup. The cup is placed on a counter or table, and there are other objects, such as a coffee maker and a plate of food, nearby. The human is pouring the coffee into the cup, indicating that they are preparing to consume it. The objects in the image are positioned in a way that allows the human to easily access and use them, such as the coffee maker and the plate of food. The scene suggests that the person is preparing a cup of coffee and possibly enjoying a meal or snack while doing so.",
+        "answer_id": "2CqkMHQpVzkGWDSAuXL3tG",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    }
+]

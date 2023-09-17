@@ -1,0 +1,172 @@
+[
+    {
+        "ep_id": "P09_07__0",
+        "id": "P09_07_0",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P09/rgb_frames/P09_07.tar",
+        "image": "./frame_0000000087.jpg",
+        "action": "take mixer",
+        "description": "In the image, we see a person holding a green plastic cup and a spoon while standing next to a kitchen counter. The cup is filled with a liquid, and the spoon is being used to stir the contents. The person is positioned in front of a stove, which suggests that they might be preparing or cooking something. The image captures a moment of the person performing the action of stirring the liquid with the spoon, indicating that they are likely preparing a meal or drink.",
+        "answer_id": "QaQhGQrGFtvK5ydnEQePCN",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P09_07__0",
+        "id": "P09_07_1",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P09/rgb_frames/P09_07.tar",
+        "image": "./frame_0000000210.jpg",
+        "action": "open mixer",
+        "description": "In the image, we see a person holding a green tennis ball and a spoon, positioned on a kitchen counter. The person is about to toss the tennis ball into a bowl, possibly to prepare a meal or engage in a fun activity. The objects are placed on the countertop, with the tennis ball in the air and the spoon nearby. The person is standing over the bowl, ready to toss the tennis ball into it. This scene suggests that the person is either preparing a meal or participating in a game or activity that involves tossing the tennis ball into a bowl.",
+        "answer_id": "CHjWRNbM6H88NUwagUcVYj",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P09_07__0",
+        "id": "P09_07_2",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P09/rgb_frames/P09_07.tar",
+        "image": "./frame_0000000322.jpg",
+        "action": "open drawer",
+        "description": "In the image, there is a man standing in front of a kitchen counter with a white and brown countertop. He is holding a small white box, which he is about to open. The box is placed on the counter, and the man is holding it with both hands. The man is performing the action of opening the box, which could contain various items such as food, kitchen utensils, or other household items. The presence of the white and brown countertop suggests that the kitchen is well-equipped and organized, and the man is likely preparing to use some of the items from the box in his cooking or daily activities.",
+        "answer_id": "DM4RLcPdzq4WWAc5r6C9FK",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P09_07__0",
+        "id": "P09_07_3",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P09/rgb_frames/P09_07.tar",
+        "image": "./frame_0000000419.jpg",
+        "action": "take supplement",
+        "description": "In the image, we see a person standing in front of a kitchen counter, holding a cup of coffee. The person is positioned next to a microwave oven and a sink, which are both located on the counter. The person is holding the cup of coffee and appears to be about to put it in the microwave. This action suggests that the person is preparing to heat up their coffee using the microwave. The presence of the sink nearby indicates that the person might be washing their hands before or after handling the hot cup of coffee.",
+        "answer_id": "NU7ZShqk3nPrN3q4LeZEMD",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P09_07__0",
+        "id": "P09_07_4",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P09/rgb_frames/P09_07.tar",
+        "image": "./frame_0000000620.jpg",
+        "action": "take supplement",
+        "description": "In the image, a man is holding a toilet brush and is about to clean the toilet bowl. He is standing in front of the toilet, with the brush in his hand, and is preparing to clean the bowl. The toilet brush is positioned in front of the man, and he is likely to use it to scrub the inside of the toilet bowl. The image shows the man's hand holding the brush and his body positioned in front of the toilet, indicating that he is about to begin the cleaning process.",
+        "answer_id": "d9xiZMM67fzjLiRXVsD9Xw",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P09_07__0",
+        "id": "P09_07_5",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P09/rgb_frames/P09_07.tar",
+        "image": "./frame_0000000763.jpg",
+        "action": "open supplement",
+        "description": "In the image, we see a man holding a black bowl with his hand, while standing in front of a kitchen counter. The bowl is positioned on the counter, and the man is holding it with one hand. He is likely preparing to put the bowl on a shelf or a storage area. The image captures the moment when the man is about to place the bowl, demonstrating the act of putting the bowl away.",
+        "answer_id": "iUYcrtwCBpD8xNUVAiJH9m",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P09_07__0",
+        "id": "P09_07_6",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P09/rgb_frames/P09_07.tar",
+        "image": "./frame_0000001083.jpg",
+        "action": "put supplement in mixer",
+        "description": "In the image, you see a person holding a cup of coffee and a spoon, with a bowl of cereal on a table. The person is about to scoop some cereal into the cup of coffee, possibly to mix it with the coffee or to enjoy it as a breakfast combination. The objects are positioned on the table, with the cup of coffee and the spoon on the left side, and the bowl of cereal on the right side. The person is performing the action of scooping cereal into the cup of coffee, which is an example of a simple and convenient breakfast combination.",
+        "answer_id": "eWCHfGqozH8tHAsBEyJhyj",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P09_07__0",
+        "id": "P09_07_7",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P09/rgb_frames/P09_07.tar",
+        "image": "./frame_0000001185.jpg",
+        "action": "put supplement in mixer",
+        "description": "In the image, there is a person holding a spoon and pouring a bowl of cereal into a bowl. The person is standing in front of a table, and the bowl is placed on the table. The spoon is being used to scoop cereal from a bag and pour it into the bowl. The person is wearing a blue shirt and a hat, which adds a unique touch to the scene. The image captures a moment of everyday life, where the person is preparing a meal for themselves or someone else.",
+        "answer_id": "MoG2Wg4mApMEmuAADpYAuh",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P09_07__0",
+        "id": "P09_07_8",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P09/rgb_frames/P09_07.tar",
+        "image": "./frame_0000001589.jpg",
+        "action": "close supplement",
+        "description": "In the image, there is a person holding a jar of peanut butter and a spoon, and they are standing in front of a counter with a microwave oven. The person is holding the jar with one hand and using the spoon with the other hand. They are possibly preparing to spread the peanut butter on a slice of bread or another food item. The scene shows the person in the act of preparing a meal or snack, which is a common daily task.",
+        "answer_id": "69BjdbfjS7qb2MjhMxvXMa",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P09_07__0",
+        "id": "P09_07_9",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P09/rgb_frames/P09_07.tar",
+        "image": "./frame_0000001804.jpg",
+        "action": "close drawer",
+        "description": "In the image, a person is standing in front of a door with a handle, holding a black ball. The door is open, and the person is about to close it. The black ball is likely a basketball, which the person is holding in their hand. The scene shows the person's hand reaching out to close the door, and the basketball is positioned next to the door. The image captures a moment of the person's everyday life, as they are about to close the door and secure it.",
+        "answer_id": "Hmwf27ihAGtaZmZh83hxtH",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P09_07__0",
+        "id": "P09_07_10",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P09/rgb_frames/P09_07.tar",
+        "image": "./frame_0000001967.jpg",
+        "action": "open supplement",
+        "description": "In the image, there is a man holding a white bowl and a spoon, both of which are positioned on a table. The man is holding the spoon in his hand and is about to put it into the bowl. The bowl is filled with a liquid, and the man is likely about to scoop some of the liquid from the bowl using the spoon. The scene suggests that the man is preparing to eat or serve the liquid from the bowl.",
+        "answer_id": "ZyX5ERp3e4kgv8MB2dpG9X",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P09_07__0",
+        "id": "P09_07_11",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P09/rgb_frames/P09_07.tar",
+        "image": "./frame_0000002296.jpg",
+        "action": "put supplement in mixer",
+        "description": "In the image, there is a person holding a jar of liquid and a spoon, with a bowl and a bottle of water nearby. The person is pouring the liquid from the jar into the bowl, and the spoon is being used to stir the mixture. The objects are positioned on a table, with the bowl and the bottle of water placed next to each other. The person is performing the action of mixing the liquid with the water, which is likely a part of a cooking or culinary process.",
+        "answer_id": "HumQfY4hXo7tKQouFmkrdj",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P09_07__0",
+        "id": "P09_07_12",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P09/rgb_frames/P09_07.tar",
+        "image": "./frame_0000002498.jpg",
+        "action": "close supplement",
+        "description": "In the image, a human is holding a bottle of liquid and a spoon while standing in front of a kitchen counter. The bottle is placed on the counter, and the spoon is being used to scoop out some of the liquid from the bottle. The human is likely preparing to use the liquid for a specific purpose, such as cooking or cleaning. The objects are positioned in a way that allows the human to easily access the bottle and the spoon, making it convenient for them to perform the action. The image shows a person actively engaging in the process of preparing the liquid for use.",
+        "answer_id": "UxLvxi9ufhjLVrXG73XQZT",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P09_07__0",
+        "id": "P09_07_13",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P09/rgb_frames/P09_07.tar",
+        "image": "./frame_0000002677.jpg",
+        "action": "open drawer",
+        "description": "In the image, a person is standing in front of a kitchen cabinet, with a door open. The person is holding a vacuum cleaner and appears to be cleaning the floor. The vacuum cleaner is positioned on the floor, and the person is using it to clean the area around the cabinet. The objects in the scene include the vacuum cleaner, the cabinet, and the floor. The person is performing the action of cleaning the floor using the vacuum cleaner, which is an essential task for maintaining a clean and hygienic environment in the kitchen.",
+        "answer_id": "JqJh7DL32QmhHE4phn7QxH",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P09_07__0",
+        "id": "P09_07_14",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P09/rgb_frames/P09_07.tar",
+        "image": "./frame_0000002737.jpg",
+        "action": "put mixer in drawer",
+        "description": "In the image, a man is standing in front of a refrigerator, holding a bottle of milk. He is pouring the milk into a cup, likely to make a drink or add it to a meal. The refrigerator is positioned in the background, and the man is standing in the kitchen area. The objects in the image are the refrigerator, the cup, and the bottle of milk. The man is performing the action of pouring the milk into the cup, which is a common task in the kitchen.",
+        "answer_id": "CGnQW75WGKNU7BT4mG2csQ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P09_07__0",
+        "id": "P09_07_15",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P09/rgb_frames/P09_07.tar",
+        "image": "./frame_0000002819.jpg",
+        "action": "close drawer",
+        "description": "In the image, a man is standing in front of a white refrigerator, with a door open. He is holding a wooden spoon and is about to put it inside the refrigerator. The spoon is positioned in front of the open refrigerator door, and the man is preparing to place it inside the refrigerator. This action suggests that the man might be storing the spoon in the refrigerator for safekeeping or to keep it away from the kitchen countertops.",
+        "answer_id": "hcEDJVFFWZ8TN4PULW3ANc",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P09_07__0",
+        "id": "P09_07_16",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P09/rgb_frames/P09_07.tar",
+        "image": "./frame_0000002911.jpg",
+        "action": "close mixer",
+        "description": "In the image, a man is holding a jar of coffee creamer and pouring it into a cup. The jar is placed on a countertop, and the man is standing next to the counter. He is pouring the creamer into the cup, which is likely a mug or a cup with a handle. This scene shows the man preparing his morning coffee by adding the creamer to his cup. The image captures the moment of the man pouring the creamer, indicating that he is about to enjoy his coffee.",
+        "answer_id": "jHePbhdJJMA2Xn3EnkVTW8",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    }
+]

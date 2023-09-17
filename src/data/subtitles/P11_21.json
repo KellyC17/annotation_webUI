@@ -1,0 +1,112 @@
+[
+    {
+        "ep_id": "P11_21__0",
+        "id": "P11_21_0",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_21.tar",
+        "image": "./frame_0000000096.jpg",
+        "action": "pick up kale",
+        "description": "In the image, a person is holding a green leafy vegetable and placing it into a pot on a stove. The person is standing on a chair, which is positioned in front of a stove. The stove has a pot on it, and the person is holding the leafy vegetable in their hand. They are placing the vegetable into the pot, which is likely to be used for cooking or preparing a meal. The image shows the person's hands, the pot, and the stove, indicating that they are actively engaged in the process of cooking or preparing food.",
+        "answer_id": "RFC8EtTdKo6euo4ozvgqzz",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_21__0",
+        "id": "P11_21_1",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_21.tar",
+        "image": "./frame_0000000146.jpg",
+        "action": "open pots",
+        "description": "In the image, we see a person holding a bowl of vegetables and a spoon, standing in front of a stove. The person is preparing to cook the vegetables, which are likely chopped or cut into small pieces. The bowl is positioned on the stove, and the person is holding the spoon, ready to stir or mix the vegetables in the bowl. The scene suggests that the person is about to start cooking their meal, possibly using the stove to heat the vegetables or prepare them in a pan.",
+        "answer_id": "YGTPJvFMqRVP5aiwEL6QtJ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_21__0",
+        "id": "P11_21_2",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_21.tar",
+        "image": "./frame_0000000355.jpg",
+        "action": "pouring kale",
+        "description": "In the image, a person is standing in front of a stove, holding a pot with a green vegetable inside. The person is preparing to cook the vegetable, which is likely a leafy green such as spinach or kale. The pot is placed on the stove, and the person is holding it with one hand while using the other hand to stir the contents. The person is standing in front of the stove, and the pot is positioned on the stove, ready to be cooked. This scene shows the person actively preparing a healthy meal, which is a common activity in many households.",
+        "answer_id": "auqNbUz9bp3pPBwzUHnrp7",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_21__0",
+        "id": "P11_21_3",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_21.tar",
+        "image": "./frame_0000000459.jpg",
+        "action": "push down kale",
+        "description": "In the image, a man is standing in front of a stove, with a pot on the stove. He is holding a spoon and stirring the contents of the pot, which appears to be vegetables. The man is wearing a white shirt and is positioned in front of the stove, which is located in a kitchen. The man is performing the action of stirring the vegetables in the pot, which suggests that he is preparing a meal or cooking vegetables for consumption.",
+        "answer_id": "RPHDoCNRXsv9zqxyUDGYqs",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_21__0",
+        "id": "P11_21_4",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_21.tar",
+        "image": "./frame_0000000637.jpg",
+        "action": "shake off bag",
+        "description": "In the image, a man is standing in front of a stove, holding a spatula and stirring a pot of food. The man is positioned in the kitchen, surrounded by various kitchen appliances and utensils. The spatula is being used to stir the food in the pot, which is placed on the stove. The man is performing an action of stirring the food, possibly to ensure it cooks evenly or to prevent it from burning. The presence of the spatula and the stove suggests that the man is cooking or preparing a meal.",
+        "answer_id": "4yZHzrUwFoDcC4ymWCD8fN",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_21__0",
+        "id": "P11_21_5",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_21.tar",
+        "image": "./frame_0000000828.jpg",
+        "action": "throw away bag",
+        "description": "In the image, you see a man holding a trash bag and a broom, both of which are positioned on a table. The man is using the broom to sweep the trash bag into the trash can, which is also on the table. The objects are arranged in a way that the man can easily access the trash can and sweep the trash bag into it. This scene shows the man performing a daily chore, such as cleaning up the trash, which is an essential task for maintaining a clean and organized living space.",
+        "answer_id": "33YkpRNBXxbQjSd7q6zrcd",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_21__0",
+        "id": "P11_21_6",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_21.tar",
+        "image": "./frame_0000000950.jpg",
+        "action": "turn off timer",
+        "description": "In the image, a man is standing on a stool, holding a toilet brush and cleaning the toilet bowl. The man is positioned in front of the toilet, with the brush in his hand and his feet on the stool. He is performing the action of cleaning the toilet bowl, which is an essential task for maintaining personal hygiene and keeping the bathroom clean.",
+        "answer_id": "cPVysyfJvvHyXcFogokAbr",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_21__0",
+        "id": "P11_21_7",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_21.tar",
+        "image": "./frame_0000001196.jpg",
+        "action": "pick up knife",
+        "description": "In the image, we see a person holding a spatula and stirring a pot on a stove. The person is standing in front of a kitchen counter, with the stove and the pot on the stove located on the counter. The person is stirring the pot with the spatula, possibly preparing a meal or cooking a dish. The image captures a moment in the cooking process, where the person is actively engaged in stirring the pot, possibly adding ingredients or cooking the food.",
+        "answer_id": "KG36E9v66Fm4vv6FLVVQLQ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_21__0",
+        "id": "P11_21_8",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_21.tar",
+        "image": "./frame_0000001442.jpg",
+        "action": "push down kale",
+        "description": "In the image, a person is standing in front of a stove, holding a spoon and stirring something in a pot. The person is wearing a white apron, which suggests that they might be cooking or preparing food. The objects in the image include the stove, the pot, and the spoon, which are positioned on the stove and being used for stirring the contents in the pot. The human is performing the action of stirring, which is an essential step in cooking to ensure that the food is well-mixed and cooked evenly.",
+        "answer_id": "myRwQ2mtMZNyVerzRLwGm4",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_21__0",
+        "id": "P11_21_9",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_21.tar",
+        "image": "./frame_0000001598.jpg",
+        "action": "put down knife",
+        "description": "In the image, a person is holding a spatula and is about to place a piece of food on a hot skillet. The skillet is positioned on a stove, and the person is standing in front of the stove. The skillet is filled with food, and the person is preparing to cook it. The image captures the moment when the person is about to place the food on the hot skillet, which is an essential step in the cooking process.",
+        "answer_id": "EMWpFSZY8sAU56KjMJfZkR",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_21__0",
+        "id": "P11_21_10",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_21.tar",
+        "image": "./frame_0000001609.jpg",
+        "action": "put lid on pot",
+        "description": "In the image, there is a person standing in front of a stove, holding a spoon and stirring a pot. The pot is filled with vegetables, and the person is stirring them with the spoon. The stove is positioned on the counter, and there are other kitchen items nearby, such as a cutting board and a knife. The person is performing the action of stirring the vegetables in the pot, which is likely part of a cooking or preparation process.",
+        "answer_id": "WdxLnhUYWSEXfJFsnWgEcF",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    }
+]

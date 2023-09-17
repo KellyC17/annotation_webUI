@@ -1,0 +1,132 @@
+[
+    {
+        "ep_id": "P19_05__0",
+        "id": "P19_05_0",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P19/rgb_frames/P19_05.tar",
+        "image": "./frame_0000000158.jpg",
+        "action": "open fridge",
+        "description": "In the image, there is a woman standing on a tiled floor, and she is holding a spatula. She is positioned in front of a stove, and the spatula is in her hand. The woman is likely preparing food or cleaning a cooking surface. The image shows the woman's hand holding the spatula, and her feet are visible on the tiled floor.",
+        "answer_id": "HbRiu9GY2PKBcjyjkoHAsf",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P19_05__0",
+        "id": "P19_05_1",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P19/rgb_frames/P19_05.tar",
+        "image": "./frame_0000000387.jpg",
+        "action": "take milk",
+        "description": "In the image, there is a human holding a can of soda and standing in front of a refrigerator. The refrigerator is open, and the human is reaching inside it to grab a bottle of soda. The human is wearing socks, and the scene appears to be in a kitchen. The objects in the image are the refrigerator, the human, and the can of soda. The human is performing the action of reaching inside the refrigerator to grab the bottle of soda, which is positioned on a shelf inside the fridge.",
+        "answer_id": "6MovJnevLXeZ78wiu3DL7i",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P19_05__0",
+        "id": "P19_05_2",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P19/rgb_frames/P19_05.tar",
+        "image": "./frame_0000000642.jpg",
+        "action": "take bowl",
+        "description": "In the image, a woman is standing in front of a sink, holding a bottle of shampoo. She is positioned in front of a counter, which is also holding a bottle of conditioner. The woman is holding the bottle of shampoo and is about to pour it into her hand, possibly to wash her hair. The counter is also holding a bottle of conditioner, which is likely to be used after washing the hair to keep it moisturized and healthy. The scene shows the woman preparing for her hair care routine, which involves using both shampoo and conditioner.",
+        "answer_id": "6CQ2VndGYRHNfkxNXumLq3",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P19_05__0",
+        "id": "P19_05_3",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P19/rgb_frames/P19_05.tar",
+        "image": "./frame_0000001093.jpg",
+        "action": "pour milk into bowl",
+        "description": "In the image, a woman is standing in front of a kitchen counter, holding a bowl of yogurt. She is holding the bowl with both hands and appears to be about to pour the yogurt into a cup. The woman is wearing socks, which suggests that she might be preparing to eat the yogurt while standing in the kitchen. The bowl and cup are positioned on the counter, and the woman is standing in front of the counter, ready to perform the action of pouring the yogurt into the cup.",
+        "answer_id": "8xP5UTaPb3KnhjhWPKXChE",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P19_05__0",
+        "id": "P19_05_4",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P19/rgb_frames/P19_05.tar",
+        "image": "./frame_0000001569.jpg",
+        "action": "open fridge",
+        "description": "In the image, a human is standing on a kitchen counter, holding a red plastic cup and a spoon. The cup is empty, and the human is likely preparing to pour the contents of the cup into a pot or another container. The cup is positioned on the counter, and the human is standing on the counter to reach the cup. The human is wearing blue jeans and a white shirt, and the scene is taking place in a kitchen.",
+        "answer_id": "4choGxojc97nGkJb63zJHk",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P19_05__0",
+        "id": "P19_05_5",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P19/rgb_frames/P19_05.tar",
+        "image": "./frame_0000001728.jpg",
+        "action": "close fridge",
+        "description": "In the image, a human is walking up a staircase, with a bag of groceries in their hand. The staircase is located in a kitchen, and the human is walking up the stairs while carrying the bag of groceries. The bag is positioned in front of the human, and the person is walking up the stairs with the bag in their hand. This scene suggests that the person is returning home from a grocery store or a shopping trip, and they are carrying their groceries up the stairs to place them in the kitchen.",
+        "answer_id": "guwHwL3eZgRHcm2DwmKumc",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P19_05__0",
+        "id": "P19_05_6",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P19/rgb_frames/P19_05.tar",
+        "image": "./frame_0000001958.jpg",
+        "action": "take measuring cup",
+        "description": "In the image, we see a man standing in front of a sink, with a dish towel in his hand. He is holding the towel and looking down, possibly at the sink or the dishes. The sink is positioned on the countertop, and there are dishes in the sink. The man is likely preparing to wash the dishes or cleaning the sink. The image captures a moment in time when the man is about to perform a task related to cleaning or washing dishes.",
+        "answer_id": "JBVyJMB4BSrgCDjGPf5D5R",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P19_05__0",
+        "id": "P19_05_7",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P19/rgb_frames/P19_05.tar",
+        "image": "./frame_0000002398.jpg",
+        "action": "scoop up oatmeal",
+        "description": "In the image, a woman is holding a small white box, which is being used to store items. The box is positioned on top of a larger white cabinet, and the woman is holding it with both hands. She is standing on one leg, while the other leg is bent, and she is holding the box with her hands. The woman is performing the action of holding the box and placing it on top of the cabinet.",
+        "answer_id": "J88LPfns8ncaLxyHzUkfJ8",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P19_05__0",
+        "id": "P19_05_8",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P19/rgb_frames/P19_05.tar",
+        "image": "./frame_0000002815.jpg",
+        "action": "put oatmeal into bowl",
+        "description": "In the image, a woman is standing in front of a table with a bowl of cereal on it. She is holding a spoon and pouring cereal into the bowl. The bowl is positioned on the table, and the woman is standing in front of it, holding the spoon. The woman is performing the action of pouring cereal into the bowl, which is likely a part of her daily routine or a casual meal preparation.",
+        "answer_id": "6HxxuCFNbqf7ezWQFiby9e",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P19_05__0",
+        "id": "P19_05_9",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P19/rgb_frames/P19_05.tar",
+        "image": "./frame_0000003095.jpg",
+        "action": "close bag",
+        "description": "In the image, there is a man standing in front of a kitchen cabinet, with his hands reaching into the cabinet to grab some items. The cabinet is filled with various food items, such as snacks, candy, and other packaged goods. The man is positioned in front of the cabinet, with his hands reaching in to retrieve the items. The scene is taken from a low angle, which gives the viewer a sense of perspective and makes the man appear larger than the cabinet. The man is performing the action of retrieving food items from the cabinet, which suggests that he might be preparing a meal or snack, or simply grabbing a quick snack.",
+        "answer_id": "BH3UyiEoTWQerupd9qBKdx",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P19_05__0",
+        "id": "P19_05_10",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P19/rgb_frames/P19_05.tar",
+        "image": "./frame_0000003277.jpg",
+        "action": "close drawer",
+        "description": "In the image, a woman is walking down a staircase with a white bag in her hand. The bag is positioned in front of her, and she is holding it with her left hand. The woman is walking down the stairs, and her right hand is holding onto the handrail for support. The bag is hanging from her left hand, and it appears to be a white tote bag. The scene suggests that the woman is carrying her bag while walking down the stairs, possibly to or from a store or office.",
+        "answer_id": "8WeytWq7ukR4gw2kHMaAmF",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P19_05__0",
+        "id": "P19_05_11",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P19/rgb_frames/P19_05.tar",
+        "image": "./frame_0000003617.jpg",
+        "action": "put a bowl in to microwave",
+        "description": "In the image, a young girl is sitting at a table with a pencil and a book in front of her. She is holding the pencil and looking at the book, possibly reading or writing. The objects are positioned on the table, with the book on the left and the pencil on the right. The girl is engaged in an activity related to reading and writing, which suggests that she is learning or practicing these skills.",
+        "answer_id": "TcXrQTebqxt2sRGibeQ3nZ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P19_05__0",
+        "id": "P19_05_12",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P19/rgb_frames/P19_05.tar",
+        "image": "./frame_0000004033.jpg",
+        "action": "begin microwave",
+        "description": "In the image, there is a man standing in front of a kitchen counter with a large amount of food, including fruits, vegetables, and other items. He is holding a knife and appears to be cutting or preparing the food. The objects are positioned on the counter, with the knife and cutting board being the main focus of the scene. The man is performing the action of cutting the food, which suggests that he is preparing to cook or consume the meal.",
+        "answer_id": "WrQHiW3Bo5fdfV7q6tnnZ7",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    }
+]

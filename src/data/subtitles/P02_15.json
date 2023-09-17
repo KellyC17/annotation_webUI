@@ -1,0 +1,502 @@
+[
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_0",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000000232.jpg",
+        "action": "pick up tupperware",
+        "description": "In the image, you see a person holding a spoon and pouring a liquid into a bowl. The bowl is filled with some sort of food, such as meat or vegetables, and is placed on a wooden cutting board. The person is standing in front of a stove, which suggests that they might be preparing a meal. The liquid being poured into the bowl is likely a sauce or gravy, which will be used to enhance the flavor of the food. The person is carefully pouring the liquid into the bowl, ensuring that the food is well-coated and seasoned. This image shows the process of preparing a meal, which involves careful attention to detail and the use of various kitchen tools, such as the spoon and the cutting board.",
+        "answer_id": "g5Q4AEhJja4BHqLAX2zciU",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_1",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000000278.jpg",
+        "action": "pick up pie",
+        "description": "In the image, a person is holding a spoon and a bowl, and they are standing in front of a stove. The bowl contains a mixture of meat and vegetables, and the person is about to pour it into the spoon. The spoon is positioned over the stove, and the person is preparing to scoop the mixture onto the stove. This scene suggests that the person is cooking or preparing a meal, possibly using the stove to heat up the mixture. The presence of the bowl and spoon indicates that the person is actively engaged in the cooking process, and the image captures a moment in time as the person is about to take the next step in the cooking process.",
+        "answer_id": "3csSMsb4aWJiJifWMkLrmM",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_2",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000000350.jpg",
+        "action": "place pie in tupperware",
+        "description": "In the image, there is a person holding a spatula and standing in front of a stove, with a pan containing a mixture of meat and vegetables. The person is likely preparing a meal, and the spatula is used to stir the ingredients in the pan. The person is positioned near the stove, which is likely a gas stove, and is using the spatula to mix the ingredients in the pan. The image shows a close-up view of the person's hand holding the spatula, with the pan and stove in the background.",
+        "answer_id": "B8Wb3YVuBD4JHX9EqRJxtt",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_3",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000000385.jpg",
+        "action": "pick up pie",
+        "description": "In the image, there are two people, a man and a woman, standing next to a kitchen counter. They are holding a plate and a spoon, respectively, and are engaged in the process of eating a meal. The man is holding a spoon and is about to take a bite of food, while the woman is holding a plate and is in the act of eating. The plate is filled with food, and the scene suggests that they are enjoying a meal together. The kitchen counter provides a convenient surface for them to eat, and the presence of a spoon and plate indicates that they are using utensils to consume their meal.",
+        "answer_id": "9YDFyjdVmaYHNZduAGsJwC",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_4",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000000417.jpg",
+        "action": "place in tupperware",
+        "description": "In the image, we see a person holding a plate with a small, round, and brown-colored food item on it. The food item is placed on a wooden cutting board, which is positioned on a stovetop. The person is likely preparing the food item, possibly a meat pie or a meat-filled pastry, by cutting it into smaller pieces. The image shows the person holding the plate and the cutting board, indicating that they are in the process of preparing the food.",
+        "answer_id": "nwKjKEPDJw22TP2FdhZ7a5",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_5",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000000461.jpg",
+        "action": "pick up pie",
+        "description": "In the image, there is a person holding a plate with a variety of small, round, and brown food items on it. The person is standing in front of a stove, with a pot on the stove filled with a liquid. The person is likely preparing a meal or snack using the food items on the plate. The plate is positioned on a countertop, and the person is holding it with one hand while performing the action of preparing the food. The presence of the pot on the stove suggests that the person might be cooking the food or preparing it in a liquid-based dish. The image captures the moment of the person preparing the food, which could be a meal, snack, or a dish for a gathering or event.",
+        "answer_id": "6NgoSKwD5X8vozxL3YELaY",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_6",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000000555.jpg",
+        "action": "place pie",
+        "description": "In the image, there is a person holding a bowl of blueberries and a spoon, while standing next to a stove with a pot on it. The person is likely preparing to eat the blueberries, possibly by dipping them in the pot or using the spoon to scoop them up. The blueberries are positioned on a cutting board, which is placed on the stove. The scene suggests that the person is about to enjoy a snack or dessert made with the blueberries.",
+        "answer_id": "JTApuheBpeFCEjMcTGKRev",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_7",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000000617.jpg",
+        "action": "pick up pie",
+        "description": "In the image, a woman is holding a tray with a variety of baked goods, including cookies and muffins. The tray is positioned on a kitchen counter, and the woman is preparing to put the baked goods into a blue bowl. The woman is also holding a spatula, which she might use to scoop the baked goods into the bowl. The scene suggests that the woman is about to serve the baked goods to someone or is preparing them for storage or transportation.",
+        "answer_id": "Qzf49brLh4nKxmSixuypi3",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_8",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000000707.jpg",
+        "action": "put pie",
+        "description": "In the image, you see a person holding a blue bowl and a spoon while standing in front of a stove. The bowl contains a mixture of ingredients, and the person is likely preparing a dish or a dessert. The bowl is positioned on the stove, and the person is holding the spoon and stirring the contents in the bowl. This action indicates that the person is actively engaged in the process of cooking or preparing the dish.",
+        "answer_id": "cwTEq3A6JGKmx4BQSaJUsY",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_9",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000000727.jpg",
+        "action": "pick up pie",
+        "description": "In the image, a person is holding a bowl of baked goods, possibly donuts or cookies, and is about to put them into a pot of melted chocolate. The bowl is placed on a countertop, and the person is holding the bowl with one hand while using the other hand to dip the baked goods into the melted chocolate. The chocolate pot is on the stove, and the person is carefully dipping the baked goods into the melted chocolate to coat them. This action is likely part of a dessert-making process, where the baked goods are being coated in chocolate to create a delicious and visually appealing treat.",
+        "answer_id": "6mKx3H7VqqFx8VJyjpZTWb",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_10",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000000775.jpg",
+        "action": "put pie",
+        "description": "In the image, we see a person holding a bowl of baked goods, possibly cookies or muffins, while standing in front of a stove. The person is holding the bowl with both hands and is about to put the baked goods into the oven. The bowl is placed on the stove, and the person is positioned in front of the stove, ready to put the baked goods inside the oven. This scene suggests that the person is preparing to cook the baked goods, possibly for a meal or as a treat for themselves or others.",
+        "answer_id": "PqWS99PyvLpJGuUTA2vdVc",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_11",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000000856.jpg",
+        "action": "pick up pie",
+        "description": "In the image, a person is holding a bowl containing a mixture of meat and vegetables, and they are preparing to cook it on a stove. The bowl is placed on a wooden cutting board, and the person is using a spatula to stir the mixture. The bowl and the cutting board are positioned on the stove, indicating that the person is about to cook the food. The image shows a person actively engaged in the process of cooking, stirring the mixture, and preparing it for the stove.",
+        "answer_id": "gnKx4RYecAqcqBbQQm5xav",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_12",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000000921.jpg",
+        "action": "put pie",
+        "description": "In the image, we see a person holding a spatula and standing in front of a stove, with a bowl of food on the counter next to the stove. The person is likely preparing or cooking food using the spatula. The bowl of food is positioned on the counter, and the person is holding the spatula in their hand, ready to use it for stirring or flipping the food. The scene suggests that the person is actively engaged in the process of cooking or preparing a meal.",
+        "answer_id": "JFrZon6tWkDaVvLgKD6qjx",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_13",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000000961.jpg",
+        "action": "pick up pie",
+        "description": "In the image, a person is standing in front of a kitchen counter with a bowl of food, possibly pastries or cookies, and a spatula. The person is holding the spatula and appears to be preparing to serve the food. The objects are positioned on the counter, with the bowl of food on the right side and the spatula on the left side. The person is likely about to place the food on a plate or serve it directly from the bowl. This scene suggests that the person is either preparing a meal or serving a snack, and the presence of the spatula indicates that they might be using it to scoop or spread the food.",
+        "answer_id": "gYgEG68sMax5m3VY5JG4bm",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_14",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000001021.jpg",
+        "action": "put pie",
+        "description": "In the image, there is a woman standing in front of a stove holding a bowl containing a mixture of flour and water. She is preparing to make dumplings, which are a popular Chinese dish. The bowl is placed on a wooden cutting board, and the woman is holding a spoon to mix the ingredients. The woman is wearing a white apron, which suggests that she is in a kitchen environment. The presence of a stove and a cutting board indicates that she is in the process of preparing a meal. The woman's hands are engaged in the act of mixing the ingredients, which is an essential step in the dumpling-making process.",
+        "answer_id": "KRFSznTAzGUcf3gJvq2mdP",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_15",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000001169.jpg",
+        "action": "move pie",
+        "description": "In the image, a woman is holding a bowl containing a variety of baked goods, such as cookies and bread rolls. The bowl is placed on a kitchen counter, and the woman is reaching into it to grab a cookie. The baked goods are arranged in the bowl, and the woman is holding the bowl with both hands. She is likely about to take a bite from one of the cookies or bread rolls. The image captures a moment of the woman enjoying her homemade baked goods, which suggests that she might have spent time preparing them in the kitchen.",
+        "answer_id": "DDZWBE6aFBKx4dbpxF7mag",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_16",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000001346.jpg",
+        "action": "pick up lid",
+        "description": "In the image, there is a person holding a spatula and a bowl, with a plate and a pan on the counter. The person is about to scoop food from the pan and put it into the bowl. The objects are positioned on the counter, with the pan on the right side and the bowl on the left side. The person is holding the spatula, which is used to scoop and transfer food from the pan to the bowl. This scene suggests that the person is preparing a meal or snack, possibly using the pan to cook the food and the bowl to serve it.",
+        "answer_id": "kCzfpv6hZzijJCkYLGF4ao",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_17",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000001556.jpg",
+        "action": "close tupperware",
+        "description": "In the image, there is a person holding a spatula and a plate with a pizza on it. The pizza is placed on a wooden cutting board, and the person is about to cut it into slices. The person is positioned in front of a stove, with a pot on the stove and a spatula in their hand. The scene suggests that the person is preparing to eat the pizza, possibly after cooking it on the stove. The image captures a moment in time, where the person is about to take the first bite of the freshly cooked pizza.",
+        "answer_id": "LSftXnq5ByAKSZEh3E6RZe",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_18",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000002053.jpg",
+        "action": "pick up paper towel",
+        "description": "In the image, there is a person sitting at a table with a bowl of food in front of them. The person is holding a spoon and is about to eat the food. The bowl is positioned on a plate, and there are other objects like a glass and a cup on the table. The person is preparing to consume the food, which suggests that they are about to start eating.",
+        "answer_id": "gfdX4aKEU3YUYKJqJrc87X",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_19",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000002158.jpg",
+        "action": "get paper towel",
+        "description": "In the image, there is a person standing in front of a kitchen counter with a sink, stove, and refrigerator. The person is holding a spatula and is about to put it in a dishwasher. The dishwasher is located on the counter, and the person is positioned between the sink and the stove. The person is preparing to wash dishes using the dishwasher, which is a convenient and efficient way to clean dishes.",
+        "answer_id": "LDXFHbu87LnPQpqTTZiDWv",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_20",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000002185.jpg",
+        "action": "pick up tupperware",
+        "description": "In the image, there is a woman holding a large plastic container and a spoon, standing in front of a sink. The plastic container is filled with food, and the woman is holding the spoon while looking at the container. The objects are positioned in a kitchen setting, with the sink being the main focal point. The woman is likely preparing or cleaning up after a meal, and the spoon is likely being used for scooping or stirring food. The presence of the plastic container suggests that the woman might be preparing a meal or cleaning up after a meal, and the spoon is likely being used for various tasks related to food preparation or cleaning.",
+        "answer_id": "JKWAwrLzwTaFTVkxmsJu5U",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_21",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000002445.jpg",
+        "action": "dry tupperware",
+        "description": "In the image, there is a person holding a spatula and a plate, with a bowl of food on the plate. The person is standing in front of a stove, with a pan on the stove. The bowl of food is on the plate, and the spatula is being used to scoop up the food from the bowl and place it on the pan. The person is likely preparing a meal or cooking something on the stove. The objects are positioned in a way that the person can easily access the food and the stove, and the action being performed is the act of cooking or preparing the food.",
+        "answer_id": "USaWxWiNJW8hyZ9HFcAtuP",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_22",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000002459.jpg",
+        "action": "dry tupperware",
+        "description": "In the image, you see a person holding a container of food and a spoon, standing in front of a kitchen counter. The person is about to eat the food from the container using the spoon. The container is filled with a mixture of food, and the person is holding it with one hand while using the other hand to hold the spoon. The food is positioned on the kitchen counter, and the person is standing close to the counter to easily access the food and eat it.",
+        "answer_id": "LhTchVABUGC7AvnFrfghTd",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_23",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000002527.jpg",
+        "action": "hold tupperware",
+        "description": "In the image, a person is holding a spatula and is preparing to flip a pancake on a stove. The pancake is on a hot pan, and the person is standing next to the stove. The pancake is positioned on the stove, and the spatula is being used to flip it. The person is likely in the process of cooking the pancake, and the spatula is an essential tool for flipping and turning the pancake to ensure it cooks evenly on both sides.",
+        "answer_id": "9yp3LvbESs6W8KHUDN4VtF",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_25",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000002546.jpg",
+        "action": "pick up pie",
+        "description": "In the image, there is a person standing in front of a stove, holding a spatula. The stove has a pot on it, and there is a wooden cutting board on the counter next to the stove. The person is likely preparing food by stirring the pot with the spatula. The objects are positioned in a way that allows the person to easily access the pot and cutting board, which are both within reach. The image captures a moment in the process of cooking, where the person is actively engaged in stirring the food.",
+        "answer_id": "BGc4BWingFvES4JCCcb8pD",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_24",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000002576.jpg",
+        "action": "pick up pie",
+        "description": "In the image, there is a person holding a spatula and standing in front of a stove. The stove has a pot on it, and the person is preparing to flip a piece of food. The person is positioned near the stove, with the spatula in hand, ready to flip the food. The objects in the image include the spatula, the pot, and the stove. The person is performing the action of flipping the food in the pot, which is likely a cooking process.",
+        "answer_id": "9uHD9rPB34EHuBZvgxXLAU",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_26",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000002621.jpg",
+        "action": "put in tupperware",
+        "description": "In the image, we see a person holding a spatula and a pan on a stove, with a frying pan on the stove. The person is likely preparing food by flipping or stirring the contents in the pan. The image captures a moment in the process of cooking, where the person is actively engaged in the activity. The objects in the image are positioned on the stove, with the frying pan on the stove and the spatula in hand, ready to be used for cooking.",
+        "answer_id": "keEmfvXY5rotzJYhFLtZ45",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_27",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000002623.jpg",
+        "action": "put pie",
+        "description": "In the image, a person is holding a spatula and stirring a pot on a stove. The pot is filled with food, and the person is using the spatula to mix it. The objects in the image include the pot, the spatula, and the stove. The person is positioned in front of the stove, stirring the food in the pot. The action being performed is the person stirring the food in the pot using the spatula.",
+        "answer_id": "faiHaSSJuTV7k5or8xZFHX",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_28",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000002643.jpg",
+        "action": "pick up pie",
+        "description": "In the image, there is a woman standing in front of a stove, holding a spatula and a bowl. She is positioned next to a cooking pot, which is filled with a mixture of ingredients. The woman is likely preparing a meal, possibly a dessert, as she is holding a spatula and a bowl. The presence of the bowl and the spatula suggests that she is in the process of mixing or preparing the food. The image does not provide any additional details about the specific dish being prepared, but it does show the woman actively engaged in the cooking process.",
+        "answer_id": "Awt74gMzztDhKcbZ5eq4J2",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_29",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000002663.jpg",
+        "action": "pick up pie",
+        "description": "In the image, a person is standing in front of a stove, holding a spatula and a bowl. The spatula is being used to remove food from a pan, and the bowl is likely being used to hold the food. The person is positioned near the stove, and the objects are placed on the countertop. The action being performed by the human is removing food from the pan and placing it into the bowl, possibly for serving or further preparation.",
+        "answer_id": "FhhhMMM2YwhRnnc6qNfjV3",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_30",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000002701.jpg",
+        "action": "put down pie",
+        "description": "In the image, there is a person holding a spatula and using it to spread a mixture of flour and water on a hot pan. The person is standing in front of a stove, and the pan is on the stove. The spatula is being used to spread the mixture, which is likely a batter, on the hot pan. The person is wearing a white apron, which suggests that they might be preparing food or cooking. The image shows a close-up view of the person's hands and the spatula, emphasizing the action of spreading the batter on the hot pan.",
+        "answer_id": "iuHCFWMcUHnYKZnzzGg5LS",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_31",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000002727.jpg",
+        "action": "put pie",
+        "description": "In the image, there is a person holding a tray with a bowl of food, possibly a dessert, and a spoon. The tray is placed on a countertop, and the person is holding the spoon in one hand while using the other hand to stir the food. The bowl is filled with a brown, round, and baked item, which could be a cake or a pie. The person is stirring the food with the spoon, possibly to ensure it is well mixed or to check its consistency. The image shows the person's hands and the tray with the food, indicating that they are engaged in the act of preparing or serving the dessert.",
+        "answer_id": "NwEctJCaA5eroBkchQHQ4X",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_32",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000002768.jpg",
+        "action": "pick up pie",
+        "description": "In the image, there is a person holding a spatula and standing in front of a stove, with a pan containing a dish of food on it. The person is likely preparing or cooking the dish. The pan is positioned on the stove, and the person is using the spatula to stir or flip the food in the pan. The presence of a red cup and a wooden cutting board nearby suggests that the person might be using these items to prepare the food or to serve it once it is cooked. The image provides a glimpse into the process of cooking and the various tools and utensils used in the kitchen.",
+        "answer_id": "AFa7vhCPHa4onWSWPXZXwh",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_33",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000002848.jpg",
+        "action": "put pie",
+        "description": "In the image, there is a person holding a tray with a variety of baked goods, such as muffins, on it. The tray is positioned on a countertop, and the person is taking a muffin out of the tray and placing it on a plate. The person is likely preparing to serve the baked goods to someone or to enjoy them themselves. The scene shows a kitchen setting, with a stove and a sink visible in the background. The person's actions demonstrate the process of preparing and serving food, which is a common activity in a home setting.",
+        "answer_id": "aieoUbxNkXnZFAL9rX8cvL",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_34",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000003213.jpg",
+        "action": "place tupperware",
+        "description": "In the image, there is a person holding a tray with a plate of food, and they are standing in front of a stove. The tray is positioned on the stove, and the person is holding a spoon and possibly a fork. They are likely preparing to eat the food on the plate. The image shows a close-up view of the person's hands and the food on the plate, indicating that they are about to take a bite. The scene suggests that the person is either preparing their meal or about to enjoy it, and the presence of the tray and utensils indicates that they are in the process of eating.",
+        "answer_id": "XMe63AT2gCK4YvzqbF5nRV",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_35",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000003318.jpg",
+        "action": "pick up lid",
+        "description": "In the image, we see a kitchen counter with various objects, including a bowl, a spoon, and a frying pan. The bowl is placed on the counter, and the spoon is sitting next to it. A person is holding a frying pan and is about to pour the contents of the bowl into the pan. The person is positioned at the edge of the counter, and the frying pan is placed on the stovetop. The scene suggests that the person is preparing to cook or prepare food in the kitchen.",
+        "answer_id": "3jr7oXxb4u3LYrMMGeU64f",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_37",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000003674.jpg",
+        "action": "hold and dry lid",
+        "description": "In the image, we see a person holding a sponge and cleaning a bowl with a sponge. The bowl is filled with food, and the person is using the sponge to wipe off any remaining food residue. The objects are positioned on a countertop, and the person is performing the cleaning action by wiping the bowl with the sponge.",
+        "answer_id": "MpQjpEbGLRrrSJnfowao5t",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_36",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000003690.jpg",
+        "action": "dry lid",
+        "description": "In the image, there is a woman holding a cleaning cloth and wiping down a countertop. The countertop is covered with various objects, including a bowl, a cup, a spoon, and a plate. The woman is positioned in front of the countertop, and she is using the cleaning cloth to remove dirt and debris from the surface. The objects on the counter are arranged in a way that makes it easy for the woman to access and clean them. This scene shows the woman performing a necessary task of cleaning the countertop to maintain a tidy and organized kitchen environment.",
+        "answer_id": "g88VE6Fad3DYZWEELU9nzZ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_38",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000003901.jpg",
+        "action": "close tupperware",
+        "description": "In the image, there is a woman holding a bowl of food and a spoon, standing next to a stove. The bowl is filled with a mixture of food, and the spoon is being used to scoop out some of the contents. The woman is likely preparing a meal or snack, and the presence of the bowl and spoon suggests that she is in the process of serving or consuming the food. The objects are positioned on a countertop or kitchen surface, which is where the woman is standing. The image captures a moment in time, as the woman is actively engaged in the process of preparing or consuming the food.",
+        "answer_id": "HeR4zEjhAUgm4H9PStNGDP",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_39",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000004004.jpg",
+        "action": "pick up two tupperware",
+        "description": "In the image, we see a kitchen counter with various objects placed on it. There is a red bowl on the counter, along with a white plate and a spoon. A human is holding a spoon and stirring something in the bowl. The objects are positioned in a way that the spoon is in the bowl, and the human is performing the action of stirring the contents of the bowl. The scene suggests that the person might be preparing a meal or cooking something in the kitchen.",
+        "answer_id": "LBLus4wcvNmtjms7tnGBW2",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_40",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000004191.jpg",
+        "action": "place tupperware",
+        "description": "In the image, a person is holding a tray with a variety of baked goods, including bread rolls and a cake, while standing in front of a kitchen oven. The tray is placed on a counter, and the person is holding it with both hands. The baked goods are positioned on the tray, and the person is likely preparing to put them in the oven. The scene suggests that the person is about to bake the baked goods, and the image captures the moment before they are placed in the oven.",
+        "answer_id": "X4VmGgikfyW3iH42AibEzM",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_41",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000004285.jpg",
+        "action": "open fridge",
+        "description": "In the image, a human is standing in front of a refrigerator, holding a bowl of food. The refrigerator is full of various food items, including a bowl of soup, a jar of pickles, a bottle of ketchup, and a bag of chips. The human is holding the bowl of food and looking at the refrigerator, possibly contemplating what to eat or planning to put the food away. The objects in the refrigerator are positioned in a neat and organized manner, indicating that the person maintaining the kitchen has taken care to keep the food organized and easily accessible.",
+        "answer_id": "RAWogqk4uwRq9Q9vEtHH7t",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_42",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000004362.jpg",
+        "action": "remove salad from fridge",
+        "description": "In the image, a person is reaching into a refrigerator to grab a bowl of food. The bowl is positioned on the top shelf of the refrigerator, and the person is using a ladder to reach it. The person is standing on the ladder, and the ladder is placed against the refrigerator. The action being performed is the person grabbing the bowl of food from the top shelf of the refrigerator using the ladder as support. This scene suggests that the person might be trying to reach something that is not easily accessible from the ground or that they need to retrieve something from a higher location.",
+        "answer_id": "d9FFTtvUZtw89ZBTzMMkaV",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_43",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000004527.jpg",
+        "action": "put salad plate",
+        "description": "In the image, we see a woman holding a bowl with a spoon, standing next to a table with a plate and a glass. The woman is holding the bowl with one hand and the spoon with the other, and she is about to eat from the bowl. The bowl is filled with a green vegetable mixture, and the woman is looking at the plate and glass on the table. The objects are positioned in a way that the woman can easily access the bowl and the plate, making it convenient for her to eat. The scene suggests that the woman is preparing to consume a meal or snack, and the presence of the glass indicates that she might be drinking something as well.",
+        "answer_id": "83SuSMiuVc7ouBAcqtpnTS",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_44",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000004644.jpg",
+        "action": "move stuff in fridge",
+        "description": "In the image, a human is reaching for a refrigerator door, which is open. The refrigerator is filled with various food items, such as a bag of chips, a jar of peanut butter, and a bottle of soda. The human is likely retrieving one of these items from the refrigerator. The image shows the human's hand reaching for the refrigerator door, and the food items are positioned inside the refrigerator. The action being performed by the human is retrieving a food item from the refrigerator.",
+        "answer_id": "SfYuJ43tfLLrLLkGUb3mDX",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_45",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000004922.jpg",
+        "action": "move eggs in fridge",
+        "description": "In the image, a person is reaching into a refrigerator to grab a container of food. The refrigerator is full of various food items, such as canned goods, vegetables, and fruits. The person is positioned in front of the refrigerator, with their hands reaching into the shelves to retrieve the desired food item. The image captures the moment when the person is about to take the container out of the refrigerator, indicating that they are likely preparing to eat or store the food. The scene shows a typical kitchen setting where people often store and retrieve food items from the refrigerator.",
+        "answer_id": "BSQgvgZbfMm7TTd6oJrCVE",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_46",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000005151.jpg",
+        "action": "put tupperware in fridge",
+        "description": "In the image, we see a person holding a long wooden spoon while standing in front of a counter. The person is holding the spoon with both hands and is likely about to use it to stir or mix something in a pot or bowl on the counter. The spoon is positioned in front of the person, and the person is standing in a kitchen setting, possibly preparing food. The image captures a moment in time where the person is about to perform an action with the spoon, which could be stirring a sauce, mixing a batter, or scooping out ingredients from a bowl.",
+        "answer_id": "7fznrsXpi8aT98ifZ84BgU",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_47",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000005261.jpg",
+        "action": "put tupperware in fridge",
+        "description": "In the image, there is a person holding a plate with a bowl of food on it, and they are walking towards a refrigerator. The person is holding the plate with the bowl of food in one hand and walking with the other hand, which is holding the plate. The bowl of food is positioned on the plate, and the person is likely about to put it in the refrigerator. The scene suggests that the person is preparing to store the food in the refrigerator, which is a common practice to keep food fresh and prevent spoilage.",
+        "answer_id": "7ZXQqrvTWnR7MhhkYZPo2A",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_48",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000005358.jpg",
+        "action": "move tupperware",
+        "description": "In the image, we see a woman holding a plastic container with food inside, and she is reaching into the refrigerator to place it inside. The woman is positioned in front of the refrigerator, and the container is being placed on the shelf inside the refrigerator. This action indicates that she is storing the food in the refrigerator to keep it fresh and cool.",
+        "answer_id": "5wzMnCcsawbRc32nxYvfyb",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_15__0",
+        "id": "P02_15_49",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_15.tar",
+        "image": "./frame_0000005499.jpg",
+        "action": "close fridge",
+        "description": "In the image, there is a man standing in front of a refrigerator, holding a door open with his hand. The refrigerator is positioned in a kitchen, and there is a small orange sitting on the counter next to it. The man is likely trying to access the contents of the refrigerator, which could be food, drinks, or other items. The man's hand is holding the door open, allowing him to see inside the refrigerator. The orange on the counter might be a part of the man's meal or snack, or it could be a decorative element. This image captures a moment of everyday life, where the man is accessing the contents of his refrigerator.",
+        "answer_id": "R5WwzKC3jVqB3d9m8pFMny",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    }
+]

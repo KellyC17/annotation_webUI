@@ -1,0 +1,252 @@
+[
+    {
+        "ep_id": "P28_20__0",
+        "id": "P28_20_0",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_20.tar",
+        "image": "./frame_0000000145.jpg",
+        "action": "take bag and box",
+        "description": "In the image, we see a woman and a man standing in a kitchen, with a man holding a pot and a woman holding a plate. The man is holding the pot with one hand, while the woman is holding the plate with both hands. They are positioned near each other, possibly preparing to cook or serve food. The man is holding the pot, which could be filled with ingredients or cooked food, while the woman is holding the plate, which could be used for serving or storing food. The action being performed by the human is likely related to cooking or preparing food, as they are standing near each other and holding the pot and plate.",
+        "answer_id": "F3LD4qvYsbt7PnJguu95nQ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_20__0",
+        "id": "P28_20_1",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_20.tar",
+        "image": "./frame_0000000368.jpg",
+        "action": "put down bag and box",
+        "description": "In the image, there is a person sitting on a couch, surrounded by various objects such as a laptop, a bottle of water, a book, and a bag. The person is holding a bottle of water and appears to be drinking from it. The objects are positioned on a table or a surface near the couch, and the person is sitting in a comfortable position, possibly relaxing or working on the laptop. The image captures a moment of the person's daily life, where they are enjoying a drink while surrounded by their belongings.",
+        "answer_id": "bC6hP2YKNrVNzQ2PTEQU6m",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_20__0",
+        "id": "P28_20_2",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_20.tar",
+        "image": "./frame_0000000577.jpg",
+        "action": "take bag",
+        "description": "In the image, there is a man standing on a staircase with a large pile of books and a trash can on the floor. The books are stacked on top of each other, and the trash can is placed next to them. The man is holding a broom and appears to be cleaning the area. The objects are positioned in a way that the books are stacked on top of each other, while the trash can is placed next to them. The man is performing the action of cleaning the area by sweeping the floor with the broom.",
+        "answer_id": "ScwDjdmtjTQTMsZ8psy2gX",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_20__0",
+        "id": "P28_20_3",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_20.tar",
+        "image": "./frame_0000000643.jpg",
+        "action": "throw bag",
+        "description": "In the image, there is a man standing in front of a door, holding a broom. He is positioned in the doorway, with the broom in his hand and his back facing the door. The man is likely about to sweep the floor or clean the area around the door. The image captures a moment in time, where the man is preparing to perform a task related to cleaning or maintenance.",
+        "answer_id": "QpXoxZMTMXrFgUweDarB62",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_20__0",
+        "id": "P28_20_4",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_20.tar",
+        "image": "./frame_0000000833.jpg",
+        "action": "take bag with quorn",
+        "description": "In the image, we see a man holding a bag of potato chips while standing in front of a kitchen counter with a trash can and a sink. The man is holding the bag of chips in his hand, and he is likely about to dispose of the empty bag in the trash can. The man is positioned near the sink, which suggests that he might be washing his hands or preparing to clean the sink. The presence of the potato chips bag and the trash can indicates that the man has just finished eating or preparing food, and he is now disposing of the empty bag and cleaning up the area.",
+        "answer_id": "SBMztQnADGQzWTAR6Sghge",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_20__0",
+        "id": "P28_20_5",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_20.tar",
+        "image": "./frame_0000001297.jpg",
+        "action": "empty quorn in pan",
+        "description": "In the image, there is a man standing in front of a stove, holding a spatula. He is preparing to cook some food, possibly vegetables, in a pan. The man is positioned next to a blue pot, which is likely filled with water. The spatula is being held in his hand, ready to be used for stirring or flipping the food in the pan. The scene suggests that the man is actively engaged in the cooking process, and the blue pot may be used for boiling or heating the food.",
+        "answer_id": "d5tGfSt9ecpHtP7tXyELWx",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_20__0",
+        "id": "P28_20_6",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_20.tar",
+        "image": "./frame_0000001881.jpg",
+        "action": "throw bag",
+        "description": "In the image, we see a man standing next to a trash can, which is partially filled with garbage. He is holding a plastic bag and appears to be about to dispose of it into the trash can. The trash can is positioned on the floor, and the man is standing next to it, ready to throw the bag into the bin. The scene suggests that the man is performing a routine task of disposing of trash in a clean and organized manner.",
+        "answer_id": "8Bh3YwDmGLWpW4zqmAnQ48",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_20__0",
+        "id": "P28_20_7",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_20.tar",
+        "image": "./frame_0000002131.jpg",
+        "action": "take spatula",
+        "description": "In the image, there is a man standing over a counter with a knife and a cutting board. The cutting board is covered with a taco, and the man is holding a knife and cutting the taco. The objects are positioned on the counter, with the cutting board and taco placed on top of the counter, and the man standing next to the counter, holding the knife. The action being performed by the man is cutting the taco with the knife.",
+        "answer_id": "L7Jc3JXvqk9SS9fS4qU9Zt",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_20__0",
+        "id": "P28_20_8",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_20.tar",
+        "image": "./frame_0000002341.jpg",
+        "action": "stir quorn",
+        "description": "In the image, we see a person holding a frying pan with a spatula, and they are standing next to a stove. The person is preparing food, possibly onions or garlic, as they are cutting them with a knife. The frying pan is positioned on top of the stove, and the person is using the spatula to stir the food in the pan. The person is wearing a blue shirt, which adds a touch of color to the scene. The overall atmosphere is focused on cooking and preparing a meal, with the person using the stove and the frying pan to cook the food.",
+        "answer_id": "5Z8anbRttF6M2QcynLacfX",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_20__0",
+        "id": "P28_20_11",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_20.tar",
+        "image": "./frame_0000002446.jpg",
+        "action": "continue stirring quorn",
+        "description": "In the image, a person is standing next to a stove, holding a pot with cooked potatoes. The pot is placed on a stove burner, and the person is using a spatula to stir the potatoes. The person is wearing a blue shirt and a hat, which suggests that they might be a chef or someone involved in cooking. The image captures the moment when the person is preparing the potatoes for consumption. The presence of the spatula and the cooked potatoes indicates that the person is actively engaged in the process of cooking and preparing the food.",
+        "answer_id": "NVSB6HNGRM8Z6VdAvh7B7S",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_20__0",
+        "id": "P28_20_10",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_20.tar",
+        "image": "./frame_0000002640.jpg",
+        "action": "shake pan",
+        "description": "In the image, a person is seen holding a pan with a spatula, and there are potatoes and onions in the pan. The person is positioned near a stove, and they are about to add the potatoes and onions to the pan. The image captures a moment of preparation, where the person is getting ready to cook the ingredients. The objects in the image include the pan, spatula, potatoes, and onions, which are all positioned on the stove. The person is performing the action of adding the ingredients to the pan, which is a crucial step in the cooking process.",
+        "answer_id": "Do6qJxYX67vqcxCLnDB4W7",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_20__0",
+        "id": "P28_20_12",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_20.tar",
+        "image": "./frame_0000002655.jpg",
+        "action": "stir quorn",
+        "description": "In the image, a person is holding a frying pan and a spatula, and they are positioned on a stove. The person is preparing food, possibly cooking potatoes, as they are placing potato pieces into the pan. The image shows the person's hands and the frying pan, indicating that they are actively engaged in the cooking process. The presence of the spatula suggests that they might be stirring or flipping the potatoes in the pan. The overall scene shows the person actively preparing and cooking food on the stove, which is a common activity in many households.",
+        "answer_id": "X5VSuEy4ywCfevpyr42fLk",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_20__0",
+        "id": "P28_20_13",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_20.tar",
+        "image": "./frame_0000002692.jpg",
+        "action": "continue stirring quorn",
+        "description": "In the image, a person is seen holding a pan with a frying pan and a spatula, while standing in front of a stove. The person is preparing food, possibly cooking pasta or other ingredients, using the frying pan and spatula. The objects are positioned on the stove, with the frying pan on the left and the spatula on the right. The person is performing the action of flipping the food in the pan, which is an essential step in cooking to ensure even cooking and preventing the food from burning.",
+        "answer_id": "Gqor3KYqPhHs4wB3doAzwt",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_20__0",
+        "id": "P28_20_14",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_20.tar",
+        "image": "./frame_0000002726.jpg",
+        "action": "stir quorn",
+        "description": "In the image, we see a man holding a frying pan and a spatula, standing over a stove. He is preparing food, possibly cooking potatoes, as he is stirring the potatoes in the pan. The man is wearing a blue shirt and a hat, which adds a touch of personality to the scene. The image captures a moment in time when the man is actively engaged in cooking, demonstrating his culinary skills and attention to detail. The objects in the image, such as the frying pan and spatula, are positioned in a way that facilitates the cooking process, and the man's actions demonstrate his expertise in preparing and cooking food.",
+        "answer_id": "eeFWqS4zB2Z24iHuFs8QMa",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_20__0",
+        "id": "P28_20_15",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_20.tar",
+        "image": "./frame_0000002895.jpg",
+        "action": "shake pan",
+        "description": "In the image, a man is standing next to a stove, holding a frying pan with a handful of potatoes. The potatoes are placed in the pan, and the man is preparing to cook them. The frying pan is positioned on the stove, and the man is standing next to it, ready to cook the potatoes. The scene suggests that the man is cooking a simple meal, such as a potato dish, and is using the stove and frying pan to prepare the food.",
+        "answer_id": "ToCgmCjSByzu2yixyAgUJf",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_20__0",
+        "id": "P28_20_9",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_20.tar",
+        "image": "./frame_0000003088.jpg",
+        "action": "continue stirring quorn",
+        "description": "In the image, a person is standing in front of a stove with a pan on it, holding a spatula. They are preparing food, possibly cooking potatoes or other ingredients, and stirring the contents in the pan. The person is wearing a blue shirt and is positioned in front of the stove, which is located in a kitchen. The image captures a moment of the person's cooking process, highlighting their interaction with the stove and the pan.",
+        "answer_id": "DSwwaFsKYP3io5zqWWm477",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_20__0",
+        "id": "P28_20_16",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_20.tar",
+        "image": "./frame_0000003646.jpg",
+        "action": "shake pan",
+        "description": "In the image, a person is standing on a kitchen counter, holding a spatula, and stirring a pan containing a mixture of potatoes and onions. The person is wearing a white apron, which suggests that they might be preparing a meal. The kitchen counter is positioned next to a stove, which is where the cooking is taking place. The person is stirring the potatoes and onions in the pan, possibly adding seasonings or cooking them further. The scene is focused on the person's hands and the pan, indicating that the cooking process is the main focus of the image.",
+        "answer_id": "d5m5RdniYQFrBdhP4raBP6",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_20__0",
+        "id": "P28_20_17",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_20.tar",
+        "image": "./frame_0000003875.jpg",
+        "action": "stir quorn",
+        "description": "In the image, a human is holding a pan with a large amount of potatoes and is using a spatula to stir the potatoes. The potatoes are positioned in the pan, and the human is stirring them with the spatula. The image shows a kitchen setting, with the pan on a stove or cooking surface. The human is likely preparing the potatoes for cooking or preparing a meal. The presence of the spatula indicates that the person is actively involved in the cooking process and is stirring the potatoes to ensure they are cooked evenly and thoroughly.",
+        "answer_id": "HSpgdAdWknVeczpXyRVjGJ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_20__0",
+        "id": "P28_20_18",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_20.tar",
+        "image": "./frame_0000004543.jpg",
+        "action": "turn pieces of quorn",
+        "description": "In the image, we see a person holding a pan with a cooked dish, possibly pasta or potatoes, on a stove. The pan is positioned on the stove, and the person is holding the pan with a spatula, possibly preparing to serve the food. The image captures a moment in time where the person is about to take the cooked dish off the stove and place it on a plate or dish for serving. The objects in the image include the pan, the cooked dish, the stove, and the person holding the spatula.",
+        "answer_id": "6zHNATnXi47WFYZrDqMP3r",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_20__0",
+        "id": "P28_20_19",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_20.tar",
+        "image": "./frame_0000004738.jpg",
+        "action": "turn pieces of quorn",
+        "description": "In the image, a human is holding a spatula and stirring a pot of potatoes on a stove. There are several potatoes in the pot, and the human is stirring them with the spatula. The pot is positioned on a stove, and the human is standing next to it. The scene suggests that the person is preparing a meal, possibly a hearty dish like mashed potatoes. The image captures a moment in the cooking process, where the human is actively stirring the potatoes to ensure they are cooked evenly and thoroughly.",
+        "answer_id": "HLnHt8LfTJdLvTyPNodEwF",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_20__0",
+        "id": "P28_20_20",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_20.tar",
+        "image": "./frame_0000004921.jpg",
+        "action": "stir quorn",
+        "description": "In the image, a man is standing in front of a stove, holding a pot with a spatula in his hand. He is positioned next to a frying pan, which is filled with potatoes. The man is likely preparing a meal by frying the potatoes in the pan. The frying pan is placed on the stove, and the man is using the spatula to stir the potatoes in the pan. The image shows the man's hands and the potatoes in the pan, indicating that he is actively engaged in the cooking process.",
+        "answer_id": "FEqnu6swVPRmQcRV4YJcTs",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_20__0",
+        "id": "P28_20_22",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_20.tar",
+        "image": "./frame_0000005373.jpg",
+        "action": "shake pan",
+        "description": "In the image, a person is standing in front of a stove, holding a spatula and stirring a pot of pasta. The person is wearing a white apron, which indicates that they are likely cooking or preparing food. The spatula is being used to stir the pot of pasta, which is placed on the stove. The person is positioned in front of the stove, with the pot of pasta on the stove and the spatula in their hand. This scene suggests that the person is actively engaged in cooking or preparing a meal.",
+        "answer_id": "25vxSfECP6rUyzR8ixJXiC",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_20__0",
+        "id": "P28_20_21",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_20.tar",
+        "image": "./frame_0000005383.jpg",
+        "action": "shake pan",
+        "description": "In the image, a person is standing in front of a stove, holding a pan with a cooking pot on it. The person is holding the pan with both hands, and the cooking pot is filled with some food items, such as pasta or potatoes. The person is likely preparing the food for cooking, and the pan is positioned on the stove. The image shows the person's hands holding the pan, and the cooking pot is placed inside the pan. This scene suggests that the person is about to start cooking the food in the pan on the stove.",
+        "answer_id": "JAfTDGtuTdgSkrwCF4EpXv",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_20__0",
+        "id": "P28_20_23",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_20.tar",
+        "image": "./frame_0000006255.jpg",
+        "action": "stir quorn",
+        "description": "In the image, there is a woman standing over a stove, holding a spatula in her hand. She is positioned next to a pot filled with cooked pasta, which is placed on a stovetop. The woman is about to stir the pasta with the spatula, possibly to ensure it is evenly cooked or to mix it with other ingredients. The objects in the image are the stove, the pot, and the spatula, all of which are positioned in a kitchen setting.",
+        "answer_id": "bvMXjrV4qnkEErqbDaXR6H",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_20__0",
+        "id": "P28_20_24",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_20.tar",
+        "image": "./frame_0000007207.jpg",
+        "action": "put down spatula",
+        "description": "In the image, we see a person holding a spatula and stirring a pan filled with cooked pasta. The person is standing in front of a stove, with the pan on the stove. The pasta is being stirred with the spatula, and the person is likely preparing to serve the pasta. The image captures a moment in the cooking process, where the person is actively engaged in stirring the pasta to ensure it is well-cooked and evenly heated.",
+        "answer_id": "9cyb9iVcd9bvJDTA72ZTfi",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    }
+]

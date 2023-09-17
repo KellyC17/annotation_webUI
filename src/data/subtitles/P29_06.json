@@ -1,0 +1,452 @@
+[
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_0",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000000246.jpg",
+        "action": "pick up plate",
+        "description": "In the image, you see a man standing in front of a kitchen sink, holding a sponge and a dish towel. The man is positioned near the sink, with the sponge and dish towel in his hands. He is likely preparing to clean the sink or the dishes, as he is holding the sponge and dish towel. The image is a close-up, which emphasizes the man's hands and the objects he is holding.",
+        "answer_id": "c2fCaeoNkut9UEKPUuGbZa",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_1",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000000457.jpg",
+        "action": "pick up towel",
+        "description": "In the image, a human is holding a plate and is about to put it on a stove. The plate is positioned on the countertop, and the human is preparing to place it on the stove for cooking. The image shows a kitchen setting where the human is engaged in the act of cooking, likely preparing a meal for themselves or someone else. The plate is a white, round dish that is being used for serving food, and it is being placed on the stove for cooking. The human's hand is holding the plate, and they are about to carefully place it on the stove to ensure that it is properly positioned and secure. This image captures a moment of preparation and attention to detail in the kitchen, as the human is taking the necessary steps to cook a meal.",
+        "answer_id": "54NfWhZWwmrAfLiVo8y6iF",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_2",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000000515.jpg",
+        "action": "wipe plate",
+        "description": "In the image, a person is holding a plate with a piece of food on it, and they are using a sponge to clean the plate. The plate is positioned on a countertop, and the person is standing next to the countertop, holding the sponge. The action being performed is cleaning the plate with the sponge, which is a common task to maintain cleanliness and hygiene in the kitchen.",
+        "answer_id": "cRPLxFZbUeNnvTdhvR5ZYe",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_3",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000000609.jpg",
+        "action": "wipe plate",
+        "description": "In the image, a man is holding a dish and using a dishwasher to clean it. The dish is placed on top of a dishwasher, and the man is using the dishwasher's spray arm to clean the dish. The man is standing in front of the dishwasher, holding the dish, and spraying water on it. The dish is positioned on top of the dishwasher, and the man is using the dishwasher's cleaning function to remove any food residue or dirt from the dish. This scene shows the man performing a routine task of cleaning a dish using the dishwasher, which is a common household appliance used for cleaning dishes efficiently and effectively.",
+        "answer_id": "2uCo7zKqthTVTvWQfniD8H",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_4",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000000635.jpg",
+        "action": "put down plate",
+        "description": "In the image, we see a human holding a white plate in their hand, with a spoon on the plate. The plate is positioned on a countertop, and the human is holding the plate with the spoon in front of a sink. The human is likely about to put the spoon back on the plate or clean the spoon before putting it back. The image captures a moment of the human's daily routine, where they are preparing to put the spoon back on the plate after using it to eat or clean it.",
+        "answer_id": "ZjrysRM9n2Y5L2hq8Rw2AE",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_5",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000000861.jpg",
+        "action": "pick up plate",
+        "description": "In the image, we see a kitchen with a sink, a stove, and a refrigerator. The sink is located on the left side of the kitchen, while the stove is on the right side. The refrigerator is positioned in the center of the kitchen. A human is standing in front of the sink, holding a bottle of dish soap. They are likely washing dishes or preparing to wash dishes. The bottle of dish soap is placed on the counter next to the sink, and the human is holding it with one hand while standing in front of the sink.",
+        "answer_id": "8t7f4yeecgZoNx2mpTmyTo",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_6",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000000931.jpg",
+        "action": "wipe plate",
+        "description": "In the image, we see a human holding a round, white plate and a fork, positioned on a countertop. The human is using the fork to pick up a piece of food from the plate. The plate is placed on a kitchen counter, and the human is holding the plate and fork in their hands. The action being performed is the human picking up the food from the plate using the fork.",
+        "answer_id": "5rNPSyUYuC6GE52aQnFaB3",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_7",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000001017.jpg",
+        "action": "put down plate",
+        "description": "In the image, there are two plates on a table, one with a fork and the other with a knife. A person is holding a plate and placing it on top of the other plate. This action suggests that the person is preparing to serve food on the plates. The plates are positioned side by side, with the fork and knife placed on the plate that is being held by the person. The scene appears to be in a kitchen, with the person possibly preparing a meal for themselves or someone else.",
+        "answer_id": "KVhT82hJUweMJNbkUGZKLa",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_8",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000001477.jpg",
+        "action": "pick up oven mitt",
+        "description": "In the image, there is a man standing in a kitchen, holding a large metal pot with a spoon. The pot is placed on the counter, and the man is holding the spoon in one hand while using the other hand to stir the contents of the pot. The man is wearing a white shirt and is standing in front of a stove, which is likely where the pot is being heated. The image captures the man's hand stirring the pot, which suggests that he is preparing a meal or cooking something in the pot.",
+        "answer_id": "jmHPUzaGicmfGhs45nadfE",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_9",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000001692.jpg",
+        "action": "open oven",
+        "description": "In the image, there is a person standing in front of a kitchen counter, with a broom in their hand. The broom is leaning against the counter, and the person is holding it with their left hand. They are also wearing slippers, which adds to the casual and relaxed atmosphere of the scene. The person is likely preparing to clean the floor or the countertop with the broom. The image captures a moment of everyday life, where the person is taking care of their home and performing a simple task.",
+        "answer_id": "j9g5zBCDTXUNYFn3YCqRoW",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_10",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000001711.jpg",
+        "action": "remove oven tray",
+        "description": "In the image, there is a man standing on a kitchen counter, wearing a pair of shoes. He is holding a pair of socks in his hand, and there is a pair of shoes on the floor next to him. The man is likely putting on his socks, and the shoes are either being removed or being put on. The objects are positioned in a way that the man can easily access the shoes and socks, and the scene suggests that he is in the process of dressing up or preparing for an activity.",
+        "answer_id": "kjd92CGmJFACWjZoLywGeA",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_11",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000001980.jpg",
+        "action": "put down oven tray",
+        "description": "In the image, we see a person holding a pair of chicken wings in a pan, with a spatula in their hand. The chicken wings are placed on a stove, and the person is about to flip them over. The person is wearing gloves, which suggests that they might be handling hot or potentially messy food. The image captures a moment in the cooking process, where the person is preparing the chicken wings for consumption.",
+        "answer_id": "Jjb2cZ6EjxAp8Hftwmv5jf",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_12",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000002146.jpg",
+        "action": "remove oven tray",
+        "description": "In the image, there is a man standing in front of a kitchen counter, holding a spatula and a bowl. The man is holding the spatula in one hand and the bowl in the other, and he is looking at the bowl. It is not clear what action he is performing, but it could be that he is preparing to cook or serve food using the spatula and bowl. The objects are positioned on the counter, which suggests that the man is in a kitchen environment.",
+        "answer_id": "GZifVmNRzjFYefv9rdnVmR",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_13",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000002381.jpg",
+        "action": "put oven tray in oven",
+        "description": "In the image, there is a person holding a bag of potato chips while standing in front of a stove. The bag of chips is placed on top of the stove, and the person is reaching for it. The image suggests that the person is about to open the bag and eat the potato chips. The bag is positioned on the stove, which could be a countertop or a cooking surface, depending on the context of the image. The person is performing the action of reaching for the bag of chips, indicating that they are about to consume the snack.",
+        "answer_id": "JGZbUFHvq2EnoPiJJnwPkn",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_14",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000002596.jpg",
+        "action": "adjust temperature on oven",
+        "description": "In the image, a man is standing in front of a kitchen stove, with a hand on the oven handle. He is holding a spatula and looking at the oven. The oven is positioned on the stove, and the man is likely preparing to open it to check if the food is cooked. The spatula is in his hand, and he is possibly using it to remove food from the oven or to check the temperature of the oven. The man is standing in a kitchen, which suggests that he is at home or in a residential setting.",
+        "answer_id": "7We6Fj8rZnWoRaf2Y2ARsF",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_15",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000002888.jpg",
+        "action": "pick up fork",
+        "description": "In the image, there is a person holding a sponge and a cleaning brush, both of which are positioned on the countertop. The person is likely cleaning the countertop, using the sponge and brush to remove any dirt or debris. The objects are placed next to each other on the counter, with the sponge on the left and the brush on the right. The person is performing the cleaning action by using the sponge and brush to clean the countertop, ensuring it remains clean and hygienic.",
+        "answer_id": "48F3T9vRfW2VEXeWXhDHXY",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_16",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000002984.jpg",
+        "action": "pick up knife",
+        "description": "In the image, there is a person holding a knife and cutting a piece of chicken on a stove. The person is positioned in front of a stove, with the knife in their hand and the chicken on a cutting board. The person is performing the action of cutting the chicken, which is likely to be for cooking or preparing a meal. The presence of the knife and the cutting board suggests that the person is preparing to cook the chicken, and the image captures a moment in the process of food preparation.",
+        "answer_id": "YdA3ACKAF6dSbfhrCLKiWb",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_17",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000003731.jpg",
+        "action": "cut chicken",
+        "description": "In the image, a man is standing next to a stove with a pan on it, holding a knife. The man is cutting up a piece of meat, possibly chicken, and is positioned in front of the stove. The pan is on the stove, and the man is using the knife to cut the meat. The scene suggests that the man is preparing to cook the meat in the pan on the stove.",
+        "answer_id": "5VhQC2j8JW3MAqi6GgHxD5",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_18",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000004207.jpg",
+        "action": "pick up chicken",
+        "description": "In the image, a man is standing next to a stove, holding a spatula. He is holding the spatula over a pot containing chicken and vegetables, which are cooking in a pan. The man is likely preparing to flip the chicken and vegetables in the pan, ensuring they are cooked evenly and thoroughly. The objects in the image are a stove, a pot, and a spatula, which are positioned in a kitchen setting. The man's action involves using the spatula to turn the food in the pan, which is an essential step in cooking to achieve the desired texture and flavor.",
+        "answer_id": "btPZcb7tGuJHxFrLYgDY2w",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_19",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000004378.jpg",
+        "action": "put down chicken",
+        "description": "In the image, we see two plates on a table, with a person holding a spoon and a knife. The person is positioned between the two plates, holding the utensils. It appears that the person is preparing to use the spoon and knife to scoop or cut food from one of the plates. The image suggests that the person is likely preparing a meal or serving food, possibly for themselves or others. The presence of the two plates and the utensils indicates that the person is in the process of preparing a meal or serving food, which is a common activity in many households.",
+        "answer_id": "YAJJFrJtSuFLzz3DWTBt24",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_20",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000004606.jpg",
+        "action": "pick up chicken",
+        "description": "In the image, a person is holding a spatula and standing over a stove, with a pan containing chicken pieces on it. The person is about to flip the chicken pieces in the pan, which is positioned on the stove. The person is wearing a white shirt and a hat, giving the scene a casual and relaxed appearance. The image captures the moment when the person is preparing the chicken for cooking, which is an essential part of cooking and preparing meals.",
+        "answer_id": "gbMHJsChWSMAWQQYerDAqG",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_21",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000004800.jpg",
+        "action": "put down chicken",
+        "description": "In the image, there are two plates on a table, and a person is holding a knife and cutting a piece of meat from the plate. The person is positioned next to the plates, and the knife is being used to cut the meat. The image shows a close-up view of the person's hands and the knife, indicating that they are in the process of preparing the food. The presence of the plates and the knife suggests that the person is likely preparing a meal or snack, and the cutting action is an essential step in the process.",
+        "answer_id": "CSUJSp98YoZmbhZdRd2nEC",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_22",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000005366.jpg",
+        "action": "pick up oven tray",
+        "description": "In the image, there is a man standing in front of a stove, holding a frying pan with food inside. The man is cooking the food in the pan, and the stove is turned on. The objects in the image include the stove, the frying pan, and the food. The man is performing the action of cooking the food by placing the pan on the stove and turning it on.",
+        "answer_id": "Yf6nqF5L7szq4i7vhkWSGU",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_23",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000005613.jpg",
+        "action": "turn off oven",
+        "description": "In the image, we see a person holding a remote control, which is positioned near a microwave oven. The person is standing in front of a kitchen counter, and the microwave is on the counter. The person is likely trying to operate the microwave using the remote control. The objects in the image are arranged in a way that the person can easily access the microwave and the remote control. The action being performed is the person trying to control the microwave using the remote control.",
+        "answer_id": "WZHwrwFdFtHx4rBbsusfV5",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_24",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000005641.jpg",
+        "action": "pick up oven glove",
+        "description": "In the image, there is a man standing in front of a sink, holding a metal pot and a wooden spoon. The pot is placed on the countertop, and the spoon is in his hand. The man is likely preparing to cook or stir something in the pot. The objects are positioned in a way that allows the man to easily access the pot and the spoon while performing his task. The image captures a moment in the process of cooking, where the man is about to start stirring or adding ingredients to the pot.",
+        "answer_id": "UfcqQMh9n3Xpedi3bVMUn8",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_25",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000005779.jpg",
+        "action": "open oven door",
+        "description": "In the image, a man is standing on the kitchen counter, holding a broom and using it to clean the countertop. The broom is positioned on the counter, and the man is using it to sweep the area. The man is wearing shoes, and his feet are on the counter, which suggests that he is standing on the counter to reach the broom and clean the surface. The image shows a close-up view of the man's feet and the broom, indicating that the man is actively engaged in cleaning the kitchen counter.",
+        "answer_id": "WXJJLSxWRg92XPKDqPSp3w",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_26",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000006386.jpg",
+        "action": "put down spatula",
+        "description": "In the image, there is a person holding a spatula and a knife, standing in front of a stove. The person is holding the spatula in one hand and the knife in the other. The spatula is positioned on the stove, while the knife is held in the hand of the person. The person is likely preparing food, possibly cooking a meal or stirring a pot. The image suggests that the person is actively engaged in cooking, using the spatula and knife to perform various tasks related to food preparation.",
+        "answer_id": "FcnjnJPiUWbTzdVLYU7rbT",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_27",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000006608.jpg",
+        "action": "pick up spatula",
+        "description": "In the image, there is a kitchen scene with a refrigerator, a stove, a sink, and a dishwasher. A human is washing dishes in the sink, and there are various utensils and dishes on the countertop. The objects are positioned in a way that allows the human to easily access and use them during the cleaning process. The scene appears to be a part of a daily routine, where the human is taking care of their kitchen and cleaning up after meals.",
+        "answer_id": "aJQuMuenHnh6nbWQe4aQb8",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_28",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000006875.jpg",
+        "action": "pick up chips",
+        "description": "In the image, a human is holding a spatula and is about to flip a large stack of potato chips on a plate. The chips are arranged in a neat stack, and the human is positioned above the plate, ready to flip the chips. The spatula is being used to flip the chips, ensuring that they are evenly cooked and preventing them from breaking. The scene suggests that the person is preparing a meal or snack, possibly a potato chip-based dish, and is carefully handling the chips to maintain their quality and presentation.",
+        "answer_id": "LFPrvtUHJz7GjcxYftiqjA",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_29",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000007086.jpg",
+        "action": "put down chips",
+        "description": "In the image, we see a person holding a fork and a plate with fries on it. The person is standing at a table, and the plate is on a tabletop. The person is holding the fork and fries, and they appear to be about to eat the fries. The image captures a moment of the person preparing to consume the food, which suggests that they are either about to take a bite or have just finished eating. The presence of the fork and plate indicates that the person is using utensils to eat the fries, which is a common practice in many cultures.",
+        "answer_id": "B7jXVqGSknXGQL5CZTwx2p",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_30",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000007259.jpg",
+        "action": "pick up chips",
+        "description": "In the image, there is a person sitting on a chair, with a plate of food on their lap. The plate contains a dish of french fries, and the person is holding a fork and knife. They are about to eat the fries, and the fork and knife are positioned in front of them. The image shows a close-up view of the person's hands holding the utensils and the plate of food.",
+        "answer_id": "8Hiu6GhRXqyQ5rUzgfELwA",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_31",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000007399.jpg",
+        "action": "put down chips",
+        "description": "In the image, there are two plates of fries on a counter, and a person is holding a spatula and flipping the fries. The fries are arranged on the plates in a neat and organized manner. The person is using the spatula to flip the fries, which suggests that they might be preparing them for serving or cooking. The image shows a close-up view of the fries and the person's hand holding the spatula, indicating that the focus is on the cooking process and the person's actions.",
+        "answer_id": "KAXRgpikpbdhUdQusJi27M",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_32",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000007706.jpg",
+        "action": "pick up chips",
+        "description": "In the image, there is a man holding a spatula and a plate with a fried potato on it. The fried potato is placed on a stove, and the man is using the spatula to turn the potato over. The man is positioned in front of the stove, and the plate is placed on the stove's surface. This scene suggests that the man is preparing to flip the potato, which is likely part of a meal or a snack. The man's action of turning the potato over with the spatula indicates that he is about to serve it or finish cooking it.",
+        "answer_id": "RPkmWnR3jjtRdj6CMQfUin",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_34",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000007903.jpg",
+        "action": "pick up chips",
+        "description": "In the image, a person is holding a spoon and a fork while standing in front of a stove. There is a plate with food on it, and the person is about to pick up a piece of food using the fork. The person is positioned in front of a stove, which suggests that they are preparing or eating a meal. The objects in the image include the spoon, fork, plate, and food, which are all related to the act of eating. The human is about to pick up the food using the fork, indicating that they are in the process of consuming the meal.",
+        "answer_id": "AZWiADsLfVnoqSfUJLEvBm",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_33",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000007904.jpg",
+        "action": "pick up chips",
+        "description": "In the image, there is a person holding a spoon and a plate with food on it, while standing in front of a stove. The person is holding the spoon and plate, and the food appears to be fries. The person is likely preparing to eat the fries, and the spoon is being used to scoop up the food. The scene shows the person's hands and the plate, with the fries on the plate, and the stove in the background.",
+        "answer_id": "GEorGd5f4vD6dhdMMo6Knn",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_35",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000007983.jpg",
+        "action": "put down chips",
+        "description": "In the image, there are two plates of food on a counter, with a fork and knife placed on each plate. A person is holding a spatula and is about to flip a piece of fish on one of the plates. The person is positioned next to the counter, and the plates are placed on the countertop. The image suggests that the person is preparing to cook or serve the food.",
+        "answer_id": "AFrduizXWKqcViLF6UDftB",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_36",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000008391.jpg",
+        "action": "pick up chips",
+        "description": "In the image, there are three plates on a table, each containing a piece of chicken. A person is holding a spatula and is about to flip the chicken on the plates. The chicken is positioned on the plates, with the person's hand holding the spatula above the chicken. The action being performed is the person flipping the chicken on the plates, which is a common technique used in cooking to ensure the meat is cooked evenly on both sides.",
+        "answer_id": "Y76Zy6efpWbwGcuk9eem7F",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_37",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000008508.jpg",
+        "action": "put down chips",
+        "description": "In the image, there is a person holding a spatula and a plate with fries on it. The person is standing in front of a stove, with a pot on the stove filled with fries. The fries are arranged in a single layer on the plate, and the person is holding the spatula, which suggests that they are about to flip the fries. The scene is set in a kitchen, where the person is preparing food.",
+        "answer_id": "CzGpuAVe7BagJnxjscgVxq",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_38",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000008963.jpg",
+        "action": "put down chips",
+        "description": "In the image, there is a person holding a plate of food and a fork, while sitting at a table. The plate contains fries, and the person is about to take a bite. The person is positioned in front of a sink, which is filled with water. The sink is likely used for washing the dishes after the meal. The scene suggests that the person has just finished eating and is now preparing to clean their dishes.",
+        "answer_id": "DfZ8wLRcBHPaKCb9f9duA2",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_39",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000009203.jpg",
+        "action": "flip chips",
+        "description": "In the image, there is a man holding a plate with a bowl of fries on it. He is standing in front of a stove, and there is a pot on the stove. The man is holding the plate with one hand and using a spatula with the other hand to scoop up the fries from the bowl and place them on the plate. The fries are arranged on the plate in a neat and organized manner. The image captures a moment of the man preparing the fries for consumption, possibly as part of a meal or snack.",
+        "answer_id": "PNa3jbaPW5LJ32ByKkzmju",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_40",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000009393.jpg",
+        "action": "flip chips",
+        "description": "In the image, there is a man holding a spatula and standing in front of a stove with a plate of food on it. The man is using the spatula to flip a piece of food on the plate, possibly turning a burger or a piece of vegetables. The objects are positioned in a kitchen setting, with the stove and the plate of food being the main focus of the image. The man is performing an action of flipping the food, which is a common task in cooking and preparing meals.",
+        "answer_id": "ZdrC2qEyaKi7kAePJuK2Af",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_41",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000009560.jpg",
+        "action": "flip chips",
+        "description": "In the image, a man is standing in front of a kitchen counter with a plate, a knife, and a spoon. The man is holding a spoon and is about to dip it into a bowl of food. He is positioned near the kitchen sink, which is also visible in the image. The man is wearing gloves, which suggests that he might be preparing or cleaning food. The objects are arranged in a way that makes it easy for the man to access and use them during the food preparation process. The action being performed by the man is dipping the spoon into the bowl of food, which is likely a part of the meal preparation process.",
+        "answer_id": "8FPsDejgpi2UZ87D5T2GKf",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_42",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000009732.jpg",
+        "action": "put down tray",
+        "description": "In the image, we see a person holding a spatula and a frying pan, both of which are positioned on a stove. The person is using the spatula to stir or flip food in the frying pan, possibly cooking or preparing a meal. The image captures a moment in time where the person is actively engaged in the cooking process, using the tools to perform the necessary actions to prepare the food.",
+        "answer_id": "AM7zDxWniazLmgP3fNP4Wg",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_43",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000009791.jpg",
+        "action": "put down spatula",
+        "description": "In the image, we see a man holding a wrench and a screwdriver, both tools used for repairing and maintaining various items. The man is standing in front of a kitchen sink, which is open and has a faucet attached to it. He is holding the wrench and screwdriver in his hands, and he is likely in the process of fixing or adjusting something related to the faucet or the sink. The image captures the man's hands and the tools he is using, indicating that he is engaged in a task that requires his attention and skill.",
+        "answer_id": "XfxqXNjdbT2Ajm7giLwGWs",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P29_06__0",
+        "id": "P29_06_44",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P29/rgb_frames/P29_06.tar",
+        "image": "./frame_0000009932.jpg",
+        "action": "remove oven glove",
+        "description": "In the image, we see a kitchen with a stove, a sink, and a refrigerator. A human is standing in front of the stove, possibly preparing food. The objects are positioned in a way that allows the human to easily access the stove and the sink, which are located next to each other. The human is performing an action of cooking or preparing food on the stove, which is an essential part of daily life in a kitchen.",
+        "answer_id": "DRfxM4hX2WpnmVm8yqzbCB",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    }
+]

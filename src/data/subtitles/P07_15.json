@@ -1,0 +1,172 @@
+[
+    {
+        "ep_id": "P07_15__0",
+        "id": "P07_15_0",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_15.tar",
+        "image": "./frame_0000000399.jpg",
+        "action": "pour oil in pan",
+        "description": "In the image, a person is standing in front of a stove, holding a frying pan with a piece of cooked meat inside. The person is positioned in a kitchen, likely preparing a meal. The frying pan is placed on the stove, and the person is holding the handle of the pan with one hand while using the other hand to turn the meat. This action suggests that the person is in the process of cooking the meat, possibly using the stove to heat up the pan and the meat.",
+        "answer_id": "CxfTxfnRkeCRsBy6ie9yBU",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_15__0",
+        "id": "P07_15_1",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_15.tar",
+        "image": "./frame_0000000632.jpg",
+        "action": "close oil",
+        "description": "In the image, a woman is holding a spoon and pouring oil into a pan. The pan is on a stove, and the woman is standing next to it. The woman is wearing a black shirt and has a spoon in her hand, which she is using to pour the oil into the pan. The pan is filled with water, and the woman is carefully pouring the oil into the pan, ensuring that it is evenly distributed. This scene suggests that the woman is preparing a meal or cooking something in the pan.",
+        "answer_id": "eoAFX4wcmmkAQCJ8ArTYAn",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_15__0",
+        "id": "P07_15_2",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_15.tar",
+        "image": "./frame_0000000762.jpg",
+        "action": "shake pan",
+        "description": "In the image, there is a person holding a spatula and a frying pan, both of which are filled with food. The person is standing on a stool, and the frying pan is resting on the stool, while the spatula is in their hand. The person is about to flip the food in the pan, which suggests that they are preparing to cook it. The objects are positioned on the stool, which is placed on the floor, allowing the person to easily access the frying pan and spatula. The scene shows the person actively engaged in cooking, using the spatula to flip the food in the pan.",
+        "answer_id": "RuXffBvykTQkQmaPCUcgfn",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_15__0",
+        "id": "P07_15_3",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_15.tar",
+        "image": "./frame_0000001434.jpg",
+        "action": "add chicken to pan",
+        "description": "In the image, we see a person holding a large wooden cutting board with a knife and a frying pan on top of it. The person is standing in front of a stove, with the cutting board placed on the stove's burner. The person is likely preparing food, possibly cutting or frying meat, using the cutting board and knife. The frying pan is also being used to cook the food. The scene suggests that the person is in the process of cooking a meal, possibly for themselves or others.",
+        "answer_id": "7wQTR9Ls6DUnM5E6yJNvwk",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_15__0",
+        "id": "P07_15_4",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_15.tar",
+        "image": "./frame_0000001628.jpg",
+        "action": "add chicken to pan",
+        "description": "In the image, we see a man standing in front of a kitchen counter, holding a knife and a cutting board. The cutting board is positioned on top of the counter, and the man is preparing to cut up some meat on it. The meat is not visible in the image, but it is likely that the man is cutting up a piece of meat, such as a steak or chicken, to prepare it for cooking. The man is wearing a black shirt and a hat, which suggests that he is either a chef or someone who is helping with the cooking process. The presence of the knife and cutting board indicates that the man is about to perform a culinary task, such as chopping or slicing the meat.",
+        "answer_id": "HnCE8DRmwxU2Kt5kwPY947",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_15__0",
+        "id": "P07_15_5",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_15.tar",
+        "image": "./frame_0000002447.jpg",
+        "action": "open tap",
+        "description": "In the image, a man is standing in front of a sink, holding a sponge and a bottle of dish soap. He is using the sponge to clean the sink, and the bottle of dish soap is sitting on the counter next to him. The man is positioned in a way that he can easily access the sink and the bottle of dish soap. The image shows the man performing the action of cleaning the sink using the sponge and the dish soap.",
+        "answer_id": "Cf68vS64CPaNrNa4jevDQs",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_15__0",
+        "id": "P07_15_6",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_15.tar",
+        "image": "./frame_0000002703.jpg",
+        "action": "wash knife",
+        "description": "In the image, a man is standing in front of a sink, holding a sponge and a dishrag. He is using the sponge to clean the sink, and the dishrag is being used to clean the sink as well. The sink is filled with water, and there are some dishes and utensils on the counter. The man is performing the action of cleaning the sink, which is an essential task for maintaining a clean and hygienic environment in the kitchen.",
+        "answer_id": "XC6cDRMz7SdaRygHHj8fUv",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_15__0",
+        "id": "P07_15_8",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_15.tar",
+        "image": "./frame_0000003499.jpg",
+        "action": "open tap",
+        "description": "In the image, there is a man standing in front of a sink, holding a wooden cutting board with a knife on it. The cutting board is placed on top of a counter, and the sink is positioned below it. The man is using the knife to cut something on the cutting board, possibly meat or vegetables. The scene suggests that the man is preparing food for consumption, and the cutting board and knife are essential tools for this process.",
+        "answer_id": "8zfvTCidia8n8mmWx8Ltth",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_15__0",
+        "id": "P07_15_7",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_15.tar",
+        "image": "./frame_0000003522.jpg",
+        "action": "open tap",
+        "description": "In the image, we see a person holding a wooden cutting board and a knife, with a sink in the background. The person is likely preparing food or cleaning up after a meal. The wooden cutting board is placed on a countertop, and the knife is being used to cut or slice the food. The person is standing in front of the sink, which suggests that they might be washing their hands or cleaning the cutting board. The scene is focused on the person's hands and the objects they are using, indicating that the action being performed is related to food preparation or cleaning.",
+        "answer_id": "TkbXWZEzLw5538r7Fa4WHh",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_15__0",
+        "id": "P07_15_9",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_15.tar",
+        "image": "./frame_0000003549.jpg",
+        "action": "wash table",
+        "description": "In the image, a person is standing over a sink, holding a cutting board and a knife. The cutting board is placed on the sink, and the person is using the knife to cut something on the cutting board. The sink is filled with water, and the person is likely washing their hands or cleaning the cutting board. The objects are positioned in a way that allows the person to easily access the cutting board and perform the necessary action. The scene suggests that the person is preparing food or cleaning up after a meal.",
+        "answer_id": "HWsgDqLMY3bwqnjJAjM8M7",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_15__0",
+        "id": "P07_15_10",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_15.tar",
+        "image": "./frame_0000003635.jpg",
+        "action": "rinse knife",
+        "description": "In the image, a person is holding a wooden cutting board and using a knife to cut a piece of meat on the countertop. The cutting board is placed on top of a sink, and the person is standing next to the sink. The person is standing with their back to the camera, and they are cutting the meat with the knife on the cutting board. The sink is also filled with water, which suggests that the person might be washing their hands or cleaning the cutting board after the cutting process. The image shows a person performing a daily chore, such as preparing food, and demonstrates the importance of proper hygiene and cleanliness in the kitchen.",
+        "answer_id": "dajJcrsaquhmA8rB9r3RiA",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_15__0",
+        "id": "P07_15_11",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_15.tar",
+        "image": "./frame_0000004057.jpg",
+        "action": "wash board",
+        "description": "In the image, we see a man standing in front of a kitchen sink, holding a piece of meat with his hands. The meat is positioned on a cutting board, which is placed on the countertop. The man is likely preparing to cut the meat, as he is holding the cutting board and meat in his hands. The scene suggests that the man is about to perform a cooking task, possibly preparing a meal for himself or someone else.",
+        "answer_id": "i9qJrUtXJH6rXmgdav2wJ2",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_15__0",
+        "id": "P07_15_12",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_15.tar",
+        "image": "./frame_0000004417.jpg",
+        "action": "rinse board",
+        "description": "In the image, a man is standing over a sink, holding a wooden cutting board and a knife. The cutting board is placed on the sink, and the man is using the knife to cut something on the cutting board. The man is positioned in front of the sink, with the cutting board and knife in his hands. The action being performed is the man cutting something on the cutting board, which could be food or a piece of wood.",
+        "answer_id": "452NMYF8PGUV4cbXWP68wg",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_15__0",
+        "id": "P07_15_14",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_15.tar",
+        "image": "./frame_0000005004.jpg",
+        "action": "close tap",
+        "description": "In the image, we see a man standing in front of a sink with a dishcloth in his hand. He is holding the dishcloth and using it to clean a dirty sink. The sink is positioned on the countertop, and the man is positioned near the sink, possibly preparing to wash dishes. The presence of the dishcloth indicates that the man is about to clean the sink, which is likely part of his daily routine.",
+        "answer_id": "Z9UYUpQKPaVJYYVMXWXDoc",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_15__0",
+        "id": "P07_15_13",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_15.tar",
+        "image": "./frame_0000005008.jpg",
+        "action": "rinse board",
+        "description": "In the image, there is a man standing in front of a sink, holding a sponge and a dishcloth. He is cleaning the sink by using the sponge and dishcloth to remove any dirt or debris from the surface. The sink is positioned in a kitchen, and the man is using the cleaning tools to maintain the cleanliness of the sink. The objects are placed on the counter, and the man is performing the action of cleaning the sink, which is an essential part of maintaining a clean and hygienic kitchen environment.",
+        "answer_id": "4EbL3niuk5pudK5owrtvs3",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_15__0",
+        "id": "P07_15_15",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_15.tar",
+        "image": "./frame_0000006052.jpg",
+        "action": "move chicken",
+        "description": "In the image, there is a person holding a frying pan and a spatula, standing in front of a stove. The frying pan is filled with food, and the person is about to flip the food in the pan. The person is positioned next to the stove, and the frying pan is placed on top of the stove. The action being performed by the person is flipping the food in the pan, which is a common technique used in cooking to ensure even cooking and prevent food from burning.",
+        "answer_id": "FWRuc746i5wh2euS5jwBXN",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_15__0",
+        "id": "P07_15_16",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_15.tar",
+        "image": "./frame_0000006305.jpg",
+        "action": "move chicken",
+        "description": "In the image, a man is standing in front of a stove, holding a spatula and a frying pan. He is positioned next to a stove, with the frying pan on the stove and the spatula in his hand. The man is preparing to cook something, possibly frying food in the pan. The image suggests that he is about to start cooking, and the presence of the spatula and frying pan indicates that he is ready to perform the necessary actions to prepare the food.",
+        "answer_id": "M5kwjQgPsG6st5C9PBM2wV",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    }
+]

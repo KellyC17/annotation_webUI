@@ -1,0 +1,1132 @@
+[
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_0",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000000220.jpg",
+        "action": "take cup",
+        "description": "In the image, you see a person standing in front of a kitchen counter, with a microwave, a coffee maker, and a dishwasher nearby. The person is holding a spoon and is about to pour some food into the microwave. The microwave is positioned on the counter, and the coffee maker and dishwasher are also located nearby. The person is preparing to heat up their food using the microwave.",
+        "answer_id": "FkRFMM8HJRaDk9UbtfoAed",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_1",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000000269.jpg",
+        "action": "drink water",
+        "description": "In the image, there is a person holding a glass of water, with a spoon and a plate on the counter next to them. The person is standing in front of a sink, which is empty and clean. The objects are positioned in a way that the person can easily access them, such as the spoon and plate being placed on the counter, and the glass of water being held by the person. The human is performing the action of drinking water from the glass.",
+        "answer_id": "ZjWsWDXAjooDy83apRdc4T",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_2",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000000424.jpg",
+        "action": "put cup down",
+        "description": "In the image, we see a kitchen countertop with a glass jar, a spoon, and a bottle of water. The human is holding the spoon and pouring water from the bottle into the jar. The objects are positioned on the countertop, with the spoon and the bottle of water placed next to each other, and the glass jar sitting on top of the counter. The human is performing the action of pouring water from the bottle into the glass jar, which is likely used for storing or serving water.",
+        "answer_id": "Aoy2GRf5VYcHtJp4ZBJDnA",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_3",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000000633.jpg",
+        "action": "take plate",
+        "description": "In the image, we see a white plate with a bowl on top of it, both placed on a table. The human is holding the bowl and placing it on the plate. This action suggests that the person is preparing to serve food or is in the process of doing so. The objects are positioned next to each other on the table, with the bowl on top of the plate. This arrangement allows for easy access to the food and makes it convenient for the person to serve it.",
+        "answer_id": "av9Aa4sYQn8Bzy86ysbFuX",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_4",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000000703.jpg",
+        "action": "put plate on counter",
+        "description": "In the image, we see a person holding a plate and a fork, with a bowl and a cup on the counter next to them. The person is standing in front of a kitchen sink, and there is a dishwasher in the background. The person is likely washing their dishes, as they are holding the plate and fork, which are likely clean and ready to be put away. The presence of the dishwasher suggests that the person is using it to clean their dishes, making the task more efficient and convenient. The image shows the person's hands holding the plate and fork, indicating that they are about to put them away after washing them.",
+        "answer_id": "LDNrKmrkgYbeaxF39Xes6J",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_5",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000000783.jpg",
+        "action": "take coffee pot",
+        "description": "In the image, a woman is standing in front of a kitchen sink, holding a sponge and a dishrag. The sink is filled with water, and the woman is using the sponge and dishrag to clean the sink. The objects are positioned next to each other on the countertop, with the sponge and dishrag being used to clean the sink. The woman is performing the action of cleaning the sink by using the sponge and dishrag to remove any dirt, grime, or food residue from the sink.",
+        "answer_id": "QXusdAAcsTYz99ZKpe96TX",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_6",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000000897.jpg",
+        "action": "take lid",
+        "description": "In the image, a woman is seen holding a glass jar and a spoon, while standing in front of a kitchen sink. The jar is filled with water, and the woman is pouring the water into the sink. The jar is positioned on a countertop, and the sink is located below the counter. The woman is performing the action of pouring the water into the sink, likely to clean or rinse something.",
+        "answer_id": "3CNbbMWu5vrnaWGjjJpxuJ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_7",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000000925.jpg",
+        "action": "put lid on pot",
+        "description": "In the image, a woman is holding a glass of coffee and pouring it into a cup, likely a mug. The woman is standing in front of a sink, and the cup is positioned on the counter next to the sink. The woman is pouring the coffee from the glass into the cup, which is placed on the counter. This scene suggests that the woman is preparing to drink her coffee or is in the process of doing so. The presence of the cup and the sink indicates that the woman is likely in a kitchen or a dining area, and the act of pouring coffee is a common activity in such settings.",
+        "answer_id": "ekoqQ7D39WwBbVxQLGyGtu",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_8",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000001014.jpg",
+        "action": "put pot in coffee machine",
+        "description": "In the image, a woman is holding a cup and pouring coffee into it from a coffee maker. The coffee maker is positioned on a countertop, and the cup is placed on a plate. The woman is standing next to the countertop, holding the cup and pouring the coffee into it. The coffee maker is a black, electric coffee maker with a built-in water reservoir, and the cup is a white, ceramic mug. The scene suggests that the woman is preparing a cup of coffee for herself or someone else.",
+        "answer_id": "GmKv3HisekGcdcy7uB3DEg",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_9",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000001180.jpg",
+        "action": "take knife and spoon",
+        "description": "In the image, we see a woman standing in a kitchen, holding a spoon and a bowl. The woman is holding the spoon and bowl in her hands, and there is a dish of food in the bowl. The woman is likely preparing or eating a meal. The objects are positioned on a countertop, with the bowl and spoon sitting on a dish rack. The woman is performing the action of eating or preparing the food using the spoon and bowl.",
+        "answer_id": "cj8iLsuGo8i242ageRNPBm",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_10",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000001296.jpg",
+        "action": "take mug",
+        "description": "In the image, we see a man sitting on a chair, holding a dish towel, and washing a dish. The dish is placed on a table, and the man is using the dish towel to clean it. The dish is positioned on the table, and the man is sitting on a chair, which is placed in front of the table. The man is performing the action of washing the dish using the dish towel.",
+        "answer_id": "4c6Pfmo6DVHp7PxUf9Mq3y",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_11",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000001391.jpg",
+        "action": "take cup",
+        "description": "In the image, you see a person holding a bowl of food, a plate, and a cup. The person is standing in front of a kitchen counter, and the objects are positioned on the counter. The person is likely preparing or eating a meal. The bowl of food, plate, and cup are all placed on the counter, and the person is holding the bowl with one hand while using the other hand to perform some action, such as eating or serving the food. The presence of the bowl, plate, and cup suggests that the person is preparing or consuming a meal, and the image captures a moment in time when the person is interacting with the objects on the counter.",
+        "answer_id": "KNPJDRifDpQTAHZekNU6YH",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_12",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000001642.jpg",
+        "action": "open cupboard",
+        "description": "In the image, a woman is standing in front of a sink, holding a bottle of wine and a glass. The bottle is placed on the countertop, and the glass is on the sink. The woman is pouring wine into the glass, which is positioned on the sink. The objects are arranged in a way that allows the woman to easily access the bottle and pour the wine into the glass. The action being performed by the woman is pouring wine into the glass, which is likely a part of a routine or a special occasion.",
+        "answer_id": "QcFBjkuxAaZdpcrGDCMqeQ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_13",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000001706.jpg",
+        "action": "put cup",
+        "description": "In the image, we see a man holding a bottle of wine and a glass, standing in front of a kitchen counter. The man is holding the bottle with one hand and the glass with the other, and he is positioned next to a refrigerator. The bottle and glass are placed on the counter, and the man is likely preparing to pour the wine into the glass. This scene suggests that the man is about to enjoy a glass of wine, possibly as part of a meal or as a relaxing activity.",
+        "answer_id": "nFrGqn6LYH6MgaTQTpsLhR",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_14",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000001801.jpg",
+        "action": "put mug in cupboard",
+        "description": "In the image, a woman is holding a spoon and standing in front of a kitchen counter, which is filled with various items such as bottles, a bottle opener, and a glass. She is using the spoon to open a bottle, which is placed on the counter. The woman is positioned in front of the kitchen counter, and the bottle is placed on the counter as well. The image captures the moment when the woman is about to open the bottle using the spoon, which is a common tool for opening bottles.",
+        "answer_id": "hzNJDKmMkxFboFyq9VdjsE",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_15",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000001934.jpg",
+        "action": "close cupboard",
+        "description": "In the image, a woman is standing next to a kitchen counter, holding a roll of paper towels. She is positioned in front of a sink, and there is a toilet paper holder on the counter. The woman is about to put the roll of paper towels into the toilet paper holder. This action indicates that she is preparing to clean up a spill or mess in the kitchen or bathroom. The presence of the toilet paper holder and the woman's proximity to the sink suggest that the cleaning task might involve both the kitchen and the bathroom areas.",
+        "answer_id": "Qf2sQtDjxyNUSAWvJjGFHZ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_16",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000001991.jpg",
+        "action": "open drawer",
+        "description": "In the image, there is a person standing in front of a kitchen sink, holding a bottle of wine. The person is pouring the wine into a glass, which is placed on the countertop next to the sink. The sink is filled with water, and there are some utensils, such as a spoon, on the counter. The person is likely preparing to drink the wine or cleaning the glass. The image captures a moment of everyday life, showcasing the person's routine and the objects they use in their daily activities.",
+        "answer_id": "HJYuLC79HUqmypjZBKNGvK",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_17",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000002134.jpg",
+        "action": "put knife and spoon in drawer",
+        "description": "In the image, we see a kitchen countertop with a sink, a stove, and a refrigerator. A person is holding a bottle of wine and a pair of scissors, and they are positioned on the countertop. The person is using the scissors to open the bottle of wine, which is placed on the counter. The bottle is being opened with the scissors, and the person is holding the bottle in their hand. This scene shows the person preparing to drink the wine, and the scissors are being used for the bottle opening process.",
+        "answer_id": "97V37a5YmGwhaLJsWCstKb",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_18",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000002225.jpg",
+        "action": "take knife and fork out of drawer",
+        "description": "In the image, a woman is seen standing in front of a kitchen sink, holding a pair of scissors and a spoon. The scissors are placed on the counter, and the spoon is in a drawer. The woman is holding the scissors and looking at the spoon, possibly contemplating or preparing to use the spoon for a specific task. The objects are positioned in a way that makes it easy for the woman to access and use them. The scene suggests that the woman might be in the process of cleaning or organizing the kitchen, as she is holding the scissors and the spoon, which could be used for various tasks such as cutting food or cleaning utensils.",
+        "answer_id": "X8hB7hgihbTpXVi3Xvg4to",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_19",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000002545.jpg",
+        "action": "put them on the plate",
+        "description": "In the image, you see a woman holding a plate and a fork, positioned on a kitchen counter. She is about to place the fork on the plate, which is already filled with food. The woman is performing the action of placing the fork on the plate, and the plate is positioned on the counter, which is a common area for food preparation and serving in a kitchen.",
+        "answer_id": "77N4S4WqZvQ8Vj6JYCKBwU",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_20",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000002688.jpg",
+        "action": "open cupboard",
+        "description": "In the image, there is a woman standing in front of a sink, holding a bottle of soap. She is positioned with her back to the sink and her hand holding the bottle of soap is raised. The woman is washing her hands in the sink, and the soap bottle is likely being used for this purpose. The image captures a moment of the woman in the act of washing her hands, with the soap bottle being an essential tool for this task.",
+        "answer_id": "HXnTXGxuMYDYtCRg22jAaV",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_21",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000002975.jpg",
+        "action": "take bowl",
+        "description": "In the image, a woman is holding a lemon and standing in front of a sink, possibly washing her hands. The woman is holding the lemon in her hand, and the lemon is positioned next to her hand. The woman is also holding a towel, which she might be using to dry her hands after washing them. The image captures a moment of the woman's daily routine, where she is preparing to clean her hands using water and soap.",
+        "answer_id": "cGZmkdH9YwrBmrQfJx7rKA",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_22",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000003079.jpg",
+        "action": "put on counter",
+        "description": "In the image, there is a woman holding a bowl and a spoon, standing in front of a sink. The bowl is filled with a liquid, and the woman is pouring the liquid into the sink. The objects are positioned on the countertop, and the woman is performing the action of pouring the liquid into the sink.",
+        "answer_id": "8EnoN447bVPwj7BNVuwWwZ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_23",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000003129.jpg",
+        "action": "close cupboard",
+        "description": "In the image, there is a person washing dishes in a sink. The sink is filled with water, and the person is using a sponge to clean the dishes. The sink is positioned in a kitchen, and the dishes are placed on a countertop. The person is standing in front of the sink, holding the sponge and cleaning the dishes. The scene appears to be a part of a daily routine, where the person is performing a necessary task to maintain the cleanliness of the kitchen.",
+        "answer_id": "iUUSPoy2hwByoVnVYtbvwY",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_24",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000003352.jpg",
+        "action": "open fridge",
+        "description": "In the image, a woman is opening the refrigerator door, revealing the contents inside. The refrigerator is positioned in a kitchen, and the woman is holding the door open with one hand while she is reaching inside with the other hand. The image shows the woman's hand reaching into the refrigerator to grab something, possibly a bottle or a container. The refrigerator is a white appliance with a door that opens to reveal the contents, and it is placed in a kitchen setting.",
+        "answer_id": "kVtk5ofiyQVpQ6qMXu7Umi",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_25",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000003575.jpg",
+        "action": "take tupperware",
+        "description": "In the image, there is a refrigerator with a door open, revealing a shelf inside. The shelf is stocked with various food items and a red container. A human is holding a spoon and standing in front of the refrigerator, possibly preparing to eat or retrieve food from the shelf. The red container is located on the shelf, and the human is holding the spoon as if they are about to use it to scoop out food from the container. The objects are positioned in a way that allows the human to easily access the food items on the shelf.",
+        "answer_id": "XUHzSsopfNHqhFpUZJXRKX",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_26",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000003632.jpg",
+        "action": "put on counter",
+        "description": "In the image, a woman is holding a red sponge and standing in front of a kitchen sink. The sink is filled with water, and there are dishes and utensils on the counter. The woman is holding the sponge, which is likely used for cleaning purposes. The objects in the image are positioned in a way that the sink is visible, and the woman is holding the sponge while standing in front of it. The action being performed is the woman holding the sponge, which suggests that she might be preparing to clean the sink or the dishes.",
+        "answer_id": "Lbhdew2vnDxbWiCxuCXWzr",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_27",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000003832.jpg",
+        "action": "take cucumber",
+        "description": "In the image, there is a refrigerator with a door open, revealing a shelf inside. A human is holding a spoon and reaching into the shelf to grab something. The objects on the shelf include a jar of pickles, a jar of peanut butter, and a jar of jam. The human is likely retrieving one of these items from the shelf, possibly to use in a meal or snack. The position of the objects on the shelf suggests that they are organized and easily accessible, making it convenient for the human to grab the desired item.",
+        "answer_id": "gjMMUpDAiFPPDu5xp8qCHF",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_28",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000003970.jpg",
+        "action": "take salad",
+        "description": "In the image, there is a person holding a container of ice cream and a spoon while standing in front of a refrigerator. The refrigerator is filled with various food items, including a carton of milk. The person is likely about to open the refrigerator and take out the ice cream or milk to consume it. The image shows a well-stocked refrigerator with a variety of food items, indicating that the person might be preparing to have a snack or meal. The presence of the ice cream and milk suggests that the person might be planning to enjoy a cold dessert or drink.",
+        "answer_id": "SvDQVyU2FnFURoYyMkrsYk",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_29",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000004111.jpg",
+        "action": "close fridge",
+        "description": "In the image, there is a refrigerator with a door open, revealing a shelf inside. The shelf is filled with various items such as bottles, cans, and a jar. A human is reaching for a bottle on the shelf. The bottle is positioned on the shelf, and the human is holding it with both hands. The scene suggests that the person is retrieving a drink from the refrigerator, possibly to consume it or place it back on the shelf. The image is a close-up view of the refrigerator and the bottle, showcasing the details of the items and the human's actions.",
+        "answer_id": "mvCYjf3E2u7ABfDZdSepRP",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_30",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000004299.jpg",
+        "action": "put salad and cucumber on counter",
+        "description": "In the image, you see a woman standing in front of a kitchen counter, with a knife in her hand. She is holding a cucumber and a carrot, and she is cutting the cucumber with the knife. The cucumber and carrot are positioned on a cutting board, which is placed on the kitchen counter. The woman is performing the action of cutting the vegetables, possibly to prepare them for a meal or to add them to a salad.",
+        "answer_id": "mqH9RfEVhwkekk8QidULjU",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_31",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000004627.jpg",
+        "action": "open lid of tupperware",
+        "description": "In the image, there is a person holding a red towel and a white towel, both of which are placed on a kitchen counter. The person is using the red towel to clean a sink, while the white towel is being used to dry the sink. The person is standing in front of the sink, holding the red towel and the white towel, and is performing the action of cleaning the sink with the red towel and drying it with the white towel.",
+        "answer_id": "fqrzeEeEVNh6S5cKRWpfAh",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_32",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000004720.jpg",
+        "action": "put lid in sink",
+        "description": "In the image, a person is standing in front of a sink, holding a red sponge and a plate. The sink is filled with water, and there are some utensils, such as a fork and a knife, on the counter next to the sink. The person is likely cleaning the sink with the sponge, and the plate may be used as a cleaning tool or as a surface for the person to place the cleaned items. The image shows a person performing a cleaning task in the kitchen, which is a common activity in maintaining a clean and organized living space.",
+        "answer_id": "E9FqTR5uHqD22bQYVeYyVu",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_33",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000004972.jpg",
+        "action": "put tupperware in oven",
+        "description": "In the image, there is a person holding a spoon and standing in front of a stove with two burners on. The person is preparing food by stirring it in a pot on the stove. The pot is filled with a mixture of ingredients, and the person is stirring it with a spoon, possibly adding seasonings or cooking the food. The person is positioned in front of the stove, which suggests that they are actively involved in the cooking process. The presence of two burners on the stove indicates that the person is using the stove to prepare the food, which is common in many kitchens.",
+        "answer_id": "PLsstatTKU9izKfox3cHPE",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_34",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000005110.jpg",
+        "action": "close oven",
+        "description": "In the image, there is a person holding a towel and standing in front of a stove with two burners on it. The person is likely preparing to cook or clean the stove. The stove has two burners, which are positioned on the countertop. The person is holding the towel, possibly to wipe down the stove or clean the burners. The action being performed by the human is cleaning the stove, which involves wiping down the surface and possibly cleaning the burners.",
+        "answer_id": "WbRmtK5CPetPYKT8mQMjpk",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_35",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000005252.jpg",
+        "action": "take salad",
+        "description": "In the image, we see a woman standing in front of a kitchen counter, holding a bag of frozen vegetables. The bag is placed on the counter, and the woman is holding it with her hands. She is likely preparing to store the frozen vegetables in the refrigerator. The woman is positioned in front of the counter, and the bag of frozen vegetables is placed on the countertop. The action being performed by the human is storing the frozen vegetables in the refrigerator, which is a common task in the kitchen.",
+        "answer_id": "4CvJpyQ5vHgbM2ZXW55Joz",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_36",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000005356.jpg",
+        "action": "open salad bag",
+        "description": "In the image, a woman is holding a bowl of cereal and a spoon while standing in front of a stove. The bowl is placed on the counter, and the spoon is being used to scoop out cereal from the bowl. The woman is holding the bowl with one hand and using the spoon with the other hand. The cereal bowl and spoon are positioned on the counter, indicating that the woman is preparing to eat her breakfast.",
+        "answer_id": "ZGTY64F8ifNnpT5gvyb8Ch",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_37",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000006096.jpg",
+        "action": "pour salad in bowl",
+        "description": "In the image, we see a woman holding a bowl and a spoon while standing in front of a kitchen sink. The bowl is filled with a mixture of vegetables, and the woman is about to scoop some of the vegetables into the bowl using the spoon. The woman is positioned in front of a sink, which suggests that she might be preparing to wash the vegetables or clean the bowl. The scene appears to be part of a daily routine, as the woman is performing a simple task in the kitchen.",
+        "answer_id": "HrveL2dL9h5s7Uc874ExSs",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_38",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000006280.jpg",
+        "action": "close salad bag",
+        "description": "In the image, there is a woman standing in front of a kitchen sink, holding a plastic bag filled with vegetables. The woman is holding the bag with one hand and using the other hand to open it. The bag is positioned on the counter next to a bowl, and there are various kitchen utensils, such as a spoon, a knife, and a cutting board, nearby. The woman is likely preparing a meal or snack using the vegetables from the bag.",
+        "answer_id": "TbpjWUntJSvREonAMYTfPm",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_39",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000006822.jpg",
+        "action": "take elastic",
+        "description": "In the image, a human is standing next to a wall-mounted shelf, which is filled with various items such as bottles, a book, and a bottle of wine. The person is holding a bottle of wine and appears to be preparing to place it on the shelf. The bottle of wine is positioned on the shelf, while the other items are placed on the countertop or on the floor. The human is performing the action of placing the bottle of wine on the shelf, which suggests that they might be organizing their belongings or preparing for a social gathering.",
+        "answer_id": "dByj7zcw5NKgP92wNzHXxv",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_40",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000006958.jpg",
+        "action": "put over salad",
+        "description": "In the image, a woman is holding a bottle of soda and a spoon while standing in front of a kitchen sink. The woman is holding the bottle with one hand and the spoon with the other hand. She is positioned near the sink, possibly preparing to pour the soda into a cup or washing the spoon. The objects are placed in close proximity to each other, indicating that the woman is likely to use the spoon to pour the soda into a cup or clean it. The image captures a moment of the woman's daily routine, showcasing her interaction with the kitchen utensils and the soda bottle.",
+        "answer_id": "nnXCi8GBaMaMBm89ohhzCo",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_41",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000007074.jpg",
+        "action": "open fridge",
+        "description": "In the image, we see a person holding a sponge while standing in front of a sink. The sink is filled with water, and the person is about to wash their hands. The sponge is likely being used to clean their hands, and the person is positioned in front of the sink with the sponge in their hand. The sink is also filled with water, which suggests that the person is about to wash their hands in the sink. This image shows the person preparing to clean their hands with the sponge, and it highlights the importance of proper hand hygiene in maintaining personal and public health.",
+        "answer_id": "fdFuX3BXZ6P5ag7HQDkFpU",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_42",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000007320.jpg",
+        "action": "put salad in fridge",
+        "description": "In the image, a woman is reaching into a refrigerator and pulling out a bag of potato chips. The refrigerator is positioned in a kitchen, and the woman is standing in front of it. The bag of chips is visible, and she is holding it in her hand. The woman is likely about to eat the chips or put them away in a different location. The presence of a bag of chips in the refrigerator suggests that the woman might have purchased them recently or stored them there for later consumption. The image captures a moment of everyday life, where the woman is accessing and consuming food items in her kitchen.",
+        "answer_id": "BDKgqdAZ4NWC3nYnDVXcdX",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_43",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000007381.jpg",
+        "action": "take out bag",
+        "description": "In the image, a person is standing in front of a refrigerator with a freezer door open. The refrigerator is white and has a door that is open, revealing the inside of the appliance. The person is holding a frozen food item, such as a frozen pizza, and is about to place it inside the refrigerator. The frozen food item is positioned in the hand of the person, and the person is standing in front of the open freezer door, ready to place the frozen food inside.",
+        "answer_id": "46U54duV7RaA2BJC7msoV2",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_44",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000007981.jpg",
+        "action": "open bag",
+        "description": "In the image, there is a woman standing next to a kitchen sink, holding a bowl of food. The bowl is filled with a variety of food items, such as fruits and vegetables. The woman is holding the bowl and looking at it, possibly to determine what to do with the contents. The sink is positioned next to the woman, and there are some utensils, such as a spoon, on the counter. The scene suggests that the woman is preparing to wash the bowl and utensils, or perhaps she is about to eat the food in the bowl. The image captures a moment in the woman's daily routine, where she is engaged in a task related to food preparation or cleaning.",
+        "answer_id": "V9TDmp5ZrVGGK7K5JmnY4b",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_45",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000008227.jpg",
+        "action": "take out raisins",
+        "description": "In the image, we see a woman holding a bowl of lettuce and a bottle of dressing, standing in front of a kitchen counter with a sink. She is preparing a salad by pouring dressing over the lettuce in the bowl. The woman is holding the bowl and bottle with both hands, and she is standing in a kitchen, possibly preparing a meal for herself or someone else. The objects are positioned on the counter, with the bowl of lettuce and the bottle of dressing being close to each other. The woman is performing the action of pouring dressing over the lettuce, which is a common step in preparing a salad.",
+        "answer_id": "iTfuc7bD5RdDxoXySDsXxv",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_46",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000008356.jpg",
+        "action": "put raisins in salad",
+        "description": "In the image, there is a woman holding a bowl of lettuce and a spoon, standing near a kitchen sink. The bowl of lettuce is placed on a counter, and the woman is about to wash the lettuce in the sink. The woman is holding the spoon in one hand and the bowl in the other, indicating that she is preparing to wash the lettuce with water. The objects are positioned in a way that allows the woman to easily access the sink and the bowl of lettuce. The action being performed is washing the lettuce in the sink, which is a common practice for cleaning and preparing vegetables for consumption.",
+        "answer_id": "PGE8TJmdjPCbBKLE5bd3kx",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_47",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000008637.jpg",
+        "action": "put raisins back in bag",
+        "description": "In the image, there is a woman holding a yellow bowl with a lid and a spoon, while standing in front of a sink with a dish rack. The bowl is filled with a mixture of vegetables, and the woman is likely preparing to wash the bowl and the spoon. The dish rack is also filled with dishes, which suggests that the woman is in the process of cleaning them. The objects are positioned in a way that the woman can easily access them and perform the necessary actions. The woman's action of holding the bowl and spoon indicates that she is about to wash the bowl and the spoon, which is a common task in daily life.",
+        "answer_id": "29tjtY7FiVa8mwHowKSGqo",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_48",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000008920.jpg",
+        "action": "close bag",
+        "description": "In the image, you see a kitchen sink, a dishwasher, and a person holding a sponge. The person is cleaning the dishwasher with the sponge, which is positioned on the counter near the sink. The sink is filled with water, and there is a bowl or a plate on the counter. The person is using the sponge to clean the dishwasher, which is likely a part of their daily routine for maintaining the cleanliness of the kitchen appliances.",
+        "answer_id": "4DVA9an5ghdV8uiBSJvbha",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__0",
+        "id": "P18_03_49",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000008960.jpg",
+        "action": "seal bag",
+        "description": "In the image, we see a person standing in front of a sink, holding a sponge and a cleaning solution. The sink is filled with water, and the person is using the sponge to clean the sink. The person is positioned in front of the sink, with the sponge and cleaning solution in their hands. The action being performed is the person cleaning the sink with the sponge and cleaning solution, ensuring that the sink is thoroughly cleaned and free of any dirt or debris.",
+        "answer_id": "a92Ns8z9M3oo3bRc3LQZxg",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_50",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000009146.jpg",
+        "action": "open fridge",
+        "description": "In the image, we see a person holding a sponge and a dish towel, standing in front of a kitchen sink. The person is likely preparing to clean the sink, as they are holding the sponge and dish towel. The sink is positioned on the left side of the image, and the person is standing in front of it. The objects are placed on the countertop, with the sponge and dish towel being used for cleaning purposes. The image captures a moment in the person's daily routine, demonstrating the act of cleaning the sink.",
+        "answer_id": "g2TbZSPWHuoeRtcZZHjetw",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_51",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000009193.jpg",
+        "action": "put bag in fridge",
+        "description": "In the image, a woman is reaching into a refrigerator to grab a bottle of juice. The refrigerator is positioned in a kitchen, with the bottle of juice sitting on top of the refrigerator shelf. The woman is holding a spoon in her hand, which suggests that she might be preparing to eat or drink the juice. The image captures a moment of her reaching into the refrigerator to retrieve the bottle, and it could be part of her daily routine or a casual moment.",
+        "answer_id": "N6aGVSnbVJ23eRFo7P4FvU",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_52",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000009397.jpg",
+        "action": "close fridge",
+        "description": "In the image, we see a kitchen sink, a dishwasher, and a person washing dishes. The person is standing in front of the sink, holding a plate and a sponge, and appears to be washing the dishes. The dishes are placed on the counter next to the sink, and the dishwasher is located nearby. The sink is filled with water, and the person is using the sponge to clean the dishes. The scene shows a typical kitchen setting where people often wash dishes after meals.",
+        "answer_id": "YpCrAAp5Z8zkZY77Ttr7Ps",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_53",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000009449.jpg",
+        "action": "take cucumber",
+        "description": "In the image, we see a kitchen with a stove, a sink, and a refrigerator. A person is standing in front of the stove, holding a spoon and a bowl. They are likely preparing or cooking food on the stove, and the spoon and bowl are being used for this purpose. The objects are positioned in a way that allows the person to easily access the stove and the ingredients they are using. The scene suggests that the person is actively engaged in cooking or preparing a meal in the kitchen.",
+        "answer_id": "4TdJ3MtXUkKkYG53DZ6pQm",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_54",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000009772.jpg",
+        "action": "take knife",
+        "description": "In the image, we see a woman holding a spoon and a bowl, with a plate and a cup on the counter. The woman is using the spoon to scoop up food from the bowl and put it into the cup. The objects are positioned on the counter, with the bowl and cup being placed on the edge of the counter, while the plate is positioned on top of the counter. The woman is performing the action of scooping and transferring food from the bowl to the cup, likely preparing a meal or snack.",
+        "answer_id": "naPr5Bwqw3Y3r5fii6ntzL",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_55",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000009941.jpg",
+        "action": "cut cucumber",
+        "description": "In the image, a woman is standing in front of a sink, holding a green vegetable, possibly a cucumber. She is washing the vegetable in the sink, using water and soap to clean it. The sink is filled with water, and the woman is using a sponge to wash the vegetable. The sink is positioned in a kitchen, and there are dishes and utensils nearby. The woman is performing the action of washing the vegetable to prepare it for consumption.",
+        "answer_id": "gaYWUSX4m6hXiyyXAJMhzW",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_56",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000010091.jpg",
+        "action": "cut the end off the cucumber",
+        "description": "In the image, you see a woman standing in front of a sink, with a dishwasher to her right. The sink is filled with dishes, and the woman is holding a sponge and a dishcloth. She is cleaning the dishes, likely washing them in the sink. The objects are positioned in a way that allows the woman to easily access the dishes and clean them. The woman is performing the action of cleaning the dishes, which is an essential task for maintaining a clean and organized kitchen.",
+        "answer_id": "eBBJ9rPyTAHJhccMdMBPNF",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_57",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000010469.jpg",
+        "action": "take plastic wrap off of cucumber",
+        "description": "In the image, you see a woman standing in front of a kitchen sink, with a dish rack and a dishwasher to her right. She is holding a cucumber and using a knife to cut it. The woman is positioned near the sink, with the dish rack and dishwasher nearby, which suggests that she is likely preparing to wash the dishes. The cucumber is being cut by the woman using the knife, which is a common task in the kitchen.",
+        "answer_id": "hrz3agwyFxPVXNTZaTZAEL",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_58",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000010689.jpg",
+        "action": "throw out the plastic wrap",
+        "description": "In the image, there is a woman washing dishes in a kitchen sink. She is holding a sponge and is using it to clean a dish, which is placed on the countertop. The sink is filled with water, and there are other dishes and utensils in the sink as well. The woman is positioned in front of the sink, and her hands are immersed in the water while she cleans the dish. This scene shows the woman performing a common household task, such as washing dishes, in a kitchen setting.",
+        "answer_id": "D6q5NLhfqkwxMBcqJBfQbz",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_59",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000011070.jpg",
+        "action": "open fridge",
+        "description": "In the image, we see a refrigerator door open, revealing a shelf inside. The shelf is filled with various items such as a bottle of juice, a container of yogurt, and a bowl of fruit. A human is reaching inside the refrigerator to grab a bottle of juice. The human is positioned in front of the refrigerator, and the items on the shelf are arranged in a neat and organized manner. The image captures a moment of the human interacting with the refrigerator and its contents, likely to grab a drink or a snack.",
+        "answer_id": "nWh7rvAqxgZ85xAXsu2ZWh",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_60",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000011191.jpg",
+        "action": "put cucumber in fridge",
+        "description": "In the image, we see a refrigerator with a door open, revealing a shelf inside. A human is reaching into the refrigerator to grab a container of food. The objects in the refrigerator are positioned on the shelf, and the human is holding a container of food in their hand. The action being performed is the human reaching into the refrigerator to retrieve the food item.",
+        "answer_id": "P5pPtPQAAM6kVeRASS4WtH",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_61",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000011240.jpg",
+        "action": "close fridge",
+        "description": "In the image, there is a kitchen sink, a stove, and a refrigerator. The human is standing next to the stove, possibly preparing food. The sink is filled with water, and the refrigerator is open, revealing its contents. The kitchen appliances are positioned in a typical arrangement for a modern kitchen, with the sink and stove on one side, and the refrigerator on the other side. The human is engaged in an activity related to cooking, which is a common task in a kitchen.",
+        "answer_id": "N9WrumTFoa2QAKNV9uebcm",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_62",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000011357.jpg",
+        "action": "open tap",
+        "description": "In the image, we see a person holding a sponge and cleaning a sink. The sink is filled with water, and the person is using the sponge to clean the sink. The sink is positioned on a countertop, and the person is standing next to it. The image captures a moment in time when the person is actively cleaning the sink, using the sponge to remove dirt and grime.",
+        "answer_id": "eLQgJS7xjBhyYj2SzqTCXQ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_63",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000011472.jpg",
+        "action": "put soap on hands",
+        "description": "In the image, there is a person standing in a kitchen, holding a bottle of cleaning solution and a sponge. The person is positioned near a sink, with the bottle and sponge on the countertop. The person is about to clean the sink, using the sponge and cleaning solution. The image shows a clean and organized kitchen, with the sink being a focal point of the scene.",
+        "answer_id": "gUXjyUo8VAuV9E7egJeRdQ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_64",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000011709.jpg",
+        "action": "wash hands",
+        "description": "In the image, there is a person washing their hands in a sink, which is filled with water. The sink is positioned on a countertop, and there is a dish rack nearby. The person is using a sponge to clean their hands, and there is a bottle of soap on the counter. The sink is also equipped with a faucet, which is being used to dispense water for the person to wash their hands. This scene shows the person performing a daily task, such as washing their hands, which is essential for maintaining personal hygiene and preventing the spread of germs.",
+        "answer_id": "YDmgWUxKa388obFv39bpSK",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_65",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000012460.jpg",
+        "action": "wash knife",
+        "description": "In the image, you see a woman washing her hands in a sink, which is positioned next to a countertop with a faucet. The woman is holding a plate and using it to clean her hands, which are submerged in the sink. The sink is filled with water, and the woman is using the plate as a makeshift sink to clean her hands. This action is likely being performed in a kitchen setting, where the woman may have been preparing food or cleaning up after a meal.",
+        "answer_id": "gLcxJMA4TkRSJ9HTAPb23W",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_66",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000012810.jpg",
+        "action": "put more soap on sponge",
+        "description": "In the image, a woman is standing in a kitchen, holding a bottle of cleaning solution. She is pouring the liquid into a sink, which is filled with water. The woman is positioned next to the sink, and the bottle is being held above the sink, with the liquid flowing into it. This action is likely part of the woman's daily routine, as she is cleaning the sink and preparing it for use. The presence of the cleaning solution and the water in the sink suggests that the woman is performing a cleaning task, such as rinsing the sink or washing dishes.",
+        "answer_id": "fdEZSWStuFHqKze7XfSFxh",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_67",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000013078.jpg",
+        "action": "wash knife",
+        "description": "In the image, a person is standing in front of a sink, holding a sponge and a bottle of dish soap. The sink is filled with water, and the person is about to wash dishes. The sponge is being used to clean the dishes, and the bottle of dish soap is being held by the person to apply soap to the dishes. The person is positioned in front of the sink, with the sponge and bottle of dish soap within reach. This scene shows the person preparing to wash dishes, which is a common household task that involves cleaning and sanitizing dishes and utensils.",
+        "answer_id": "VHkBWBgxkwjMf52VeFyqpV",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_68",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000013836.jpg",
+        "action": "wash plate",
+        "description": "In the image, we see a woman standing in a kitchen, holding a sponge and a dishcloth. She is cleaning a sink, which is filled with water, and there is a dish on the counter. The woman is using the sponge and dishcloth to clean the sink, ensuring that it is spotless and free of any dirt or debris. The objects are positioned in a way that allows the woman to effectively clean the sink without any obstruction. The action being performed by the woman is cleaning the sink, which is an essential task in maintaining a clean and hygienic kitchen environment.",
+        "answer_id": "dojc2XiWBS6j8joxNixAgT",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_69",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000015212.jpg",
+        "action": "wash the lid of the tupperware",
+        "description": "In the image, a woman is standing in front of a sink, holding a sponge and a dishrag. She is cleaning a sink with the sponge and dishrag, which are positioned on the countertop next to each other. The woman is performing the action of cleaning the sink, using the sponge and dishrag to remove any dirt or debris from the sink's surface.",
+        "answer_id": "kyXybFsrviwGurvy8oqPpJ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_71",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000015810.jpg",
+        "action": "take cucumber",
+        "description": "In the image, there is a woman standing next to a sink, holding a sponge and a bottle of dish soap. She is about to wash dishes, which is her task. The sink is filled with water, and the woman is holding the sponge and dish soap, ready to start the cleaning process. The objects are positioned in a way that the woman can easily access the sink and the dishes. The woman is performing the action of washing dishes, which is a common household chore that involves cleaning and rinsing dishes using water and soap.",
+        "answer_id": "nEAyJ5fH7wAyEUkwqEtrT3",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_72",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000016048.jpg",
+        "action": "wash cucumber",
+        "description": "In the image, there is a sink with a faucet, a dishwasher, and a person washing their hands. The person is standing in front of the sink, holding a towel, and using it to clean their hands. The sink is positioned in the foreground, and the dishwasher is located behind it. The person is performing the action of washing their hands, which is a common practice to maintain personal hygiene and prevent the spread of germs.",
+        "answer_id": "EhwmEbQqJ2LNAtLnJsenPw",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_70",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000016063.jpg",
+        "action": "rinse hands",
+        "description": "In the image, a woman is washing her hands in a sink with a faucet. The sink is filled with water, and there is a cup on the counter next to the sink. The woman is using a sponge to clean her hands, and she is also holding a towel. The sink is positioned in a kitchen, and the cup and towel suggest that the woman is preparing to dry her hands after washing them. The woman is performing the action of washing her hands in the sink, which is a common practice in maintaining personal hygiene and preventing the spread of germs and illnesses.",
+        "answer_id": "Np4dNamXD35trGvmjgsWGQ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_73",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000016282.jpg",
+        "action": "close tap",
+        "description": "In the image, there is a sink, a dish rack, a dishwasher, and a person cleaning dishes. The sink is located in a kitchen, and the dish rack is placed next to it. The dishwasher is also positioned nearby. The person is cleaning dishes by washing them in the sink. They are using a sponge and a dishcloth to clean the dishes, and the dish rack is likely being used to dry the cleaned dishes. The image shows a person performing a common household task, which is essential for maintaining a clean and organized kitchen.",
+        "answer_id": "FWF2o2kfJQPjvcwmgQPv76",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_74",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000016546.jpg",
+        "action": "dry hands with towel",
+        "description": "In the image, we see a person standing in front of a stove, with a dish towel in their hand. They are cleaning the stove with the dish towel, possibly wiping off any food residue or spills. The stove is positioned on the countertop, and there are two burners on it. The person is standing in front of the stove, with their feet on the ground, and is using the dish towel to clean the stove. This action is part of the daily chores and helps maintain a clean and organized kitchen environment.",
+        "answer_id": "Uk3CzPVVJXt6Y6hBQZDjRi",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_75",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000016830.jpg",
+        "action": "dry cucumber with towel",
+        "description": "In the image, there is a person standing in front of a stove with two burners on it. They are holding a green vegetable, likely a cucumber, and using a cleaning cloth to wipe down the burners. The person is positioned in front of the stove, with the cucumber held in their hand and the cleaning cloth in their other hand. The action being performed is cleaning the burners using the cloth to remove any dirt or debris that may have accumulated on them.",
+        "answer_id": "ZBYNfKzf5arjLcGyiK2F9Y",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_76",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000016980.jpg",
+        "action": "take knife",
+        "description": "In the image, there is a man sitting at a kitchen counter, holding a knife and cutting a piece of fruit. The man is positioned next to a bowl containing other fruits, and he is cutting the fruit with the knife. The image captures a moment in time when the man is preparing to eat the fruit or is in the process of cutting it. The presence of other fruits in the bowl suggests that the man might be preparing a fruit salad or enjoying a snack. The scene highlights the everyday activity of preparing food and the importance of having the necessary tools, such as a knife, to complete the task.",
+        "answer_id": "Js9vvmSEKt6payvKBos4BN",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_77",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000017055.jpg",
+        "action": "put fork in bowl",
+        "description": "In the image, we see a kitchen countertop with various objects, including a bowl, a cutting board, a knife, and a plate. The human is holding a knife and is about to cut an apple. The objects are positioned on the countertop, with the apple on the cutting board and the knife in the hand of the person. The person is preparing to cut the apple, which is likely to be used in a recipe or as a snack. The presence of the bowl and plate suggests that the person may be preparing a meal or snack, and the cutting board and knife are essential tools for this process.",
+        "answer_id": "7L6vWDm2VjxxkW7AH5SH4M",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_78",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000017375.jpg",
+        "action": "cut cucumber",
+        "description": "In the image, there is a person holding a sponge and cleaning a plate with a green leaf on it. The plate is placed on a countertop, and the person is using the sponge to clean the plate. The image shows a close-up view of the person's hand holding the sponge and the plate, with the green leaf on the plate. The action being performed is the person cleaning the plate with the sponge, ensuring that the plate is free of any dirt or debris.",
+        "answer_id": "cwrFky96hYU46vdQZCxmGL",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_79",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000017515.jpg",
+        "action": "eat cucumber",
+        "description": "In the image, there is a woman standing in front of a kitchen counter, holding a knife and a cutting board. The cutting board is placed on top of a white plate, and there is a bowl of green vegetables on the plate. The woman is about to cut the vegetables using the knife. The objects are positioned in a way that the woman can easily access the cutting board and the vegetables on the plate. The action being performed by the woman is cutting the vegetables, which indicates that she is preparing to cook or prepare a meal.",
+        "answer_id": "eTLXVJjWxF57qZFxMiHmQQ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_80",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000018038.jpg",
+        "action": "still cutting cucumber",
+        "description": "In the image, there is a person holding a knife and cutting a cucumber on a plate. The cucumber is placed on a white plate, and the person is holding the knife in their hand. The person is cutting the cucumber into small pieces, which will be used for a meal or as a snack. The image shows the person's hands and the cucumber, indicating that they are engaged in the process of preparing the cucumber for consumption.",
+        "answer_id": "abYk4Zq8VzvewPXW6SKRvf",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_82",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000018343.jpg",
+        "action": "put cut cucumber in bowl",
+        "description": "In the image, we see a woman standing in a kitchen, holding a green cucumber in her hand. She is standing in front of a white plate and a bowl, both of which are filled with food. The woman is using a spoon to remove the cucumber from the plate and place it into the bowl. The objects are positioned in a way that the woman can easily access the plate and the bowl, and she is performing the action of transferring the cucumber from the plate to the bowl.",
+        "answer_id": "kuAAky6XTjsw8Ytv5vKiUU",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_81",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000018555.jpg",
+        "action": "put cut cucumber in bowl",
+        "description": "In the image, a person is standing in front of a kitchen counter, holding a knife and cutting a cucumber. The cucumber is placed on a plate, and there are other objects such as a bowl, a cutting board, and a utensil holder on the counter. The person is performing the action of cutting the cucumber with the knife, which is positioned on the cutting board. The scene suggests that the person is preparing a meal or snack, possibly using the ingredients on the counter.",
+        "answer_id": "dsXRJ3zGAz9dpFCVWXhkmc",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_83",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000018601.jpg",
+        "action": "cut cucumber",
+        "description": "In the image, there is a woman standing in front of a kitchen counter, holding a knife and a cutting board. She is cutting a cucumber on the cutting board, which is placed on the counter. The woman is positioned next to a bowl and a plate, which are also on the counter. The cucumber is being cut into small pieces, and the woman is using the knife to perform this action. The scene suggests that she is preparing a meal or snack using the cucumber, bowl, and plate.",
+        "answer_id": "VTGL57ELVpA55GbL5B88LS",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_84",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000019105.jpg",
+        "action": "open cupboard",
+        "description": "In the image, a woman is standing next to a kitchen counter, holding a spoon and a bowl. She is preparing a dish, possibly a salad, by mixing the ingredients in the bowl with the spoon. The woman is positioned in front of a stove, which is likely where she will cook the dish once it is mixed. The objects are arranged in a way that allows the woman to easily access the bowl and spoon while working on the dish. The image shows the woman actively engaged in the process of preparing the meal, demonstrating her attention to detail and focus on the task at hand.",
+        "answer_id": "7RXuUSp6Se4fzfUFevTWQr",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_85",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000019564.jpg",
+        "action": "take out oregano",
+        "description": "In the image, a woman is holding a spoon and a bowl, and she is standing in front of a counter. The spoon and bowl are positioned on the counter, and the woman is holding the spoon and looking at the bowl. It appears that she is about to scoop food from the bowl into the spoon. This action suggests that she is preparing to eat or serve food, possibly from a meal or snack. The presence of the counter and the bowl and spoon on it indicates that the woman is in a kitchen setting, possibly at home or in a dining establishment.",
+        "answer_id": "NdLCfzSMmKvcq9wY9iQ9fF",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_86",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000019632.jpg",
+        "action": "put oregano in salad",
+        "description": "In the image, there is a person holding a spoon and a bowl of cucumber salad. The person is standing in front of a stove, and the bowl is placed on the stove. The person is likely preparing the cucumber salad by adding ingredients or stirring it. The bowl is positioned on the stove, which suggests that the person is either preparing the salad or about to serve it. The presence of a spoon in the image indicates that the person is actively involved in the process of preparing or consuming the cucumber salad.",
+        "answer_id": "Vgtcb27E3xdvQickpHvH4g",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_87",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000020060.jpg",
+        "action": "open tap",
+        "description": "In the image, there is a person standing in front of a sink, with a dishwasher and a toilet nearby. The person is holding a sponge and cleaning the sink, which is filled with water. The dishwasher and toilet are positioned next to the sink, and the person is using the sponge to clean the sink. This scene suggests that the person is performing a routine task, possibly part of their daily chores, such as cleaning the sink and preparing for meals.",
+        "answer_id": "PGedHe9KhNmUQCv8yyxzvs",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_88",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000020273.jpg",
+        "action": "rinse hands",
+        "description": "In the image, a person is standing next to a sink, which is filled with water. There is a dishwasher, a dish rack, and a sponge in the sink. The person is using a sponge to clean the dishes, which are placed on the dish rack. The sink is positioned in a kitchen, and the person is likely washing dishes to prepare them for storage or use. The objects are arranged in a way that allows the person to easily access the dishes and clean them effectively. The image captures a moment in the process of cleaning dishes, which is an essential task in maintaining a clean and organized kitchen.",
+        "answer_id": "ixgG4sz9ym2644YUmkkK6e",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_89",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000020344.jpg",
+        "action": "close tap",
+        "description": "In the image, we see a kitchen sink, a stove, and a countertop. The sink is filled with water, and the stove is on, with a pot on it. A human is standing next to the stove, possibly preparing food. The objects are positioned in a way that allows for easy access to the sink, stove, and countertop. The human is performing an action of cooking or preparing food, which involves using the stove and the sink.",
+        "answer_id": "gDpRAR6acxXTHh8985Lx7C",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_90",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000020385.jpg",
+        "action": "dry hand",
+        "description": "In the image, there is a person holding a spoon and a bowl, and they are standing in front of a stove. The person is likely preparing a meal or snack, as they are holding a spoon and a bowl. The objects are positioned on the countertop, with the bowl containing food or ingredients, and the spoon being used to scoop or mix the contents. The person is performing the action of preparing the meal or snack, which involves mixing, stirring, or adding ingredients to the bowl.",
+        "answer_id": "9W9r9XgQ9ZZbiVhDS7YSjh",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_91",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000020517.jpg",
+        "action": "close tupperware of oregano",
+        "description": "In the image, we see a woman standing in front of a kitchen counter with a bowl of salad on it. She is holding a spoon and is about to eat the salad. The bowl is positioned on the counter, and there are other dishes and utensils nearby. The woman is preparing to consume the salad, which suggests that she might be preparing a meal or snack. The image shows a typical kitchen setting where people often prepare and eat food.",
+        "answer_id": "d8op9PmGaihkRJZUw76sZi",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_92",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000020959.jpg",
+        "action": "put tupperware of oregano in cupboard",
+        "description": "In the image, we see a woman holding a spoon and a bowl, both of which are positioned on a countertop. The woman is holding the spoon in her hand and is about to scoop some food from the bowl. The bowl contains a mixture of food, such as cereal or other breakfast items. The woman is likely preparing her breakfast or assisting someone else with their meal. The scene suggests that the woman is actively engaged in the process of eating or preparing food, and the spoon and bowl are essential tools for this activity.",
+        "answer_id": "Kv4Dp3xaYwzXpVpCoBizQu",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_93",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000021077.jpg",
+        "action": "take salt",
+        "description": "In the image, we see a person standing in front of a kitchen counter, holding a cup of coffee. The person is pouring the coffee into a cup, which is placed on a counter. The counter is also filled with other items, such as a coffee maker, a bag of coffee, and a bowl of bread. The person is likely preparing their morning coffee and breakfast, and the scene suggests a cozy and organized kitchen environment.",
+        "answer_id": "oS9NEaFgeGpMvbCdRGu3Yi",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_94",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000021325.jpg",
+        "action": "take off the cap of salt",
+        "description": "In the image, there is a person holding a green vegetable, possibly a cucumber, and using a knife to cut it. The person is standing in front of a kitchen counter, which is filled with various dishes, utensils, and a bowl. The person is holding the vegetable in one hand and using the knife in the other hand to cut it. The image shows the person's hands and the knife, but it does not provide a clear view of the vegetable or the cutting process.",
+        "answer_id": "jqUmk4HMP3VrqFcdC6jHVt",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_95",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000021369.jpg",
+        "action": "put salt in salad",
+        "description": "In the image, a woman is standing in front of a kitchen counter, holding a bottle of salad dressing. She is pouring the dressing into a bowl, which is placed on a plate. The woman is holding the bottle with her left hand and pouring the dressing into the bowl with her right hand. The plate and bowl are positioned on the counter, and the woman is standing in front of the counter, which suggests that she is preparing a salad or a meal. The image shows a simple and straightforward process of preparing a dish, with the woman focusing on pouring the dressing into the bowl.",
+        "answer_id": "cPa8ekMheT8qiUn7gkosLj",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_96",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000021581.jpg",
+        "action": "put cap back on the salt",
+        "description": "In the image, there is a woman standing in a kitchen, surrounded by various objects. She is holding a bottle of salad dressing and a spoon, and she is pouring the dressing into a bowl. The bowl is placed on a counter, and there is a sink nearby. The woman is wearing a white shirt and a black apron, which suggests that she might be preparing a meal or cleaning up in the kitchen. The objects in the image include the bowl, the bottle of salad dressing, the spoon, and the sink, which are all positioned in a way that allows the woman to easily access and use them during her kitchen activities.",
+        "answer_id": "RX8BELbkeyQoMagUp9QXwC",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_97",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000021715.jpg",
+        "action": "put salt in cupboard",
+        "description": "In the image, we see a person holding a loaf of bread and a bag of bread in a kitchen. The person is standing in front of a counter, which is filled with various items such as a bowl, a plate, and a cup. The person is holding the bread and bag of bread, and they might be preparing to put them away in the kitchen. The bread is placed on the counter, and the bag is on the floor. The scene suggests that the person is about to store the bread in the kitchen, possibly in a cabinet or on a shelf. The image does not provide any additional context or details about the person's intentions or the purpose of the bread, but it does show the person's daily routine in the kitchen.",
+        "answer_id": "XrHugDLW5bG53P8P4tLXBo",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_98",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000021851.jpg",
+        "action": "close cupboard",
+        "description": "In the image, there is a woman holding a spoon and a bowl, both of which are filled with vegetables. She is standing in front of a counter with a microwave, a stove, and a sink. The woman is about to stir the vegetables in the bowl with the spoon. The objects are positioned in a kitchen setting, with the microwave, stove, and sink being part of the kitchen's appliances. The woman is performing the action of stirring the vegetables, which suggests that she might be preparing a meal or cooking something.",
+        "answer_id": "Fsz9VTm2FMkRKicuGUKrKj",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__1",
+        "id": "P18_03_99",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000022114.jpg",
+        "action": "untwist cap of olive oil",
+        "description": "In the image, there are a few people, a woman, and a man, standing around a kitchen counter with various objects. The woman is holding a bottle of wine, and the man is holding a bottle of beer. They are both standing next to a bowl of lettuce, which is likely being prepared for a salad. The woman is pouring the wine into a glass, while the man is pouring the beer into a glass as well. This scene suggests that they are enjoying a casual gathering or a meal together, possibly at a party or in a social setting.",
+        "answer_id": "aiBpqsoRZfNF5aCPGdnA2N",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__2",
+        "id": "P18_03_100",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000022313.jpg",
+        "action": "pour olive oil on salad",
+        "description": "In the image, there is a person holding a bowl of vegetables, possibly cucumbers, and a bottle of soda. The person is standing in front of a kitchen counter, with the bowl and bottle placed on the counter. The person is holding the bowl with one hand and the bottle with the other, suggesting that they might be preparing to eat or serve the vegetables. The presence of the soda bottle indicates that the person might be planning to drink it alongside the vegetables. The scene is simple and straightforward, with the focus on the person and the objects they are holding.",
+        "answer_id": "Eer94WyAN4icZZKpiN3px4",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__2",
+        "id": "P18_03_101",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000022471.jpg",
+        "action": "close olive oil",
+        "description": "In the image, a woman is holding a bottle of wine and a glass, while standing next to a counter. The wine bottle is placed on the counter, and the woman is holding the glass and pouring the wine into it. This action indicates that she is preparing to drink the wine or is in the process of doing so. The objects are positioned in a way that allows the woman to easily access the wine bottle and pour the wine into the glass.",
+        "answer_id": "BBA24GfSH67uf55fWNBFdg",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__2",
+        "id": "P18_03_102",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000022609.jpg",
+        "action": "untwist cap of vinegar",
+        "description": "In the image, a woman is preparing a salad in a kitchen. She is holding a bowl and a spoon, and she is using the spoon to scoop up some chopped vegetables from a bowl on the counter. The woman is positioned in front of a stove, with the bowl of chopped vegetables on the counter next to her. She is likely preparing the salad by mixing the chopped vegetables with other ingredients, such as dressing or seasonings, in the bowl. The image shows the woman's hands and the bowl, but it does not provide a clear view of the chopped vegetables or the salad itself.",
+        "answer_id": "jMqEBZFCZBnCdYbcxPruX4",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__2",
+        "id": "P18_03_103",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000022869.jpg",
+        "action": "pour vinegar on salad",
+        "description": "In the image, there is a person holding a bowl and a spoon while standing in front of a kitchen counter. The bowl is filled with green vegetables, and the person is about to scoop some of them into the spoon. The person is positioned in front of a stove, which suggests that they might be preparing a meal or snack using the vegetables. The scene appears to be a casual, everyday moment in the kitchen, where the person is engaged in a simple task of scooping and eating the vegetables.",
+        "answer_id": "TV2mherc4B59EKRoF3ZGLd",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__2",
+        "id": "P18_03_104",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000022948.jpg",
+        "action": "close vinegar",
+        "description": "In the image, there is a woman standing next to a sink, holding a glass of wine. She is pouring the wine into the sink, which is filled with water. The sink is positioned on the countertop, and the woman is standing in front of it. The wine glass is being poured into the sink, and the woman is holding the glass with one hand while pouring the wine. This action is likely being performed to clean the wine glass or to dispose of the wine in a responsible manner.",
+        "answer_id": "KD8srcnEy9CxXMjHyXLgUq",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__2",
+        "id": "P18_03_105",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000023644.jpg",
+        "action": "stir salad",
+        "description": "In the image, there is a woman standing in front of a kitchen counter, holding a bowl with a green vegetable in it. She is holding the bowl with one hand and using a spoon to scoop out the vegetable from the bowl. The woman is positioned in front of a stove, with the bowl and spoon on the counter. The green vegetable is likely a cucumber, and the woman is preparing it for consumption. The scene shows the woman's hands and the bowl with the cucumber, indicating that she is in the process of preparing and eating the vegetable.",
+        "answer_id": "k6YHtf4uBoUxpGNuUjLsc9",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__2",
+        "id": "P18_03_106",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000024139.jpg",
+        "action": "open oven",
+        "description": "In the image, there is a person holding a towel and standing in front of a stove with two burners on it. The person is using the towel to clean the burners, which are positioned on the stove. The person is performing the action of cleaning the burners, ensuring that they are free from any debris or residue. The image shows the person's hands holding the towel and cleaning the burners, demonstrating their attention to detail and the importance of maintaining cleanliness in the kitchen.",
+        "answer_id": "nuw9vbWuFxckmnVCTzyrw6",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__2",
+        "id": "P18_03_107",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000024557.jpg",
+        "action": "take oven mittens",
+        "description": "In the image, we see a woman holding a spatula, which is positioned on top of a plate. She is also holding a bowl, which is placed on the counter next to the plate. The woman is performing the action of stirring the contents of the bowl with the spatula. The objects are arranged in a kitchen setting, with the woman standing in front of the counter and the bowl and plate being used for food preparation.",
+        "answer_id": "5uxAhMXKckenN6bWvAdLXP",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__2",
+        "id": "P18_03_108",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000024742.jpg",
+        "action": "open oven again",
+        "description": "In the image, a person is holding a spatula and using it to clean the oven. The oven is positioned on a kitchen counter, and the person is standing next to it. The person is using the spatula to remove food residue from the oven, which is likely a white or silver oven. The image suggests that the person is performing a routine cleaning task to maintain the cleanliness and functionality of the oven.",
+        "answer_id": "5PpgFBBQikKhqopKedvrbW",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__2",
+        "id": "P18_03_109",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000024976.jpg",
+        "action": "take out tupperware",
+        "description": "In the image, there is a human holding a spatula and standing in front of a stove with a pot on it. The pot contains a dish of cooked pasta, and the human is stirring the pasta with the spatula. The human is positioned near the stove, and the pot is placed on the stove, which suggests that the person is preparing or cooking the pasta. The image captures the moment when the human is stirring the pasta, indicating that they are actively engaged in the cooking process.",
+        "answer_id": "DyLH3sktgh8HYutSFLjFm5",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__2",
+        "id": "P18_03_110",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000025290.jpg",
+        "action": "turn off oven",
+        "description": "In the image, there is a person standing in front of a kitchen counter, surrounded by various kitchen appliances and utensils. The person is holding a spoon and is about to stir a pot of food on the stove. The counter is filled with dishes, a plate, and a bowl, indicating that the person is preparing a meal. The presence of a microwave and a toaster suggests that the kitchen is equipped with modern appliances. The scene shows a person actively engaged in cooking and preparing a meal, which is a common activity in a kitchen setting.",
+        "answer_id": "CpkcZrZq35eXfUnb3bhRtv",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__2",
+        "id": "P18_03_111",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000025418.jpg",
+        "action": "take off mitten",
+        "description": "In the image, there is a woman standing in front of a sink, holding a sponge and a dish towel. She is likely preparing to clean a dish or wash her hands. The sink is filled with water, and there is a dish rack nearby. The woman is positioned in front of the sink, with the sponge and dish towel in her hands. She is likely about to use the sponge to clean the dish or her hands, and the dish towel might be used to dry them afterward. The scene appears to be a common everyday activity in a kitchen setting.",
+        "answer_id": "LsoTkv3dg9A48HvrBNFWEJ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_03__2",
+        "id": "P18_03_112",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_03.tar",
+        "image": "./frame_0000025458.jpg",
+        "action": "put mitten away",
+        "description": "In the image, we see a sink, a stove, and a person standing in front of the sink. The sink is filled with water, and the person is washing their hands. The stove is located nearby, and there is a pot on the stove. The image captures a moment in the kitchen where the person is preparing to wash their hands, and the sink and stove are in use. The objects are positioned in a way that allows the person to easily access the sink and stove while performing their daily task.",
+        "answer_id": "NRHEu6Cfj5VdsqMEcqR99w",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    }
+]

@@ -1,0 +1,1472 @@
+[
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_0",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000000154.jpg",
+        "action": "enter kitchen",
+        "description": "In the image, there is a person holding a sponge and a bottle of cleaning solution, both of which are positioned on a black countertop. The person is using the sponge to clean the countertop, which is likely a part of a kitchen or bathroom. The action being performed is cleaning the countertop using the sponge and cleaning solution. The person is holding the sponge and bottle, indicating that they are preparing to clean the countertop and may have already started the cleaning process.",
+        "answer_id": "fCSbdPVFvwkb9FjeenXqxC",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_1",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000000171.jpg",
+        "action": "get mocha pot",
+        "description": "In the image, we see a person holding a spatula while standing in front of a stove. The person is holding the spatula in their hand and is likely preparing food or cleaning up a cooking surface. The stove is positioned in the kitchen, and the person is standing in front of it. The image does not provide any additional context or details about the person's actions or the food they are preparing.",
+        "answer_id": "HHM7mq5pYjAifuxDsorYWj",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_2",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000000428.jpg",
+        "action": "unscrew mocha pot",
+        "description": "In the image, there is a person washing their hands in a sink, which is positioned next to a faucet. The sink is filled with water, and the person is using soap to clean their hands. The faucet is also turned on, providing a steady supply of water for the person to wash their hands. The image captures a moment of the person performing the action of washing their hands in the sink, demonstrating proper hygiene practices.",
+        "answer_id": "PacWFHCgPrjxnk2um9gHRd",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_3",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000000544.jpg",
+        "action": "turn on tap water",
+        "description": "In the image, there is a person standing next to a sink, holding a cup of coffee. The sink is filled with water, and the person is pouring the coffee into the sink. The person is positioned in front of the sink, and the cup of coffee is being held in their hand. This action is likely being performed to clean the cup or to prepare the coffee for consumption. The scene suggests that the person is taking care of their belongings or preparing their beverage in a clean and organized manner.",
+        "answer_id": "bb4J8J5axmgFsJU68mxRuk",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_4",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000000608.jpg",
+        "action": "clean mocha",
+        "description": "In the image, a person is standing in front of a sink, holding a bottle of soap. The sink is filled with water, and the person is about to pour the soap into the sink. The person is positioned near the faucet, and the bottle of soap is placed on the counter next to the sink. The action being performed is the person pouring the soap into the sink, which is likely to clean the sink or wash their hands.",
+        "answer_id": "MfAjGByzoSMyPNkXYMaGTt",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_5",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000000672.jpg",
+        "action": "pour water",
+        "description": "In the image, there is a person standing near a kitchen sink with a faucet. The person is holding a glass under the faucet, and water is flowing into the glass. The person is likely filling the glass with water from the faucet, which is positioned on the countertop. The image shows the person's hands holding the glass and the faucet, with the water flowing into the glass. This action is a common task in daily life, as people often use the kitchen sink to fill glasses with water for various purposes, such as drinking, washing dishes, or cleaning.",
+        "answer_id": "hUu7u6E9QGd3CXKmALWJa6",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_6",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000000896.jpg",
+        "action": "get filter",
+        "description": "In the image, we see a woman standing in front of a sink, with two faucets on the counter. One faucet is turned on, and the woman is washing her hands in the sink. The sink is positioned on a countertop, and the woman is using her hands to clean her hands. The image captures the moment when the woman is performing the action of washing her hands in the sink, which is a common practice for maintaining personal hygiene and cleanliness.",
+        "answer_id": "DkPDUKYJLuW5QjqCeZx8so",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_7",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000001010.jpg",
+        "action": "throw away coffee",
+        "description": "In the image, a man is standing next to a sink, holding a bottle of shampoo. He is pouring the shampoo into the sink, likely preparing to wash his hair. The sink is positioned in a corner of the room, and the man is standing in front of it. The bottle of shampoo is placed on the counter, and the man is pouring it into the sink using a spout or pouring it directly from the bottle. This scene shows the man getting ready to wash his hair, and the sink and bottle of shampoo are essential for this process.",
+        "answer_id": "4gWcHZujxQuYb4cBc2RRT8",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_9",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000001210.jpg",
+        "action": "tap water on",
+        "description": "In the image, there is a man and a woman standing near a sink, with a faucet and a dishwasher in the background. The man is holding a bottle of dishwasher detergent, while the woman is holding a sponge and a dish towel. They are both standing next to the sink, and the man is pouring detergent into the dishwasher. The woman is possibly preparing to wash dishes or cleaning up after a meal. The presence of the dishwasher and sink in the image suggests that the couple is in a kitchen setting, and they might be performing routine tasks related to cleaning and maintaining their kitchen appliances and utensils.",
+        "answer_id": "TjbD86jKB3vq9Rx9rGhFLY",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_8",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000001606.jpg",
+        "action": "clean coffee filter",
+        "description": "In the image, we see a woman standing in front of a sink, with her hands holding a faucet handle. She is turning the faucet handle to adjust the water flow from the sink. The sink is positioned on a countertop, and there is a dishwasher nearby. The woman is performing the action of turning the faucet handle to control the water flow, which is essential for washing dishes or cleaning the sink.",
+        "answer_id": "ibUKgpMvLgkcST77eD7Txh",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_10",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000002049.jpg",
+        "action": "get kitchen towel",
+        "description": "In the image, a person is standing in front of a sink, with a cup and a glass on the counter. The person is holding a sponge and is about to wash the dishes. The sink is filled with water, and the cup and glass are positioned on the counter next to the sink. The person is standing in front of the sink, ready to clean the dishes using the sponge. This scene suggests that the person is preparing to wash dishes in the sink, and the cup and glass are likely being used as a container for the soapy water.",
+        "answer_id": "Zes9mADnxqGCPXVbNC5hcj",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_11",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000002248.jpg",
+        "action": "wipe off filter",
+        "description": "In the image, a woman is standing in front of a kitchen sink, holding a roll of paper towels. She is positioned near the sink, with the paper towels in her hand. She is likely preparing to use the paper towels to clean up a spill or mess in the sink. The woman is also holding a bottle of hand sanitizer, which suggests that she is taking precautions to maintain cleanliness and hygiene. The image shows the woman's hands, the paper towels, and the sink, indicating that she is actively engaged in the process of cleaning up the mess.",
+        "answer_id": "23JbRr5Fk5cWgnbpQH7Ssh",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_12",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000002419.jpg",
+        "action": "place filter",
+        "description": "In the image, we see a man standing next to a sink, with his hands holding a sponge and a dishcloth. The sink is filled with water, and the man is washing dishes in it. He is positioned in front of the sink, with the sponge and dishcloth in his hands, and is performing the action of washing dishes.",
+        "answer_id": "XxgtfXGn2YFW3f2dSZANYs",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_13",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000002561.jpg",
+        "action": "turn water on",
+        "description": "In the image, there is a kitchen sink with a faucet, a person holding a glass, and a bottle of water. The person is pouring water from the bottle into the glass, which is placed on the kitchen counter. The faucet is located on the sink, and the person is positioned near the sink, with the bottle of water and the glass close by. This scene shows the process of refilling a glass with water from a bottle, which is a common task in daily life.",
+        "answer_id": "JAFJzv3HYCjxQfNtx6woP9",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_14",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000002881.jpg",
+        "action": "clean upper part",
+        "description": "In the image, there is a man standing in front of a kitchen sink, with a faucet on the sink. He is holding a hand under the faucet, and water is flowing from the faucet onto his hand. This action suggests that he is washing his hands in the sink. The sink is positioned in the kitchen, and the man is standing in front of it, indicating that he is likely preparing to cook or prepare food in the kitchen. The presence of a faucet on the sink indicates that the sink is equipped with running water, which is necessary for washing hands and other tasks in the kitchen.",
+        "answer_id": "aVsDv9KDLZgN34xJRKK6iU",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_15",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000003525.jpg",
+        "action": "turn water off",
+        "description": "In the image, there is a person standing in front of a sink, holding a spray bottle. The sink has two faucets, one of which is being sprayed with water by the person using the spray bottle. The person is positioned next to the sink, and the spray bottle is being used to clean the faucet. The image shows a close-up of the person's hand and the spray bottle, indicating that they are actively engaged in cleaning the faucet.",
+        "answer_id": "cJsJQhaQ58AwvAptQ8N9VQ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_16",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000003753.jpg",
+        "action": "wipe hands",
+        "description": "In the image, we see a sink, a dishcloth, and a person's hands. The sink is positioned on a countertop, and the dishcloth is placed on the sink. The person is using the dishcloth to clean the sink, possibly removing any food residue or debris. The image captures a moment of the person performing the cleaning action, demonstrating their attention to maintaining a clean and hygienic environment.",
+        "answer_id": "HcCLxSJLkJfE5BaGpSeQMc",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_17",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000003793.jpg",
+        "action": "open cupboard",
+        "description": "In the image, a woman is holding a broom and using it to clean the inside of a refrigerator. The broom is positioned against the refrigerator, and the woman is using it to sweep away any debris or dust from the interior of the appliance. This action is being performed in a kitchen setting, where the woman is likely cleaning the refrigerator to maintain its cleanliness and functionality.",
+        "answer_id": "nEFpaG6CZnWDZEmih6KEVm",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_19",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000003966.jpg",
+        "action": "unscrew lid",
+        "description": "In the image, you see a person washing their hands in a sink, with a dishrag on the counter next to the sink. The sink is positioned on the counter, and the person is holding the dishrag in their hand while washing their hands. The sink and the dishrag are both located on the counter, and the person is performing the action of washing their hands in the sink. This scene suggests that the person is taking care of their personal hygiene and cleanliness, which is an important aspect of maintaining good health and preventing the spread of germs and diseases.",
+        "answer_id": "aVhFQDa7i35tjqgFFRUUdB",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_18",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000004086.jpg",
+        "action": "get coffee",
+        "description": "In the image, we see a man standing in front of a sink, holding a cup of coffee. He is pouring the coffee into the sink, which is filled with water. The man is positioned near the sink, and the cup of coffee is being held by his hand. The action being performed is the man pouring the coffee into the sink, which might be a part of a routine or a specific task.",
+        "answer_id": "QBnzWDSB95WHBPK7LCTFHw",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_20",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000004331.jpg",
+        "action": "spoon coffee in mocha pot",
+        "description": "In the image, there is a person holding a cup and pouring milk into it. The person is standing in front of a sink, and the sink is filled with water. The cup is being held by the person's hand, and they are pouring the milk from a bottle into the cup. The milk bottle is positioned on the counter next to the sink. The scene shows a person performing a simple task of pouring milk into a cup, which is a common activity in daily life.",
+        "answer_id": "LrXuTCzHvA5mYsKsLUnoXN",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_21",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000004718.jpg",
+        "action": "place spoon back",
+        "description": "In the image, we see a person holding a spoon and pouring a liquid into a bowl. The bowl is placed on a kitchen counter, and the person is standing next to the sink. The liquid being poured is likely milk, as there is a milk carton nearby. The person is pouring the milk into the bowl, and the spoon is being used to scoop the liquid from the carton. This scene shows the person performing a simple task of preparing a bowl of milk for consumption.",
+        "answer_id": "6vJUfmdoiF4BQe34MZrKZJ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_22",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000004847.jpg",
+        "action": "turn lid off",
+        "description": "In the image, a person is holding a jar of red sauce, possibly pasta sauce, and is about to pour it into a sink. The jar is placed on a countertop, and the person is standing next to a sink, possibly washing their hands or preparing to wash dishes. The jar is positioned on the countertop, and the person is holding it with both hands, ready to pour the contents into the sink. This scene suggests that the person is about to perform a task related to food preparation, such as cleaning dishes or preparing a meal.",
+        "answer_id": "f3LTQPU5rYHmNVGNNeYKLQ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_23",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000004863.jpg",
+        "action": "open cupboard",
+        "description": "In the image, a person is holding a cup of coffee and standing in front of a kitchen counter. The person is positioned next to a white refrigerator, and there is a window behind them. The person is holding the cup of coffee and looking at the cup, possibly contemplating their next move. This scene could be a moment of pause or reflection, as the person is taking a break from their daily activities to enjoy their coffee. The presence of the refrigerator and window adds context to the scene, suggesting that the person might be in their kitchen or living room, enjoying their coffee in a comfortable and familiar environment.",
+        "answer_id": "EmnjYbKw7kM4k8csZ3KHUv",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_24",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000004975.jpg",
+        "action": "close cupboard",
+        "description": "In the image, you see a sink, a person, and a cleaning cloth. The person is cleaning the sink with the cloth, which is positioned on the countertop next to the sink. The sink is located on the countertop, and the person is using the cloth to wipe down the sink. This scene suggests that the person is performing a routine task, such as cleaning the sink, to maintain the cleanliness and hygiene of the kitchen.",
+        "answer_id": "o3k9wvDHGZfxNhYTSTDFJ8",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_25",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000005447.jpg",
+        "action": "screw in the mocha pot",
+        "description": "In the image, we see a person washing their hands in a sink, with a cup of water on the counter next to the sink. The person is holding a cup of water and pouring it into the sink, likely to rinse their hands. The sink is positioned on the counter, and the cup is placed on the counter next to the sink. The person is performing the action of washing their hands in the sink, using the cup of water to rinse their hands.",
+        "answer_id": "jRiE859RfNB8abEZY4mQbV",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_26",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000005809.jpg",
+        "action": "clean cupboard",
+        "description": "In the image, a person is standing in front of a sink, holding a coffee maker. The coffee maker is positioned on the countertop next to the sink. The person is pouring water from the coffee maker into the sink, likely to clean it. The image shows a close-up view of the person's hands holding the coffee maker and pouring water into the sink.",
+        "answer_id": "bD6TDGnZdwP83pUeaqcKwz",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_27",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000006102.jpg",
+        "action": "place pot on hob",
+        "description": "In the image, there is a person holding a metal pot and a wooden spoon while standing in front of a stove. The person is likely preparing food or cooking, as they are holding the pot and spoon. The pot is placed on the stove, and the person is using the spoon to stir or mix the contents inside the pot. The objects are positioned in a way that allows the person to easily access and control the pot and spoon while cooking.",
+        "answer_id": "4agfDV65j3cYoqac9bBFJN",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_28",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000006117.jpg",
+        "action": "turn heat on",
+        "description": "In the image, there is a person standing in front of a stove, with a frying pan on it. The person is using a spatula to remove food from the pan, and there is a fork and a knife on the counter next to the stove. The person is also holding a wooden spoon. The objects are positioned in a way that the person can easily access them while cooking. The action being performed is the person removing food from the frying pan using the spatula.",
+        "answer_id": "7ZeG8NHbvknq9AzC9X98ms",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_29",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000006445.jpg",
+        "action": "wipe hands",
+        "description": "In the image, we see a kitchen sink with two faucets, a dish rack, and a person washing their hands. The person is standing in front of the sink, using a hand sanitizer to clean their hands. The faucets are positioned on the sink, and the dish rack is placed next to the sink. The person is standing in front of the sink, which suggests that they are in the process of cleaning their hands using the hand sanitizer.",
+        "answer_id": "a4fYsNfWfsd7Zq4qQPJEgj",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_30",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000006491.jpg",
+        "action": "open cupboard",
+        "description": "In the image, a woman is standing in a kitchen, holding a sponge and cleaning a sink. She is using the sponge to wipe down the sink, which is located on the countertop. The sink appears to be stainless steel, and the woman is using a cleaning solution to remove any dirt or stains. The woman is positioned in front of the sink, with her hands holding the sponge and cleaning solution. She is performing the action of cleaning the sink, ensuring it remains clean and hygienic.",
+        "answer_id": "ce6sRzSdvVRBNxuk6Evxcu",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_31",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000006667.jpg",
+        "action": "get mug",
+        "description": "In the image, a human is holding a spray bottle and spraying it on a countertop. The countertop is filled with dishes, and the human is cleaning them with the spray bottle. The dishes are positioned on the countertop, and the human is using the spray bottle to clean them. The image shows a person performing the action of cleaning dishes using the spray bottle, which is a common household cleaning tool used for cleaning dishes and other surfaces.",
+        "answer_id": "6TZVEqZcj4sKVoJdWbpV6x",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_32",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000006784.jpg",
+        "action": "place mug on counter",
+        "description": "In the image, there is a woman holding a spoon while standing in front of a stove with a pot on it. The woman is holding the spoon in her hand, and she is looking at the pot. The spoon is positioned in front of the pot, and the woman is likely about to use it to stir or scoop food from the pot. The scene suggests that the woman is preparing a meal or cooking something on the stove.",
+        "answer_id": "brW7CeEZmSPSn4zREgSUDF",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_33",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000006876.jpg",
+        "action": "open fridge",
+        "description": "In the image, we see a person standing next to a refrigerator, with their hands holding a bottle of orange juice. The refrigerator is open, revealing its contents, and the person is about to place the bottle inside the refrigerator. The bottle is positioned at an angle, with the person's hand holding it at the neck. The scene suggests that the person is trying to store the orange juice in the refrigerator, which is likely a common household appliance used for keeping food and drinks cold and fresh.",
+        "answer_id": "7SQkH9WXv8yUENyZWDikf5",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_34",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000006918.jpg",
+        "action": "get milk",
+        "description": "In the image, there is a man standing in front of a refrigerator with a shelf full of canned foods. He is holding a can of soda and looking at the shelf, possibly trying to decide which canned food to choose. The cans are positioned on the shelf in a neat and organized manner, with the man's hand reaching for one of them. The man is wearing white socks, which adds to the overall casual and everyday nature of the scene.",
+        "answer_id": "FSLFEsy5jxmwNNKRmGjwrx",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_35",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000007088.jpg",
+        "action": "unscrew lid",
+        "description": "In the image, you see a person holding a milk bottle and pouring it into a kettle on the stove. The person is positioned in front of a kitchen counter, with the kettle and the milk bottle on the counter. The person is pouring the milk into the kettle, which is likely to be used for making tea or coffee. The image captures the action of the person pouring the milk into the kettle, demonstrating the process of preparing a hot beverage.",
+        "answer_id": "4AUnSxpDeL8dsc7mJ8VS4e",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_36",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000007404.jpg",
+        "action": "pour milk in mug",
+        "description": "In the image, there is a man standing next to a kitchen counter with a cup of milk and a spoon. The man is holding the cup of milk and pouring it into a bowl, possibly for making a cereal or a smoothie. The objects are positioned on the kitchen counter, with the cup of milk and the bowl being close to each other. The man is performing the action of pouring the milk into the bowl, which is an essential task for preparing a meal or snack.",
+        "answer_id": "DpqJHD3BvERPMqSLxKmiS2",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_37",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000007554.jpg",
+        "action": "screw lid back",
+        "description": "In the image, a person is standing in front of a kitchen counter, holding a bottle of liquid and a spray bottle. They are positioned next to a stove, with a pot on the stove. The person is about to spray the liquid on the stove or the pot. The image shows a cleaning or maintenance task being performed, as the person is using the spray bottle to clean the stove or the pot.",
+        "answer_id": "eyv4hQNNKKNZopAavrbD5N",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_38",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000007616.jpg",
+        "action": "place milk",
+        "description": "In the image, a man is holding a milk bottle and pouring milk into a cup on a countertop. The man is standing next to a stove, which is likely used for cooking. The milk bottle is positioned on the counter, and the man is pouring the milk into a cup, possibly for consumption or preparation of a meal. The scene shows the man performing an action related to cooking or preparing food, which is a common activity in a kitchen setting.",
+        "answer_id": "67BfairaBHVGnMRiTJxLwo",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_39",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000007745.jpg",
+        "action": "open fridge",
+        "description": "In the image, there is a person holding a cup of milk and standing in front of a stove with a gas burner on it. The person is pouring milk into the cup, and the cup is placed on the stove. The scene suggests that the person is preparing to cook or prepare a meal. The presence of the cup of milk on the stove indicates that the person might be using it as a cooking ingredient or as a liquid to be heated in the stove. The image provides a glimpse into the process of cooking and the various objects involved in the preparation of a meal.",
+        "answer_id": "kDJtjGYjDtf2rYWVusZu2n",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_40",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000007835.jpg",
+        "action": "get bread",
+        "description": "In the image, there is a person reaching into a refrigerator, possibly to grab something from the shelves or to open the door. The refrigerator is positioned in a kitchen, and the person is standing in front of it. The image shows the person's hand reaching into the refrigerator, indicating that they are trying to access something inside. The objects in the refrigerator are not visible, but the person is likely trying to retrieve food or drinks. The action being performed by the person is reaching into the refrigerator to retrieve something, which is a common task in a kitchen.",
+        "answer_id": "jQ5UCvZBMUXt3XuNM3qN3t",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_41",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000008334.jpg",
+        "action": "get cheese",
+        "description": "In the image, a person is holding a green vegetable in their hand, and they are positioned next to a refrigerator. The person is reaching for the vegetable and placing it into the refrigerator. The refrigerator is located on the countertop, and the person is using the refrigerator door to store the vegetable. This scene suggests that the person is preparing to store the vegetable in the refrigerator for later use or consumption.",
+        "answer_id": "LDwfevXSemxwEqKsZDgkpf",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_42",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000008489.jpg",
+        "action": "close fridge",
+        "description": "In the image, we see a refrigerator door open, revealing a shelf inside. A person is standing in front of the open refrigerator, reaching for a jar of pickles. The jar is placed on the shelf, and the person is holding it with both hands. The jar is positioned on the shelf, and the person is about to take it out of the refrigerator. This action suggests that the person is about to consume the pickles or store them in another location.",
+        "answer_id": "86LbRj9trZVhx4bCdCSJum",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_43",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000008847.jpg",
+        "action": "get tomatoes",
+        "description": "In the image, a woman is preparing to eat a bowl of fresh fruit. She is holding a bowl, a spoon, and a plastic bag of fruit in her hands. The bowl is placed on a countertop, and the woman is about to scoop the fruit into the bowl using the spoon. The plastic bag of fruit is sitting next to the bowl, and the woman is carefully selecting the fruit from the bag to put into the bowl. This scene shows the woman preparing a healthy snack, demonstrating her attention to detail and care in selecting the freshest and best-looking fruits to eat.",
+        "answer_id": "Xr3x3Hu7Tk7pA2JQ5ktssj",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_44",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000009478.jpg",
+        "action": "get tomatoes",
+        "description": "In the image, a person is holding a bowl of cherries and a handful of cherries in their hand. The bowl is placed on a counter, and the person is about to put the handful of cherries into the bowl. The person is holding the bowl with one hand and the handful of cherries with the other hand. This scene suggests that the person is preparing to eat or store the cherries, possibly for a meal or as a snack.",
+        "answer_id": "2mzJXi8cBNsnpdccXtHsS6",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_45",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000009695.jpg",
+        "action": "throw away bits",
+        "description": "In the image, there is a woman standing in front of a kitchen counter, with a bowl of fruit and a bag of groceries on the counter. She is holding a small bag of groceries and is about to put it into the bowl. The bowl of fruit is positioned on the counter, and the bag of groceries is placed on top of the bowl, with the woman's hand holding it. The woman is performing the action of adding the groceries to the bowl of fruit, which suggests that she is preparing to make a meal or snack using the ingredients.",
+        "answer_id": "XUwS3Y2PcFDnLQraVkR59C",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_46",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000009895.jpg",
+        "action": "turn the water on",
+        "description": "In the image, we see a person washing their hands in a sink, which is positioned on a countertop. The person is using soap and water to clean their hands, and they are also rinsing their hands under the faucet. The sink is located on a countertop, and there is a towel nearby. The image captures a moment in time where the person is actively engaged in the process of washing their hands, ensuring personal hygiene and cleanliness.",
+        "answer_id": "oJeCTEtMpLyJEDLpMkP8kZ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_47",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000010058.jpg",
+        "action": "wash tomatoes",
+        "description": "In the image, we see a woman washing her hands in a sink, with a red apple on the counter next to the sink. The woman is holding the apple in her hand, and she is about to put it into the sink. The sink is positioned in front of the counter, and the woman is standing in front of the sink. The action being performed by the woman is washing her hands with the red apple in her hand, which may be a part of a daily routine or a specific task.",
+        "answer_id": "e7kvb6s9NxkQhAb7oGy6uS",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_48",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000010123.jpg",
+        "action": "turn water off",
+        "description": "In the image, there is a person washing their hands at a sink, with a red apple on the counter next to the sink. The person is holding the apple in their hand and appears to be about to put it into the sink. The sink is located in a kitchen, and the person is standing in front of it. The image captures a moment of the person performing the action of washing their hands, while also holding the apple in their hand.",
+        "answer_id": "FBxwq6oKeA7sJdMfbbZqVR",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__0",
+        "id": "P08_09_49",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000010222.jpg",
+        "action": "squeeze water",
+        "description": "In the image, we see a person washing their hands in a sink, which is located on a countertop. The sink is positioned next to a stainless steel refrigerator, and the person is standing in front of the sink. The person is holding a towel and is in the process of wiping their hands dry. This scene suggests that the person has just finished washing their hands and is now taking the necessary steps to dry them properly to maintain personal hygiene.",
+        "answer_id": "W5fG6YZ7yhjvcM4SdCjPxg",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_50",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000010361.jpg",
+        "action": "get chopping board",
+        "description": "In the image, there is a sink with two faucets, a dishwasher, and a person holding a towel. The sink is positioned on the countertop, and the dishwasher is placed next to it. The person is holding a towel and appears to be cleaning up after washing dishes. The sink and dishwasher are both in the kitchen, and the person is using the towel to dry the dishes. This scene shows the person performing a common task in a kitchen, which is cleaning up after washing dishes.",
+        "answer_id": "Y3vtfDKTBX5ZyvxxW2WMvM",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_51",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000010669.jpg",
+        "action": "place chopping board on top",
+        "description": "In the image, we see a man standing in a kitchen, holding a wooden cutting board and a knife. The cutting board is placed on a counter, and the knife is being used to clean the board. The man is using a dish towel to wipe the cutting board, ensuring it is clean and ready for use. The objects are positioned in a way that the man can easily access the cutting board and perform the cleaning action. The image captures a moment of the man's daily routine, demonstrating the importance of maintaining a clean and organized kitchen environment.",
+        "answer_id": "YHZr8z72wGY9b4aeJTjWQd",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_52",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000010757.jpg",
+        "action": "open cupboard",
+        "description": "In the image, there is a man standing in front of a kitchen counter with a cup of milk and a spoon. He is holding the spoon and is about to pour the milk into the cup. The cup is placed on the counter, and the man is positioned next to the counter, with the spoon in his hand. The scene appears to be a momentary pause in the man's task of pouring the milk into the cup.",
+        "answer_id": "kcc5DnmueRdecDyTFvRXaU",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_53",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000011006.jpg",
+        "action": "get plate",
+        "description": "In the image, there is a person holding a cup of coffee and a plate of food on a countertop. The person is standing on one leg while holding the cup and plate, indicating that they might be trying to balance or pose for a photo. The objects are positioned on the countertop, with the cup of coffee on the left and the plate of food on the right. The person is also wearing a pair of jeans, which suggests that they might be in a casual setting or posing for a photo.",
+        "answer_id": "kJtvNDbto3rESeR9sQ3hv7",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_54",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000011090.jpg",
+        "action": "close cupboard",
+        "description": "In the image, we see a person sitting on a counter, holding a plate and a cup. The person is likely preparing to eat or serve food on the plate. The plate is positioned on the counter, and the cup is placed next to it. The person is holding the cup in one hand and the plate in the other, indicating that they are about to consume or serve the food. The image captures a moment in time where the person is getting ready to eat or serve the food, and it might be a part of a meal preparation or a social gathering.",
+        "answer_id": "CBp5syEew9bdXsGUh8Zwco",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_55",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000011264.jpg",
+        "action": "place plate",
+        "description": "In the image, we see a woman holding a plate and a spoon while standing in front of a stove. The plate is empty, and the spoon is being used to scoop up some food from a bowl. The woman is positioned near a counter, and the stove is located behind her. The woman is likely preparing a meal or snack, and the spoon and plate are essential tools for this process. The action being performed by the woman is scooping up food from the bowl using the spoon and placing it on the empty plate.",
+        "answer_id": "Wx4dibx6dJgMT4QmSVG4KN",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_56",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000011671.jpg",
+        "action": "choose avocado",
+        "description": "In the image, there is a woman holding a green avocado while standing in front of a kitchen counter. The counter has a bowl of vegetables, including tomatoes, carrots, and onions, as well as a basket of fruits. The woman is holding the avocado and looking at the vegetables and fruits on the counter. She might be considering which vegetables or fruits to use in her recipe or simply admiring the variety of ingredients available. The presence of a blender and a cutting board nearby suggests that the woman might be preparing a meal or snack using the ingredients on the counter.",
+        "answer_id": "YCSbtLDQZJYrx6SnFLzpkd",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_57",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000011997.jpg",
+        "action": "open drawer",
+        "description": "In the image, there is a man standing on a kitchen counter, holding a spatula and a wooden cutting board. The man is positioned in front of a stove and a sink, with the cutting board and spatula placed on the counter. He is likely preparing food or cleaning up after a meal. The man's action involves holding the spatula and cutting board, which suggests that he might be preparing to cook or prepare a meal using the spatula to flip or stir food in a pan, and the cutting board to chop or slice ingredients.",
+        "answer_id": "QjYUsSWAXsSzZ9bBTbbcqX",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_58",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000012212.jpg",
+        "action": "get knife",
+        "description": "In the image, a person is standing in front of a kitchen counter with a drawer open. The person is holding a set of utensils, such as a spatula, a knife, and a fork, and placing them in the drawer. The utensils are positioned in a row, with the spatula on the left, the knife in the middle, and the fork on the right. The person is performing the action of putting the utensils away in the drawer, likely after using them for a meal or preparing food.",
+        "answer_id": "S2AsvLnx6ZjGoopKc88MTS",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_59",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000012260.jpg",
+        "action": "get fork",
+        "description": "In the image, you see a man standing in front of a kitchen counter, with a knife and a spatula in his hand. He is holding the knife and spatula, and he is about to cut something. The objects are positioned on the counter, and the man is preparing to cut a piece of food using the knife. The image captures a moment of the man's action, as he is about to perform the task of cutting the food.",
+        "answer_id": "2iJUuJ8vMB4mDUYaWfPPq5",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_60",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000012654.jpg",
+        "action": "close drawer",
+        "description": "In the image, there is a man standing in a kitchen, holding a knife and a piece of meat. The man is standing next to a counter, and the knife is positioned in his hand. He is likely preparing to cut the meat, which is placed on the counter. The man's action is focused on cutting the meat, and the knife is being used as a tool for this purpose. The image shows the man's hand holding the knife and the meat, demonstrating the process of cutting and preparing food in the kitchen.",
+        "answer_id": "Rr5GfZXf9onbYX9Nk6G7wc",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_61",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000012796.jpg",
+        "action": "cut avocado",
+        "description": "In the image, there is a person holding a knife and cutting a banana on a cutting board. The person is standing in front of a counter, with a plate and a cup on the counter. The cutting board is positioned on the counter, and the person is holding the knife and cutting the banana. The person is performing the action of cutting the banana, which is likely to be for consumption or preparation for a meal. The presence of the plate and cup suggests that the person may be preparing a meal or snack.",
+        "answer_id": "QyZr5sR6qJQVJzQqntnCcZ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_62",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000013249.jpg",
+        "action": "take out pip part",
+        "description": "In the image, a man is holding a plate with a cooked egg on it, and he is using a knife to cut the egg. The plate is placed on a countertop, and the man is standing in front of the counter. The knife is positioned above the egg, and the man is about to cut it. The scene is taking place in a kitchen, where the man is preparing the egg for consumption.",
+        "answer_id": "ZkRRdzTTGKBuN88VxdKnXs",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_63",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000013418.jpg",
+        "action": "spoon avocado",
+        "description": "In the image, a person is holding a knife and cutting a piece of avocado on a cutting board. The cutting board is placed on a kitchen counter, and the person is standing next to it. The avocado is sliced into a small piece, and the person is about to eat it. The scene is simple and focused on the person's actions, showcasing the process of preparing and consuming a healthy snack.",
+        "answer_id": "bxH7jtScU3DkbW6ug4vUYV",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_64",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000014210.jpg",
+        "action": "get plastic bag",
+        "description": "In the image, there is a person holding a knife and cutting a piece of bread. The person is standing in front of a table with a plate, a knife, and a cutting board. The bread is placed on the cutting board, and the person is cutting it with the knife. The image shows the person's hands holding the knife and the bread, with the cutting board and plate nearby. The action being performed is the person cutting the bread, which is likely to be used for a meal or snack.",
+        "answer_id": "gQaTNfAmSAodgu7rhD22Yz",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_65",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000014511.jpg",
+        "action": "get loaf of bread",
+        "description": "In the image, there is a person holding a bag of potatoes and a knife, standing in front of a kitchen counter. The bag of potatoes is placed on the counter, and the person is holding the knife in their hand. They are likely preparing to cut the potatoes, as they are positioned on the counter and the person is holding the knife. The scene suggests that the person is about to start chopping the potatoes for cooking or preparing a meal.",
+        "answer_id": "fX64CyGct7MBdQzMFLuWBc",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_66",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000015119.jpg",
+        "action": "close plastic bag",
+        "description": "In the image, there is a man standing in front of a kitchen counter, holding a piece of bread and a knife. He is about to cut the bread with the knife. The bread is placed on a cutting board, and there are other objects like a plate, a bowl, and a bottle on the counter. The man is positioned in front of the counter, with the cutting board and bread to his left. He is preparing to cut the bread into smaller pieces, possibly to serve it with a meal or as a snack.",
+        "answer_id": "6G28zt6CZa6hyAYDHuTEbY",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_67",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000015761.jpg",
+        "action": "open cupboard",
+        "description": "In the image, a young girl is sitting at a kitchen counter, eating a sandwich. The sandwich is placed on a wooden cutting board, which is positioned on top of a plate. The girl is holding a spoon and fork, and she is taking bites of her sandwich. The scene is focused on the girl and her sandwich, showcasing the simple act of eating and enjoying her meal.",
+        "answer_id": "KjgjTwPLLYVsX9RFLEuufP",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_68",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000015943.jpg",
+        "action": "get frying pan",
+        "description": "In the image, we see a person holding a spatula and a wooden cutting board, with a large pile of dirty dishes on the cutting board. The person is standing in a kitchen, possibly preparing food or cleaning up after a meal. The spatula is being used to scrape the dishes, and the person is holding the cutting board to help with the cleaning process. The objects are positioned in a way that allows the person to easily access the dishes and clean them effectively. The action being performed by the person is scraping the dishes with the spatula to remove any food residue or debris.",
+        "answer_id": "ibnssynST5mTT3eyUkGwj3",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_69",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000016251.jpg",
+        "action": "place pan on",
+        "description": "In the image, there is a man standing in front of a stove with a frying pan on it. He is holding a spatula and pouring liquid into the pan. The man is positioned near the stove, with the frying pan on the stove and the spatula in his hand. The liquid being poured into the pan is likely water or oil, and the man is preparing to cook something in the frying pan. This scene suggests that the man is about to start cooking a meal, and the frying pan is an essential tool for this process.",
+        "answer_id": "nkhDssfmMdL9hx2QKa76aM",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_70",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000016344.jpg",
+        "action": "turn on heat",
+        "description": "In the image, there is a man standing in front of a stove, holding a frying pan and a spatula. The frying pan is filled with water, and the man is pouring milk into the pan. The man is positioned in front of the stove, which is likely a gas stove or electric stove. The objects are placed on the stove, and the man is performing the action of pouring milk into the frying pan. This scene suggests that the man is preparing to cook something in the pan, possibly a breakfast dish or a meal.",
+        "answer_id": "BcvNeWJTmesTvCVq4FBovx",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_71",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000016523.jpg",
+        "action": "adjust heat",
+        "description": "In the image, a person is standing in front of a stove, holding a spoon and a pot. The spoon is being used to stir the contents in the pot, which is placed on the stove. The person is wearing a white shirt and appears to be cooking or preparing food. The objects are positioned on the stove, with the pot being heated and the spoon being used to stir the contents. The human is performing the action of stirring the food in the pot, which is an essential step in cooking and preparing meals.",
+        "answer_id": "m6BUrd4HBEV2xvjdZZLVgj",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_72",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000016731.jpg",
+        "action": "place bread on pan",
+        "description": "In the image, there is a man sitting at a table with a plate of food in front of him. The plate contains a piece of bread, a sandwich, and a glass of milk. The man is holding a knife and is about to cut the sandwich. The objects are positioned on the table, with the knife and bread on the right side, and the sandwich and glass of milk on the left side. The man is performing the action of cutting the sandwich with the knife.",
+        "answer_id": "6yVvw3tuXwLV79JhwPHjsF",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_73",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000017044.jpg",
+        "action": "get knife",
+        "description": "In the image, a man is standing in front of a kitchen counter, with a cup of coffee in his hand. He is holding a spoon and a knife, which are positioned on a tray. The tray is placed on the counter, and the man is reaching for a pair of scissors that are also on the tray. The man is likely preparing to cut a piece of food or a pastry, as the scissors are an essential tool for such tasks. The presence of the spoon and knife suggests that he might be preparing a meal or snack, and the cup of coffee indicates that he might be taking a break or enjoying a moment of relaxation while doing so.",
+        "answer_id": "8j53erVDCGihmHMFC7kZCK",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_74",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000017327.jpg",
+        "action": "cut tomato",
+        "description": "In the image, there is a man sitting at a kitchen counter with a plate of food, a knife, and a cutting board. He is cutting a tomato on the cutting board, and the plate of food is nearby. The objects are positioned on the counter, with the cutting board and knife on one side, and the plate of food on the other side. The man is performing the action of cutting the tomato with the knife, likely preparing to eat it or use it in a recipe.",
+        "answer_id": "YLDAzn52LHmoPhEcR5kMGq",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_75",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000017571.jpg",
+        "action": "get tomato",
+        "description": "In the image, we see a person holding a knife and a cutting board, with a plate and a glass of milk nearby. The person is cutting an avocado on the cutting board, and the plate is likely intended to hold the cut avocado. The glass of milk is also nearby, suggesting that the person might be preparing a snack or meal that includes the avocado and milk. The person is positioned in front of the counter, with the cutting board and knife on the countertop. The image captures a moment in the process of preparing the avocado, as the person is about to cut it.",
+        "answer_id": "KKiFWM2cUdQaFv6LwEruAD",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_76",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000017842.jpg",
+        "action": "cut tomato",
+        "description": "In the image, we see a person holding a knife and cutting a tomato on a cutting board. The cutting board is placed on a kitchen counter, and there are other objects, such as a plate and a fork, nearby. The person is performing the action of cutting the tomato, likely preparing it for consumption. The presence of the plate and fork suggests that the person is preparing a meal or snack. The image provides a glimpse into the process of food preparation and the various tools and objects involved in the process.",
+        "answer_id": "jyW5E7onRLoTgdVsgKfELe",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_77",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000017915.jpg",
+        "action": "get tomato",
+        "description": "In the image, we see a man sitting at a kitchen counter with a plate of food in front of him. The plate contains a tomato, a slice of cheese, and a fork. The man is holding a knife and is about to cut the tomato. The objects are positioned on the counter, with the plate and the knife placed on the wooden surface. The man is performing the action of cutting the tomato with the knife, preparing to eat it.",
+        "answer_id": "CVSCmqWbHfQmEGTus5awxk",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_78",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000017943.jpg",
+        "action": "cut tomato",
+        "description": "In the image, we see a man standing in front of a kitchen counter, with a plate of food, a knife, and a cutting board. The man is holding a knife and cutting a piece of food, possibly an avocado, on the cutting board. The plate of food is positioned on the counter next to the cutting board. The scene appears to be a kitchen setting where the man is preparing a meal or snack, possibly for himself or someone else.",
+        "answer_id": "bUFQqZiGZNRLBFjc5qW9sT",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_79",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000018729.jpg",
+        "action": "throw away avocado skin",
+        "description": "In the image, a man is standing in front of a kitchen counter, holding a knife and a cutting board. He is cutting a piece of meat, possibly an avocado, on the cutting board. The knife is positioned on the cutting board, and the man is holding it with one hand while cutting the meat with the other. The scene is taking place in a kitchen, where the man is preparing the food. The objects in the image include the knife, cutting board, and a plate, which are all positioned on the kitchen counter. The man is performing the action of cutting the meat, which is likely part of a cooking or preparation process.",
+        "answer_id": "LRALpFBKxLLg97zUp3xcri",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_80",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000019348.jpg",
+        "action": "open cheese",
+        "description": "In the image, there is a man sitting at a kitchen counter with a knife and a cutting board in front of him. He is cutting a tomato on the cutting board, and there is a plate of food nearby. The man is using the knife to cut the tomato, and the plate of food is likely a salad or a dish that requires the use of the knife. The objects are positioned in a way that allows the man to easily access the cutting board and the knife while preparing the food. The action being performed by the man is the act of cutting the tomato, which is an essential step in preparing a meal.",
+        "answer_id": "fbxmSDg2jsdKViLN62EySi",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_81",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000019696.jpg",
+        "action": "check the coffee",
+        "description": "In the image, there is a person holding a spatula and a fork, positioned on a kitchen counter. The person is using the spatula to flip a piece of bread on a pan, while the fork is being used to pick up the flipped bread. The person is performing the action of flipping the bread in the pan, which is likely part of a cooking process. The objects are positioned next to each other on the counter, allowing the person to easily access and use them during the cooking process.",
+        "answer_id": "fonjsFQKuUwo8TB5jmUBQh",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_82",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000019966.jpg",
+        "action": "wipe off hands",
+        "description": "In the image, there is a man sitting at a kitchen counter, with a frying pan and a plate of food in front of him. He is holding a knife and cutting a piece of meat from the plate. The frying pan is on the stove, and there is a glass of milk and a cup of coffee on the counter. The man is engaged in the act of preparing the food, possibly cutting the meat into smaller pieces before cooking it in the frying pan. The objects are positioned in a way that facilitates the cooking process, with the frying pan and plate of food being close to each other, and the knife being within reach.",
+        "answer_id": "WCUX7y4GyfCcE3EMDXRGo5",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_83",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000020688.jpg",
+        "action": "turn loaf of bread in pan",
+        "description": "In the image, a human is holding a piece of bread and using a spatula to spread it on a frying pan. The frying pan is positioned on a stove, and the bread is being placed on the hot surface. The human is standing next to the stove and holding the spatula in their hand. The scene suggests that the person is preparing to cook the bread in the frying pan.",
+        "answer_id": "HGJWsrDy2oXi57zsE3yS6W",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_84",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000020883.jpg",
+        "action": "wipe off hands",
+        "description": "In the image, there is a person holding a knife and a cutting board, with a bowl of vegetables on the counter. The person is about to cut the vegetables, which suggests that they are preparing to cook or prepare a meal. The objects are positioned on the counter, with the cutting board and knife being used for the cutting process. The person is standing in front of the counter, indicating that they are likely in the process of preparing a meal or cooking.",
+        "answer_id": "hfVGSa5G6Sq7j99oTegsE2",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_85",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000021199.jpg",
+        "action": "open cupboard",
+        "description": "In the image, there is a person holding a knife and cutting a piece of meat on a cutting board. The cutting board is placed on a kitchen counter, and there are various kitchen utensils, such as a frying pan, a glass, and a plate, nearby. The person is cutting the meat with the knife, and there are some vegetables, including tomatoes, on the cutting board. The scene appears to be a kitchen setting where the person is preparing a meal.",
+        "answer_id": "6QPeVaVb3Z7EYerD5qdUgC",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_86",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000021335.jpg",
+        "action": "get salt",
+        "description": "In the image, we see a kitchen countertop with various objects placed on it. There is a glass of milk, a plate with food, and a knife on the counter. A human is holding a fork and is about to pick up a piece of food from the plate. The objects are positioned on the counter in a neat and organized manner, which suggests that the person is preparing to eat their meal. The presence of the knife indicates that the person might be preparing to cut their food before eating it.",
+        "answer_id": "hwQTi64KHW8NmQNNSXnQZY",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_88",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000021652.jpg",
+        "action": "get chilli",
+        "description": "In the image, there is a person sitting at a table with a cup of coffee, a plate of food, and a knife. The person is holding a knife and using it to cut the food on the plate. The objects are positioned on the table, with the cup of coffee placed on the right side of the plate and the knife on the left side. The person is performing the action of cutting the food with the knife, possibly preparing a meal or snack.",
+        "answer_id": "ToiMTFoP84F7qxRNmD8DCC",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_89",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000021706.jpg",
+        "action": "close cupboard",
+        "description": "In the image, a man is sitting at a kitchen counter with a plate of food in front of him. He is holding a knife and cutting a piece of cheese from a block. The plate of food contains a slice of cheese, which he is about to cut. The objects in the image include the knife, the plate, and the cheese block. The man is positioned in a comfortable seated position, with the knife in his hand and the plate and cheese block nearby. He is performing the action of cutting the cheese, which suggests that he is preparing to eat it.",
+        "answer_id": "LSzwV5sUzxByqUmdCyoaLp",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_87",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000021817.jpg",
+        "action": "cut avocado",
+        "description": "In the image, there is a man sitting at a kitchen counter, holding a piece of toast with a fork. He is eating the toast while looking at a plate of food, which includes a sandwich, a piece of cheese, and a bowl of soup. The plate is positioned on the counter next to the man, and the bowl of soup is placed on the stove. The man is engaged in the act of eating his toast and looking at the food on the plate.",
+        "answer_id": "4Ft27v38CfdhzhWo2myUD2",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_90",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000022358.jpg",
+        "action": "salt an avocado",
+        "description": "In the image, we see a woman holding a plate with a piece of food on it, standing next to a stove. The stove has a frying pan on it, and the woman is using a spatula to flip the food in the pan. The woman is also holding a glass of milk, which suggests that she might be preparing a meal or snack. The objects are positioned close to each other, with the stove and the plate being in the same room. The woman is performing the action of flipping the food in the pan, which is an essential step in cooking.",
+        "answer_id": "6ZZyNLZcPusb7yvCR2363w",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_91",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000022430.jpg",
+        "action": "put chilli on avocado",
+        "description": "In the image, there is a person holding a plate with a piece of food on it, and they are standing next to a stove. The person is also holding a knife and a fork, which they are using to prepare the food. The plate is positioned on a countertop, and the stove is located nearby. The person is performing the action of preparing the food by cutting it with the knife and then using the fork to pick it up and place it on the plate.",
+        "answer_id": "jh7DiHcQmQneodqrQathmG",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_92",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000022854.jpg",
+        "action": "close lid",
+        "description": "In the image, there is a woman holding a knife and cutting a tomato on a cutting board. The cutting board is placed on a countertop, and there are various ingredients, such as a bowl of soup, a plate of food, and a glass of milk, nearby. The woman is cutting the tomato, possibly preparing it for a meal or a recipe. The objects in the image are positioned in a way that facilitates the woman's actions, such as having the cutting board and ingredients within reach. The image captures a moment in the process of food preparation, showcasing the importance of proper tools and ingredients in creating a delicious meal.",
+        "answer_id": "dHr2pHiTU59EvNVaHe9aYQ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_93",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000023008.jpg",
+        "action": "check on coffee",
+        "description": "In the image, a man is holding a piece of toast and a fork, and he is about to put the toast into the fork. The man is standing in front of a stove, with the toast on a plate and the fork on a countertop. The man is positioning the fork to pick up the toast, which is on the plate. This action indicates that he is preparing to eat the toast.",
+        "answer_id": "9y6i4uwmSHMmb86x5v9EaK",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_94",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000023103.jpg",
+        "action": "close hob",
+        "description": "In the image, there is a man standing in front of a stove, holding a piece of toast. He is positioned next to a plate with a fork and a knife on it. The man is about to place the toast on the plate, and he is also holding a spatula. This scene suggests that the man is preparing to eat his breakfast, and he is using the spatula to place the toast on the plate.",
+        "answer_id": "3THANujaBwitZqEFPRc2ab",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_95",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000023419.jpg",
+        "action": "pour coffee in mug",
+        "description": "In the image, there is a person holding a spatula and a plate with food on it. The person is standing in front of a stove, with a frying pan on the stove. The frying pan has a piece of food in it, and the person is using the spatula to remove the food from the pan. The image shows the person's hand holding the spatula, and the plate with food is positioned next to the stove. The action being performed by the person is removing the food from the frying pan and placing it on the plate.",
+        "answer_id": "RJjRC8mZSuPGGWpauiug69",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_96",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000023603.jpg",
+        "action": "move pan",
+        "description": "In the image, you see a person holding a slice of bread and a frying pan on a stove. The person is positioned in front of the stove, with the frying pan on the burner and the slice of bread in their hand. They are about to put the slice of bread into the pan, possibly to cook it. The image captures a moment of preparation for cooking, where the person is getting ready to add the bread to the pan.",
+        "answer_id": "h5Xv2FhrLA5bebdFbYajok",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_97",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000023789.jpg",
+        "action": "place pot",
+        "description": "In the image, there is a man and a woman standing next to a stove, with a frying pan and a spatula on the counter. The man is holding a frying pan, and the woman is holding a spatula. They are both positioned near the stove, possibly preparing to cook something. The man is holding the frying pan, and the woman is holding the spatula, which suggests that they are about to start cooking a meal together.",
+        "answer_id": "TPdPMYBjJYG8r3ayxra2ts",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_98",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000023873.jpg",
+        "action": "turn loaf of bread",
+        "description": "In the image, a woman is standing in front of a stove with a frying pan on it. She is holding a piece of bread in her hand, and she is about to put it into the frying pan. The frying pan is positioned on the stove, and the woman is positioned near the stove as well. The woman is performing the action of putting the bread into the frying pan, which is likely to be used for cooking or preparing a meal.",
+        "answer_id": "eDN9KNYvUcq3TRr3GcDf7n",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__1",
+        "id": "P08_09_99",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000025044.jpg",
+        "action": "move mug",
+        "description": "In the image, there is a person holding a cup of coffee while standing in front of a kitchen counter. The counter has a cutting board, a knife, and a plate of food on it. The person is likely preparing to eat or has just finished eating. The cup of coffee is positioned on the counter next to the food, indicating that the person might be taking a break or enjoying a moment of relaxation after their meal. The presence of the knife and cutting board suggests that the person might have been preparing the food on the plate. The image captures a moment of everyday life, where the person is engaging in a routine task, such as preparing a meal or enjoying a cup of coffee.",
+        "answer_id": "HjADkFa6HK9vUr7nmex9LK",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_100",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000025090.jpg",
+        "action": "open microwave",
+        "description": "In the image, there is a person holding a cup of coffee and standing in front of a stove. The cup is placed on the counter next to a microwave oven. The person is likely preparing or enjoying their coffee, possibly using the microwave to heat it up. The scene shows a kitchen setting with a stove, microwave, and countertop, which are common elements found in many homes. The person's hand is holding the cup of coffee, and their body is positioned in front of the stove, indicating that they are actively engaged in the process of preparing or consuming their coffee.",
+        "answer_id": "6EK6P6w48P2ous3JxnScLA",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_101",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000025233.jpg",
+        "action": "place mug",
+        "description": "In the image, there is a man standing in front of a stove, with a microwave oven on the counter. He is holding a microwave-safe container and appears to be placing it inside the microwave. The objects are positioned in a kitchen setting, with the stove and microwave oven being part of the kitchen appliances. The man is performing the action of placing the container in the microwave, which is a common task for cooking or reheating food.",
+        "answer_id": "2oVURMu5BDnB2gKc7NnEGF",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_102",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000025373.jpg",
+        "action": "turn on microwave",
+        "description": "In the image, we see a person holding a piece of toast and a microwave oven. The person is standing in front of the microwave oven, and the toast is placed on the counter next to the microwave. The person is likely about to put the toast in the microwave to heat it up. The microwave oven is positioned on the counter, and the person is standing in front of it, ready to place the toast inside. The image captures a moment in time where the person is preparing to heat up the toast using the microwave oven.",
+        "answer_id": "emkcqttcrPBb4f8Jf5dPtZ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_103",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000025518.jpg",
+        "action": "open fridge",
+        "description": "In the image, there is a man standing in front of a kitchen counter with a variety of food items, including a plate of sliced tomatoes, a knife, and a cutting board. He is holding a knife and appears to be preparing to cut the tomatoes. The objects are positioned on the counter, with the cutting board and knife placed on top of the counter, and the plate of sliced tomatoes sitting below. The man is performing the action of cutting the tomatoes, which suggests that he is preparing to cook or prepare a meal.",
+        "answer_id": "3bCjCgJzLWMaubZfBM47oW",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_104",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000025615.jpg",
+        "action": "place bread",
+        "description": "In the image, there is a man standing in front of a refrigerator, holding a knife and a cutting board. He is cutting a piece of meat on the cutting board, which is placed on top of the refrigerator. The man is positioned in front of the refrigerator, with the cutting board and knife in his hands. He is performing the action of cutting the meat, possibly preparing it for cooking or consumption.",
+        "answer_id": "PokmLBJQquqL9m3BeeiA66",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_105",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000025732.jpg",
+        "action": "close",
+        "description": "In the image, we see a person holding a plate with a piece of food, possibly a sandwich or a salad, and a fork. The person is standing in front of a stove, which is likely used for cooking or preparing meals. The plate and fork are positioned on a wooden cutting board, which is placed on the countertop. The person is performing the action of holding the plate and fork, possibly preparing to eat the food on the plate.",
+        "answer_id": "khLJEowcVqJ7wTsGUp2T8d",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_106",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000025822.jpg",
+        "action": "place milk",
+        "description": "In the image, there is a man holding a glass bottle of milk and a knife, standing in front of a refrigerator. The refrigerator has a shelf with a jar of ketchup on it. The man is about to open the refrigerator door, possibly to place the bottle of milk inside. The objects are positioned in a kitchen setting, with the refrigerator being the primary focus. The man's action is related to preparing food or storing items in the refrigerator.",
+        "answer_id": "P2gzGWQBHdysBjWf3cV4Hp",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_107",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000025914.jpg",
+        "action": "close fridge",
+        "description": "In the image, we see a man holding a can opener and a bottle of soda. He is standing in front of a refrigerator, and the refrigerator door is open. The man is about to open a can of soda using the can opener. The can is placed on the countertop, and the bottle of soda is positioned next to it. The man is holding the can opener in one hand and the bottle of soda in the other. This scene suggests that the man is preparing to consume the soda and is in the process of opening the can using the can opener.",
+        "answer_id": "3BknrtJFqc2T7XHcxxcJfQ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_108",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000026191.jpg",
+        "action": "turn bread",
+        "description": "In the image, we see a person holding a spatula while standing in front of a stove. The person is holding the spatula over a pan, and there are various ingredients, such as vegetables, onions, and tomatoes, on the stove. The person is likely preparing a meal, possibly stirring the ingredients in the pan. The objects in the image include the spatula, the pan, and the ingredients, which are positioned on the stove. The human is performing the action of stirring the ingredients in the pan using the spatula.",
+        "answer_id": "FGAmgy8P3V8Bxz2vmrMRVw",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_110",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000026975.jpg",
+        "action": "clean knife",
+        "description": "In the image, a human is sitting at a kitchen counter, holding a knife and a cutting board. The cutting board is covered with various food items, including a tomato, a cucumber, and a cheese. The human is preparing to cut the food items on the cutting board. The objects are positioned on the cutting board, and the human is holding the knife to cut the food. This scene suggests that the person is preparing a meal or snack, possibly using the ingredients on the cutting board.",
+        "answer_id": "ULWTQqPzFqSGn4M2eKEJtB",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_111",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000027216.jpg",
+        "action": "turn off of bread",
+        "description": "In the image, there is a person holding a spatula and using it to clean a frying pan. The frying pan is placed on a stove, and the person is standing next to it. The person is using the spatula to scrape food residue from the pan, which is likely a cooking utensil. The image shows the person's hand holding the spatula and performing the cleaning action, demonstrating their ability to effectively use the tool for cleaning.",
+        "answer_id": "MZT4dBgv9NJBiVfJThfFjh",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_112",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000027293.jpg",
+        "action": "turn off hob",
+        "description": "In the image, a person is holding a piece of bread and placing it on a frying pan. The frying pan is positioned on a stove, and the person is using a spatula to move the bread around. The person is also holding a fork, which suggests that they might be preparing to eat the bread once it is cooked. The image shows a kitchen setting, where the person is engaged in the process of cooking and preparing food.",
+        "answer_id": "8zEYDYL5wgUAPrvGLKzBE7",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_113",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000027542.jpg",
+        "action": "take the bread",
+        "description": "In the image, we see a man and a woman standing over a stove, with a frying pan on the stove. The man is holding a piece of bread, and the woman is holding a spatula. The man is placing the bread into the hot pan, while the woman is using the spatula to turn the bread over. This action is likely part of the process of cooking the bread in the pan. The objects are positioned in a way that allows the man to easily place the bread into the pan and the woman to turn it over for even cooking.",
+        "answer_id": "3JbcnoDxbkmZNcs68krMki",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_114",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000027735.jpg",
+        "action": "place on plate",
+        "description": "In the image, there is a man sitting at a kitchen counter, with a plate of food in front of him. He is holding a knife and cutting a piece of food, possibly a tomato, on the cutting board. The cutting board is placed on the counter, and the man is using the knife to cut the food. The plate of food is also on the counter, and there are utensils, such as a fork, on the table. The scene suggests that the man is preparing a meal or snack, possibly for himself or someone else.",
+        "answer_id": "e9MLwyMWkLDTYgchnzGiXk",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_115",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000027973.jpg",
+        "action": "get cheese on knife",
+        "description": "In the image, a woman is holding a knife and cutting a piece of cheese on a cutting board. The cutting board is placed on a wooden table, and there is a plate, a fork, and a knife on the table as well. The woman is cutting the cheese with the knife, and the plate and fork are nearby, ready to be used once the cheese is cut. The scene is focused on the woman's hands and the cutting board, indicating that she is actively engaged in the process of preparing the cheese for consumption.",
+        "answer_id": "oCPMpnn8pYGC3mTxcoeK3e",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_116",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000028047.jpg",
+        "action": "put cheese on bread",
+        "description": "In the image, there is a man standing in front of a kitchen counter, holding a knife and a plate. The plate is filled with food, and the man is about to cut the food with the knife. The objects are positioned on the counter, with the knife and plate being the main focus of the image. The man is performing the action of cutting the food, which is likely to be a meal or a snack. This scene suggests that the man is preparing to eat the food, and the image captures a moment in time when he is about to take a bite.",
+        "answer_id": "F6ifbXai7tbzcsDJK4KHnz",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_117",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000028225.jpg",
+        "action": "get cheese on knife",
+        "description": "In the image, there is a person sitting at a table, surrounded by various objects such as a plate, a knife, a fork, and a piece of cheese. The person is holding a piece of cheese and is about to put it on their plate. The plate is placed on a cutting board, which is positioned on the table. The person is engaged in the act of eating, and the objects are arranged in a way that makes it easy for them to access and use them. This scene suggests that the person is preparing to enjoy a meal, possibly a simple snack or a light meal, and is using the utensils and the cutting board to facilitate the process.",
+        "answer_id": "iWvR5NxrrtVuzB9nkXBkQk",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_118",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000029860.jpg",
+        "action": "spread cheese on bread",
+        "description": "In the image, there is a man holding a knife and cutting a piece of meat on a cutting board. The cutting board is placed on a stove, and there are various ingredients, including a tomato, on the stove. The man is positioned in front of the stove, with the cutting board and knife in his hands. He is cutting the meat and preparing it for cooking.",
+        "answer_id": "c5hd6jpvQJMmTB7XapCcMK",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_119",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000030152.jpg",
+        "action": "still spread cheese on bread",
+        "description": "In the image, there is a man holding a piece of fish on a cutting board, and he is about to cut it. The cutting board is placed on a countertop, and there are other objects like a knife, a plate, and a bowl on the counter as well. The man is positioned next to the cutting board, and he is holding the fish with one hand while using a knife to cut it with the other hand. This scene suggests that the man is preparing to cook the fish, possibly for a meal or a snack.",
+        "answer_id": "G8WFLBDx8NTK9dUVwnKq2e",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_120",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000030516.jpg",
+        "action": "get fork",
+        "description": "In the image, there is a person holding a knife and cutting a piece of bread. The bread is placed on a cutting board, which is positioned on a stove. The person is likely preparing a sandwich or a meal using the bread and the knife. The image shows the person's hands holding the knife and the bread, with the cutting board and the stove in the background. The scene suggests that the person is engaged in the process of preparing a meal, which involves cutting the bread and possibly adding other ingredients to create the sandwich or dish.",
+        "answer_id": "HPeVxvsybDD3TuU4BHmMUi",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_121",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000030697.jpg",
+        "action": "place avocado on bread",
+        "description": "In the image, a man is standing in front of a stove, holding a knife and a cutting board. He is cutting a fish on the cutting board, which is placed on top of a stove. The fish is positioned on the cutting board, and the man is using the knife to cut it into smaller pieces. The stove is also visible in the background, which suggests that the man might be preparing the fish to be cooked. The scene appears to be a kitchen setting, where the man is preparing a meal.",
+        "answer_id": "DjqNj5WskB6u9rxJFzKfgw",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_122",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000030787.jpg",
+        "action": "get avocado",
+        "description": "In the image, a man is standing in front of a kitchen counter, holding a knife and a plate. He is cutting a piece of fish on the plate, which is placed on top of a cutting board. The man is positioned between the cutting board and the plate, with the knife in his hand. The fish is likely being prepared for consumption, and the man is carefully cutting it to ensure it is cooked evenly. The presence of the knife and the cutting board suggests that the man is following proper food preparation techniques to ensure the fish is cooked safely and evenly.",
+        "answer_id": "Qf2Hni8uTk9DE9tCjv4DVQ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_123",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000031156.jpg",
+        "action": "place avocado on bread",
+        "description": "In the image, a woman is holding a knife and cutting a piece of fish on a cutting board. She is positioned near a stove, with a frying pan on it, and a plate on the counter. The woman is cutting the fish with the knife, and the plate is likely being used to hold the cooked fish. The frying pan is not in use at this time, and the woman is not cooking anything. The scene suggests that she is preparing the fish for consumption, possibly as a meal or for a recipe.",
+        "answer_id": "AVN3MKNNtWPYnih8FdbdeS",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_125",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000032072.jpg",
+        "action": "arrange avocado",
+        "description": "In the image, a person is sitting at a kitchen counter with a plate of food in front of them. The plate contains a piece of toast, and the person is using a fork to cut the toast into smaller pieces. There is also a knife and a cutting board on the counter, which suggests that the person might be preparing the meal. The objects are positioned in a way that allows the person to easily access and use them. The image shows a person engaged in the act of eating and preparing their meal, indicating that they are likely enjoying their food and taking care of their personal hygiene by washing their hands.",
+        "answer_id": "HLUZUWsFUQascVvx2BgDjx",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_126",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000032757.jpg",
+        "action": "open lid",
+        "description": "In the image, we see a man standing in front of a kitchen counter with various objects on it. There is a plate with food on it, a bowl, a spoon, and a knife. The man is holding a spoon and is about to scoop up some food from the plate. The objects are positioned on the counter in a neat and organized manner, with the plate and bowl placed on the top of the counter, and the spoon and knife resting on the counter next to them. The man is performing the action of scooping up food from the plate using the spoon, which he is holding in his hand.",
+        "answer_id": "3LvveKGrk4rU93fMDcC5HL",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_127",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000032898.jpg",
+        "action": "place chilli on avocado",
+        "description": "In the image, we see a person holding a knife and cutting a piece of meat, possibly a chicken breast, on a cutting board. The cutting board is placed on a kitchen counter, and the person is standing next to it. The person is wearing a red shirt, which adds a pop of color to the image. The scene appears to be focused on the process of preparing the meat for cooking, as the person is carefully cutting it with the knife. This image captures a moment in time, showcasing the essential steps involved in cooking, such as selecting and cutting the ingredients.",
+        "answer_id": "HZDWkWesedaz5RX6YMgVGB",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_128",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000033157.jpg",
+        "action": "turn lid on",
+        "description": "In the image, there is a person holding a knife and cutting a piece of bread on a cutting board. The cutting board is positioned on a countertop, and the person is standing next to the counter. The person is preparing a sandwich by cutting the bread and placing it on a plate. The image captures the moment when the person is about to place the cut bread on the plate. The presence of a knife and the cutting board suggests that the person is engaged in the process of preparing a meal, possibly a sandwich or a snack.",
+        "answer_id": "MqvB8rKVBRQckAiA7tdQ9n",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_129",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000033408.jpg",
+        "action": "press pepper",
+        "description": "In the image, a woman is standing over a stove, holding a spoon and a knife. She is standing next to a cutting board, which is placed on the countertop of the stove. The woman is preparing to cut vegetables, as she is holding the knife and spoon. The vegetables are likely placed on the cutting board, and she is about to cut them using the knife. The woman is wearing a red shirt and a white apron, which suggests that she is in the process of cooking or preparing a meal.",
+        "answer_id": "Tp6GzQeinadonzBuqtazVj",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_130",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000033851.jpg",
+        "action": "throw away lids",
+        "description": "In the image, there is a man and a woman standing in a kitchen, with a bowl of food on the counter. The man is holding a spoon, and the woman is holding a fork. They are positioned close to each other, possibly preparing to eat the food together. The man is holding the spoon in his hand, and the woman is holding the fork in her hand. The woman is also holding a piece of food in her hand, which suggests that they are about to consume the meal. The scene appears to be a casual, everyday moment in the kitchen, where the couple is preparing and eating a meal together.",
+        "answer_id": "VnCgUGQnjYNfSB2G5kGN6U",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_131",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000034010.jpg",
+        "action": "move knives",
+        "description": "In the image, a man is standing in front of a kitchen counter, with a knife and a cutting board. He is holding a piece of bread in his hand and is about to cut it. There is a plate, a knife, and a cutting board on the counter, indicating that the man is preparing to cut the bread. The objects are positioned on the counter in a way that allows the man to easily access and use them. The man is performing the action of cutting the bread, which is likely to be for consumption or for another purpose.",
+        "answer_id": "JFdDs9pwbPRHdmntmtcyVF",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_132",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000034278.jpg",
+        "action": "pour tomatoes on avocado bread",
+        "description": "In the image, there is a person holding a wooden cutting board and a knife, while standing in front of a stove. The person is about to cut a vegetable, possibly an egg, on the cutting board. The cutting board is positioned on the stove, and the person is holding the knife in their hand. The image shows the person preparing to cut the vegetable, which could be an egg, and the cutting board is placed on the stove for easy access. This scene suggests that the person is about to cook or prepare a meal, possibly using the vegetable as an ingredient.",
+        "answer_id": "B6eRxHYn5X9CcMfn9wUGQF",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_133",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000034583.jpg",
+        "action": "wipe off hands",
+        "description": "In the image, we see a man and a woman standing in a kitchen, with a cutting board, knife, and various food items on the counter. The man is holding a knife and appears to be cutting a vegetable, while the woman is holding a plate and possibly preparing to serve the food. The objects are positioned on the counter, with the cutting board and knife placed on the edge of the counter. The man is performing the action of cutting the vegetable, and the woman is likely assisting or preparing to serve the food.",
+        "answer_id": "LJQ2mXAytRvWRZGpuRdG9h",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_134",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000034693.jpg",
+        "action": "open microwave",
+        "description": "In the image, you see a man standing in front of a kitchen counter, with a microwave oven, a toaster, and a dishwasher on the counter. The man is holding a spatula and appears to be cleaning the dishwasher. The microwave oven and toaster are positioned next to the dishwasher, while the dishwasher is located on the counter. The man is performing the action of cleaning the dishwasher, which is an essential task to keep the appliance in good working condition and prevent any food residue from accumulating inside.",
+        "answer_id": "4FRFfSvE4ZjDwxCExY2cZd",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_135",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000034816.jpg",
+        "action": "get mug",
+        "description": "In the image, I see a man holding a long, thin, white object, possibly a knife, while standing in front of a kitchen counter. The man is positioned with the knife in his hand, and he is about to cut something. The objects in the scene include the knife, the counter, and possibly some food items or other kitchen utensils. The man is performing the action of cutting something, which could be a piece of meat, vegetables, or other food items. The image captures a moment in the process of preparing food, highlighting the importance of kitchen tools and the role of the human in cooking and preparing meals.",
+        "answer_id": "HqmWxTjNtgqgfuW38CuSAD",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_136",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000034897.jpg",
+        "action": "close microwave oven",
+        "description": "In the image, there is a woman standing in front of a kitchen counter, holding a cup of coffee. She is wearing a grey sweater and has a hand on the counter. The woman is positioned near a stove, which is turned off. There is a plate of food on the counter, and a cup of coffee is on the counter as well. The woman is performing the action of holding the cup of coffee while standing in front of the counter, which suggests that she might be taking a break or preparing to eat her meal.",
+        "answer_id": "Sv4iG7MUnuqdV5JGQWrddK",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_137",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000035059.jpg",
+        "action": "close cheese container",
+        "description": "In the image, there is a person holding a fork and a knife while sitting at a table with a plate of food. The person is about to cut the food with the knife. The fork is likely being used to pick up the food once it is cut. The scene appears to be in a kitchen, as there is a cup of coffee on the table. The person is positioned in front of the cup, indicating that they might be preparing to drink the coffee. The presence of the cup and the utensils suggests that the person is about to eat and drink something.",
+        "answer_id": "Lneah329xFcebGZAB6oXp8",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_139",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000035359.jpg",
+        "action": "open fridge",
+        "description": "In the image, there is a person holding a plate with a piece of pizza on it. The pizza is placed on a cutting board, and the person is holding a knife, ready to cut the pizza. The person is standing in front of a kitchen counter, and there are other objects on the counter, such as a cup and a spoon. The image shows the person preparing to cut the pizza and eat it.",
+        "answer_id": "XvJrQ9tqc9eb23oyyQViUL",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_138",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000035386.jpg",
+        "action": "place cheese",
+        "description": "In the image, we see a person holding a knife and a plate with a slice of pizza on it. The person is standing in front of a stove, and there is a bowl of sauce on the counter. The person is about to cut the pizza slice with the knife. The pizza slice is positioned on the plate, and the sauce is placed in the bowl. The image shows the person preparing to eat the pizza with the sauce.",
+        "answer_id": "PuhnCGkGzgGGwHBK9Gk8UV",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_140",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000035638.jpg",
+        "action": "close fridge",
+        "description": "In the image, we see a man holding a plate with a piece of food on it, while standing in front of a stove. He is holding a knife and appears to be preparing to cut the food. The plate is positioned on the countertop, and the man is standing in front of the stove, which suggests that he is about to cook the food. The presence of a knife indicates that he is about to cut the food into smaller pieces before cooking it. The image captures a moment in the process of food preparation, where the man is getting ready to start cooking the meal.",
+        "answer_id": "4m9WXgHmapCFP6DJ2Prtrd",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_141",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000035894.jpg",
+        "action": "get plate",
+        "description": "In the image, a person is holding a knife and cutting a piece of food, possibly a vegetable, on a cutting board. The cutting board is placed on a countertop, and there is a bowl of sauce nearby. The person is standing in front of the countertop, with their back to the camera. The knife is being used to cut the food, and the person is possibly preparing to eat it. The presence of the bowl of sauce suggests that the person may be preparing a meal or snack. The image captures a moment in time, where the person is actively engaged in the process of preparing and consuming food.",
+        "answer_id": "WLeNgUwEwMiayn6GMMyy2X",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_142",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000036117.jpg",
+        "action": "get fork",
+        "description": "In the image, we see a person holding a sponge in their hand, standing in front of a sink. The sink is filled with water, and the person is about to clean the sink with the sponge. The sink is positioned on a countertop, and the person is standing at a comfortable distance from the sink. The action being performed is the person cleaning the sink with the sponge, using the water in the sink to effectively remove any dirt or grime.",
+        "answer_id": "fkVAhXjJrMjsAPpksXEhfo",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_143",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000036273.jpg",
+        "action": "open cupboard",
+        "description": "In the image, we see a man holding a knife and a bottle of hot sauce, both placed on a countertop. The man is using the knife to open the bottle of hot sauce, which is positioned on the countertop next to a cutting board. The man is also holding a spoon, which he might use to taste the hot sauce once it is open. This scene suggests that the man is preparing to use the hot sauce in cooking or as a condiment for a meal.",
+        "answer_id": "cMUh6havaddRs6M8PSNfPM",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_144",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000036322.jpg",
+        "action": "place spice",
+        "description": "In the image, there is a human holding a piece of meat, possibly a chicken breast, and a knife. The human is standing in front of a countertop with a stove and a sink, which suggests that they are in a kitchen environment. The human is about to cut the meat, as they are holding the knife and the piece of meat in their hand. The meat is positioned on a cutting board, which is placed on the countertop. The scene appears to be focused on the process of preparing the meat for consumption, which involves cutting it into smaller pieces.",
+        "answer_id": "DbWUoayRoiBCBpnAJB34TW",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_145",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000036506.jpg",
+        "action": "place salt",
+        "description": "In the image, we see a person holding a frying pan on a stove, with a plate of food on the counter next to it. The person is also holding a knife and a cutting board, which suggests that they are preparing to cut the food. The frying pan is positioned on the stove, and the plate of food is placed on the counter, both of which are positioned in close proximity to each other. The person is performing the action of cutting the food with the knife on the cutting board, preparing to cook it in the frying pan.",
+        "answer_id": "kLudpsCyQZYbKqQTavLNvP",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_146",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000036549.jpg",
+        "action": "close cupboard",
+        "description": "In the image, a woman is holding a knife and cutting a piece of meat, possibly a chicken breast, on a cutting board. The cutting board is placed on a kitchen counter, and the woman is standing next to it. The woman is wearing a white t-shirt and appears to be in the process of preparing the meat for cooking. The image shows the woman's hands holding the knife and the meat, and her body positioned near the cutting board.",
+        "answer_id": "Yub5asW4T74dHQUomimUg7",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_147",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000036688.jpg",
+        "action": "wipe hands",
+        "description": "In the image, there is a person holding a knife and cutting a piece of meat on a cutting board. The cutting board is positioned on a stainless steel countertop, and the person is standing next to the counter. The person is cutting the meat with the knife, and the cutting board is covered with a white towel to prevent any spills or mess. The scene suggests that the person is preparing the meat for cooking or consumption.",
+        "answer_id": "hK6QdSVNDMFprBRaBi62zY",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P08_09__2",
+        "id": "P08_09_148",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P08/rgb_frames/P08_09.tar",
+        "image": "./frame_0000036752.jpg",
+        "action": "turn off light",
+        "description": "In the image, a person is standing in front of a stove, holding a frying pan with a cooked egg inside. The person is holding the pan with both hands and is about to place it on the stove. The stove is positioned on the counter, and the person is standing next to it. The image shows a close-up view of the person's hands and the frying pan, indicating that they are preparing to cook the egg on the stove.",
+        "answer_id": "9AqwaFTzU34mNFnqLmupYy",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    }
+]

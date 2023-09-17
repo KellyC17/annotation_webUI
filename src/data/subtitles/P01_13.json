@@ -1,0 +1,302 @@
+[
+    {
+        "ep_id": "P01_13__0",
+        "id": "P01_13_0",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P01/rgb_frames/P01_13.tar",
+        "image": "./frame_0000000065.jpg",
+        "action": "take cereal bag",
+        "description": "In the image, there is a man sitting at a table with a cup of coffee in front of him. He is holding a piece of paper and using a pen to write on it. The man is positioned with his back to the camera, and the table is placed in the center of the room. The man is performing the action of writing on the paper with the pen, possibly taking notes or writing a message. The presence of the cup of coffee suggests that the man might be taking a break or enjoying a moment of relaxation while writing.",
+        "answer_id": "ReDQdEBUXioaiDeBZRxbKA",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P01_13__0",
+        "id": "P01_13_1",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P01/rgb_frames/P01_13.tar",
+        "image": "./frame_0000000167.jpg",
+        "action": "fold cereal bag",
+        "description": "In the image, there is a man sitting at a dining table, holding a cup of coffee and a piece of paper. He is also holding a small white box, which might contain a sponge or a cleaning tool. The man is positioned in front of a white tablecloth, which is likely on a dining table. He is performing the action of cleaning the table, possibly using the sponge or cleaning tool from the small white box. The presence of the cup of coffee suggests that the man might be taking a break or preparing to clean the table while enjoying his coffee.",
+        "answer_id": "DHtwvSzKR4jQLmvxTykNHy",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P01_13__0",
+        "id": "P01_13_2",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P01/rgb_frames/P01_13.tar",
+        "image": "./frame_0000000405.jpg",
+        "action": "put cereal bag into cereal box",
+        "description": "In the image, we see a man sitting at a table with a cup of coffee in front of him. He is holding a piece of paper and appears to be reading it. The table is placed on a chair, and the man is sitting on the chair with the cup of coffee next to him. The man is engaged in the act of reading the paper while enjoying his coffee.",
+        "answer_id": "bKmwS2Ef3A8ik6DZtS8hPw",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P01_13__0",
+        "id": "P01_13_3",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P01/rgb_frames/P01_13.tar",
+        "image": "./frame_0000000578.jpg",
+        "action": "close cereal box",
+        "description": "In the image, there is a man sitting at a table, holding a cup of coffee and a small green card. The man is positioned in front of a black tablecloth, which is placed on top of a wooden table. He is holding the cup of coffee in one hand and the small green card in the other. The man is performing the action of placing the small green card on top of the cup of coffee.",
+        "answer_id": "hRXwTMv7Mwsbf2aPE2h8A3",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P01_13__0",
+        "id": "P01_13_4",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P01/rgb_frames/P01_13.tar",
+        "image": "./frame_0000000741.jpg",
+        "action": "open cupboard",
+        "description": "In the image, there is a person standing in front of a kitchen counter, with a bookshelf and a refrigerator behind them. The person is holding a book and appears to be looking at it. The bookshelf is positioned on the wall, and the refrigerator is placed on the floor. The person is likely reading the book while standing in the kitchen, possibly taking a break from cooking or preparing food.",
+        "answer_id": "T9BMnFdiBizrqpNmycZhA6",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P01_13__0",
+        "id": "P01_13_5",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P01/rgb_frames/P01_13.tar",
+        "image": "./frame_0000000838.jpg",
+        "action": "put cereal box into cupboard",
+        "description": "In the image, there is a woman standing in front of a kitchen counter, holding a potato and a carrot. The woman is holding the potato and carrot in her hands, and she is looking down at them. The objects are positioned on the counter, and the woman is performing an action of examining or preparing the vegetables. The image suggests that she might be planning to cook or prepare a meal using these vegetables.",
+        "answer_id": "PjedhPRtKGPdGYaXvnZXYa",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P01_13__0",
+        "id": "P01_13_6",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P01/rgb_frames/P01_13.tar",
+        "image": "./frame_0000000954.jpg",
+        "action": "close cupboard",
+        "description": "In the image, a man is standing on a staircase with a handful of money in his hand. He is holding the money in one hand and using the other hand to wipe the stairs clean. The money is positioned on the stairs, and the man is performing the action of cleaning the stairs with his hand.",
+        "answer_id": "Q83iEjUGaxYCDDnYU56ZYy",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P01_13__0",
+        "id": "P01_13_7",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P01/rgb_frames/P01_13.tar",
+        "image": "./frame_0000001083.jpg",
+        "action": "take cup and spoon",
+        "description": "In the image, there is a man sitting at a dining table with a cup of coffee in front of him. He is holding a spoon and stirring the coffee with the spoon, possibly adding sugar or cream to the beverage. The man is positioned on the dining table, and the cup of coffee is placed on a tablecloth. The scene appears to be a casual and comfortable setting, where the man is enjoying his coffee and taking a moment to relax.",
+        "answer_id": "M6amespaQkVZAoGZLYc4SN",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P01_13__0",
+        "id": "P01_13_8",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P01/rgb_frames/P01_13.tar",
+        "image": "./frame_0000001219.jpg",
+        "action": "put down cup and spoon",
+        "description": "In the image, we see a man standing next to a wooden door, holding a broom. The broom is positioned in front of the door, and the man is holding it with one hand while standing in front of the door. The man is likely cleaning the door or the surrounding area with the broom. The image captures the moment when the man is about to sweep the door or the floor, and it highlights the man's interaction with the broom and the door.",
+        "answer_id": "ESX6s7EVQiUgnqJYYreNx2",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P01_13__0",
+        "id": "P01_13_9",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P01/rgb_frames/P01_13.tar",
+        "image": "./frame_0000001340.jpg",
+        "action": "take table cloth",
+        "description": "In the image, we see a person sitting at a table, holding a book and a pen. The person is writing or drawing with the pen, possibly taking notes or sketching something. The table is positioned in front of a window, providing natural light. The objects are placed on the table, with the book and pen being used for the person's activity. The image captures a moment of concentration and focus, as the person is engaged in the task of writing or drawing.",
+        "answer_id": "FJYtN5D6ucU95JLJgB7c5b",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P01_13__0",
+        "id": "P01_13_10",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P01/rgb_frames/P01_13.tar",
+        "image": "./frame_0000001815.jpg",
+        "action": "hang table cloth",
+        "description": "In the image, there is a human holding a plastic bag and standing in front of a door. The bag is hanging from the door handle, and the human is reaching for it. The bag is filled with groceries, and the human is likely trying to retrieve it from the door. The scene suggests that the person might be returning home after shopping and is about to enter the house with their groceries.",
+        "answer_id": "DPCqHHXTbKR2ifivFDwsUz",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P01_13__0",
+        "id": "P01_13_11",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P01/rgb_frames/P01_13.tar",
+        "image": "./frame_0000002123.jpg",
+        "action": "take washing up liquid",
+        "description": "In the image, a man is standing in a kitchen, holding a bottle of dish soap. He is standing on a wooden floor, and the bottle is positioned on a countertop. The man is performing an action of pouring the dish soap into a sink, possibly preparing to wash dishes. The image captures the moment of the man pouring the soap, which is a common task in household chores.",
+        "answer_id": "9hKNsd4AmUbYdJSwiR7kbA",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P01_13__0",
+        "id": "P01_13_12",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P01/rgb_frames/P01_13.tar",
+        "image": "./frame_0000002274.jpg",
+        "action": "pour washing op liquid",
+        "description": "In the image, a man is standing in front of a sink, holding a bottle of dish soap. The bottle is placed on the countertop next to the sink, and the man is pouring the soap into the sink. This action suggests that the man is preparing to wash dishes or clean the sink. The image shows the sink, the countertop, and the bottle of dish soap, which are all positioned in a way that allows the man to perform the task efficiently.",
+        "answer_id": "WFKnQ5VFa5ukotQwLPc3G8",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P01_13__0",
+        "id": "P01_13_13",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P01/rgb_frames/P01_13.tar",
+        "image": "./frame_0000002381.jpg",
+        "action": "put down washing up liquid",
+        "description": "In the image, there is a sink with a person washing their hands. The sink is positioned on a wooden countertop, and the person is standing next to it, washing their hands with soap and water. The sink is filled with water, and the person is using a towel to dry their hands after washing them. The image shows a typical scene of a person practicing good hygiene by washing their hands in a sink, demonstrating the importance of handwashing in maintaining personal and public health.",
+        "answer_id": "jLESpBsXgqjgnDTMLx2JhY",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P01_13__0",
+        "id": "P01_13_14",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P01/rgb_frames/P01_13.tar",
+        "image": "./frame_0000002411.jpg",
+        "action": "turn on tap",
+        "description": "In the image, we see a man standing in front of a sink, holding a sponge and a bottle of dish soap. He is positioned next to a sink, which is filled with water. The man is about to wash dishes, using the sponge and dish soap to clean the dishes. The image captures a moment in the process of washing dishes, where the man is preparing to clean the dishes using the sponge and dish soap.",
+        "answer_id": "6ZEK377GwGwpnZKJUSqrwB",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P01_13__0",
+        "id": "P01_13_15",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P01/rgb_frames/P01_13.tar",
+        "image": "./frame_0000002634.jpg",
+        "action": "wash cup and spoon",
+        "description": "In the image, a man is standing in front of a sink, holding a sponge and a scrub brush. He is using the sponge to clean the sink, while the scrub brush is being used to scrub the sink's surface. The sink is positioned on a countertop, and the man is standing in front of it, with his back to the camera. The objects are arranged in a way that allows the man to easily access the sink and perform the cleaning task. The man is performing the action of cleaning the sink using the sponge and scrub brush, ensuring that the sink remains clean and hygienic.",
+        "answer_id": "MYTEmNi9hzbKuULxVkCPUR",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P01_13__0",
+        "id": "P01_13_16",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P01/rgb_frames/P01_13.tar",
+        "image": "./frame_0000002968.jpg",
+        "action": "rinse spoon",
+        "description": "In the image, we see a man standing in front of a sink, holding a knife. The sink is filled with water, and the man is using the knife to scrape the bottom of the sink. The man is positioned in front of the sink, and the knife is being used to clean the sink. This action is being performed to remove any food particles or debris that may have accumulated on the bottom of the sink.",
+        "answer_id": "VB7upLThQrZBytRR6sGafm",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P01_13__0",
+        "id": "P01_13_17",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P01/rgb_frames/P01_13.tar",
+        "image": "./frame_0000003095.jpg",
+        "action": "put down spoon",
+        "description": "In the image, we see a man standing in front of a sink, holding a sponge and a scrub brush. He is using the sponge to clean the sink, and the scrub brush is being used to scrub the sink as well. The man is positioned in front of the sink, with the sponge and scrub brush in his hands. He is performing the action of cleaning the sink, ensuring it is free from dirt and grime.",
+        "answer_id": "oFxMqK7Cbmke3DBQFMKdsV",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P01_13__0",
+        "id": "P01_13_18",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P01/rgb_frames/P01_13.tar",
+        "image": "./frame_0000003327.jpg",
+        "action": "rinse cup",
+        "description": "In the image, a man is standing in a kitchen, holding a sponge and a dishcloth. He is positioned near a sink, with the sponge and dishcloth on the counter. The man is using the sponge to clean the dishcloth, which is likely being used to wipe down the sink. This action is a common task in maintaining a clean and organized kitchen.",
+        "answer_id": "NKwhB6pdpvNyCg9HwqGXvf",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P01_13__0",
+        "id": "P01_13_19",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P01/rgb_frames/P01_13.tar",
+        "image": "./frame_0000003663.jpg",
+        "action": "turn off tap",
+        "description": "In the image, there is a man holding a sponge and a dishcloth, and he is cleaning a sink. The sink is filled with water, and the man is using the sponge and dishcloth to clean the sink. The objects are positioned in the sink, with the sponge and dishcloth being used to wipe down the sink's surface. The man is performing the action of cleaning the sink, which is an essential task for maintaining cleanliness and hygiene in the kitchen.",
+        "answer_id": "NyM2ksEQXAXTv3gUNQducp",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P01_13__0",
+        "id": "P01_13_20",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P01/rgb_frames/P01_13.tar",
+        "image": "./frame_0000003802.jpg",
+        "action": "put down cup",
+        "description": "In the image, we see a man standing next to a sink, holding a sponge while washing his hands. The sink is positioned on the countertop, and the man is standing next to it, using the sponge to clean his hands. The sink is filled with water, and the man is performing the action of washing his hands in the sink.",
+        "answer_id": "ehKTmKqE7vnmmGFXahCtdv",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P01_13__0",
+        "id": "P01_13_21",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P01/rgb_frames/P01_13.tar",
+        "image": "./frame_0000003968.jpg",
+        "action": "dry hands",
+        "description": "In the image, a man is holding a sponge and cleaning a kitchen cabinet door. The cabinet door is open, and the man is using the sponge to wipe down the door and remove any dirt or debris. The man is positioned in front of the cabinet door, with the sponge in his hand, and he is performing the cleaning action. The objects in the image are the man, the sponge, and the kitchen cabinet door.",
+        "answer_id": "Twqp3PTb9k22BfxRxYUUTX",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P01_13__0",
+        "id": "P01_13_22",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P01/rgb_frames/P01_13.tar",
+        "image": "./frame_0000004188.jpg",
+        "action": "open cupboard",
+        "description": "In the image, we see a man standing in a kitchen, holding a long, thin object (such as a broom or a pole) and pointing it towards a refrigerator. The refrigerator is positioned on the left side of the kitchen, while the man is standing on the right side. The man is performing an action of pointing the object towards the refrigerator, possibly indicating that he is trying to clean or inspect the appliance. The objects in the kitchen, including the refrigerator, are positioned in a way that allows the man to easily access and interact with them.",
+        "answer_id": "fFQKSFnZA5hWakMDNJhrYa",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P01_13__0",
+        "id": "P01_13_23",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P01/rgb_frames/P01_13.tar",
+        "image": "./frame_0000004242.jpg",
+        "action": "take glass",
+        "description": "In the image, there is a person standing in front of a kitchen sink, with a hand holding a sponge and a bottle of dish soap. The person is likely cleaning the sink using the sponge and dish soap. The sponge is being used to wipe down the sink, and the bottle of dish soap is being held by the person's hand. The objects are positioned in a way that allows the person to easily access the sink and apply the dish soap for cleaning. The action being performed by the person is cleaning the sink using the sponge and dish soap.",
+        "answer_id": "L2cJiQfjA4En4hDzevaGay",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P01_13__0",
+        "id": "P01_13_24",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P01/rgb_frames/P01_13.tar",
+        "image": "./frame_0000004276.jpg",
+        "action": "close cupboard",
+        "description": "In the image, there is a person sitting at a table with a cup of coffee next to a laptop. The person is holding a cup of coffee and is about to take a sip. The cup is positioned on the table, and the laptop is placed on the table as well. The scene suggests that the person might be taking a break from working on the laptop to enjoy their coffee. The presence of the laptop indicates that the person is likely working or studying, and the cup of coffee provides a moment of relaxation and refreshment.",
+        "answer_id": "WWmgjAg3YHYX5yP5QAromQ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P01_13__0",
+        "id": "P01_13_26",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P01/rgb_frames/P01_13.tar",
+        "image": "./frame_0000004409.jpg",
+        "action": "take bottle",
+        "description": "In the image, there are two wine glasses placed on a wooden floor, with one hand holding the glasses and the other hand holding a bottle of wine. The person is pouring wine from the bottle into one of the wine glasses. The wine glasses are positioned next to each other on the floor, and the person is standing over them. The image captures a moment of the person pouring the wine, which suggests that they are about to enjoy a drink or share it with someone else.",
+        "answer_id": "GLhXzFChpRjqW3MLb8KG89",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P01_13__0",
+        "id": "P01_13_25",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P01/rgb_frames/P01_13.tar",
+        "image": "./frame_0000004425.jpg",
+        "action": "put down glass",
+        "description": "In the image, there are two glasses of wine on a wooden floor. One person is holding a glass of wine and another person is holding a bottle of wine. The person holding the bottle is pouring wine into the glass held by the other person. This action is being performed on a wooden floor, which adds a rustic and cozy atmosphere to the scene. The two people are standing close to each other and are engaged in the act of sharing a drink, which may be a social or celebratory occasion.",
+        "answer_id": "44BYUJEUWgLN2SGMABRAe8",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P01_13__0",
+        "id": "P01_13_27",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P01/rgb_frames/P01_13.tar",
+        "image": "./frame_0000004835.jpg",
+        "action": "pour water into glass",
+        "description": "In the image, there is a man holding a bottle of wine and pouring it into a glass. The man is standing on a table or a surface, and the bottle and glass are positioned on the table next to each other. The man is pouring the wine into the glass, which is likely a wine glass or a champagne flute. The image captures the moment when the man is about to pour the wine into the glass, and it is a close-up shot.",
+        "answer_id": "YHoXPQ3VuRMUeGiyMBu4yY",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P01_13__0",
+        "id": "P01_13_28",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P01/rgb_frames/P01_13.tar",
+        "image": "./frame_0000005392.jpg",
+        "action": "drink water",
+        "description": "In the image, there is a living room with a couch, a chair, and a table. A human is sitting on the couch, and they are holding a remote control. The remote control is positioned in front of the human, and they are using it to control a television. The television is located on a wall, and the human is sitting on the couch while watching it.",
+        "answer_id": "fGbBYigjygY974RCLN3e4V",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P01_13__0",
+        "id": "P01_13_29",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P01/rgb_frames/P01_13.tar",
+        "image": "./frame_0000005460.jpg",
+        "action": "put down glass",
+        "description": "In the image, there is a person sitting on a wooden table, with a red apple and a glass of water placed in front of them. The person is holding a spoon, and they are about to eat the apple. The objects are positioned on the table, with the glass of water sitting on the right side and the apple on the left side. The person is performing the action of eating the apple using the spoon.",
+        "answer_id": "ayCkJX8kngF72ihhUV5r6M",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    }
+]

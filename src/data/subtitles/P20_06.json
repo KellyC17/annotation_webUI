@@ -1,0 +1,702 @@
+[
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_0",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000000283.jpg",
+        "action": "open drawer",
+        "description": "In the image, a human is standing on a chair, holding a spoon and a cup, and pouring liquid from the cup into the spoon. The objects are positioned on a table, with the cup being held in one hand and the spoon in the other. The human is performing the action of pouring the liquid from the cup into the spoon, possibly for the purpose of eating or drinking. The image captures a moment in time, showcasing the human's hand movements and the objects' position on the table.",
+        "answer_id": "TxrRPaf388sNiHxFHEkdQP",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_1",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000000320.jpg",
+        "action": "pick up bowl",
+        "description": "In the image, we see a man standing on a kitchen counter, holding a large white bowl with a spoon in it. The bowl is placed on top of a small table, and the man is holding the spoon in his hand. The man is also wearing a black shirt and is standing in a kitchen environment. The image captures a moment of the man preparing food or eating, as he is holding the bowl and spoon. The positioning of the bowl on the table and the man standing on the counter suggests that he might be preparing a meal or serving food, or he might be in the process of eating.",
+        "answer_id": "gJFWrhoaAYSJqaxoKpqCWS",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_2",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000000569.jpg",
+        "action": "turn on tap",
+        "description": "In the image, there is a man standing in front of a sink with a bowl of dish soap in his hand. He is holding the bowl and pouring the soap into the sink, likely preparing to wash dishes. The sink is positioned on a countertop, and the man is standing on a tile floor. The scene shows the man performing a common household task, which is washing dishes, and the image highlights the everyday nature of this activity.",
+        "answer_id": "XxJoUdMYE8EqAmAtLeqq9k",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_3",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000000773.jpg",
+        "action": "rinse bowl",
+        "description": "In the image, we see a person standing over a sink, with their hands holding a bottle of dish soap. The person is holding the bottle with both hands, and the bottle is positioned on the countertop next to the sink. The person is likely preparing to wash dishes or clean the sink using the dish soap. The image captures a moment in time where the person is about to pour the dish soap into the sink or apply it to the dishes.",
+        "answer_id": "oNTwk3Qqci7RFbPv6fa95k",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_4",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000000827.jpg",
+        "action": "turn off tap",
+        "description": "In the image, there is a man standing on a kitchen counter, holding a bottle of dish soap. He is positioned next to a sink, with a sponge and a dishcloth on the counter. The man is holding the bottle of dish soap with both hands, and he is about to pour it into the sink. This action indicates that he is preparing to clean dishes or the sink. The objects in the image are positioned in a way that facilitates the man's task, with the sink and the cleaning supplies nearby.",
+        "answer_id": "ZSzvRvHqsm9WXAgLNqcisb",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_5",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000001046.jpg",
+        "action": "put down bowl",
+        "description": "In the image, a man is holding a white bowl with his hands, standing in front of a kitchen counter. The bowl is positioned on the counter, and the man is holding it with his hands. The image suggests that the man is preparing to put the bowl on the counter or is about to place it there. The presence of the bowl and the man's hands indicate that he is likely engaged in a task related to food preparation or cleaning.",
+        "answer_id": "3XUFYLY8hKqYNymEjB3REU",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_6",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000001207.jpg",
+        "action": "pick up cereal box",
+        "description": "In the image, a man is holding a piece of toast and a coffee cup while walking towards a kitchen counter. The toast is placed on the counter, and the coffee cup is being held in his hand. The man is walking down a hallway or a room, and the objects are positioned on the counter in the kitchen. The action being performed by the man is walking with the toast and coffee cup, likely to place them on the counter or to prepare to eat or drink.",
+        "answer_id": "gDRXvr2NRPCZpm8qRrGm5K",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_7",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000001480.jpg",
+        "action": "open cereal box",
+        "description": "In the image, there is a man standing in front of a table with a white box on it. He is holding a spoon and a small piece of food, possibly a cookie or a cake, and is about to eat it. The man is positioned in a kitchen setting, possibly preparing or consuming a meal. The objects in the image are the spoon, the food, and the table, which are all placed in a way that facilitates the man's actions. The man is holding the spoon and the food, indicating that he is about to eat the food.",
+        "answer_id": "FFdeNL45XYAhDQyrooHUKN",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_8",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000001626.jpg",
+        "action": "pour cereals into bowl",
+        "description": "In the image, we see a human holding a bowl of cereal and a spoon, standing in front of a kitchen counter. The bowl is filled with cereal, and the spoon is being used to scoop some of the cereal from the bowl. The human is positioned in a kitchen, possibly preparing a meal or snack. The image captures a moment of the person taking a bite of the cereal, indicating that they are about to eat the food.",
+        "answer_id": "TZCasCyLCHa3zbyABNUwxR",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_9",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000002231.jpg",
+        "action": "close cereal box",
+        "description": "In the image, we see a man holding a bowl with a handful of cereal, standing in front of a table with a spoon. The bowl is placed on the table, and the man is holding the spoon in his hand. The man is likely preparing to eat the cereal from the bowl. The objects are positioned in a way that the man can easily access the bowl and spoon. The action being performed is the man preparing to eat the cereal.",
+        "answer_id": "FSydWuUtXmizfib4ihkpWZ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_10",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000002325.jpg",
+        "action": "put cereal box",
+        "description": "In the image, a person is holding a box of cookies and standing in front of a kitchen counter. The person is holding the box with both hands and looking at it, possibly contemplating eating the cookies. The kitchen counter is filled with various items, such as a kettle, a coffee maker, and a microwave, which suggests that the person might be preparing to make a hot beverage or cook a meal. The presence of the cookies on the counter indicates that the person might be planning to snack on them or share them with someone else. The image captures a moment of decision-making, as the person is deciding whether to eat the cookies or continue with their cooking or beverage preparation.",
+        "answer_id": "KyGmZk9UpvgVQavHKczfHk",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_11",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000002443.jpg",
+        "action": "open fridge",
+        "description": "In the image, there is a person standing in front of a kitchen counter with a cup of coffee and a spoon. The person is holding the spoon and looking at the cup, possibly contemplating or preparing to take a sip of coffee. The cup is placed on a countertop, and the person is standing in a kitchen area, possibly getting ready to start their day or enjoying a break. The scene is simple and straightforward, showcasing the everyday activities of a person in a kitchen setting.",
+        "answer_id": "mY9MJ6EnGTv5YDc2Uo37nK",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_12",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000002531.jpg",
+        "action": "pick up milk bottle",
+        "description": "In the image, a person is standing in front of a refrigerator, holding a bottle of wine. The refrigerator is filled with various food items, including a jar of pickles, a bottle of ketchup, and a jar of mayonnaise. The person is reaching for the bottle of wine, possibly to open it or place it back in the refrigerator. The objects are positioned on the shelves of the refrigerator, with the bottle of wine being placed on the top shelf. The person is holding the bottle of wine with one hand, while the other hand is resting on the refrigerator door. This scene suggests that the person might be preparing for a meal or simply organizing their refrigerator.",
+        "answer_id": "GeLrGU3foP6Mm4Kb3NpNEG",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_13",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000002782.jpg",
+        "action": "close fridge",
+        "description": "In the image, a person is holding a bottle of milk and standing in front of a refrigerator. The bottle is positioned on the countertop, and the person is holding it with both hands. The person is likely about to open the refrigerator door to place the bottle inside. This action indicates that the person is preparing to store the milk in the refrigerator, which is a common practice to keep food and drinks fresh and prevent spoilage.",
+        "answer_id": "E2BaCCTypX3DcQM9KVLszr",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_14",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000003149.jpg",
+        "action": "open milk bottle",
+        "description": "In the image, we see a man sitting on a table, holding a bowl of cereal, and using a spoon to scoop out some of the cereal. The bowl is placed on a table, and the man is sitting in front of it. He is performing the action of eating the cereal with the spoon, possibly enjoying his breakfast or snack.",
+        "answer_id": "DFsnKm5UrgMewRvQMjQTr8",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_15",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000003751.jpg",
+        "action": "pour milk into bowl with cereals",
+        "description": "In the image, a human is holding a bowl and pouring a liquid into it. The bowl is placed on a table, and the liquid is being poured from a bottle. The human is standing and holding the bottle, and the bowl is being filled with the liquid. The scene shows a person performing a simple task, such as preparing a meal or mixing a drink. The objects are positioned in a way that allows for easy access and movement, making it convenient for the person to carry out the action.",
+        "answer_id": "T7feretjnYZwVqGbmXHBqN",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_16",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000004110.jpg",
+        "action": "still pouring milk",
+        "description": "In the image, we see a person holding a bowl and using a spoon to scoop out some food from the bowl. The bowl is placed on a table, and the person is standing next to it. The person is likely preparing a meal or snack, and the act of scooping out food from the bowl with the spoon is an essential part of this process. The image captures the moment when the person is about to take a bite of the food, which suggests that they are almost done with their meal preparation.",
+        "answer_id": "K7y3zvakiGEUFMNVrJcB4t",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_17",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000004465.jpg",
+        "action": "pour milk",
+        "description": "In the image, a man is sitting on a wooden chair, holding a white bowl with a spoon in his hand. The bowl is filled with a mixture of food, and the man is about to eat from it. The bowl is positioned on a table, and the man is sitting close to the table. The man is performing the action of eating from the bowl using the spoon.",
+        "answer_id": "SSQ7xw9LsZaFc6hK6J2qDJ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_18",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000004887.jpg",
+        "action": "put lid on milk bottle",
+        "description": "In the image, a man is sitting on a table, holding a bowl of cereal in his hands. The bowl is positioned on the table, and the man is about to eat the cereal from the bowl. The table is wooden, and the man is wearing a t-shirt. The scene is taken from a close-up perspective, emphasizing the man's actions and the bowl of cereal. This image captures a moment of everyday life, where the man is enjoying a simple breakfast or snack, and it might be a common scene in many households.",
+        "answer_id": "hjP7QAGD8LsEfqFZzTnnTQ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_19",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000005177.jpg",
+        "action": "open fridge",
+        "description": "In the image, a person is holding a white coffee mug and pouring coffee into it from a coffee maker. The coffee maker is placed on a counter, and the person is holding the mug with one hand while pouring the coffee into it. The coffee maker and the mug are positioned on the counter, and the person is standing next to the counter. The action being performed is pouring the coffee from the coffee maker into the mug, which is a common task for people who enjoy their morning coffee.",
+        "answer_id": "byfQQ3ypVr5PSCbAQKi2cJ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_20",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000005338.jpg",
+        "action": "put milk in fridge",
+        "description": "In the image, a person is holding a bottle of liquid, possibly milk, and is pouring it into a refrigerator. The person is standing in front of the refrigerator, and the bottle is being held in one hand. The action being performed is the person pouring the liquid into the refrigerator, possibly to store it or to prepare it for consumption. The objects in the image include the bottle, the refrigerator, and the person. The position of the bottle and the person relative to the refrigerator suggests that the person is performing a task related to storing or preparing food in the refrigerator.",
+        "answer_id": "RcWNtmrEfUUAJgNLNyAAR6",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_21",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000005536.jpg",
+        "action": "pick up ham",
+        "description": "In the image, we see a woman reaching for a jar of sauce in a refrigerator, possibly while preparing a meal. The jar of sauce is positioned on a shelf in the refrigerator, and the woman is reaching for it with her hand. The woman is standing in front of the refrigerator, and the jar of sauce is located on the top shelf, which might be a bit challenging for her to reach. This image captures a moment in the woman's daily routine, as she is likely preparing a meal or snack using the contents of the refrigerator.",
+        "answer_id": "JBoWj3VenAESk96yUjQFGL",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_22",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000005639.jpg",
+        "action": "pick up salads",
+        "description": "In the image, we see a person holding a can of soda and a bottle of ketchup, both of which are placed on a kitchen counter. The person is standing in front of the counter, holding the can and bottle, and appears to be preparing to place them in the refrigerator. The objects are positioned next to each other on the counter, and the person is holding the can and bottle in their hands. The action being performed is the person placing the can and bottle in the refrigerator, which is located behind the counter.",
+        "answer_id": "LWr4aPYvDBwxEZ5eTuFvqK",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_23",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000006044.jpg",
+        "action": "put down salad and ham",
+        "description": "In the image, we see a man standing next to a table with a bowl of cereal on it. He is holding a spoon and is about to scoop some cereal from the bowl. The bowl is positioned on a table, and the man is standing next to it, ready to eat the cereal. The scene is casual and everyday, with the man simply preparing to enjoy his breakfast.",
+        "answer_id": "3P38ayX4YYHadTfWf4BGLN",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_24",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000006156.jpg",
+        "action": "open drawer",
+        "description": "In the image, there is a human standing on a kitchen counter, holding a cup of coffee and a spoon. The human is positioned in front of a kitchen sink, and the cup of coffee is placed on the counter next to the sink. The person is performing the action of stirring the coffee with the spoon. The objects are arranged in a way that the human can easily access the cup of coffee and the sink, which suggests that the person might be preparing to wash the spoon or clean up after using it. The image captures a moment of the person's daily routine, highlighting the simple act of stirring coffee and the use of the kitchen sink for cleaning up.",
+        "answer_id": "7b3aCYEWLDJAYsRcZBAken",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_25",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000006371.jpg",
+        "action": "pick up plate",
+        "description": "In the image, there is a man standing on a table, holding a plate with food on it. The plate is positioned on top of a table, and the man is holding it with both hands. He is performing the action of holding the plate and possibly preparing to put it down or move it to another location. The objects in the image include the plate, the man, and the table.",
+        "answer_id": "ZSHn3LdqwXPDM8assvf9vv",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_26",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000006596.jpg",
+        "action": "put down plate",
+        "description": "In the image, there is a man sitting at a table with a plate, a bowl, a knife, and a spoon. The man is holding a spoon and a knife, possibly preparing to eat a meal. The objects are positioned on the table, with the plate and bowl on the left side, and the spoon and knife on the right side. The man is performing the action of holding the spoon and knife, indicating that he is about to eat or prepare a meal.",
+        "answer_id": "Hj2CfTBy2Rwrd53K4v8nFC",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_27",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000006879.jpg",
+        "action": "open salad packaging",
+        "description": "In the image, a person is holding a bowl and a spoon, and they are preparing to eat a bowl of cereal. The bowl is placed on a table, and the person is standing over it. They are about to scoop some cereal from the bowl using the spoon. The image captures a moment of the person's daily routine, as they are about to consume a bowl of cereal for breakfast.",
+        "answer_id": "bKRMtYzGagSmDQUudQa9sR",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_28",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000007978.jpg",
+        "action": "pour salad into bowl",
+        "description": "In the image, there is a person sitting at a table, holding a bowl of food. The person is holding a bowl of vegetables, which are placed on a plate. The person is also holding a spoon, which they are using to scoop up the vegetables from the bowl. The bowl is positioned on the table, and the person is sitting on a chair, possibly eating the vegetables from the bowl. The image captures a moment of the person preparing and consuming their meal, focusing on the food and the utensils used in the process.",
+        "answer_id": "K7tLDyDckmLeCSbXCP2YMv",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_29",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000008314.jpg",
+        "action": "still pouring salad into bowl",
+        "description": "In the image, a person is holding a bowl of cereal and a spoon, while sitting on a table. The bowl is positioned on the table, and the person is holding the spoon in their hand. The person is also holding a bag of cereal, which is placed on the table next to the bowl. The action being performed is that the person is about to eat the cereal from the bowl using the spoon.",
+        "answer_id": "CmyPwgDueLGNBcJrFjNkv3",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_31",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000009201.jpg",
+        "action": "pick up clip",
+        "description": "In the image, there is a woman sitting at a table, holding a bowl of food and a knife. She is cutting the food into small pieces, possibly preparing a meal. The objects in the image include the bowl of food, the knife, and a glass of water. The woman is positioned in front of the table, with the bowl and knife on the table, and she is performing the action of cutting the food. The scene appears to be a domestic setting, where the woman is preparing a meal for herself or someone else.",
+        "answer_id": "oJQosSbhVifbjzDVxH2ZbH",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_32",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000009278.jpg",
+        "action": "clip salad packaging",
+        "description": "In the image, a human is holding a pair of scissors and cutting a piece of paper. The scissors are positioned on a wooden table, and the human is sitting on a chair while performing the action of cutting the paper. The image shows a close-up view of the scissors and the paper being cut, emphasizing the precision and skill required for this task. The human is carefully cutting the paper, demonstrating their attention to detail and hand-eye coordination.",
+        "answer_id": "YbDTS5imE7SgEYZGKr7MYq",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_30",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000009599.jpg",
+        "action": "close salad packaging",
+        "description": "In the image, a woman is sitting on a table with a bowl of food in front of her. She is holding a spoon and a fork, and she is about to eat from the bowl. The bowl is filled with a meal, and the woman is positioned in a comfortable seated position, ready to consume the food. The objects in the image are the bowl, the spoon, and the fork, which are all placed on the table. The woman is performing the action of eating, using the spoon and fork to scoop and pick up food from the bowl.",
+        "answer_id": "K6biUp64VPs2bFCTyoW3iD",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_33",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000009644.jpg",
+        "action": "open fridge",
+        "description": "In the image, a human is holding a bag of snacks and a cup of coffee while standing in a kitchen. The bag of snacks is positioned on the countertop, and the cup of coffee is placed on the counter next to the bag. The human is holding the bag and the cup, possibly preparing to put the snacks into the bag or pour the coffee into the cup. The scene suggests that the person might be getting ready to enjoy a snack and a cup of coffee, possibly as a quick breakfast or a pick-me-up during a break.",
+        "answer_id": "D48gouzdJvJX3SYkuJvscS",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_34",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000009832.jpg",
+        "action": "put salad in fridge",
+        "description": "In the image, we see a refrigerator with a door open, revealing a shelf inside. A person is reaching for a jar of peanut butter on the shelf, and they are holding a spoon in their hand. The jar of peanut butter is placed on the shelf, and the person is about to open it with the spoon. The jar is positioned on the shelf, and the person is standing in front of the refrigerator, possibly to access the jar more easily. The scene suggests that the person is preparing to eat or use the peanut butter for a specific purpose.",
+        "answer_id": "Njqjcqj8uxvtR8dwKUpaGp",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_35",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000010011.jpg",
+        "action": "close fridge",
+        "description": "In the image, a person is standing in front of a kitchen counter with a microwave, a toaster, and a coffee maker. The person is holding a spoon and is about to stir something in a pot. The microwave, toaster, and coffee maker are positioned on the counter, with the microwave being the most prominent appliance. The person is preparing a meal or snack, and the spoon they are holding suggests that they might be stirring a hot or cold liquid or a dish. The scene shows a typical kitchen setting where people often prepare food or drinks using these appliances.",
+        "answer_id": "ZyU5XCFgYUVRed4Eu7c6oy",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_36",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000010069.jpg",
+        "action": "open cupboard",
+        "description": "In the image, we see a kitchen with a countertop, a stove, and a sink. A person is standing in front of the sink, holding a cup of coffee and looking at the countertop. There is a microwave on the countertop, and a toaster is positioned next to it. The person is likely preparing breakfast or preparing to make coffee. The objects are arranged in a way that allows the person to easily access the microwave, toaster, and sink for their daily tasks.",
+        "answer_id": "R2pw7ctWEL3sHS2on8ovfV",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_37",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000010206.jpg",
+        "action": "pick up bread",
+        "description": "In the image, a person is holding a bag of bread and putting it in a kitchen cabinet. The bag is placed on top of some other items, such as a jar of sauce, a bottle of ketchup, and a bottle of mustard. The person is positioning the bag in the cabinet, possibly to store it or to keep it organized. The image shows a small kitchen, with the person working in a confined space.",
+        "answer_id": "XoNytMBYfFqvGH96z9VkWL",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_38",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000010211.jpg",
+        "action": "close cupboard",
+        "description": "In the image, we see a kitchen with a person holding a loaf of bread. The person is standing in front of a kitchen counter, holding the loaf of bread with their hands. There are various objects on the counter, including a jar of peanut butter, a jar of jam, and a bottle of ketchup. The person is likely preparing to slice the bread and spread the peanut butter, jam, or ketchup on it. The scene suggests that the person is about to make a sandwich or toast, as they are holding the loaf of bread and have various spreads available on the counter.",
+        "answer_id": "nfNCmg7gZhi9Zncs6EXe5k",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_39",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000010374.jpg",
+        "action": "put down bread",
+        "description": "In the image, a woman is seen holding a bowl of food, which is likely a salad, and is about to cut it with a knife. The bowl is placed on a table, and the woman is standing next to it. The knife is also on the table, ready to be used for cutting the food. The woman is positioned in front of the table, with her hands holding the bowl and the knife. The scene appears to be a domestic setting, where the woman is preparing a meal for herself or someone else.",
+        "answer_id": "GEfiXUNVBefgpwuXFP4iT2",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_40",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000010599.jpg",
+        "action": "pick up sauce",
+        "description": "In the image, there is a white table with a bottle of water on it, and a person is holding a sponge and a bottle opener. The person is holding the sponge and the bottle opener in their hands, and they are positioned on top of the white table. The person is performing an action by holding the sponge and bottle opener, which suggests that they might be preparing to clean the table or open a bottle of water. The presence of the bottle of water on the table indicates that the person might be preparing to drink it or clean the table with the sponge.",
+        "answer_id": "HEMqmHJrekGqU6UYkLf4Qq",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_41",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000010779.jpg",
+        "action": "open sauce",
+        "description": "In the image, we see a person sitting at a table with a bowl of food in front of them. The person is using a knife to cut the food, which is likely a salad or a vegetable. The knife is positioned on top of a plate, and the person is holding it with their right hand. The person is also holding a fork in their left hand, which suggests that they are preparing to eat the food. The scene appears to be focused on the person's hands and the tools they are using to prepare and eat their meal.",
+        "answer_id": "TbLwQqhDuPBHRuLRBUSt3c",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_42",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000010923.jpg",
+        "action": "pour sauce over salad",
+        "description": "In the image, we see a person sitting at a table with a bowl of cereal in front of them. The person is holding a spoon and is about to scoop some cereal from the bowl. The bowl is positioned on a table, and the person is seated in a chair. The scene appears to be a casual, everyday setting where the person is enjoying their breakfast.",
+        "answer_id": "A6zvACofEiSL3F5qwcQ8HT",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_43",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000011453.jpg",
+        "action": "close sauce",
+        "description": "In the image, a person is sitting on a chair, holding a spoon and a bottle of ketchup. The spoon is being used to scoop ketchup from the bottle, and the person is about to put it on their food. The objects are positioned on a table, with the spoon and bottle of ketchup sitting next to each other. The person is performing the action of scooping ketchup from the bottle and preparing to apply it to their food, which could be a meal or a snack.",
+        "answer_id": "APfv6qrWLCMpX64YhijML3",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_44",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000011709.jpg",
+        "action": "pick up tissue",
+        "description": "In the image, a woman is sitting at a table with a cup of coffee and a plate of food. There is a bowl of cereal on the table, and she is holding a spoon and a fork. The woman is reaching for the cereal bowl with the spoon and fork, indicating that she is about to eat her breakfast. The objects are positioned on the table in a way that allows the woman to easily access and consume her food and beverage. The scene is a typical morning setting where the person is preparing and eating their breakfast.",
+        "answer_id": "h8enLjSFb3r65xmjV4ZCtV",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_45",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000011870.jpg",
+        "action": "wipe sauce with tissue",
+        "description": "In the image, a woman is holding a bottle of sauce and a spoon while sitting at a table. The bottle of sauce is placed on the table, and the spoon is being held in her hand. She is likely preparing to use the spoon to scoop out some of the sauce from the bottle. The objects are positioned near each other on the table, and the woman is performing the action of preparing the sauce for consumption.",
+        "answer_id": "R7xthQUsNxDN4JQKppCFWV",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_46",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000011899.jpg",
+        "action": "put down sauce",
+        "description": "In the image, we see a man sitting on a table, with a cup of coffee, a bottle of water, and a tissue box in front of him. The man is holding a tissue box in his hand, and he is possibly using it to wipe his nose or clean his hands. The objects are positioned on the table, with the cup of coffee and the bottle of water placed on the edge of the table, while the tissue box is placed in the center. The man is performing the action of holding the tissue box and possibly using it for personal hygiene.",
+        "answer_id": "6u3dgJW8Doub8YyKUWeSe5",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_47",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000011989.jpg",
+        "action": "put tissue in bin",
+        "description": "In the image, there is a person sitting at a table with a cup, a spoon, and a bowl in front of them. The person is holding a spoon and stirring the contents of the bowl. The cup is placed on the table next to the bowl, and the spoon is being used to stir the mixture. The person is wearing a shirt and appears to be engaged in the act of eating or preparing a meal.",
+        "answer_id": "SAjpwdTv4xMjkXkPtCxYrQ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_48",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000012386.jpg",
+        "action": "open dishwasher",
+        "description": "In the image, there is a man standing in front of a kitchen counter, with a cupboard and a sink visible behind him. He is holding a measuring tape in his hand and appears to be measuring the length of the countertop. The man is standing on one leg, with the other leg bent, and is holding the tape measure with both hands. The cupboard and sink are positioned behind him, creating a background for the measurement. This scene suggests that the man might be trying to determine the exact length of the countertop for some purpose, such as planning a renovation or measuring for a new appliance.",
+        "answer_id": "V8XT9PNMTzsFgezr884NtX",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__0",
+        "id": "P20_06_49",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000012464.jpg",
+        "action": "open drawer",
+        "description": "In the image, a person is holding a dishwasher detergent box and placing it inside a dishwasher. The dishwasher is located on a countertop, and the person is standing next to it. The person is holding the detergent box with both hands and placing it into the dishwasher, which is open and ready for loading. This action is part of the process of cleaning dishes in the dishwasher.",
+        "answer_id": "gktq9jTi2zb4xNXb6em6Nx",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__1",
+        "id": "P20_06_50",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000012523.jpg",
+        "action": "pick up fork",
+        "description": "In the image, there is a man standing in front of a kitchen sink, holding a sponge and a dishcloth. He is positioned near the sink, with the sponge and dishcloth hanging from the faucet. The man is holding the sponge and dishcloth in his hands, possibly preparing to clean the sink or the dishes. The objects are placed in a way that allows the man to easily access them and use them for cleaning purposes.",
+        "answer_id": "aGzNm3Y9uP66UfwRrUuQLs",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__1",
+        "id": "P20_06_51",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000012625.jpg",
+        "action": "close drawer",
+        "description": "In the image, a man is standing on a kitchen counter, holding a bottle of dishwasher detergent and a spray bottle. He is positioned above a dish rack, which is filled with clean dishes. The man is about to spray the dishwasher detergent onto the dishes, possibly to prepare them for washing in the dishwasher. The objects are arranged in a way that allows the man to easily access the dishes and apply the detergent. The image shows a person performing a routine task in the kitchen, demonstrating the importance of cleanliness and organization in maintaining a well-functioning and hygienic kitchen environment.",
+        "answer_id": "2BTqijMwXAyBmETsfS8i3h",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__1",
+        "id": "P20_06_52",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000012693.jpg",
+        "action": "close dishwasher",
+        "description": "In the image, a human is standing on a chair, holding a remote control, and looking at a television. The television is mounted on a wall, and the human is positioned in front of it. The remote control is being held in the human's hand, and the person is likely using it to control the television. The chair is also present in the scene, which suggests that the person might be using it to reach the television or to get a better view of the screen. The image shows a person interacting with the television and the remote control, indicating that they are watching a program or using the remote to change channels or adjust the volume.",
+        "answer_id": "oPXMq9mGFZsVn9jzQebYdk",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__1",
+        "id": "P20_06_53",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000012854.jpg",
+        "action": "put fork",
+        "description": "In the image, there is a man standing on a table with a bowl of food in front of him. He is holding a spoon and a knife, and he is about to eat the food from the bowl. The bowl is positioned on a table, and the man is standing on the table to reach the food. The objects in the image are the bowl of food, the spoon, and the knife. The man is performing the action of eating the food from the bowl using the spoon and knife.",
+        "answer_id": "R8FRcdrvNuUvpiCbWAbBpH",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__1",
+        "id": "P20_06_54",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000012907.jpg",
+        "action": "pick up cereal bowl",
+        "description": "In the image, a man is sitting at a table with a bowl of food, a spoon, and a bottle of sauce. He is holding a spoon in one hand and using the other hand to stir the food in the bowl. The objects are positioned on the table, with the bowl of food in the center and the spoon and bottle of sauce placed next to it. The man is performing the action of stirring the food in the bowl, possibly preparing to eat or mix the ingredients together.",
+        "answer_id": "ZjaBERYncnVr2WDRmDfqDm",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__1",
+        "id": "P20_06_55",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000013022.jpg",
+        "action": "pick up salad bowl",
+        "description": "In the image, there is a man sitting at a table with a bowl of salad and a knife in front of him. He is holding a spoon in his hand and is about to eat the salad. The bowl of salad is placed on a plate, and the knife is on the table next to the plate. The man is positioned in a seated position, with the spoon and bowl close to his mouth. He is preparing to take a bite of the salad with the spoon.",
+        "answer_id": "5on579S3zb8V2x6v87QCrt",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__1",
+        "id": "P20_06_56",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000013149.jpg",
+        "action": "put down bowls",
+        "description": "In the image, a man is holding a bowl of soup and a spoon, while standing in front of a table. The bowl is filled with a steaming hot soup, and the man is holding the spoon in his hand. The soup bowl and spoon are positioned on the table, and the man is looking at the bowl and possibly preparing to eat the soup. This scene suggests that the man is about to consume the soup, which could be a meal or a snack. The image captures a moment of the man's daily routine, focusing on the act of eating and enjoying the soup.",
+        "answer_id": "VrnsEh8iufGrTHPNKTeYXR",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__1",
+        "id": "P20_06_57",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000013266.jpg",
+        "action": "put down fork",
+        "description": "In the image, there is a man sitting on a chair, eating a bowl of soup. He is holding a spoon and has a bowl of salad on the table next to him. The man is positioned in front of a white table, which is placed on a wooden floor. The man is performing the action of eating his meal, using the spoon to scoop up the soup and salad.",
+        "answer_id": "bbZvYHvtsnFcbRLySnHuKk",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__1",
+        "id": "P20_06_58",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000013415.jpg",
+        "action": "pick up breads",
+        "description": "In the image, a person is sitting at a table with a white tablecloth, holding a knife and a pair of scissors. The person is cutting open a bag of snacks, possibly a bag of chips, and is about to eat them. The bag is placed on the table, and the person is using the knife and scissors to open it. The objects are positioned on the table, with the bag of snacks in the center, and the knife and scissors on either side of it. The person is performing the action of cutting open the bag of snacks, preparing to consume them.",
+        "answer_id": "R4jcASS76rSg92DTbtbjf8",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__1",
+        "id": "P20_06_59",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000013642.jpg",
+        "action": "pick up ham",
+        "description": "In the image, a woman is holding a piece of paper and a pen, and she is about to write on the paper. The paper is placed on a wooden table, and the woman is standing next to the table. The objects are positioned in a way that the woman can easily access the paper and write on it. The woman is performing the action of writing, which involves using the pen and paper to create a written message or document.",
+        "answer_id": "PZ4H3ZeH6r9hf4AUsxxffS",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__1",
+        "id": "P20_06_60",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000013787.jpg",
+        "action": "move chair",
+        "description": "In the image, there is a white chair with a person sitting on it, and a white toilet seat is visible behind the chair. The person is holding a toilet brush and is about to clean the toilet bowl. The chair is positioned in front of the toilet, and the person is standing up to reach the toilet brush. The image shows a typical scene of a person performing a daily chore, such as cleaning the toilet, which is essential for maintaining a clean and hygienic living environment.",
+        "answer_id": "moXV6xrLkjCG424v2D89ii",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__1",
+        "id": "P20_06_61",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000013829.jpg",
+        "action": "sit on chair",
+        "description": "In the image, there is a woman sitting at a table with a bowl of soup, a cup of coffee, and a plate of food. She is eating her meal while sitting on a chair. The objects are positioned on the table in front of her, and the woman is actively engaged in the process of eating her meal. The scene suggests that she is enjoying her food and taking a break from her daily activities.",
+        "answer_id": "hsANvvdHHproGBNbNMYon2",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__1",
+        "id": "P20_06_62",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000014020.jpg",
+        "action": "take slice of bread from bread packaging",
+        "description": "In the image, there is a man sitting on a table, with a bowl of cereal and a cup of milk in front of him. He is reaching for the bowl of cereal with his hand, possibly to scoop some out or to eat it. The bowl and cup are positioned on the table, and the man is sitting in a chair. The scene appears to be a casual, everyday moment where the man is enjoying his breakfast.",
+        "answer_id": "ku5KiJR3ULuhSGVg8AFo29",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__1",
+        "id": "P20_06_63",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000014754.jpg",
+        "action": "put bread in bowl",
+        "description": "In the image, a man is sitting at a table, holding a sandwich in his hand. He is eating the sandwich while looking at a bowl of soup on the table. The bowl of soup is placed in front of him, and the man is positioned in a seated position with his legs crossed. The scene appears to be a casual and relaxed setting, as the man is enjoying his meal while looking at the soup.",
+        "answer_id": "KYR7DQrbM2gKYbKefXkfVD",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__1",
+        "id": "P20_06_64",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000014835.jpg",
+        "action": "take ham from ham packaging",
+        "description": "In the image, there is a man sitting at a table, holding a sandwich in his hand. He is eating the sandwich while looking at a plate of food, which is placed in front of him. The man is wearing a white shirt and is sitting in a dining chair. The sandwich and the plate of food are positioned on the table, and the man is engaged in the act of eating and enjoying his meal.",
+        "answer_id": "YgLL3BsXYMVuVqXwXgLea3",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__1",
+        "id": "P20_06_65",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000015613.jpg",
+        "action": "put ham between bread slices",
+        "description": "In the image, we see a man sitting at a table with a plate of food in front of him. The plate contains a sandwich, and the man is holding a fork and knife, ready to eat. There is also a glass of soda on the table. The man is positioned with his legs crossed, and he is about to take a bite from the sandwich. The scene is casual and relaxed, with the man enjoying his meal.",
+        "answer_id": "BHTHKHR4LjaudYbVbrizFs",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__1",
+        "id": "P20_06_66",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000015736.jpg",
+        "action": "put sandwich in bowl",
+        "description": "In the image, we see a person sitting at a table, holding a sandwich and a glass of juice. The person is eating the sandwich and drinking the juice, and the objects are positioned next to each other on the table. The person is wearing a shirt with a design on it, which adds a casual and relaxed atmosphere to the scene. The image captures a moment of leisure and enjoyment, as the person is taking a break from their daily activities to enjoy their meal.",
+        "answer_id": "bz3SW4W7v9AV92GCMvMAKy",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__1",
+        "id": "P20_06_67",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000015936.jpg",
+        "action": "open fridge",
+        "description": "In the image, there is a woman holding a jar of peanut butter and a spoon, standing in front of a counter or kitchen counter. She is holding the jar with one hand and using the other hand to open the jar with the spoon. This action indicates that she is about to spread the peanut butter on something, possibly a piece of bread or a sandwich. The jar and spoon are positioned on the counter, and the woman is standing in front of the counter, ready to perform the action.",
+        "answer_id": "PbYRB26FdoyMUbYkXbPnvv",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__1",
+        "id": "P20_06_68",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000016082.jpg",
+        "action": "put ham in fridge",
+        "description": "In the image, there is a person holding a jar of peanut butter and a spoon, standing in front of a kitchen counter. The jar is placed on the counter, and the person is holding the spoon in one hand and the jar in the other. They are about to open the jar and scoop out some peanut butter with the spoon. The jar is positioned on the counter, and the person is standing in front of it, ready to perform the action.",
+        "answer_id": "RYMSwFkDL3vZDEmZRRZAst",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_06__1",
+        "id": "P20_06_69",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_06.tar",
+        "image": "./frame_0000016222.jpg",
+        "action": "close fridge",
+        "description": "In the image, there is a person standing in front of a kitchen counter, with a refrigerator and a microwave oven visible behind them. The person is holding a cup of coffee and is about to pour it into a cup. The cup is placed on the counter, and the person is positioned between the refrigerator and the microwave, which are both located in the kitchen. The scene suggests that the person is preparing to make a hot beverage, possibly coffee, and is using the microwave to heat it up.",
+        "answer_id": "4hAZRWDSgJsjnTNTUg5zfd",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    }
+]

@@ -1,0 +1,292 @@
+[
+    {
+        "ep_id": "P07_16__0",
+        "id": "P07_16_0",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_16.tar",
+        "image": "./frame_0000000275.jpg",
+        "action": "open tap",
+        "description": "In the image, a person is standing in front of a sink, holding a sponge and a bottle of dish soap. The sink is filled with water, and there are dishes and utensils on the counter next to it. The person is about to wash the dishes using the sponge and dish soap. The positioning of the objects in the sink and on the counter suggests that the person is preparing to wash the dishes and utensils. The human is performing the action of washing the dishes, which is a common task in household chores.",
+        "answer_id": "HimzJpmyxM6QufscjHFzFh",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_16__0",
+        "id": "P07_16_1",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_16.tar",
+        "image": "./frame_0000000447.jpg",
+        "action": "add soap in top",
+        "description": "In the image, a woman is standing in front of a sink, holding a bottle of cleaning solution. She is pouring the cleaning solution into the sink, which is filled with water. The sink is positioned in the kitchen, and there are several cleaning supplies and dishes nearby. The woman is performing the action of cleaning the sink, which is an essential task for maintaining a clean and hygienic environment in the kitchen.",
+        "answer_id": "kuB9XU2vwYdcVBARcLGA9L",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_16__0",
+        "id": "P07_16_2",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_16.tar",
+        "image": "./frame_0000000657.jpg",
+        "action": "wash top",
+        "description": "In the image, there is a woman standing in front of a sink, with a sponge and a dishrag on the counter next to her. She is holding a sponge and using it to clean the sink, while the dishrag is also being used to clean the sink. The sink is filled with water, and the woman is using the sponge to scrub the sink, removing any dirt or debris. The objects, including the sponge and dishrag, are positioned in a way that allows the woman to easily access the sink and clean it effectively. The action being performed by the woman is cleaning the sink using the sponge and dishrag, ensuring that the sink is clean and hygienic for future use.",
+        "answer_id": "YgT9VMhpLk6udvmFJKor28",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_16__0",
+        "id": "P07_16_3",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_16.tar",
+        "image": "./frame_0000001028.jpg",
+        "action": "wash top",
+        "description": "In the image, a man is standing in front of a sink, holding a sponge and a bottle of cleaning solution. He is using the sponge to clean the sink, and the bottle of cleaning solution is placed on the counter next to the sink. The man is using the sponge to wipe down the sink, ensuring it is clean and free of any debris or stains. This scene suggests that the man is taking care of his living space, maintaining cleanliness, and keeping his home organized.",
+        "answer_id": "68EnPn4MjhPCj7KaPnTvtT",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_16__0",
+        "id": "P07_16_4",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_16.tar",
+        "image": "./frame_0000001687.jpg",
+        "action": "open tap",
+        "description": "In the image, a woman is standing in front of a sink, with a dish rack, a dish, and a sponge on the counter. The woman is holding a sponge and is about to wash the dish. The dish rack is positioned next to the sink, and the dish is placed on the counter. The woman is wearing a white apron, which suggests that she is likely preparing to wash dishes in the kitchen. The presence of the sponge and the dish rack indicates that she is ready to clean the dishes and put them away.",
+        "answer_id": "cFb8BeWzRf9nryEZXuSuha",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_16__0",
+        "id": "P07_16_5",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_16.tar",
+        "image": "./frame_0000001773.jpg",
+        "action": "rinse top",
+        "description": "In the image, there is a person standing in front of a sink, with a sink full of water and a dishwasher nearby. The person is holding a sponge and is about to wash dishes. The sink is filled with water, and the dishwasher is empty, indicating that the person is preparing to clean dishes using the sponge and water. The sink and dishwasher are positioned in close proximity to each other, allowing for easy access to both. The person is performing the action of washing dishes, which is a common household task.",
+        "answer_id": "Rkn2SEnnBansoFVZTfHNac",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_16__0",
+        "id": "P07_16_6",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_16.tar",
+        "image": "./frame_0000002014.jpg",
+        "action": "rinse top",
+        "description": "In the image, a woman is standing in front of a sink, holding a dish with a sponge and cleaning it. The sink is filled with water, and there are cleaning supplies like a sponge and a dish on the counter next to the sink. The woman is using the sponge to clean the dish, which is placed on the counter. The scene suggests that she is performing a routine cleaning task, possibly washing dishes or preparing food. The woman's hands are visible as she works on the dish, and the sink is filled with water, indicating that she is using water to clean the dish.",
+        "answer_id": "jbEjXSG7WTAbJQd84quALB",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_16__0",
+        "id": "P07_16_7",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_16.tar",
+        "image": "./frame_0000003051.jpg",
+        "action": "move chicken",
+        "description": "In the image, a human is standing in front of a stove, holding a spatula. The stove has a pan on it, and the person is using the spatula to flip a piece of food in the pan. The food is likely a piece of meat, and the person is flipping it over to cook it evenly. The stove is positioned on the floor, and the person is standing on the floor as well. The image captures the moment when the person is about to flip the food, indicating that they are actively cooking the dish.",
+        "answer_id": "bTNbFo8A8QDC2U84gSVCpP",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_16__0",
+        "id": "P07_16_8",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_16.tar",
+        "image": "./frame_0000003244.jpg",
+        "action": "move chicken",
+        "description": "In the image, we see a man standing in front of a stove, holding a spatula and a frying pan. The frying pan is filled with food, and the man is preparing to flip the food. The objects are positioned on a stove, with the frying pan on the left side and the spatula in the man's right hand. The man is performing the action of flipping the food in the pan, which is a common technique used in cooking to ensure even cooking and prevent food from burning.",
+        "answer_id": "gVq8YmYy4jAjSQtUv7GLTu",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_16__0",
+        "id": "P07_16_10",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_16.tar",
+        "image": "./frame_0000003778.jpg",
+        "action": "move chicken",
+        "description": "In the image, a person is standing on a kitchen counter with a frying pan in their hand. The frying pan is positioned on a stove, and there are two eggs in the pan. The person is holding a spatula and is possibly preparing to flip the eggs. The kitchen counter is above the stove, which is where the frying pan and eggs are located. This scene suggests that the person is in the process of cooking the eggs, possibly using the spatula to flip them and ensure they cook evenly.",
+        "answer_id": "9kbvLncrYXpt26QoVDtGD8",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_16__0",
+        "id": "P07_16_9",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_16.tar",
+        "image": "./frame_0000003972.jpg",
+        "action": "move chicken",
+        "description": "In the image, we see a person standing on a kitchen counter, holding a frying pan with a piece of meat in it. The person is positioned on top of a stove, with the frying pan on the stove's burner. The person is likely preparing the meat for cooking, and the image captures the moment when they are about to place the meat in the pan. The image shows the person's hands holding the frying pan and the meat, and the stove is visible in the background. This scene suggests that the person is in the process of cooking a meal and is actively engaged in the cooking process.",
+        "answer_id": "LBaERAuCSxt3qkQqNLfyRz",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_16__0",
+        "id": "P07_16_11",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_16.tar",
+        "image": "./frame_0000004684.jpg",
+        "action": "turn knob",
+        "description": "In the image, a man is standing in front of a stove with a frying pan on it. He is holding a spatula in his hand and is about to flip a piece of food in the pan. The man is positioned in a kitchen setting, and the frying pan is on the stove. The objects in the image are the man, the spatula, and the frying pan, all of which are positioned in a way that facilitates the cooking process. The man is performing the action of flipping the food in the pan, which is a crucial step in cooking.",
+        "answer_id": "NVkvEy3LnM7ikLiZJEDvXJ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_16__0",
+        "id": "P07_16_12",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_16.tar",
+        "image": "./frame_0000004997.jpg",
+        "action": "move pan in stove",
+        "description": "In the image, you see a woman standing on a chair, holding a bottle of shampoo, and a towel. The woman is positioned on the chair, holding the bottle of shampoo and the towel, and she is about to wash her hair. The objects are placed on the chair, and the woman is in the process of preparing to wash her hair.",
+        "answer_id": "FsBpEncfnimT83antpKpfj",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_16__0",
+        "id": "P07_16_13",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_16.tar",
+        "image": "./frame_0000005196.jpg",
+        "action": "open tap",
+        "description": "In the image, there is a sink with a person washing their hands. The sink is positioned on a countertop, and the person is using a sponge to clean their hands. The sink is filled with water, and the person is using soap to wash their hands. The image shows the person's hands being cleaned, and the sink is a part of the daily routine for maintaining personal hygiene.",
+        "answer_id": "YfngS2sE6CdDuoVr2ooP9E",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_16__0",
+        "id": "P07_16_14",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_16.tar",
+        "image": "./frame_0000005254.jpg",
+        "action": "wash tupperware",
+        "description": "In the image, a person is standing in a kitchen, holding a bottle of cleaning solution and a sponge. The person is positioned near a sink, with the bottle and sponge placed on the countertop. The person is about to clean the sink using the sponge and cleaning solution. The scene shows a cleaning task being performed in a kitchen setting, with the person actively engaging in the process of cleaning the sink.",
+        "answer_id": "HfzAHbkkqsZTWeB8imQR7w",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_16__0",
+        "id": "P07_16_15",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_16.tar",
+        "image": "./frame_0000005555.jpg",
+        "action": "wash tupperware",
+        "description": "In the image, a person is standing in front of a sink, holding a sponge and cleaning a bowl. The bowl is placed on the counter, and the sink is filled with water. The person is using the sponge to clean the bowl, which is likely filled with food or other items that need to be washed. The image shows the person's hands and the sponge, as well as the bowl and sink. The action being performed is cleaning the bowl, which is an essential task in maintaining a clean and organized kitchen.",
+        "answer_id": "SMRLC7mbJu7KbknThaxn8z",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_16__0",
+        "id": "P07_16_16",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_16.tar",
+        "image": "./frame_0000006298.jpg",
+        "action": "open tap",
+        "description": "In the image, a woman is standing in front of a sink, holding a sponge and a bottle of dish soap. The sink is filled with water, and there are cleaning supplies, such as a scrub brush, on the counter next to it. The woman is about to clean the sink with the sponge and dish soap. The objects are positioned in a way that allows the woman to easily access the sink and cleaning supplies. The action being performed is the woman cleaning the sink with the sponge and dish soap, which is a common task for maintaining cleanliness and hygiene in the kitchen.",
+        "answer_id": "TFuM95Ttqa2spcxcSra6fx",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_16__0",
+        "id": "P07_16_17",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_16.tar",
+        "image": "./frame_0000006412.jpg",
+        "action": "rinse tupperware",
+        "description": "In the image, a man is standing in front of a sink, holding a bottle of dish soap. He is positioned near the sink, with the bottle of dish soap in his hand. He is about to pour the dish soap into the sink, possibly to clean the sink or wash dishes. The sink is filled with water, and there are some dishes on the counter next to the sink. The scene suggests that the man is preparing to perform a cleaning task, possibly washing dishes or cleaning the sink.",
+        "answer_id": "9hUULyuyboJWnXkasVfdxc",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_16__0",
+        "id": "P07_16_18",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_16.tar",
+        "image": "./frame_0000006526.jpg",
+        "action": "rinse tupperware",
+        "description": "In the image, there is a person standing in front of a sink, holding a sponge and a bottle of dish soap. The sink is filled with water, and the person is about to wash dishes. The sponge is being used to clean the dishes, and the bottle of dish soap is being poured into the sink. The person is positioned in front of the sink, with the sponge and bottle of dish soap nearby. The action being performed is the person preparing to wash dishes by using the sponge and dish soap to clean the dishes in the sink.",
+        "answer_id": "mfKnjL9hk6GsmSjJsNRLGm",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_16__0",
+        "id": "P07_16_19",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_16.tar",
+        "image": "./frame_0000007350.jpg",
+        "action": "close tap",
+        "description": "In the image, there is a man standing next to a sink, holding a sponge and a cleaning bucket. The sink is filled with water, and the man is using the sponge to clean the sink. He is positioned near the sink, holding the sponge and bucket, and is likely preparing to clean the sink with the sponge and bucket. The objects are arranged in a way that allows the man to easily access the sink and clean it effectively. The image shows the man performing a cleaning task, which is an essential part of maintaining a clean and hygienic environment.",
+        "answer_id": "oBrthTHvzJP3vRy5uau9La",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_16__0",
+        "id": "P07_16_20",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_16.tar",
+        "image": "./frame_0000007605.jpg",
+        "action": "dry hands",
+        "description": "In the image, we see a man standing in front of a kitchen sink, holding a sponge and a cleaning cloth. The sink is filled with water, and there are cleaning supplies, such as a sponge and a cleaning cloth, on the countertop. The man is likely cleaning the sink or preparing to clean it. The objects are positioned in a way that allows the man to easily access the sink and cleaning supplies. The scene suggests that the man is performing a routine task, such as cleaning the sink, and is using the sponge and cleaning cloth to do so.",
+        "answer_id": "ntTwBfLgxsj3H3rknjvUmh",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_16__0",
+        "id": "P07_16_21",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_16.tar",
+        "image": "./frame_0000007831.jpg",
+        "action": "pick up cup",
+        "description": "In the image, we see a man standing on a stool, holding a spatula, and holding a pot with a frying pan on top of it. The frying pan is filled with food, and the man is flipping the food in the pan using the spatula. The objects are positioned on top of the stove, with the frying pan on the stove and the spatula in the man's hand. The man is performing the action of flipping the food in the pan, which is a common technique used in cooking to ensure even cooking and prevent the food from burning.",
+        "answer_id": "WN7DcMLM5KHxzwsd4PRwW7",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_16__0",
+        "id": "P07_16_22",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_16.tar",
+        "image": "./frame_0000007975.jpg",
+        "action": "pick up jar",
+        "description": "In the image, there is a person standing in a room with a coffee maker, a microwave, and a toaster. The person is holding a spoon and appears to be preparing to use the coffee maker. The coffee maker is positioned on a countertop, while the microwave and toaster are placed on the floor. The person is standing in front of the countertop, with the coffee maker and the spoon in their hand. They are likely about to make a cup of coffee using the coffee maker.",
+        "answer_id": "bPTjonQ55EECuYmAT3sLLv",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_16__0",
+        "id": "P07_16_23",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_16.tar",
+        "image": "./frame_0000008211.jpg",
+        "action": "pour coffee into cup",
+        "description": "In the image, we see a person standing on a kitchen counter, holding a cup of coffee, and pouring it into a cup on the counter. The person is positioned above the cup, holding the cup with one hand and pouring the coffee into the other cup. The two cups are placed on the counter, and the person is standing on the counter to reach the cup on the countertop. The action being performed is pouring the coffee from the cup the person is holding into the cup on the counter, which is likely a cup for a coffee mug.",
+        "answer_id": "8UBw6fbPRn7jDqTFefLpvo",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_16__0",
+        "id": "P07_16_24",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_16.tar",
+        "image": "./frame_0000008597.jpg",
+        "action": "open refrigerator",
+        "description": "In the image, a human is standing in a kitchen, holding a bottle of juice and a spoon. The human is holding the bottle of juice in one hand and the spoon in the other. The bottle is placed on a shelf, and the human is looking at it. The spoon is also placed on the shelf, next to the bottle. The human is likely preparing to consume the juice or is in the process of doing so. The image shows the human's hand holding the bottle and the spoon, indicating that they are about to eat or drink the juice.",
+        "answer_id": "7TATzE8Hb8tXMXyWUipo9g",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_16__0",
+        "id": "P07_16_25",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_16.tar",
+        "image": "./frame_0000008652.jpg",
+        "action": "take milk",
+        "description": "In the image, there is a man standing in front of a doorway with a white door and a window on the wall behind him. He is holding a small white box, possibly a grocery bag, and is about to open it. The objects are positioned in a way that the man is standing in front of the doorway, and the white box is being held in his hand. The action being performed by the man is opening the box or bag, which could contain various items such as food, clothes, or other personal belongings.",
+        "answer_id": "ZoSggjxZyzsKHMSNDFTKJw",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_16__0",
+        "id": "P07_16_26",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_16.tar",
+        "image": "./frame_0000009028.jpg",
+        "action": "pour milk into cup",
+        "description": "In the image, a man is holding a cup of coffee and pouring it into a mug. He is standing on a kitchen counter, and the cup is placed on a countertop. The man is pouring the coffee into the mug, and the cup is being held by his hand. The scene is taking place in a kitchen, and the man is likely preparing to drink the coffee. The objects in the image are the cup of coffee, the mug, and the kitchen counter.",
+        "answer_id": "YYdBBd8Zcv7o5yCXzS3gAT",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_16__0",
+        "id": "P07_16_27",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_16.tar",
+        "image": "./frame_0000009100.jpg",
+        "action": "cover milk",
+        "description": "In the image, a person is holding a toilet paper roll and is about to put it on a toilet paper holder. The toilet paper roll is placed on the floor, and the person is standing next to the toilet. The toilet paper holder is located on the wall, and the person is positioning the toilet paper roll on it. The action being performed is placing the toilet paper roll on the holder, which is a common task in maintaining a clean and organized bathroom.",
+        "answer_id": "6x89has5GCD6tmyXkb7YxA",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P07_16__0",
+        "id": "P07_16_28",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P07/rgb_frames/P07_16.tar",
+        "image": "./frame_0000009299.jpg",
+        "action": "close refrigerator",
+        "description": "In the image, there is a man standing on a staircase, holding a broom. He is positioned in front of a door, and the broom is pointing towards the door. The man is performing the action of sweeping the floor, using the broom to clean the area around the door.",
+        "answer_id": "KS8YuXk65EpZY4KPqJJ47j",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    }
+]

@@ -1,0 +1,1262 @@
+[
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_0",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000000138.jpg",
+        "action": "pick up fork",
+        "description": "In the image, there is a man sitting at a table with a cup of coffee and a bowl of cereal. The man is holding a spoon and is about to eat the cereal. The cup of coffee is placed on the table next to the cereal bowl, and the man is positioned in front of the table. This scene shows the man preparing to eat his breakfast, which consists of cereal and coffee.",
+        "answer_id": "X996UTrw7UaViPeQqZoXT6",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_1",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000000202.jpg",
+        "action": "pick up bowls",
+        "description": "In the image, there is a man holding a dish and a spoon while standing in front of a sink. The dish is placed on the countertop, and the spoon is held in his hand. The man is likely preparing to wash the dish in the sink. The objects are positioned in a way that allows the man to easily access the sink and clean the dish. This scene shows the man's daily routine of washing dishes, which is an essential task for maintaining cleanliness and hygiene in the kitchen.",
+        "answer_id": "cSi7sodDz4bd3Yjd39HhiP",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_2",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000000246.jpg",
+        "action": "put down bowls",
+        "description": "In the image, you see two people holding a large, white dish with a bowl of food on it. The dish is positioned on a counter, and the people are holding it with one hand each. One person is holding the dish with their left hand, and the other person is holding it with their right hand. They are both standing in front of the counter, and the person on the left is holding the dish with their left hand while the person on the right is holding it with their right hand. The action being performed is that they are holding the dish and bowl of food, possibly preparing to place it on a table or plate.",
+        "answer_id": "kVVqdLakampSEFA4bZeWUm",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_3",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000000330.jpg",
+        "action": "put down fork",
+        "description": "In the image, there is a man standing on a kitchen counter, holding two bowls of food. He is positioned between two stove burners, and he is holding the bowls with both hands. The man is likely preparing to serve the food or is in the process of doing so. The presence of the bowls on the counter suggests that the man is either preparing a meal or serving a dish to someone else. The image captures a moment in time where the man is actively engaged in the process of cooking or serving food, and it provides a glimpse into the daily life of the person.",
+        "answer_id": "kQfaAn2UMStwi7Yh6entJq",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_4",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000000609.jpg",
+        "action": "put down bowl",
+        "description": "In the image, a man is standing in front of a kitchen counter with a sink, a stove, and a refrigerator. He is holding a spatula and a bowl, and he is likely preparing or cleaning up food. The man is positioned in front of the sink, which suggests that he might be washing dishes or cleaning utensils. The presence of the stove and refrigerator indicates that the kitchen is equipped with the necessary appliances for cooking and storing food. The image captures a moment in the man's daily routine, where he is engaged in a task related to food preparation or cleaning.",
+        "answer_id": "cNWXxhjzHMVx9TbmLXKFf3",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_5",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000000788.jpg",
+        "action": "pick up bowl",
+        "description": "In the image, we see a man standing in front of a kitchen counter, with a white cup and a blue cup on the counter. The man is holding a spoon and is about to stir the contents of the blue cup. The cups are positioned on the counter, and the man is standing in front of them, ready to perform the action of stirring. The image captures a moment of the man's daily routine, as he is preparing to eat or drink something from the cups.",
+        "answer_id": "YNTZY2B2GFzjH8fYpNJdHW",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_6",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000000970.jpg",
+        "action": "pick up tissue",
+        "description": "In the image, there is a man sitting on a chair, holding a bowl and a spoon. The bowl is filled with a white substance, possibly a bowl of soup or a bowl of food. The man is using the spoon to scoop up the contents from the bowl and is about to put it into his mouth. The objects are positioned on a table, with the bowl and spoon close to each other. The man is performing the action of eating, which is a common and essential part of daily life.",
+        "answer_id": "aQWkbfq2VJJpEME5gU48xE",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_7",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000001194.jpg",
+        "action": "wipe bowl with tissue",
+        "description": "In the image, a person is holding a roll of paper towels and placing it on a table. The person is standing on the table, and the roll of paper towels is being placed on top of a stack of other paper towels. The action being performed is the person placing the new roll of paper towels on top of the existing stack, possibly to restock or replenish the supply.",
+        "answer_id": "bBoooCNvxbEQVQ6soQqgY2",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_8",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000001247.jpg",
+        "action": "put tissue in bin",
+        "description": "In the image, a person is holding a plate and a cup, both of which are white. The plate is positioned on the ground, and the cup is being held in the person's hand. The person is standing on a tiled floor, and the plate and cup are likely being used for a meal or snack. The action being performed by the person is holding the cup and plate, which suggests that they are preparing to eat or serve food.",
+        "answer_id": "YCRLGGsENLCitsoZ3T72CB",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_9",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000001362.jpg",
+        "action": "turn on tap",
+        "description": "In the image, we see a person holding a white bowl and a sponge, both of which are positioned on a countertop. The person is using the sponge to clean the bowl, which is likely filled with water. The image captures a moment in time where the person is actively engaged in the process of cleaning the bowl, ensuring it is free of any residue or debris. The presence of the bowl and sponge on the countertop suggests that the person might be preparing for a meal or cleaning up after a meal. The image provides a glimpse into the daily routine of the person, highlighting the importance of cleanliness and organization in maintaining a comfortable and hygienic living environment.",
+        "answer_id": "3tBWmTFKWni9doYcSw7uTV",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_10",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000001431.jpg",
+        "action": "put down bowl",
+        "description": "In the image, there is a man holding a white plate and a blue bowl, both of which are positioned on top of a table. The man is using a spoon to scoop up food from the bowl and place it onto the plate. The objects are arranged in a way that the plate is placed on the table, and the bowl is positioned next to it. The man is performing the action of scooping food from the bowl and placing it onto the plate, which suggests that he is preparing a meal or serving food.",
+        "answer_id": "JjPLvuCSTieE5HeBN6vrdq",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_11",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000001741.jpg",
+        "action": "pick up grater",
+        "description": "In the image, there is a man standing in a room with a table and a phone. The man is holding the phone and talking, possibly on a call. The table is located next to him, and there are some items on it, such as a shoe. The man is standing in a casual pose, and the scene appears to be a moment of everyday life.",
+        "answer_id": "QPCkYMcZ4LcxF4spH4f7Qo",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_12",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000002215.jpg",
+        "action": "rinse grater",
+        "description": "In the image, there is a person standing in front of a kitchen counter with a white bowl on it. The person is holding a spoon and a bottle of ketchup, and they are about to pour the ketchup into the bowl. The objects are positioned close to each other, with the bowl on the counter and the bottle of ketchup in the person's hand. The action being performed is the person pouring the ketchup into the bowl, which suggests that they might be preparing a meal or snack.",
+        "answer_id": "UcDD6ouuA4FqUbj2gVHfsC",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_13",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000002772.jpg",
+        "action": "wipe grater with rag",
+        "description": "In the image, there is a person holding a bottle of soap and a sponge, positioned next to a sink. The person is likely preparing to clean the sink using the sponge and soap. The bottle of soap is placed on the counter, and the sponge is held in the person's hand. The person is standing in front of the sink, ready to begin cleaning the sink with the sponge and soap.",
+        "answer_id": "AbS4oh2uygXwTwP29iZBzh",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_14",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000003330.jpg",
+        "action": "rinse grater",
+        "description": "In the image, there is a person holding a glass of water and a bottle of juice, both of which are placed on a table. The person is pouring the juice into the glass, which is already filled with water. The objects are positioned next to each other on the table, with the glass of water on the left and the bottle of juice on the right. The person is performing the action of pouring the juice into the glass, which is likely to be a simple task for them.",
+        "answer_id": "EHuy6GD7wDLG9xaJtfzWA5",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_15",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000003509.jpg",
+        "action": "put down grater",
+        "description": "In the image, I see a man standing in front of a kitchen counter, holding a spatula and a bowl. He is positioned with the spatula in his hand and the bowl on the counter, and he is about to stir the contents of the bowl. The man is wearing a white shirt and black pants, and he seems to be in the process of preparing food.",
+        "answer_id": "BgGrCjqHDqwbKeC2m69XHU",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_16",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000003700.jpg",
+        "action": "pick up bowl",
+        "description": "In the image, there is a man standing in front of a kitchen counter, holding a sponge and a plate. He is cleaning the plate with the sponge, possibly washing dishes or preparing food. The objects are positioned on the counter, with the plate being held by the man and the sponge being used to clean it. The man is performing the action of cleaning the plate, which is an essential task in maintaining a clean and organized kitchen environment.",
+        "answer_id": "UkSY3jhvLkZi554jKrwtJi",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_17",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000003941.jpg",
+        "action": "wipe bowl with rag",
+        "description": "In the image, we see a man standing in front of a sink, holding a bottle of dish soap. He is pouring the soap into the sink, likely preparing for washing dishes. The bottle is positioned on the countertop next to the sink, and the man is holding it with one hand while pouring the soap into the sink with the other hand. The scene appears to be a domestic setting, where the man is performing a routine task of cleaning dishes.",
+        "answer_id": "NBrK4iPJnK89rKvW2QB4dV",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_18",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000004221.jpg",
+        "action": "still wiping bowl with rag",
+        "description": "In the image, we see a man standing in front of a sink, holding a sponge and a bottle of dish soap. The man is about to wash dishes, as he is holding the sponge and the bottle of dish soap. The sink is positioned in the foreground, and the man is standing in the background. The objects are arranged in a way that makes it easy for the man to access the sink and perform the task of washing dishes. The man is likely preparing to clean dishes using the sponge and dish soap.",
+        "answer_id": "UwUUwiqoZTjr8xoVFWUDxw",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_19",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000004702.jpg",
+        "action": "put down bowl",
+        "description": "In the image, there is a person holding a spatula and a bowl, and they are standing in front of a stove. The person is likely preparing food, possibly cooking eggs or stirring a mixture in the bowl. The spatula is being used to stir the food, and the bowl is being held by the person's hand. The scene is captured in a kitchen setting, with the stove and countertops visible in the background. The person's actions suggest that they are actively engaged in cooking or preparing a meal.",
+        "answer_id": "faSHALPVwNLH37WZqHWQEV",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_20",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000004839.jpg",
+        "action": "pick up fork",
+        "description": "In the image, we see a woman washing her hands in a sink, using a sponge to clean her hands. The sink is positioned on a countertop, and the woman is standing in front of it. The image captures a moment of her performing the action of washing her hands, which is an essential part of personal hygiene and maintaining good health.",
+        "answer_id": "bxFknGvH4bu42q9gioyyQ5",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_21",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000004933.jpg",
+        "action": "wipe fork with rag",
+        "description": "In the image, there is a person holding a sponge and a bottle of cleaning solution, positioned on a countertop. The person is using the sponge to clean a sink, which is filled with water. The person is using the cleaning solution to clean the sink, and the sponge is being used to remove dirt and grime. The image shows the person's hands holding the sponge and bottle, demonstrating the process of cleaning the sink.",
+        "answer_id": "4zHdTynayW9kd5nHDQdnnz",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_22",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000005521.jpg",
+        "action": "put down fork",
+        "description": "In the image, there is a man standing in front of a kitchen counter, holding a spatula and a bowl. He is positioned next to a stove, and there are several bowls and utensils on the counter. The man is performing the action of stirring the contents of the bowl with the spatula. The scene suggests that he might be preparing food or cooking in the kitchen.",
+        "answer_id": "TrYEJywg7RaiQyhixh6Gm4",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_23",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000005546.jpg",
+        "action": "pick up bowl",
+        "description": "In the image, there is a man holding a spatula and a plate with food on it. He is standing in front of a stove, and the plate is placed on the stove. The man is likely preparing or cooking food on the stove using the spatula. The positioning of the spatula and the plate indicates that the man is actively engaged in the process of cooking, possibly stirring or flipping food. The image captures a moment in time, giving a glimpse into the cooking process.",
+        "answer_id": "kQuu6ET83hjpKqvLXbJjmq",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_24",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000005719.jpg",
+        "action": "pick up washing up liquid",
+        "description": "In the image, a person is holding a bottle of cleaning solution and pouring it into a bucket. The person is standing on a table, and the bucket is placed on the table as well. The bottle is being held by the person's hand, and the cleaning solution is being poured into the bucket. The image shows the person's hand holding the bottle and the bucket, and the cleaning solution is being poured from the bottle into the bucket.",
+        "answer_id": "XfAUbfsehpaBHtB3PtLKvF",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_25",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000005782.jpg",
+        "action": "squirt washing up liquid",
+        "description": "In the image, a human is holding a bottle of dishwashing liquid and pouring it into a sink. The sink is positioned on a countertop, and the human is standing next to it. The bottle is being held by the hand, and the human is pouring the liquid into the sink, possibly to clean dishes. The scene shows a person performing a common household task, which is essential for maintaining cleanliness and hygiene in the home.",
+        "answer_id": "4JpyfngZxHSsVpGHmQpmJf",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_26",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000005978.jpg",
+        "action": "wash bowl with rag",
+        "description": "In the image, a human is holding a sponge and using it to clean a white surface. The sponge is being used to wipe down the surface, which appears to be a table or countertop. The human is standing in front of the surface, holding the sponge in their hand, and cleaning it with a gentle motion. The objects in the image are the sponge and the surface being cleaned. The human is performing the action of cleaning the surface, which is essential for maintaining a clean and hygienic environment.",
+        "answer_id": "ddrTkUbZ8Wsxbi6ksZUEkA",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_27",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000006308.jpg",
+        "action": "still washing bowl with rag",
+        "description": "In the image, a person is holding a sponge and a bottle of soap while standing in front of a sink. The person is likely cleaning the sink using the sponge and soap. The sponge is being used to clean the sink, and the person is holding the bottle of soap to apply it to the sponge. The objects are positioned on the sink countertop, with the sponge and soap bottle placed side by side. The person is performing the action of cleaning the sink, which is an essential task for maintaining a clean and hygienic environment.",
+        "answer_id": "XmXdjSvhfzkx4vQVSMCLFq",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_28",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000006946.jpg",
+        "action": "put down bowl",
+        "description": "In the image, a person is standing in front of a kitchen counter, holding a spoon and a bowl. The person is holding the spoon in one hand and the bowl in the other, with the bowl resting on the counter. The person is likely preparing a meal or snack, as they are holding a spoon and a bowl, which are commonly used for eating. The image shows the person's hands and the bowl and spoon, but does not provide any additional context or details about the scene.",
+        "answer_id": "Myt5ZP3AGBnVDmemgRJDhu",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_29",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000007016.jpg",
+        "action": "pick up bowl",
+        "description": "In the image, a human is holding a bowl and pouring milk into it. The bowl is placed on a table, and the human is holding a spoon to scoop the milk from a container. The image shows the human performing the action of pouring milk into the bowl, which is likely part of a daily routine or a task related to cooking or preparing food. The objects in the image are the bowl, the spoon, and the milk container.",
+        "answer_id": "ThveetzqVaPhoA5pUcTph6",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_30",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000007100.jpg",
+        "action": "rinse bowl",
+        "description": "In the image, a woman is standing on a kitchen counter, holding a green towel and a sponge. She is positioned in front of a sink, with the sponge and towel in her hands. The woman is likely cleaning the sink, using the sponge and towel to remove any dirt or debris. The image captures a moment in time, as the woman is about to dip the sponge into the sink to clean it.",
+        "answer_id": "Dh7oUgknqmxuy33dMiPQsw",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_31",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000007640.jpg",
+        "action": "wash bowl with rag",
+        "description": "In the image, there is a person standing in front of a sink, with their hands holding a sponge and a bottle of dish soap. The person is likely cleaning the sink with the sponge and dish soap. The bottle of dish soap is placed on the counter, and the sponge is being used to clean the sink. The person is positioned in front of the sink, with their hands holding the sponge and bottle, and their feet are visible on the floor.",
+        "answer_id": "kE27LSXvgSTUxuAW5zcQTP",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_32",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000007859.jpg",
+        "action": "put down bowl",
+        "description": "In the image, we see a person holding a white plate and a spoon, positioned on a table. The person is using the spoon to scoop up some food from the plate, possibly eating or preparing a meal. The plate and spoon are placed on the table, and the person is performing the action of scooping food from the plate using the spoon.",
+        "answer_id": "mr8fN8L8vUDzn9P4i9FpuH",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_33",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000008014.jpg",
+        "action": "pick up spatula",
+        "description": "In the image, a person is standing in front of a kitchen counter, holding a spatula and a bowl. The spatula is being used to scrape food from a bowl, which is placed on the counter. The person is wearing a shirt and shorts, indicating that they are likely a man. The scene suggests that the person is preparing or cleaning up after a meal, possibly using the spatula to scrape leftovers from the bowl. The objects are positioned in a way that allows the person to easily access the bowl and perform the action of scraping the food.",
+        "answer_id": "SxxdHDixKCS6RcEgmomwdQ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_34",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000008257.jpg",
+        "action": "wipe spatula with rag",
+        "description": "In the image, there is a person holding a sponge in their hand, standing in front of a sink. The person is using the sponge to clean the sink, which is filled with water. The sponge is being used to remove dirt and debris from the sink, and the person is using their hands to scrub the sink. The sink is positioned on a countertop, and the person is standing in front of it, performing the cleaning task.",
+        "answer_id": "kSSRVZ3CGA83ztLeeSXRDx",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_35",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000008690.jpg",
+        "action": "still wiping spatula with rag",
+        "description": "In the image, we see a person holding a spatula and a bottle of dish soap, both of which are positioned on a countertop. The person is holding the spatula in one hand and the bottle of dish soap in the other, and they are likely preparing to clean a dish or a surface. The image captures a moment of the person's action, as they are about to use the spatula and dish soap to clean the surface.",
+        "answer_id": "UNoYrZimLenzcxTToAnP7t",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_36",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000008862.jpg",
+        "action": "put down spatula",
+        "description": "In the image, a person is holding a sponge and a bottle of cleaning solution, positioned on a countertop. The person is using the sponge to clean the countertop, and the bottle of cleaning solution is likely being used to rinse the sponge. The image shows the person's hands holding the sponge and bottle, with the cleaning solution bottle being placed on the countertop next to the sponge. The action being performed is cleaning the countertop using the sponge and cleaning solution, which helps to remove dirt, grime, or other substances from the surface.",
+        "answer_id": "dZUx4yM4fN2KvbFhd3BjtD",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_37",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000009177.jpg",
+        "action": "pick up spatula",
+        "description": "In the image, there is a man standing in front of a kitchen counter, holding a sponge and a bowl. The sponge is being used to clean a dirty dish, which is placed on the counter. The man is positioned with his back to the camera, and his hands are engaged in the cleaning process. The image captures a moment in time where the man is actively performing the task of cleaning the dish.",
+        "answer_id": "QACMPDMWqAY4ACaHgAuckC",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_38",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000009519.jpg",
+        "action": "put down spatula",
+        "description": "In the image, a person is standing in front of a kitchen countertop, holding a spatula and a bottle of oil. The person is using the spatula to pour the oil into a pan on the countertop. The objects are positioned on the countertop, with the pan being the main focus of the scene. The person is performing the action of pouring the oil into the pan, which is likely a part of a cooking or preparation process.",
+        "answer_id": "gHAY45ja2FuaqtfbrW5qpC",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_39",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000009554.jpg",
+        "action": "pick up bowl",
+        "description": "In the image, a person is standing in front of a kitchen counter, holding a sponge and a bottle of cleaning solution. They are using the sponge to clean a dirty surface, possibly a countertop or a sink, with the cleaning solution. The person is positioned in front of the counter, with the sponge and bottle of cleaning solution nearby. The image suggests that the person is performing a cleaning task, such as wiping down the surface or cleaning a spill.",
+        "answer_id": "KiMpcrEJvJzF5iHug4SuMH",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_40",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000009999.jpg",
+        "action": "wipe bowl with rag",
+        "description": "In the image, there is a person holding a bottle of dish soap, standing over a sink with a sponge. The person is pouring the dish soap into the sink, likely preparing to wash dishes. The bottle is positioned on the counter, and the sponge is placed in the sink. The person is performing the action of pouring the dish soap into the sink, which is an essential step in the process of washing dishes.",
+        "answer_id": "nv88PHENXw49hcDwbxHRoK",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_41",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000010283.jpg",
+        "action": "put down bowl",
+        "description": "In the image, there is a woman standing in front of a sink, holding a sponge and a bottle of cleaning solution. She is using the sponge to clean the sink, and the bottle of cleaning solution is likely being used to rinse the sponge. The woman is positioned in front of the sink, with her back facing the camera, and she is holding the sponge and bottle in her hands. The scene suggests that she is performing a routine cleaning task, such as washing the sink, and the cleaning solution and sponge are likely being used to remove any dirt or grime from the surface.",
+        "answer_id": "Vijdhk5V4pHbpx3RDKGHRd",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_42",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000010410.jpg",
+        "action": "pick up frying pan",
+        "description": "In the image, a woman is holding a frying pan with a spatula, and she is standing in front of a table with a stove on it. The woman is using the spatula to flip a piece of food in the pan, likely cooking a meal. The objects are positioned in a way that the woman is able to easily access the stove and the frying pan, allowing her to perform the cooking action. The image captures a moment in the cooking process, where the woman is actively preparing a dish.",
+        "answer_id": "LUf27agjCxBgRLFGEg8944",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_43",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000010581.jpg",
+        "action": "rinse frying pan",
+        "description": "In the image, there is a person holding a spoon and a bowl while standing in front of a sink. The person is likely preparing a meal, possibly washing vegetables or stirring a pot. The spoon and bowl are positioned on a counter or table, and the person is using the spoon to stir or scoop food into the bowl. The image captures a moment of the person's daily routine, where they are engaged in cooking or preparing a meal.",
+        "answer_id": "96RQ433K5G54uJeaJNht8z",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_44",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000010655.jpg",
+        "action": "wipe frying pan with rag",
+        "description": "In the image, there is a man standing in front of a sink, holding a bottle of dish soap. He is positioned with the bottle in his hand, and the bottle is being held up to the sink. The man is likely about to pour the dish soap into the sink, possibly to clean dishes or wash his hands. The image shows the man's hands and the bottle of dish soap, but it does not provide a clear view of the sink or the surrounding area.",
+        "answer_id": "mxsNUvvmGGagjWBmcX9i6h",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_45",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000011132.jpg",
+        "action": "pick up washing up liquid",
+        "description": "In the image, there is a man sitting on a chair, holding a bottle of sunscreen and a spray bottle. He is positioned in front of a table, with the bottles placed on the table. The man is spraying the sunscreen onto his skin, possibly applying it to his face or arms. The image captures a moment in time where the man is actively engaged in the process of applying sunscreen to protect himself from the sun's harmful rays.",
+        "answer_id": "888K4pfqGcHCSUQhnFcAwy",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_46",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000011363.jpg",
+        "action": "squirt washing up liquid",
+        "description": "In the image, we see a man holding a sponge and a bottle of cleaning solution, both of which are positioned on a countertop. The man is using the sponge to clean the countertop, and he is holding the bottle of cleaning solution in his hand. This scene suggests that the man is performing a cleaning task, possibly wiping down the countertop to remove dirt or stains. The image captures the moment when the man is about to apply the cleaning solution to the sponge, which is an essential step in the cleaning process.",
+        "answer_id": "jrFneJJn4Ra5o3NBNzHBFa",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_47",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000011641.jpg",
+        "action": "wash frying pan",
+        "description": "In the image, a human is holding a sponge and a bottle of cleaning solution, and they are positioned on a countertop. The human is using the sponge to clean the countertop, and the bottle of cleaning solution is likely being used to rinse the sponge. The scene shows the human performing a cleaning task, which is an essential part of maintaining a clean and organized living space.",
+        "answer_id": "HyAHxsrEzC7EdbXeqwPeQw",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_48",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000011990.jpg",
+        "action": "wash frying pan",
+        "description": "In the image, we see a man standing in front of a sink, holding a bottle of liquid. He is positioned in the kitchen, possibly preparing to clean or wash something. The man is holding the bottle of liquid with one hand, and his other hand is resting on the counter. He is not actively using the bottle, but it is nearby, ready to be used if needed. The image does not provide a clear context or purpose for the man's actions, but it could be related to cleaning or cooking tasks in the kitchen.",
+        "answer_id": "Uun627ANCbNzS6DfEKvQMq",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__0",
+        "id": "P20_05_50",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000012379.jpg",
+        "action": "still washing frying pan",
+        "description": "In the image, there is a man holding a spatula and a knife, both of which are positioned on a countertop. The man is using the spatula to spread a substance on the countertop, and he is also using the knife to cut the substance. The objects are placed on the countertop in a way that allows the man to easily access and manipulate them during the cooking process. The action being performed by the human is spreading and cutting the substance, which could be a food item or a cooking ingredient.",
+        "answer_id": "EjMGUdrgMFrmVk5AqgBwzo",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_49",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000012714.jpg",
+        "action": "still washing frying pan",
+        "description": "In the image, a man is standing next to a sink, holding a bottle of liquid and a sponge. The sink is filled with water, and the man is using the sponge to clean the sink. The bottle of liquid is likely a cleaning solution or detergent, which the man is pouring into the sink to help clean the area. The man is positioned near the sink, and he is performing the action of cleaning the sink using the sponge and the cleaning solution.",
+        "answer_id": "fpW8YwaKPdXFt3XgXapSLu",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_51",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000012795.jpg",
+        "action": "turn off tap",
+        "description": "In the image, there is a man sitting on a chair with a sponge in his hand. He is holding the sponge and using it to clean a dirty surface, possibly a countertop or a table. The man is positioned in front of a sink, which suggests that he might be cleaning the sink or the surrounding area. The image captures the moment when the man is about to apply the sponge to the surface, indicating that he is actively engaged in cleaning.",
+        "answer_id": "EN5XXFn8HM8XHyBQszTLzg",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_52",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000013196.jpg",
+        "action": "wipe frying pan with rag",
+        "description": "In the image, we see a man holding a spatula and a green bottle, both of which are positioned on a countertop. The man is using the spatula to pour the green liquid from the bottle into a pot. The man is standing in front of the countertop, and the spatula and bottle are placed on the countertop, allowing him to easily access them while performing the action of pouring the liquid. The image captures the moment when the man is pouring the liquid into the pot, demonstrating the use of the spatula and the green bottle in the kitchen.",
+        "answer_id": "JsXQ65aaYqUFqhK6zYqgcB",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_53",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000013370.jpg",
+        "action": "open drawer",
+        "description": "In the image, a man is standing on a kitchen counter, holding a sponge and a frying pan. The frying pan is placed on the counter, and the man is using the sponge to clean the pan. The man is positioned on the counter, which is a raised surface, allowing him to reach the frying pan more easily. The objects are placed in a way that the man can access the frying pan and clean it effectively. The action being performed by the man is cleaning the pan using the sponge, which is a common task for maintaining cleanliness and hygiene in the kitchen.",
+        "answer_id": "nXpukkgdDusHZJN92fWamy",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_54",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000013520.jpg",
+        "action": "put down frying pan",
+        "description": "In the image, we see a woman standing in front of a sink, holding a sponge and a bottle of cleaning solution. She is using the sponge to clean the sink, and her hands are positioned above the sink. The woman is performing the action of cleaning the sink, which is a common task in maintaining a clean and hygienic environment. The objects in the image, including the sponge and the bottle of cleaning solution, are positioned in a way that allows the woman to effectively clean the sink without any obstruction.",
+        "answer_id": "LnGAa9bFy5bZQSppRQKgWm",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_55",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000013858.jpg",
+        "action": "pick up spatula",
+        "description": "In the image, we see a kitchen counter with a man standing in front of it. There is a dish rack, a sink, and a stove on the counter. The man is holding a sponge and is cleaning the dishes, which are placed on the dish rack. He is using the sponge to wipe down the dishes, ensuring they are clean and ready for use. The objects are positioned in a way that allows the man to easily access and clean the dishes on the dish rack. The image shows the man performing a routine task in the kitchen, which is essential for maintaining a clean and organized kitchen environment.",
+        "answer_id": "4pnnW8gxmtsxwGapyoMtS2",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_56",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000014005.jpg",
+        "action": "wipe counter with rag",
+        "description": "In the image, there is a man standing in front of a kitchen counter, holding a spatula and a bowl. He is positioned next to a stove, and he is using the spatula to stir something in the bowl. The man is wearing black shorts and a black shirt, giving him a casual appearance. The scene suggests that he is likely preparing a meal or cooking something in the kitchen. The presence of the spatula and bowl indicates that he might be mixing or stirring ingredients, and the fact that he is standing in front of the stove implies that he is actively engaged in the cooking process.",
+        "answer_id": "UUoWx6fFrjHsoxspLowv3H",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_57",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000014279.jpg",
+        "action": "still wiping counter with rag",
+        "description": "In the image, we see a person standing in front of a kitchen counter, holding a sponge and a cleaning cloth. The person is cleaning the countertop with the sponge and cloth, which are positioned on the counter. The person is performing the action of cleaning the countertop, ensuring that the surface is free of dirt and debris. The image shows a close-up view of the person's hands and the cleaning tools, emphasizing the importance of proper cleaning techniques and the need for cleaning supplies in maintaining a clean and hygienic environment.",
+        "answer_id": "Him4DQjhRxSeyz7uGVeaNr",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_58",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000014461.jpg",
+        "action": "put down spatula",
+        "description": "In the image, we see a person holding a spatula and a frying pan on a kitchen counter. The person is using the spatula to stir the contents of the frying pan, which is filled with food. The person is positioned in front of the stove, which is likely a gas stove, as there is a gas knob visible. The person is performing the action of stirring the food in the pan, possibly preparing a meal.",
+        "answer_id": "foMDeRr2Ed9XArA7KL9YV4",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_59",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000014623.jpg",
+        "action": "pick up fork",
+        "description": "In the image, there is a person standing in front of a kitchen counter, holding a spoon and a bowl. The person is preparing a meal, possibly a soup or a dessert, as they are stirring the contents of the bowl. The bowl is placed on a stainless steel countertop, and the spoon is being used to mix the contents. The person is wearing a pair of socks, which suggests that they might be wearing slippers or shoes with socks. The image captures a moment in time when the person is engaged in the process of preparing a meal, and it provides a glimpse into their daily routine or cooking habits.",
+        "answer_id": "kScgR8V6FgSEvpLkG5SZ7z",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_60",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000014768.jpg",
+        "action": "open dishwasher",
+        "description": "In the image, a man is standing on a ladder, holding onto the ladder with one hand while reaching up with the other hand to grab something on the ceiling. The ladder is positioned against a wall, and the man is standing on the top rung of the ladder. The objects he is reaching for are located on the ceiling, which might be a light fixture or a piece of art. The man is performing an action of reaching up to grab the object, which requires him to balance and maintain his position on the ladder.",
+        "answer_id": "hayoEyFfxN4xsvoiYhcm4s",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_61",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000014894.jpg",
+        "action": "open dishwasher drawer",
+        "description": "In the image, we see a man holding a fork and a knife while standing in front of a counter. The man is holding the fork in one hand and the knife in the other, and he is likely preparing to cut or serve food. The fork and knife are positioned next to each other on the counter, and the man is standing in front of the counter, possibly to get a better view of the food or to prepare it. The action being performed by the man is preparing food, which could involve cutting or serving it.",
+        "answer_id": "ds2CZdrpDyaJKcwu8XfSys",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_62",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000014953.jpg",
+        "action": "put down fork",
+        "description": "In the image, there is a person holding a spatula and a dish, both of which are positioned on a countertop. The person is standing in front of the countertop, holding the spatula and dish with one hand, while the other hand is holding a bottle of cleaning solution. The person is likely cleaning the dish with the spatula and the cleaning solution. The image shows the person's hands and the objects they are holding, but does not provide a clear view of the entire scene.",
+        "answer_id": "Xmy6ea2u7yJwyFgMiBpYxi",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_63",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000015028.jpg",
+        "action": "close dishwasher",
+        "description": "In the image, there is a person holding a bottle of dishwashing liquid and walking towards a sink. The person is walking with their back facing the camera, and the bottle is held in their hand. The sink is located on the countertop, and the person is walking towards it to place the bottle inside. The image captures the moment when the person is about to put the bottle in the sink, which suggests that they are preparing to wash dishes.",
+        "answer_id": "3oyvMoa3jQfKqGGcMKDddB",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_64",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000015150.jpg",
+        "action": "pick up bowls",
+        "description": "In the image, we see a man standing on a kitchen counter, holding a spoon and a bowl. The spoon is dipping into a bowl of liquid, possibly a sauce or a soup, and the man is about to pour it into a pot on the stove. The objects are positioned on a countertop, with the bowl and spoon being used to transfer the liquid from the bowl to the pot. The man is performing the action of pouring the liquid into the pot, which is likely part of a cooking or preparation process.",
+        "answer_id": "bEo4dNmpxV95a8fhSuUWAe",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_65",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000015487.jpg",
+        "action": "stack bowls",
+        "description": "In the image, there is a man standing in front of a kitchen counter with a sink, a faucet, and a dishwasher. He is holding a sponge and is possibly cleaning the sink or the dishwasher. The man is positioned in the kitchen, which is a common area for food preparation and cleaning. The presence of the sink, faucet, and dishwasher indicates that the kitchen is equipped with the necessary tools for cleaning and washing dishes. The man's action of holding a sponge and possibly cleaning the sink or the dishwasher suggests that he is performing a routine task to maintain the cleanliness of the kitchen.",
+        "answer_id": "e8YroL6PXCoRYjkiRq5AoB",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_66",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000015862.jpg",
+        "action": "open drawer",
+        "description": "In the image, there are two people standing in a kitchen, with one person holding a bowl and the other holding a spoon. The person holding the bowl is holding it up, while the person holding the spoon is reaching for it. The bowl and spoon are positioned next to each other on a countertop, and the person holding the spoon is trying to retrieve the bowl. This scene suggests that they might be preparing to eat or serve food, as the bowl and spoon are commonly used for eating or serving food.",
+        "answer_id": "BYSuf9hZocsxhwpvmbC2xW",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_67",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000015970.jpg",
+        "action": "put bowls",
+        "description": "In the image, a person is holding a glass and pouring water into it from a pitcher. The pitcher is placed on a countertop, and the person is standing in front of the counter. The glass and pitcher are positioned next to each other, with the person holding the glass and pouring water into it. The action being performed is pouring water from the pitcher into the glass, which is likely being used for drinking or serving purposes.",
+        "answer_id": "kcd2GZRWXnzaGipmbo3jws",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_68",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000016113.jpg",
+        "action": "close drawer",
+        "description": "In the image, there is a man standing on a kitchen counter, holding a spatula and a bowl. He is positioned next to a stove, with the spatula and bowl placed on the counter. The man is performing an action, possibly preparing food or stirring something in the bowl. The presence of the spatula suggests that he might be cooking or preparing a meal. The image captures the man's hands and the objects he is using, providing a glimpse into his cooking process.",
+        "answer_id": "FmPQ7b6g2Cm86qKcqgtd6c",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_69",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000016153.jpg",
+        "action": "pick up bowl",
+        "description": "In the image, a man is standing in front of a kitchen counter, holding a sponge and a bottle of dish soap. He is positioned next to a sink, with a dish towel hanging on the wall behind him. The man is about to wash a dish, as he is holding the sponge and dish soap. The image captures the moment before he starts the cleaning process, which involves using the sponge and dish soap to remove food residue from the dish.",
+        "answer_id": "n9hV4wfdjVhwL6epWQesEi",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_70",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000016391.jpg",
+        "action": "open drawer",
+        "description": "In the image, there is a man standing on a kitchen counter, holding two plates. He is positioned above a sink, and the plates are placed on the countertop. The man is holding the plates with both hands, and he appears to be about to put them in the sink. This scene suggests that the man might be washing the plates, cleaning them, or preparing them for storage. The image captures a moment in time, where the man is actively engaged in the task of cleaning or maintaining the plates.",
+        "answer_id": "TLyJWqufDir44FXsRX3yCy",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_71",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000016470.jpg",
+        "action": "put bowl",
+        "description": "In the image, we see a person holding a glass of water and a spoon while standing in front of a kitchen counter. The person is positioned next to a sink, and the glass of water is placed on the counter. The person is holding the spoon in one hand and using the other hand to pour water from the glass into the sink. This action suggests that the person is washing their hands or cleaning the sink, which is a common task in a kitchen setting.",
+        "answer_id": "exJfFXT9WFZYfuw2E2cF2R",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_72",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000016513.jpg",
+        "action": "put grater",
+        "description": "In the image, a man is standing in front of a kitchen counter, holding a glass and a spoon. He is positioned next to a sink, and there are various kitchen utensils, such as a knife, a cutting board, and a plate, on the counter. The man is holding the glass and spoon, possibly preparing to wash the dishes or clean the sink. The image captures the moment when the man is about to perform a task related to cleaning or preparing food in the kitchen.",
+        "answer_id": "6a44nnur4JJNa5RBDr8noC",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_73",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000016643.jpg",
+        "action": "close drawer",
+        "description": "In the image, a man is sitting on a couch, and there is a large white box on the floor next to him. The man is holding a small white box, and he is about to place it on top of the large white box. The objects are positioned in a way that the small white box is being placed on top of the large white box, and the man is performing the action of placing the small box on top of the larger one.",
+        "answer_id": "miSsbtcsYzsEaV47nHZqwR",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_74",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000016966.jpg",
+        "action": "wipe counter with rag",
+        "description": "In the image, there is a person standing in front of a sink, with a towel on their head and a sponge in their hand. The sink is filled with water, and the person is holding the sponge while dipping it into the water. The person is likely cleaning the sink with the sponge, using the water from the sink to rinse the sponge and clean the sink.",
+        "answer_id": "YksQ2v4mh4H4faYBAn5XPi",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_75",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000017181.jpg",
+        "action": "pick up knives",
+        "description": "In the image, there is a man standing in front of a table with a white surface, holding a cell phone and a small white object. The man is also holding a black object, which could be a remote control. He is standing in a kitchen, possibly preparing food or cleaning the area. The objects are positioned on the table, and the man is performing an action with the cell phone, possibly taking a photo or making a video. The presence of the remote control suggests that the man might be using it to control a device, such as a television or a device connected to the cell phone.",
+        "answer_id": "CYiFri7mawwzajj2NAuCF6",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_76",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000017344.jpg",
+        "action": "pick up chopping board",
+        "description": "In the image, a man is holding a knife and a cutting board, and he is cutting something on the cutting board. The man is standing in front of a table, and the cutting board is positioned on the table. The knife is being used to cut the object, which is not visible in the image. The man is performing the action of cutting, which is likely part of a cooking or preparation process. The presence of the knife and cutting board suggests that the man is preparing food or preparing a meal.",
+        "answer_id": "Bji6vS89ZGhhDbV2Ei5DED",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_77",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000018075.jpg",
+        "action": "put down chopping board",
+        "description": "In the image, a man is holding a knife and cutting a piece of meat. The meat is placed on a cutting board, which is positioned on a kitchen counter. The man is standing next to the cutting board and is using the knife to cut the meat. The image shows the man's hands holding the knife and the meat, and it appears that he is in the process of preparing the meat for consumption.",
+        "answer_id": "nJjb27cT9JGpkZM5bqxcFp",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_78",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000018128.jpg",
+        "action": "put down knives",
+        "description": "In the image, there is a man standing in front of a kitchen counter, holding a knife and a cutting board. The man is about to cut a piece of meat on the cutting board. The knife is positioned on the cutting board, and the man is holding it with one hand while using the other hand to guide the knife. The man is wearing a black shirt and white socks, and the scene is captured in a kitchen setting.",
+        "answer_id": "hdLHe2jMGjSkXhQwbdBuBm",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_79",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000018268.jpg",
+        "action": "move bin",
+        "description": "In the image, there is a human hand holding a shoe, and the shoe is positioned on the ground. The human hand is holding the shoe with the sole facing downwards, and the shoe is partially untied. The person is likely trying to put the shoe back on, as they are holding it with one hand and the other hand is not visible in the image. The objects in the image are the shoe and the human hand.",
+        "answer_id": "QenrgaY4vv8Wqbt2HyhT8m",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_80",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000018646.jpg",
+        "action": "turn on tap",
+        "description": "In the image, we see a person holding a bottle of cleaning solution and a spray bottle, standing near a sink. The person is about to spray the cleaning solution into the sink, possibly to clean it. The bottles are positioned on the countertop, and the person is holding the bottles with both hands. The scene suggests that the person is preparing to clean the sink, and the cleaning solution is being sprayed into the sink to remove any dirt or debris.",
+        "answer_id": "hX5rrYNvcG5KBeRDbtft5Y",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_81",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000018712.jpg",
+        "action": "rinse hands",
+        "description": "In the image, there is a man standing in front of a sink, with a sink faucet and a dish towel on the counter. He is holding a sponge and a bottle of dish soap, and he is using the sponge to clean the sink. The man is positioned with his back to the sink and the faucet, and he is using the sponge to wipe down the sink. The objects in the image are positioned in a way that allows the man to easily access the sink and clean it effectively. The action being performed by the man is cleaning the sink using the sponge and dish soap.",
+        "answer_id": "WZGNu4iPnizSHPkAzjQCMf",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_82",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000018827.jpg",
+        "action": "pick up knife",
+        "description": "In the image, we see a person holding a dishcloth and a sponge, positioned on a countertop. The person is using the sponge to clean a dish, possibly a plate or a bowl, while the dishcloth is being used to wipe up any excess water or residue. The person is performing this action in a kitchen setting, possibly preparing for a meal or cleaning up after one. The image highlights the importance of cleanliness in maintaining a hygienic and organized kitchen environment.",
+        "answer_id": "ZkrP3Kpu8ySVfVVioXqdQt",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_83",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000018923.jpg",
+        "action": "wipe knife with rag",
+        "description": "In the image, we see a group of people standing around a table with a whiteboard on it. One person is holding a pen and is about to write on the whiteboard, while another person is holding a cup and is standing next to the table. The whiteboard is positioned on top of a wooden surface, and the people are standing at different heights, possibly to accommodate their respective tasks. The image captures a moment in time where the person with the pen is about to write on the whiteboard, while the other person is standing next to the table, possibly waiting for their turn or assisting in the task.",
+        "answer_id": "Midrsj7zMFS8qGoWnQwapP",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_84",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000019645.jpg",
+        "action": "pick up knife",
+        "description": "In the image, there is a man holding a whiteboard and a marker, standing in front of a table with a cup of coffee on it. The man is writing on the whiteboard with the marker, possibly creating a demonstration or illustration. The cup of coffee is placed on the table next to the whiteboard, and the man is standing in front of the table, possibly to demonstrate the process or to provide a visual aid for the audience. The objects are positioned in a way that the man can easily access the whiteboard and the cup of coffee while performing his task.",
+        "answer_id": "JDHwEyGxHoR7c8YKn2xr23",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_85",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000019732.jpg",
+        "action": "wipe knife with rag",
+        "description": "In the image, there is a man standing at a counter with a sink, a bottle of dish soap, and a sponge. The man is holding the sponge and using it to clean the sink. He is positioned next to the sink, with the bottle of dish soap on the counter. The man is performing the action of cleaning the sink with the sponge, which is an essential task in maintaining a clean and hygienic environment in the kitchen.",
+        "answer_id": "oQ3jnWKoRMm5LiitWj6yAk",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_86",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000020245.jpg",
+        "action": "pick up chopping board",
+        "description": "In the image, there is a person standing in front of a table with a glass of wine and a bottle of wine on it. The person is holding a wine bottle opener and is about to open the bottle. The glass of wine is placed on the table, and the bottle of wine is positioned next to it. The person is wearing a t-shirt and appears to be in a casual setting, possibly at home. The image captures the moment when the person is about to open the bottle of wine, which suggests that they might be preparing to enjoy a glass of wine or share it with someone else.",
+        "answer_id": "Lk94eaD59u4eNQDcViVPSy",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_87",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000020277.jpg",
+        "action": "rinse chopping board",
+        "description": "In the image, a man is holding a whiteboard and a marker, while standing in front of a whiteboard with a blackboard on it. The man is using the marker to write on the blackboard, and the whiteboard is likely being used as a reference or a work surface for the writing. The objects are positioned in a way that the blackboard is placed on the floor, and the whiteboard is held by the man. The action being performed by the man is writing on the blackboard with the marker.",
+        "answer_id": "RHuLFCTqFM6M3jNuuBRpeL",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_88",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000020571.jpg",
+        "action": "put down chopping board",
+        "description": "In the image, there is a man standing in front of a sink, holding a knife and a piece of paper. The man is likely preparing to cut the paper into a specific shape or size. The sink is filled with water, and the man is positioned near the faucet. The knife is placed on the edge of the sink, and the man is holding the paper with one hand while using the knife with the other hand. The scene suggests that the man is about to perform a task related to cutting or shaping the paper, possibly for a craft project or artwork.",
+        "answer_id": "GMruQQXJkWHzAfwrQoLAyk",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_89",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000020710.jpg",
+        "action": "wipe chopping board with rag",
+        "description": "In the image, we see a man holding a knife and a cutting board, positioned on a table. The man is using the knife to cut something on the cutting board, possibly a piece of meat or vegetables. The knife is being held by the man's hand, and the cutting board is placed on the table. The man is performing the action of cutting the food item on the cutting board using the knife.",
+        "answer_id": "fgvsYLwaD5rinMQSFdWa3V",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_90",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000020914.jpg",
+        "action": "put down knives",
+        "description": "In the image, we see a man holding a green scrub brush and a bottle of cleaning solution, both positioned on a countertop. The man is using the scrub brush to clean a surface, possibly a counter or a sink, as he is holding the brush and cleaning solution in his hands. The image captures a moment of the man performing his cleaning task, demonstrating the act of cleaning and maintaining a clean environment.",
+        "answer_id": "PqyeXbM3zuxEDzb76qBg9V",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_91",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000021202.jpg",
+        "action": "wipe knife",
+        "description": "In the image, a person is holding a green toy and using a knife to cut it. The person is standing in front of a counter, and the green toy is placed on the counter. The person is cutting the toy with the knife, possibly to prepare it for play or to make it more manageable for a child. The image shows the person's hands holding the knife and the green toy, with the knife being used to cut the toy.",
+        "answer_id": "Bi35sUvGXwfZ35riwXs5ye",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_92",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000021281.jpg",
+        "action": "turn off tap",
+        "description": "In the image, there is a person standing in front of a sink, holding a bottle of dish soap and a sponge. The person is about to wash dishes, as they are holding the sponge and the bottle of dish soap. The sink is filled with water, and the person is positioned in front of it, ready to start the cleaning process. The objects are placed on the countertop, with the bottle of dish soap sitting on top of the sink, and the sponge is held in the person's hand. The action being performed is the person preparing to wash dishes by using the sponge and dish soap to clean the dishes.",
+        "answer_id": "LAUYxwLdQDvde7wbHLLnJS",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_93",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000021430.jpg",
+        "action": "pick up knife",
+        "description": "In the image, there is a man sitting at a kitchen counter, holding a knife and a sponge. He is cleaning a dish with the sponge, and the knife is likely being used to cut the dish or to clean the sponge. The objects are positioned on the counter, with the sponge and knife placed next to each other. The man is performing the action of cleaning the dish, which is a common task in maintaining a clean and organized kitchen.",
+        "answer_id": "Eqq6qE9ewpb5kj8F6jsCqw",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_94",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000022142.jpg",
+        "action": "wipe knife with rag",
+        "description": "In the image, we see a man holding a knife and a sponge, positioned on a countertop. The man is using the sponge to clean the knife, which is likely a kitchen knife. The man is standing in front of the counter, holding the knife and sponge, and is performing the action of cleaning the knife with the sponge. This action is essential for maintaining the cleanliness and hygiene of the knife, ensuring that it is safe to use and preventing the spread of bacteria or other contaminants.",
+        "answer_id": "byXso7tmcJCzWo98i4Agrq",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_95",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000022410.jpg",
+        "action": "open dishwasher",
+        "description": "In the image, a man is standing on a wooden floor, holding a pair of scissors and a small white towel. He is positioned in front of a kitchen counter, and the scissors are being used to cut the towel. The man is performing the action of cutting the towel with the scissors, and the scene appears to be a part of a demonstration or a tutorial on how to use scissors for various tasks.",
+        "answer_id": "JwciXuFTZrjNJzfLaGMbW6",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_96",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000022484.jpg",
+        "action": "open dishwasher drawer",
+        "description": "In the image, a man is holding a knife and standing on a counter, which is positioned above a stove. He is standing on the counter with one foot while holding the knife in his other hand. The man is likely preparing to cut or slice something on the stove, possibly vegetables or meat. The knife is positioned in front of him, ready to be used for the task at hand. The man's body is leaning forward slightly, indicating that he is focused on the task and preparing to perform it.",
+        "answer_id": "WFRqhpLXUPrVrWbZVzjkse",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_97",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000022627.jpg",
+        "action": "put down knife",
+        "description": "In the image, we see a man standing on a counter or shelf, holding a spatula and a bowl. The man is holding the spatula in his right hand and the bowl in his left hand. He is positioned in front of a stove or oven, possibly preparing food. The man is performing the action of holding the spatula and bowl, which suggests that he might be in the process of stirring or mixing something in the bowl. The image captures a moment in time, providing a glimpse into the man's daily activities or cooking process.",
+        "answer_id": "EYwZQNLtMQugZ9uoV22tk5",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_98",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000022706.jpg",
+        "action": "close drawer",
+        "description": "In the image, we see a man standing on a chair, holding a shoe and a pair of socks. The shoe is placed on top of the socks, and the man is about to put them on. The man is standing on a chair, which suggests that he might be reaching for a higher shelf or a storage area where the shoes and socks are located. The man is wearing a black shirt and has a pair of shorts on, which indicates that he is likely getting ready to put on his shoes and socks before going out or engaging in an activity.",
+        "answer_id": "Kzn8TGfUmfWfCG6i3X3HJR",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__1",
+        "id": "P20_05_99",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000022726.jpg",
+        "action": "close dishwasher",
+        "description": "In the image, a man is standing in front of a white door, holding a green towel. He is using the towel to wipe down the door, which is positioned against a wall. The man is performing the action of cleaning the door, ensuring it is free of dirt and dust. The objects in the image are the man, the green towel, and the white door. The man is using the towel to clean the door, and the door is positioned against the wall.",
+        "answer_id": "VLPfMnhPULizDSrvoDCL36",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__2",
+        "id": "P20_05_100",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000022831.jpg",
+        "action": "pick up knife",
+        "description": "In the image, we see a man standing in front of a sink, with a towel and a bottle of dish soap on the counter. The man is holding a sponge and is about to clean the sink. The bottle of dish soap is positioned on the counter next to the sink, and the sponge is being held in the man's hand. The towel is also on the counter, possibly to dry the sink after cleaning. The man is performing the action of cleaning the sink with the sponge, using the dish soap to help remove any dirt or grime.",
+        "answer_id": "8uxkBAqyfYjtd7mMAU6yR5",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__2",
+        "id": "P20_05_101",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000022893.jpg",
+        "action": "wipe knife with rag",
+        "description": "In the image, a man is holding a green towel and using it to clean a spill on a table. The man is positioned in front of a sink, and the green towel is being used to clean up the spill on the table. The man is performing the action of cleaning the spill with the green towel, which is placed on the table. The objects in the image include the green towel, the spill, and the sink.",
+        "answer_id": "LofyrmT7M28CxX6ub5iNyU",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__2",
+        "id": "P20_05_102",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000023261.jpg",
+        "action": "put down rag",
+        "description": "In the image, a human is holding a lit match and using it to light a candle. The human is standing in front of a table, and the candle is placed on the table. The human is holding the match in one hand and the candle in the other, and they are positioned close to each other. The human is performing the action of lighting the candle using the lit match.",
+        "answer_id": "T9gLv2EEj8fm4cTzqYuxq4",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__2",
+        "id": "P20_05_103",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000023381.jpg",
+        "action": "open dishwasher",
+        "description": "In the image, a person is holding a knife and standing on a counter, with a spatula in their hand. The person is positioned in front of a stove, and they are about to cut a piece of meat. The person is wearing a black shirt, and the image is taken from a low angle, giving it a unique perspective. The knife and spatula are positioned on the counter, and the person is preparing to use the knife to cut the meat. This scene suggests that the person is in the process of cooking or preparing a meal, and they are using the tools to perform the necessary actions.",
+        "answer_id": "U95MyuLoTHRvTvADJTcEFo",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__2",
+        "id": "P20_05_104",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000023384.jpg",
+        "action": "open dishwasher drawer",
+        "description": "In the image, a man is holding a knife and a cutting board, positioned on a countertop. He is standing in front of the counter, with his hands holding the knife and the cutting board. The man is performing an action of cutting something on the cutting board, possibly slicing meat or vegetables. The image suggests that the man is preparing food or cooking in the kitchen.",
+        "answer_id": "jedCR6NXBUy8TdK7AGN9wH",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__2",
+        "id": "P20_05_105",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000023592.jpg",
+        "action": "put down knife",
+        "description": "In the image, a man is standing on a ladder, holding a broom and a dustpan. The broom is positioned on the ladder, and the man is holding the dustpan in his hand. The man is performing the action of sweeping the floor with the broom and collecting the debris in the dustpan. The objects are placed on the ladder in a way that allows the man to easily access the floor and sweep the area effectively.",
+        "answer_id": "d3ZrpRr49sJQk8VQBXnuN7",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__2",
+        "id": "P20_05_106",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000023728.jpg",
+        "action": "close drawer",
+        "description": "In the image, a man is holding a large metal box with his hands, and he is standing on a ladder. The box is positioned on the ladder, and the man is looking down at it. The image suggests that the man is in the process of lifting or moving the box, possibly to a higher location or to a different room. The presence of the ladder indicates that the man might be performing a task that requires him to reach a height or access a hard-to-reach area. The image could be a part of a home renovation, moving, or cleaning process.",
+        "answer_id": "XBLobXQwy42jERM6hNmrr7",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__2",
+        "id": "P20_05_107",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000023771.jpg",
+        "action": "close dishwasher",
+        "description": "In the image, a young boy is sitting on a table, and he is holding a toy and looking at a computer screen. The toy is positioned on the table next to the computer screen, and the boy is using his hands to interact with the computer. The image captures a moment of the boy's playtime, where he is engaging with both the toy and the computer, possibly playing a game or watching a video. The presence of the toy and the computer screen suggests that the boy is learning how to use technology and interact with digital content, which is an essential skill for children in today's world.",
+        "answer_id": "eamGYQRdr3b5WTBBY9Jwbu",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__2",
+        "id": "P20_05_108",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000023811.jpg",
+        "action": "pick up rag",
+        "description": "In the image, a man is standing in a kitchen, holding a sponge and a bottle of cleaning solution. He is positioned near a sink, with the sponge and cleaning solution on the counter. The man is likely preparing to clean the sink or other surfaces in the kitchen. The presence of the sponge and cleaning solution indicates that the man is about to perform a cleaning task, such as wiping down the sink or countertops.",
+        "answer_id": "Tr5xuDexqrb2ACbZRYzxfy",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__2",
+        "id": "P20_05_109",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000023873.jpg",
+        "action": "pick up chopping board",
+        "description": "In the image, a man is standing next to a kitchen counter, holding a sponge and a bottle of cleaning solution. He is about to clean the countertop using the sponge and cleaning solution. The objects are positioned on the counter, with the bottle of cleaning solution placed on the edge of the counter and the sponge held in the man's hand. The man is taking the cleaning solution from the bottle and preparing to apply it to the countertop using the sponge. This scene shows the man performing a routine task in the kitchen, demonstrating his ability to maintain a clean and organized space.",
+        "answer_id": "CftbBCRwpa2mKJmbQdDgyU",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__2",
+        "id": "P20_05_110",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000024094.jpg",
+        "action": "wipe chopping board with rag",
+        "description": "In the image, there is a man standing next to a counter with a bowl of food on it. He is holding a spatula and is about to use it to stir the food. The man is positioned near the bowl, and the spatula is being held in his hand. The scene suggests that the man is preparing to cook or prepare the food, possibly stirring it in a pot or pan.",
+        "answer_id": "2iFW4wgasWFifBdAHxCgDH",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__2",
+        "id": "P20_05_111",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000024424.jpg",
+        "action": "put down chopping board",
+        "description": "In the image, there is a person holding a black pot and a white pot, both of which are positioned on top of a stove. The person is holding the black pot with one hand and the white pot with the other hand, and they are about to place them on the stove. The image is taken at night, which suggests that the person is preparing food in the kitchen at night. The presence of the pots on the stove indicates that the person is likely cooking or preparing a meal. The human's actions in holding and placing the pots on the stove suggest that they are actively involved in the cooking process.",
+        "answer_id": "bAfz7Etxvx5wKgTHcsXqDZ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__2",
+        "id": "P20_05_112",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000024847.jpg",
+        "action": "turn on tap",
+        "description": "In the image, there is a man standing in front of a sink, holding a bottle of hand sanitizer. He is positioned in a kitchen setting, possibly near a counter or a stove. The man is holding the bottle of hand sanitizer with his right hand, and he is about to apply it to his hands. This action is a common practice to maintain personal hygiene, especially in a kitchen environment where food preparation and cleanliness are important.",
+        "answer_id": "c7nVEFXq9sZY84v6h2AY6q",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__2",
+        "id": "P20_05_113",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000025113.jpg",
+        "action": "rinse hands",
+        "description": "In the image, a man is standing next to a sink, holding a bottle of water. He is pouring water from the bottle into the sink, which is filled with soap. The man is holding the bottle with one hand and pouring the water with the other hand. The bottle is positioned on the counter next to the sink, and the man is standing on the opposite side of the sink. This scene suggests that the man is preparing to wash his hands or clean the sink, as he is pouring water into the sink filled with soap.",
+        "answer_id": "J8Yb72XA8mvUZjfQ8wCgyn",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__2",
+        "id": "P20_05_114",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000025208.jpg",
+        "action": "turn off tap",
+        "description": "In the image, a woman is holding a spatula and a bowl, and she is using the spatula to mix something in the bowl. The woman is standing in front of a counter, and the bowl and spatula are placed on the counter. The woman is performing the action of mixing the contents of the bowl, which could be a food item, such as a cake or a sauce. The image shows the woman's hands and the spatula, indicating that she is actively engaged in the process of mixing the contents of the bowl.",
+        "answer_id": "J7nQYRmCqtdSPhZEyARuVh",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__2",
+        "id": "P20_05_115",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000025483.jpg",
+        "action": "pick up glasses",
+        "description": "In the image, there is a human hand holding a skateboard, and a person is performing a trick on the skateboard. The skateboard is positioned on a table, and the person is standing on the table with the skateboard under their feet. The person is holding the skateboard with one hand and performing the trick, which involves moving the skateboard in a circular motion. The image captures the moment of the trick being executed, showcasing the skill and balance of the person on the skateboard.",
+        "answer_id": "c2RaMxf33CqT3PY37nkES7",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__2",
+        "id": "P20_05_116",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000025736.jpg",
+        "action": "rinse glasses",
+        "description": "In the image, there is a man holding a bottle of dish soap and a sponge, while standing in front of a sink. He is about to wash dishes in the sink, using the sponge and dish soap. The man is positioned near the sink, with the sponge and bottle of dish soap close by. This scene indicates that the man is preparing to clean dishes using the sponge and dish soap, which is a common task in household chores.",
+        "answer_id": "DvSaLCQaeVpCvm8G2BVer4",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__2",
+        "id": "P20_05_117",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000025780.jpg",
+        "action": "rinse glass",
+        "description": "In the image, there is a man standing in front of a sink, holding a bottle of liquid. He is pouring the liquid into the sink, possibly cleaning it. The sink is positioned on a countertop, and there are other objects, such as a sponge and a dishcloth, nearby. The man is performing the action of cleaning the sink, and the bottle of liquid is being used as a cleaning agent. The scene suggests that the man is taking care of his living space by maintaining a clean and hygienic environment.",
+        "answer_id": "EZLegdh87USNATkkMUqirJ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__2",
+        "id": "P20_05_118",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000026021.jpg",
+        "action": "put down glass",
+        "description": "In the image, there is a person holding a sponge and a bottle of cleaning solution, with their hands positioned over a sink. The person is likely preparing to clean a sink or a surface using the sponge and cleaning solution. The image captures the moment where the person is about to apply the cleaning solution to the sponge, which will then be used to clean the sink or surface. The scene shows the person's hands and the cleaning tools in a close-up view, emphasizing the act of cleaning and the importance of using the right cleaning tools and techniques to achieve the desired results.",
+        "answer_id": "jjBGZft2SGipKf6Q9vstFH",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__2",
+        "id": "P20_05_119",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000026075.jpg",
+        "action": "pick up glass",
+        "description": "In the image, there is a man standing in front of a sink with a glass of water and a bottle of wine. He is holding a sponge and is about to clean the sink. The man is positioned in front of the sink, and the glass of water and bottle of wine are placed on the sink's countertop. The man is preparing to clean the sink using the sponge, which is a common cleaning tool used for cleaning surfaces. This scene suggests that the man is performing a routine task, such as cleaning the sink after a meal or preparing for a party.",
+        "answer_id": "Q2sakeEnVL6y4GmNVw3n3u",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__2",
+        "id": "P20_05_120",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000026405.jpg",
+        "action": "rinse glass",
+        "description": "In the image, we see a man holding a fish in his hands, while standing in front of a sink. He is positioned with the fish in his left hand, and he is using his right hand to clean the fish. The man is standing in a kitchen, and the sink is likely used for washing dishes, cleaning utensils, or preparing food. The action being performed by the man is cleaning the fish, which could be a part of his daily routine or a preparation for cooking or consuming the fish.",
+        "answer_id": "48zrBfxJNKMrvL3ybX7Az7",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__2",
+        "id": "P20_05_121",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000027044.jpg",
+        "action": "open drawer",
+        "description": "In the image, a person is holding a glass of water and pouring it into a sink. The sink is located on a countertop, and the person is standing in front of the sink. The glass of water is positioned on the counter, and the person is pouring the water into the sink using a spout. This action is being performed in a kitchen setting, and the person is likely doing it to clean the sink or to prepare for washing dishes.",
+        "answer_id": "5EPLXo5t939bbpjExBwfbt",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__2",
+        "id": "P20_05_122",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000027057.jpg",
+        "action": "put down glass",
+        "description": "In the image, a woman is holding a glass of water and pouring it into a cup. The cup is sitting on a table, and the woman is standing next to it. The woman is pouring the water from the glass into the cup, demonstrating the act of pouring water. The objects in the image are the glass of water, the cup, and the woman. The woman is performing the action of pouring water into the cup, which is positioned on the table.",
+        "answer_id": "kRD9SNmQUirwhSD6qVYrrY",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__2",
+        "id": "P20_05_123",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000027106.jpg",
+        "action": "pick up glass",
+        "description": "In the image, there is a man holding a bottle of nail polish and a bottle of glue, both of which are positioned on a wooden table. The man is applying the nail polish to his fingernails, and he is using the glue to hold the bottle in place. This scene suggests that the man is in the process of doing his nails, using the nail polish and glue to achieve the desired look.",
+        "answer_id": "YSVjjEG4CiSxoRhEs2Zxbr",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__2",
+        "id": "P20_05_124",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000027300.jpg",
+        "action": "put down glasses",
+        "description": "In the image, there is a man sitting on a chair with his hands holding two glasses. The glasses are placed on the edge of the table, and the man is about to pour water into one of them. The man is positioned in front of a table, and the glasses are placed on the edge of the table, which suggests that he is in the process of refilling or pouring water into the glasses. The image shows a person performing a simple task, such as refilling glasses, which is a common activity in daily life.",
+        "answer_id": "nvRLhDEdtGLeJy2tFvHqnY",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P20_05__2",
+        "id": "P20_05_125",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P20/rgb_frames/P20_05.tar",
+        "image": "./frame_0000027698.jpg",
+        "action": "wipe counter with rag",
+        "description": "In the image, a person is standing in front of a kitchen counter with a sink, holding a bottle of hand sanitizer. They are using the hand sanitizer to clean their hands, which is a common practice for maintaining personal hygiene and preventing the spread of germs. The person is positioned near the sink, which is likely used for washing dishes, cleaning utensils, or rinsing food. The image shows a person actively engaging in the process of cleaning their hands, which is an essential part of maintaining a clean and hygienic environment in the kitchen.",
+        "answer_id": "EHeJQnv5DtEbNyk5qfpzUz",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    }
+]

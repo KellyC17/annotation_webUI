@@ -1,0 +1,182 @@
+[
+    {
+        "ep_id": "P26_31__0",
+        "id": "P26_31_0",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P26/rgb_frames/P26_31.tar",
+        "image": "./frame_0000000119.jpg",
+        "action": "open door",
+        "description": "In the image, there is a man standing next to a refrigerator, holding a glass of water. The refrigerator is positioned in front of a sink, and the man is pouring water from the glass into the sink. The man is standing in a kitchen, and the sink and refrigerator are located in the same room. This scene suggests that the man is preparing to wash his hands or clean the sink, as he is holding a glass of water and pouring it into the sink.",
+        "answer_id": "D2nQQLpkfLgMoaD3BPAQrE",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P26_31__0",
+        "id": "P26_31_1",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P26/rgb_frames/P26_31.tar",
+        "image": "./frame_0000000231.jpg",
+        "action": "take small saucepan",
+        "description": "In the image, there is a person holding a bottle of cleaning solution and a spray bottle, both of which are positioned on a countertop. The person is spraying the cleaning solution onto the countertop, possibly preparing to clean the surface. The bottles are placed side by side on the counter, and the person is holding the bottle of cleaning solution with one hand while spraying it with the other hand. The image captures a moment in time when the person is actively performing the task of cleaning the countertop.",
+        "answer_id": "UVk3Ake5tPPGmNkM47SVUk",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P26_31__0",
+        "id": "P26_31_2",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P26/rgb_frames/P26_31.tar",
+        "image": "./frame_0000000387.jpg",
+        "action": "close door",
+        "description": "In the image, we see a sink, a toilet, and a person standing in front of the sink. The person is holding a toilet brush and appears to be cleaning the sink. The sink is positioned below the toilet, and the person is standing in front of the sink to clean it. The image suggests that the person is performing a routine cleaning task, ensuring the sink and surrounding area are kept clean and hygienic.",
+        "answer_id": "Mgv29ZtyYgfYSNSFryMpMu",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P26_31__0",
+        "id": "P26_31_3",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P26/rgb_frames/P26_31.tar",
+        "image": "./frame_0000000441.jpg",
+        "action": "turn on tap",
+        "description": "In the image, a person is standing in front of a sink, holding a towel. The sink is located in a kitchen, and there is a dish towel hanging on the wall next to it. The person is likely cleaning the sink or preparing to clean it. The dish towel is positioned on the wall, and the person is holding it in their hand, possibly to dry the sink or to use it for cleaning purposes. The image shows a person performing a common household task, such as cleaning the sink, which is an essential part of maintaining a clean and organized kitchen.",
+        "answer_id": "YvGue7pqGqvLpcUTFaCgEW",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P26_31__0",
+        "id": "P26_31_4",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P26/rgb_frames/P26_31.tar",
+        "image": "./frame_0000000703.jpg",
+        "action": "turn off tap",
+        "description": "In the image, we see a person holding a sponge and cleaning a sink. The sink is positioned in a kitchen, and the person is using the sponge to clean the sink. The person is standing in front of the sink, holding the sponge, and cleaning it with a gentle scrubbing motion. The sink appears to be made of metal, and the person is using the sponge to remove any dirt or grime from its surface. This scene shows the person performing a routine task in the kitchen, ensuring the sink is clean and ready for use.",
+        "answer_id": "n5wBF6tebVj5RxcvJXfoFB",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P26_31__0",
+        "id": "P26_31_5",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P26/rgb_frames/P26_31.tar",
+        "image": "./frame_0000000798.jpg",
+        "action": "put small saucepan on hob",
+        "description": "In the image, we see a person holding a cup of coffee and standing in front of a stove. The person is positioned in a kitchen, with the stove and the cup of coffee on the counter. The person is holding the cup with one hand and is about to pour the coffee into the cup. This action indicates that the person is preparing to drink the coffee or is in the process of doing so. The image captures a moment in time, highlighting the person's interaction with the cup and the stove in the kitchen.",
+        "answer_id": "LhihVauqMYRh9RHwDmeJqW",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P26_31__0",
+        "id": "P26_31_6",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P26/rgb_frames/P26_31.tar",
+        "image": "./frame_0000000943.jpg",
+        "action": "open door",
+        "description": "In the image, a person is holding a cup of coffee while standing in front of a stove. The stove has a pot on it, and the person is pouring the coffee into the pot. The person is holding the cup with one hand and pouring the coffee with the other. The cup is positioned on the stove, and the person is standing in front of the stove, possibly preparing a hot beverage. The scene shows a person actively engaged in the process of making coffee, which involves pouring the coffee into the pot on the stove.",
+        "answer_id": "gQjTJzohnyHDqBD4e5gmvM",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P26_31__0",
+        "id": "P26_31_7",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P26/rgb_frames/P26_31.tar",
+        "image": "./frame_0000000959.jpg",
+        "action": "turn on gas",
+        "description": "In the image, there is a person holding a cup of coffee while standing in front of a stove. The stove has a pot on it, and the person is pouring the coffee into the pot. The objects are positioned in a kitchen setting, with the stove being the primary focus. The person is performing the action of pouring the coffee into the pot, possibly to prepare a hot beverage for consumption.",
+        "answer_id": "ba6VSwEjpWxDxM9gUyeYZq",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P26_31__0",
+        "id": "P26_31_8",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P26/rgb_frames/P26_31.tar",
+        "image": "./frame_0000001369.jpg",
+        "action": "turn on hob",
+        "description": "In the image, a man is standing in front of a stove, holding a spoon and a cup. The stove has two pots on it, one of which is filled with water. The man is pouring coffee into the cup from the pot, and the spoon is being used to stir the coffee. The pots are positioned on the stove, and the man is standing in front of the stove, with the cup and spoon in hand. This scene suggests that the man is preparing a cup of coffee, possibly for himself or for someone else.",
+        "answer_id": "dGoTyv4RG3Gd3qy6kY4S9n",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P26_31__0",
+        "id": "P26_31_9",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P26/rgb_frames/P26_31.tar",
+        "image": "./frame_0000001534.jpg",
+        "action": "adjust flame",
+        "description": "In the image, we see a man standing over a stove, with two pots on it. One pot is filled with water, and the other pot is empty. The man is pouring water from the filled pot into the empty pot, possibly to prepare a meal or to clean the empty pot. The pots are positioned side by side on the stove, and the man is holding a spoon while performing this action.",
+        "answer_id": "6oVnimvRtj2fse58Qp73BK",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P26_31__0",
+        "id": "P26_31_10",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P26/rgb_frames/P26_31.tar",
+        "image": "./frame_0000002151.jpg",
+        "action": "open door",
+        "description": "In the image, we see a human holding a bottle of milk and a spoon. The human is standing in front of a kitchen cabinet, which has a shelf with various items on it. The human is about to open the cabinet door, and the bottle of milk is in the process of being placed on the shelf. The spoon is also being held by the human. The scene suggests that the human is preparing to store the bottle of milk and spoon in the cabinet.",
+        "answer_id": "dRuMa9feWkMLR3VyaUqePc",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P26_31__0",
+        "id": "P26_31_11",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P26/rgb_frames/P26_31.tar",
+        "image": "./frame_0000002262.jpg",
+        "action": "take tea",
+        "description": "In the image, a person is holding a bottle of juice and a bag of snacks, which are positioned on a shelf in a kitchen. The person is reaching for the snacks, possibly to put them in a bag or a container. The objects are placed on the shelf, which is located above the kitchen counter. The image shows a close-up view of the person's hand and the bottle of juice, indicating that the person is preparing to take the snacks or the bottle of juice.",
+        "answer_id": "nxBLyhxwKs2svPA3yE6gyb",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P26_31__0",
+        "id": "P26_31_12",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P26/rgb_frames/P26_31.tar",
+        "image": "./frame_0000002740.jpg",
+        "action": "close door",
+        "description": "In the image, there is a red hat on a table, and a person is reaching for it. The hat is placed on top of a stack of books, and the person is trying to pick it up. The books are stacked on the table, and the person is standing next to the table. The image suggests that the person is trying to retrieve the hat from the table, possibly to put it on or use it for some other purpose.",
+        "answer_id": "QSrvNr3bQrHb6PXNz5XwES",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P26_31__0",
+        "id": "P26_31_13",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P26/rgb_frames/P26_31.tar",
+        "image": "./frame_0000003090.jpg",
+        "action": "put down tea",
+        "description": "In the image, we see a man standing in front of a sink, holding a toothbrush and a cup. The sink is filled with water, and the man is about to brush his teeth. He is positioned in front of the sink, with the cup and toothbrush on the counter. The man is preparing to brush his teeth by holding the cup and toothbrush, and he is likely to use the running water from the sink to rinse his toothbrush after brushing.",
+        "answer_id": "3DmKtNKdXRtYCzcQc8xAK3",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P26_31__0",
+        "id": "P26_31_14",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P26/rgb_frames/P26_31.tar",
+        "image": "./frame_0000003283.jpg",
+        "action": "open the door",
+        "description": "In the image, we see a person holding a toilet brush while standing in front of a toilet. The person is positioned with their back to the toilet and is holding the brush in their right hand. They are likely about to clean the toilet bowl using the brush. The image is dark, which suggests that it might be taken at night or in a dimly lit environment.",
+        "answer_id": "PSLykP56bKhTqpSQKuoDY2",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P26_31__0",
+        "id": "P26_31_15",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P26/rgb_frames/P26_31.tar",
+        "image": "./frame_0000003367.jpg",
+        "action": "take pan",
+        "description": "In the image, there is a man holding a metal rod and a small metal plate, both of which are positioned on a kitchen counter. The man is using the metal rod to hold the small metal plate, which is being used to clean a surface. The man is performing the action of cleaning the surface by using the metal plate to scrape off any dirt or debris. The objects are placed on the kitchen counter, and the man is holding the metal rod with one hand while using the other hand to clean the surface. The image shows a close-up view of the man's hand and the metal plate, emphasizing the details of the cleaning process.",
+        "answer_id": "hej7fUSFsTVjwgAaCSXZKo",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P26_31__0",
+        "id": "P26_31_16",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P26/rgb_frames/P26_31.tar",
+        "image": "./frame_0000003588.jpg",
+        "action": "put pan on the stove",
+        "description": "In the image, a person is holding a pan with a cooking stove in the background. The pan is filled with a white substance, possibly flour or sugar, and the person is about to pour it into the pan. The pan is positioned on the stove, and the person is holding the pan with one hand while pouring the substance into it. The scene suggests that the person is preparing to cook something, possibly a dessert or a meal, and is using the stove to heat up the pan and cook the substance.",
+        "answer_id": "ajWTkB2RgGGiMSmiz5Uhzu",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P26_31__0",
+        "id": "P26_31_17",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P26/rgb_frames/P26_31.tar",
+        "image": "./frame_0000004092.jpg",
+        "action": "turn on the stove",
+        "description": "In the image, you see a person holding a spoon and a cup of coffee, with a frying pan on the stove. The person is standing in front of the stove, and the frying pan is positioned on the burner. The person is likely preparing a meal or cooking something in the frying pan. The spoon and cup of coffee are nearby, possibly being used to serve or enjoy the food once it is ready. The image captures a moment in the cooking process, where the person is about to add ingredients or stir the food in the pan.",
+        "answer_id": "RvY4HaALpgjSdYZHLxM3LW",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    }
+]

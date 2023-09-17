@@ -1,0 +1,142 @@
+[
+    {
+        "ep_id": "P02_13__0",
+        "id": "P02_13_0",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_13.tar",
+        "image": "./frame_0000000169.jpg",
+        "action": "pick up oven glove",
+        "description": "In the image, there is a person holding a spatula and standing in front of a stove with a baking dish on it. The person is likely preparing food, possibly baking cookies or pizza, as they are using the spatula to mix or spread ingredients in the baking dish. The dish is positioned on the stove, which suggests that the person is using the stove to heat the food. The image captures a moment in the process of cooking, where the person is actively engaged in preparing the meal.",
+        "answer_id": "N7ctD5sqsBsBNywJTtaBz7",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_13__0",
+        "id": "P02_13_1",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_13.tar",
+        "image": "./frame_0000000220.jpg",
+        "action": "wear oven glove",
+        "description": "In the image, there is a man standing next to a stove with a tray of cookies on it. The tray is filled with various types of cookies, and the man is holding a pair of socks. The man is holding the socks in his hand and appears to be taking them off. The cookies on the tray are positioned on the stove, and the man is likely preparing to bake them. The presence of the socks suggests that the man might be getting ready to put on his shoes or prepare for a task that requires him to wear socks.",
+        "answer_id": "gmEgPXsXryusC2hmTRnB4r",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_13__0",
+        "id": "P02_13_2",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_13.tar",
+        "image": "./frame_0000000291.jpg",
+        "action": "pick up tray",
+        "description": "In the image, there is a woman holding a tray of cookies and a spatula, while standing in front of a stove. The tray of cookies is placed on the stove, and the woman is holding the spatula, possibly preparing to flip the cookies. The woman is wearing a white apron, which suggests that she is engaged in cooking or baking activities. The presence of the cookies on the stove indicates that she might be in the process of cooking or preparing them for consumption. The image captures a moment in time where the woman is actively involved in the cooking process, using the spatula to flip the cookies on the stove.",
+        "answer_id": "fdgaJAnFsJh5YXbmmgmsvp",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_13__0",
+        "id": "P02_13_4",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_13.tar",
+        "image": "./frame_0000000347.jpg",
+        "action": "open oven",
+        "description": "In the image, a person is holding a tray of cookies and placing them into a hot oven. The tray is positioned on top of a stove, and the person is wearing a glove to protect their hands from the heat. The person is carefully placing the cookies into the oven, ensuring that they are properly positioned and not touching each other. The image shows the person's hands and the tray of cookies, indicating that they are engaged in the process of baking the cookies.",
+        "answer_id": "izBT57qfGYmghhjUmYi6xP",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_13__0",
+        "id": "P02_13_3",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_13.tar",
+        "image": "./frame_0000000480.jpg",
+        "action": "put tray in oven",
+        "description": "In the image, there are several cookies placed on a baking tray, arranged in a row. A person is holding a spatula and is about to place the cookies into the oven. The person is wearing gloves, indicating that they are taking precautions to avoid burns or other injuries while handling the hot cookies. The cookies are positioned on the tray in a row, which suggests that they are ready to be baked. The person is about to place the cookies into the oven, which is a crucial step in the baking process.",
+        "answer_id": "UGjzJdW82zdd69ocHE5FSV",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_13__0",
+        "id": "P02_13_5",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_13.tar",
+        "image": "./frame_0000000652.jpg",
+        "action": "pick up tray",
+        "description": "In the image, there is a man standing in a kitchen, and he is holding a black pan with food inside it. The man is positioned in front of a stove, and he is holding the pan with one hand while using the other hand to stir the food. The pan is placed on the stove, and the man is standing in front of the stove, stirring the food.",
+        "answer_id": "LvrgNT6iRAasmrq42EVkZi",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_13__0",
+        "id": "P02_13_6",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_13.tar",
+        "image": "./frame_0000000705.jpg",
+        "action": "put tray in oven",
+        "description": "In the image, there is a person holding a spatula and using it to remove cooked eggs from a frying pan. The person is wearing gloves, which suggests that they are taking precautions to avoid burns or other injuries while handling the hot pan. The eggs are positioned on a plate, and the person is carefully removing them from the frying pan with the spatula. The image shows a close-up view of the person's hands and the frying pan, emphasizing the process of cooking and the importance of proper handling of hot objects.",
+        "answer_id": "4tHRaZqjoiCGT2cjRNG9gk",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_13__0",
+        "id": "P02_13_7",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_13.tar",
+        "image": "./frame_0000000805.jpg",
+        "action": "close oven",
+        "description": "In the image, we see a person holding a spatula and standing in front of a stove. The spatula is positioned on top of a cooking pot, and the person is about to use it to stir the contents inside the pot. The person is wearing a white apron, which suggests that they might be preparing or cooking food. The image captures a moment in time when the person is about to perform an action related to cooking, such as stirring the contents in the pot.",
+        "answer_id": "di4LL8YYkDyH42NUsTTqXr",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_13__0",
+        "id": "P02_13_8",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_13.tar",
+        "image": "./frame_0000000958.jpg",
+        "action": "pick up tray",
+        "description": "In the image, we see a person holding a tray with a variety of food items, including bread, meat, and vegetables. The tray is positioned on a stove, with the person holding it using their hands. The person is likely preparing the food for cooking or serving. The image captures a moment in time when the person is about to place the tray on the stove or has just placed it there. The presence of the person's hands in the image suggests that they are actively involved in the process of cooking or preparing the food.",
+        "answer_id": "ETHhSUcgKN5jQY85A2RYFF",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_13__0",
+        "id": "P02_13_9",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_13.tar",
+        "image": "./frame_0000001170.jpg",
+        "action": "open oven",
+        "description": "In the image, you see a person standing in front of a kitchen counter, holding a spatula and a plate. The person is likely preparing food, possibly cooking or frying something on the stove. The spatula is being used to flip or stir the food, and the plate is being used to hold the cooked item. The person is positioned in front of the stove, which suggests that they are actively involved in the cooking process.",
+        "answer_id": "MjF2ZcFWisnMCr5vXCJih2",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_13__0",
+        "id": "P02_13_10",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_13.tar",
+        "image": "./frame_0000001260.jpg",
+        "action": "put tray in oven",
+        "description": "In the image, a person is holding a tray of four miniature pies, which are arranged in a row on the tray. The person is wearing a white glove, which suggests that they are handling the food carefully. The tray is placed on a stove, and the person is about to put the pies into the oven. The image shows a close-up view of the person's hand holding the tray, with the pies visible on the tray. The action being performed is the person placing the pies into the oven, which is likely to be a part of the cooking process.",
+        "answer_id": "JGGRzkW5VaCLqoSPNXKkmn",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_13__0",
+        "id": "P02_13_11",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_13.tar",
+        "image": "./frame_0000001443.jpg",
+        "action": "close oven",
+        "description": "In the image, we see a person holding a spatula and placing it into a microwave oven. The person is standing in front of the microwave, and the spatula is being placed into the microwave with their hand. The microwave is positioned on a countertop, and the person is likely preparing to cook or heat up food using the microwave. The image captures a moment in time where the person is performing an action, placing the spatula into the microwave, and preparing to use the microwave for cooking or heating up food.",
+        "answer_id": "WjEmJJcNXyvS3BgwDbmxZa",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_13__0",
+        "id": "P02_13_12",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_13.tar",
+        "image": "./frame_0000001629.jpg",
+        "action": "set timer",
+        "description": "In the image, there is a person standing in front of a stove, holding a spatula. The person is likely preparing food on the stove, using the spatula to stir or flip the food. The stove is positioned on the countertop, and the person is standing in front of it, holding the spatula. The scene shows the person actively engaged in cooking, which is an essential task in many households.",
+        "answer_id": "azy4vDWYu8VG3PVNuH4gZQ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_13__0",
+        "id": "P02_13_13",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_13.tar",
+        "image": "./frame_0000001644.jpg",
+        "action": "remove oven glove",
+        "description": "In the image, there is a man standing in front of a stove, with a pot on the stove. The man is holding a spatula and is about to stir the pot. The pot is positioned on the stove, and the man is using the spatula to stir the contents inside the pot. The objects in the image are the stove, the pot, and the spatula. The man is performing the action of stirring the pot, which is a common task in cooking.",
+        "answer_id": "5t7N2ainQVipgaZ6uX6Wwz",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    }
+]

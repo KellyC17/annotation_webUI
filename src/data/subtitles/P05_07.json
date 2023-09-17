@@ -1,0 +1,1112 @@
+[
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_0",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000000139.jpg",
+        "action": "rinse hands",
+        "description": "In the image, we see a man standing in front of a sink, with a faucet and a dish rack nearby. He is holding a sponge and is about to clean the sink. The sink is positioned on the countertop, and the faucet is located on the wall above it. The dish rack is placed on the countertop as well, next to the sink. The man is preparing to clean the sink using the sponge, which is a common task for maintaining a clean and hygienic environment in the kitchen.",
+        "answer_id": "iLwnpB8ywxAkmbkBzDjB45",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_1",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000000480.jpg",
+        "action": "open cupboard",
+        "description": "In the image, there is a woman holding a piece of paper and looking at a whiteboard. The whiteboard is positioned on a wall, and the woman is standing in front of it. She is likely reading or studying the information written on the whiteboard. The woman is holding the paper in her hand, which suggests that she might be comparing the information on the whiteboard with the paper or taking notes. The image captures a moment of concentration and focus on the woman's part, as she is engaged in the task of understanding the information on the whiteboard.",
+        "answer_id": "hYNw5CEGZ8NNopesbgQQva",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_2",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000000748.jpg",
+        "action": "take pot",
+        "description": "In the image, there is a person holding a cup of coffee and a spoon, which is positioned on a countertop. The person is standing in front of the counter, holding the cup and spoon, and appears to be about to pour the coffee into the cup. The cup is placed on the counter, and the spoon is positioned next to it. The scene suggests that the person is preparing to enjoy their morning coffee.",
+        "answer_id": "hkzMFfWDZep96UiodnxUU5",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_3",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000001103.jpg",
+        "action": "place pot on hob",
+        "description": "In the image, there is a man standing in front of a stove with two pots on it. One pot is filled with water, and the other is empty. The man is holding a spatula and is about to stir the water in the filled pot. The pots are positioned on the stove, and the man is standing in front of the stove, ready to perform the action of stirring the water.",
+        "answer_id": "UVGBb88kpZn8xCbYrxTyLt",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_4",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000001172.jpg",
+        "action": "turn on hob",
+        "description": "In the image, there is a person holding a frying pan and standing next to a stove with two burners. The person is likely preparing food, possibly cooking eggs or other dishes. The frying pan is positioned on the stove, and the person is holding the handle of the pan. The image captures the moment when the person is about to place the pan on the stove or is in the process of cooking. The presence of the frying pan and the stove indicates that the person is engaged in cooking activities, and the image provides a glimpse into the cooking process.",
+        "answer_id": "MyJzSCBPb6Utdou9MyaYWR",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_5",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000001269.jpg",
+        "action": "press switch",
+        "description": "In the image, a man is standing in front of a stove, holding a bottle of oil and a spoon. The stove has two burners on it, and the man is about to pour the oil into one of the burners. The bottle of oil is positioned on the countertop, and the spoon is being used to pour the oil into the burner. The man is performing the action of pouring the oil into the burner, which is likely part of the process of cooking or preparing food.",
+        "answer_id": "L7NmJJhdvGZcFHXugZVrfD",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_6",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000001289.jpg",
+        "action": "press switch",
+        "description": "In the image, a man is standing in front of a stove, holding a bottle of hot sauce. He is positioned next to a cooking pot, which is on the stove. The man is about to pour the hot sauce into the pot, possibly to add flavor to the food being cooked. The scene is taking place in a kitchen, and the man is wearing a white shirt. The image captures a moment of preparation and cooking, showcasing the interaction between the man and the kitchen appliances.",
+        "answer_id": "7DyWqtsReN33c6d6jkfhqB",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_7",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000001343.jpg",
+        "action": "turn on extractor fan",
+        "description": "In the image, you see a person holding a metal handle and standing in front of a stove. The person is holding the handle to a knob on the stove, which is located on the right-hand side of the image. The person is positioned in front of the stove, and they are turning the knob to adjust the heat level. This action is being performed to control the temperature of the stove, which is essential for cooking and maintaining the food's quality and safety.",
+        "answer_id": "GM37jpZuB88ytD5do3ViEj",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_8",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000001462.jpg",
+        "action": "take oil bottle",
+        "description": "In the image, a person is holding a bottle of oil in their hand, and there is a stove on the counter. The person is standing in front of the stove and holding the bottle of oil, possibly preparing to pour it into the stove or a pan on the stove. The bottle of oil is placed on the counter next to the stove, and the person is standing in the kitchen, possibly getting ready to cook a meal. The image captures a moment of the person's preparation for cooking, and it highlights the importance of using the right amount of oil in the cooking process.",
+        "answer_id": "3o9uxcgnJ8UZk4Pr5Ha8fK",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_9",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000001872.jpg",
+        "action": "pour oil in pot",
+        "description": "In the image, a man is standing in front of a stove, holding a pot with a lid on it. He is holding the pot with one hand while using the other hand to pour something into the pot. The man is positioned in front of a stove, which suggests that he is preparing food or cooking something. The objects in the image include the stove, the pot, and the lid, which are all arranged in a way that facilitates the cooking process. The man's actions involve pouring something into the pot, which could be a liquid or a solid, depending on the context of the image.",
+        "answer_id": "hSmkdWn9Txtx92tdJjwxt2",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_10",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000001999.jpg",
+        "action": "place oil bottle on refrigerator",
+        "description": "In the image, a man is standing in front of a stove, holding a bottle of oil. He is positioned next to a pot on the stove, and he is pouring the oil into the pot. The man is wearing a shirt and a hat, and he appears to be preparing to cook something on the stove. The image shows the man's hands and the bottle of oil, as well as the pot and the stove. The action being performed by the man is pouring the oil into the pot, which is likely to be used for cooking.",
+        "answer_id": "oCefQhgiwszEkFrkUPoo9b",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_11",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000002149.jpg",
+        "action": "open refrigerator",
+        "description": "In the image, a man is standing in a small room, holding a broom and a mop. The broom is placed on the floor, and the mop is hanging on a hook on the wall. The man is holding the broom and mop in his hands, possibly preparing to clean the room. The objects are positioned in a way that allows the man to easily access and use them as needed. The scene suggests that the man is getting ready to perform some cleaning tasks, possibly in a bathroom or kitchen.",
+        "answer_id": "VPYx5xPeTER4RQQChHSojU",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_12",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000002456.jpg",
+        "action": "take salad pack",
+        "description": "In the image, a person is standing in front of a stove, holding a spray bottle and a broom. The stove is located in a kitchen, and the person is positioned near the stove. The person is spraying the broom with water from the spray bottle, likely cleaning the broom. This action suggests that the person is maintaining the cleanliness of their kitchen appliances, which is an essential aspect of kitchen hygiene.",
+        "answer_id": "PsVumgNUq8G5sAXuoXvvxT",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_13",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000002651.jpg",
+        "action": "place salad pack on table",
+        "description": "In the image, a man is holding a container of food and standing next to a microwave oven. The container is placed on the countertop, and the man is holding it with both hands. He is likely preparing the food for microwaving or heating it up in the microwave. The presence of the microwave oven and the container on the countertop suggests that the man is in the process of cooking or reheating the food. The image captures a moment in time when the man is about to place the container into the microwave oven.",
+        "answer_id": "GUbwkwwqoDizCMX5gESr4y",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_14",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000003410.jpg",
+        "action": "open salad package",
+        "description": "In the image, a man is standing in front of a kitchen counter, holding a large bowl of food. The bowl is filled with various types of vegetables, including carrots, potatoes, and onions. The man is holding the bowl with one hand and appears to be preparing to put the food into a microwave oven. The microwave oven is located on the kitchen counter, and the man is positioned near it. The scene suggests that the man is about to heat up the food in the microwave, possibly for a meal or as part of a cooking process.",
+        "answer_id": "ArmWzUNjAYonakavCnhcbg",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_15",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000003702.jpg",
+        "action": "fold film",
+        "description": "In the image, there is a sink with a cup and a spoon on it. The cup and spoon are positioned on the sink, and a person is washing their hands in the sink. The sink is filled with water, and the person is using soap to clean their hands. The image shows a typical scene of a person washing their hands in a sink, which is a common practice for maintaining personal hygiene and cleanliness.",
+        "answer_id": "JMHSH3x3NtLyCWGJQfXrDu",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_16",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000004046.jpg",
+        "action": "throw film",
+        "description": "In the image, we see a man standing in front of a toilet, with a toilet paper roll on the wall next to it. The man is holding a toilet brush and appears to be cleaning the toilet bowl. The toilet brush is positioned on the floor, and the man is holding it with one hand while cleaning the bowl with the other hand. The toilet paper roll is also positioned on the wall, which suggests that the man is preparing to replace the roll or refill it. The scene shows the man performing a routine task in a bathroom, which is an essential part of maintaining personal hygiene and cleanliness.",
+        "answer_id": "9wC6KJVtWvirVxgTCajAQo",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_17",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000004228.jpg",
+        "action": "spread oil in pot",
+        "description": "In the image, we see a person holding a frying pan and a spatula, both of which are positioned on a stove. The person is likely preparing food in the frying pan, possibly cooking eggs or other ingredients. The spatula is being used to stir the food in the pan. The scene is taking place in a kitchen, where the person is performing the action of cooking. The presence of the stove and the cooking utensils indicates that the person is actively engaged in the process of preparing a meal.",
+        "answer_id": "NDRJYnXNJ8VCnfVKYmLZQz",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_18",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000004582.jpg",
+        "action": "take wooden spatula",
+        "description": "In the image, there is a person holding a spoon and a fork, and they are positioned on a countertop. The person is holding the utensils and looking at the camera, possibly to showcase the utensils or to demonstrate the act of holding them. The utensils are placed on the countertop, and the person is standing in front of the counter. This scene might be part of a cooking or dining demonstration, where the person is showcasing the utensils they are using or explaining the proper way to hold and use them.",
+        "answer_id": "NFhQPxk4vAGK8zeqJLxd8V",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_19",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000004916.jpg",
+        "action": "place wooden spatula on refrigerator",
+        "description": "In the image, there is a person standing in a kitchen, holding a spoon and a pot. The person is standing next to a stove, and the spoon and pot are positioned on the counter. The person is likely preparing a meal or cooking food, as they are holding the spoon and pot. The image does not provide any additional context or details about the scene, so it is not possible to determine the exact nature of the meal being prepared or the person's intentions.",
+        "answer_id": "9bMNkuQAGccrziFWyLJYxY",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_21",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000005655.jpg",
+        "action": "take kettle",
+        "description": "In the image, you see a man holding a kettle, which is a white, electric tea kettle. The kettle is positioned on a countertop, and the man is holding it with one hand while pouring water into the kettle with the other hand. The kettle is being filled with water, and the man is likely preparing to make a cup of tea or coffee. The scene shows the man's hands in action, as he is pouring water into the kettle and holding the kettle with one hand.",
+        "answer_id": "Zom69PdLECzuvVg6bAmaA3",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_20",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000005973.jpg",
+        "action": "empty water in jug",
+        "description": "In the image, there is a woman standing in front of a kitchen counter, holding a bottle of water. The kitchen counter has a microwave oven, a refrigerator, and a dishwasher. The woman is holding the bottle of water and appears to be preparing to put it in the refrigerator. The microwave oven and dishwasher are positioned next to each other, while the refrigerator is located on the opposite side of the kitchen counter. The woman's action of holding the bottle of water and placing it in the refrigerator suggests that she is likely getting ready to store the water in the refrigerator for later use.",
+        "answer_id": "78j2Q9iRBWaCRLjFB2fuiQ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_22",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000006361.jpg",
+        "action": "fill kettle",
+        "description": "In the image, we see a sink with a white dish and a hand holding a sponge. The sink is positioned in a kitchen, and the hand is holding the sponge while cleaning the dish. The hand is likely using the sponge to wipe off any food residue or dirt from the dish, and the sink is likely filled with water for rinsing purposes. This scene is a common everyday activity in a kitchen, where people clean dishes after meals or prepare for cooking.",
+        "answer_id": "gERX3sJRMT79aafjnbaWNV",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_23",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000006893.jpg",
+        "action": "place kettle on base",
+        "description": "In the image, there is a person holding a toaster and a microwave oven, both of which are positioned on a kitchen counter. The person is holding the toaster and is about to put it away, possibly after using it to toast some bread. The microwave oven is also on the counter, and it appears to be empty. The scene suggests that the person is preparing to clean up the kitchen counter, as there are some utensils and food packaging on the counter. The image captures a moment of the person's daily routine, as they are about to put away the toaster and clean up the kitchen.",
+        "answer_id": "Sxg3vih5stM6dKLoCrV357",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_24",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000006955.jpg",
+        "action": "press switch",
+        "description": "In the image, a man is standing in front of a kitchen counter, which is cluttered with various objects such as a microwave, a coffee maker, and a toaster. He is holding a spatula and is about to use it to stir something in a pot on the stove. The objects are positioned on the counter in a way that they are easily accessible for the man to use them. The scene suggests that the man is preparing food or cooking something in the kitchen.",
+        "answer_id": "c7XsPL9aSkD2aw3ArcHGtu",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_25",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000007003.jpg",
+        "action": "turn on kettle",
+        "description": "In the image, there is a man sitting at a table with a plate of snacks, a bowl of chips, and a cup of coffee. He is reaching for a bag of chips and is about to open it. The objects are positioned on a table, with the bowl of chips and the cup of coffee placed on the tabletop. The man is performing the action of opening the bag of chips, which suggests that he is about to eat or prepare to eat the snacks.",
+        "answer_id": "Ujt8hRsGS2tnWvjLemBRUH",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_26",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000007149.jpg",
+        "action": "open cupboard",
+        "description": "In the image, a person is standing in front of a kitchen counter, holding a dish towel and cleaning a dirty dish. The dish is placed on a countertop, and the person is using the dish towel to wipe it clean. The person is positioned in front of the counter, with the dish towel in their hand, and the dirty dish on the counter. The action being performed is cleaning the dish, which is a common task in maintaining a clean and organized kitchen environment.",
+        "answer_id": "mNWYd2TVc389DFKsAbjpG6",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_27",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000007192.jpg",
+        "action": "take pot",
+        "description": "In the image, there is a human hand holding a small metal container, which is placed on a wooden table. The hand is positioned on top of the container, and the person is likely about to pour something from the container into a bowl or another container. The scene is set in a kitchen, and the person is likely preparing food or cleaning up after a meal. The image captures the moment when the person is about to perform an action, which could be pouring a liquid or a solid substance from the metal container into the bowl.",
+        "answer_id": "YccC23PSHJTn6QHwu22mTM",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_28",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000007476.jpg",
+        "action": "place pot on hob",
+        "description": "In the image, you see a person holding a wooden spoon and a pot on a stove. The person is standing in front of a kitchen counter, with the stove and the pot on the counter. The person is likely preparing or cooking food using the pot on the stove. The wooden spoon is being used to stir or mix the food in the pot. The scene shows the person actively engaged in cooking, with the pot and stove being positioned in a way that allows for easy access and use.",
+        "answer_id": "Dv4QrE8De75o3v7N4tPeu7",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_29",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000007666.jpg",
+        "action": "turn on hob",
+        "description": "In the image, you see a person holding two pots, one with a lid on it, and placing them on a stove. The person is positioning the pots on the stove, possibly preparing to cook a meal. The pots are placed on the stove in a way that they are not touching each other, allowing for proper cooking and heat distribution. The person's action is related to cooking, as they are arranging the pots on the stove to start the cooking process.",
+        "answer_id": "G7yZJaXxKNtmCa9q2CqGKr",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_30",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000007887.jpg",
+        "action": "open cupboard",
+        "description": "In the image, there is a hand holding a bottle of shampoo, and the hand is positioned near a shower head. The hand is likely about to apply the shampoo to the shower head, which is a common practice for cleaning and maintaining the shower. The bottle of shampoo is placed on the shower wall, and the hand is holding it in a position to easily access the shower head. This image shows a person preparing to clean the shower by applying shampoo to the shower head, which is an essential part of maintaining a clean and hygienic bathroom environment.",
+        "answer_id": "RUXjNruG6ymY7oSErLE7TX",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_31",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000007986.jpg",
+        "action": "take soup",
+        "description": "In the image, a man is reaching into a cupboard to grab a box of cereal. The cupboard is filled with various food items, including cereal, snacks, and other grocery items. The man is holding the box of cereal and is about to take it out of the cupboard. The objects are positioned in a way that allows the man to easily access the box and take it out of the cupboard. The scene shows the man performing an everyday task, such as preparing breakfast or restocking the cupboard with groceries.",
+        "answer_id": "WtEDGnPbL9432Snw9ZgH2D",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_32",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000008086.jpg",
+        "action": "close cupboard",
+        "description": "In the image, we see a human hand holding a toilet paper roll and placing it into a toilet paper holder. The hand is positioned above the toilet, and the toilet paper roll is being placed into the holder. This action is part of a daily chore, as the person is restocking the toilet paper supply. The image shows the hand and the toilet paper roll in close proximity to the toilet, indicating that the person is performing this task in the bathroom.",
+        "answer_id": "WJj74fJjGTWFDxrCUbmY4A",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_33",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000008662.jpg",
+        "action": "spread oil in pot",
+        "description": "In the image, there are two pots on a stove with a person holding a spatula. The pots are positioned on the stove, and the person is using the spatula to stir the contents of one of the pots. The image suggests that the person is cooking or preparing food in the kitchen. The presence of the pots and the spatula indicates that the person is actively engaged in the process of cooking or preparing a meal.",
+        "answer_id": "CpexEXYCyhnycdJ259dPqM",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_34",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000010524.jpg",
+        "action": "spread oil in pot",
+        "description": "In the image, there are two pots on a stove, one with a lid and the other without. A human is holding a spatula and is about to pour oil into the pot with the lid. The pots are positioned on the stove, and the human is standing next to the stove, ready to perform the action. The presence of the pots and the spatula indicates that the human is preparing to cook something in the pots.",
+        "answer_id": "XhoahnAm3BcgzzqJYxjoY7",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_35",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000010681.jpg",
+        "action": "take salad package",
+        "description": "In the image, we see a person holding a spatula and standing in front of a stove. The stove has a pot on it, and the person is likely preparing or cooking food. The pot is filled with food, and the person is holding the spatula, which is a common kitchen tool used for flipping, stirring, and scraping food. The person is positioned in front of the stove, which is a common area for cooking and preparing meals. The image suggests that the person is actively engaged in cooking or preparing food, and the presence of the spatula indicates that they are using it for a specific task or action related to the food.",
+        "answer_id": "8zcejn95uXdyrYrrZXYXRf",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_36",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000010837.jpg",
+        "action": "take wooden spatula",
+        "description": "In the image, there is a person holding a spatula while standing in front of a stove with two pots on it. The person is likely preparing food in the pots, possibly stirring or flipping the contents. The pots are positioned on the stove, and the person is holding the spatula in their hand. The scene suggests that the person is actively engaged in cooking or preparing food, and the spatula is an essential tool for this process.",
+        "answer_id": "V4hetZisCbGibep3mFzfRD",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_37",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000011318.jpg",
+        "action": "pour salad in pot",
+        "description": "In the image, there is a man standing in front of a stove, holding a pot with a lid on it. The pot is filled with food, and the man is holding a spoon. The stove has two burners on it, and there is a bottle of oil on the counter next to the stove. The man is likely preparing a meal, possibly cooking the food in the pot on the stove. The image captures the moment when the man is about to stir the food in the pot using the spoon.",
+        "answer_id": "EwXa9hzhKwyT8Qj3HJC2CK",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_38",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000011571.jpg",
+        "action": "place wooden spatula on refrigerator",
+        "description": "In the image, there is a person holding a spatula and standing in front of a stove with two pots on it. The person is likely preparing food, possibly stirring or flipping food in the pots. The pots are positioned on the stove, and the person is using the spatula to perform the cooking action. The image does not provide any further details about the food being prepared or the person's identity.",
+        "answer_id": "5yTfUWkbj73Fr8iFHmaq3A",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_39",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000012217.jpg",
+        "action": "rinse packaging",
+        "description": "In the image, there is a person standing in front of a sink, holding a sponge and a bottle of cleaning solution. The sink is filled with water, and the person is cleaning the sink with the sponge and cleaning solution. The bottle of cleaning solution is placed on the counter next to the sink, and the sponge is being used to clean the sink. The person is performing the action of cleaning the sink, which is an essential task for maintaining the cleanliness and hygiene of the bathroom.",
+        "answer_id": "4Y5TrVskJQct54Mvhp37jg",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_40",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000012438.jpg",
+        "action": "rinse hands",
+        "description": "In the image, there is a sink with a faucet, a dish rack, and a set of dishes. The dishes are placed on the dish rack, which is positioned above the sink. A person is washing the dishes in the sink, using a sponge to clean them. The sink is filled with water, and the person is using the faucet to rinse the dishes. The scene shows the person actively engaged in the process of cleaning the dishes, which is an essential part of maintaining a clean and organized kitchen.",
+        "answer_id": "N8wbUQuhDSHhjbDKD2SDTg",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_41",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000012735.jpg",
+        "action": "take wooden spatula",
+        "description": "In the image, we see a man standing in front of a kitchen counter, holding a spatula. The kitchen counter has a frying pan, a stove, and a sink, which are all arranged in a row. The man is holding the spatula and looking at the frying pan, possibly preparing to cook something. The presence of the spatula indicates that the man is likely in the process of cooking or preparing food. The arrangement of the kitchen appliances, such as the stove, sink, and frying pan, suggests that the man is using these tools to cook and prepare a meal.",
+        "answer_id": "E9q8LJk5mfctpRwjCwJQmM",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_42",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000013036.jpg",
+        "action": "stir salad in pot",
+        "description": "In the image, there is a person holding a frying pan with a cooked meal, such as fried food, and a spatula. The person is standing in front of a stove, with the frying pan on the stove's burner. The person is likely preparing the meal for consumption. The positioning of the frying pan on the stove indicates that the person is in the process of cooking the meal, and the spatula is being used to stir or flip the food. The image captures the moment when the person is about to serve the meal, which suggests that the cooking process is almost complete.",
+        "answer_id": "LxEynYV63eCMGbM2AMdWwZ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_43",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000013696.jpg",
+        "action": "place wooden spatula on refrigerator",
+        "description": "In the image, there is a person holding a spatula and standing in front of a stove with a frying pan. The frying pan is filled with a mixture of vegetables and oil, and the person is preparing to cook the food. The spatula is being used to stir the mixture, and the person is likely to be cooking the vegetables in the frying pan. The objects are positioned in a kitchen setting, with the stove being the primary cooking surface. The image captures the moment of the person preparing a meal, which could be a simple dish or a more complex recipe.",
+        "answer_id": "bLyWaYvVQEs29KgoGMsLAJ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_44",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000014623.jpg",
+        "action": "shake pot",
+        "description": "In the image, we see a man standing in front of a kitchen counter, holding a spatula and a frying pan. He is positioned next to a stove, and there are two pots on the stove. The man is likely preparing food, possibly cooking vegetables or meat in the pots. The presence of the spatula and frying pan suggests that he might be adding ingredients or stirring the food in the pots. The image captures a moment in the cooking process, where the man is actively engaged in preparing a meal.",
+        "answer_id": "nwBwiUMamnTVPiBh2AieCZ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_45",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000015273.jpg",
+        "action": "take wooden spatula",
+        "description": "In the image, there is a person holding a spatula and standing in front of a stove with two pots on it. The person is preparing food, likely stirring or flipping food in the pots. The pots are positioned on the stove, and the person is using the spatula to perform the cooking action. The image shows the person actively engaged in cooking, indicating that they are preparing a meal.",
+        "answer_id": "Hykf9QTwbhtYpnFLa2PKbc",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_46",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000016480.jpg",
+        "action": "place wooden spatula on refrigerator",
+        "description": "In the image, a person is standing in front of a kitchen counter, holding a wooden spoon and a frying pan. There is a stove or cooktop on the counter, and a pot of food is on the stove. The person is possibly preparing a meal or cooking something in the frying pan. The wooden spoon is being used to stir or flip the food in the pan. The scene is focused on the person and the kitchen tools, indicating that the person is actively engaged in cooking or preparing a meal.",
+        "answer_id": "gb8WqtQaR6XFEVGpKvJGeL",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_47",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000017148.jpg",
+        "action": "take soup pack",
+        "description": "In the image, we see a man standing in a room with a washing machine and a dryer. The washing machine is located on the left side of the room, while the dryer is on the right. The man is holding a dish towel and is about to wipe down the dryer. This action suggests that he is preparing the dryer for use, possibly after a load of laundry has been finished. The presence of the washing machine and dryer in the same room indicates that they are likely part of a laundry area or a small laundry room in a house or apartment.",
+        "answer_id": "eQbpMmmQZfRpVCZYYRmZnt",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_48",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000017674.jpg",
+        "action": "place soup pack on table",
+        "description": "In the image, there is a person holding a cup of coffee and a bag of chips, standing in front of a kitchen counter with a microwave, a toaster, and a stove. The person is likely preparing or consuming their breakfast or snack. The microwave, toaster, and stove are positioned in a row on the counter, with the microwave being the centerpiece. The person is holding the cup of coffee and bag of chips, and they might be about to place the items on the counter or already have them there. The image captures a moment of the person's daily routine, possibly preparing a meal or snack.",
+        "answer_id": "ddexmN5bVRZ3T8vm4oCzEm",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__0",
+        "id": "P05_07_49",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000018000.jpg",
+        "action": "shake pot",
+        "description": "In the image, there is a person holding a spatula and standing in front of a stove with two pots on it. The person is likely preparing food, as they are holding a spatula and using it to stir or flip food in one of the pots. The pots are positioned on the stove, and the person is standing in front of the stove, indicating that they are actively engaged in cooking. The image does not provide any additional details about the food being prepared, but it highlights the person's focus on cooking and the use of a spatula to ensure the food is cooked evenly and to the desired consistency.",
+        "answer_id": "dE4STGXbYeV8Yje97UiGRZ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_50",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000018134.jpg",
+        "action": "take wooden spatula",
+        "description": "In the image, we see a kitchen with a stove, a sink, and a frying pan. The human is cooking food in the frying pan, and the stove is turned on. The sink is also present, which suggests that the person might be preparing ingredients or washing utensils. The objects are positioned in a way that allows the person to easily access and use them during the cooking process. The image provides a glimpse into the kitchen setting, highlighting the essential tools and appliances needed for cooking.",
+        "answer_id": "hJZxeFMdkYT2J3fnbL6RuN",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_51",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000018364.jpg",
+        "action": "move salad in pot",
+        "description": "In the image, there is a person holding a bottle of oil and a pan with a potato in it. The person is standing in front of a stove, and the stove has two burners lit. The person is likely preparing food, such as cooking the potato in the pan. The bottle of oil is likely being used as a cooking oil to prevent the potato from sticking to the pan. The image shows the person's hands holding the bottle of oil and the pan, indicating that they are actively involved in the cooking process.",
+        "answer_id": "hKoKcKAB3ZDTCuayhvijep",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_52",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000018640.jpg",
+        "action": "place wooden spatula on refrigerator",
+        "description": "In the image, you see a kitchen scene with a person holding a spatula and a frying pan. The person is standing in front of a stove, and there are two pots on the stove. One pot contains a mixture of oil and water, while the other pot contains a cooked meal, such as fried food. The person is likely preparing the meal by stirring the mixture in the pot with the spatula. The image suggests that the person is actively engaged in cooking and preparing the food for consumption.",
+        "answer_id": "AxWNtR3CALPBUoM7cDTdJu",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_53",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000018851.jpg",
+        "action": "take kettle",
+        "description": "In the image, a man is holding a microwave oven and placing it on a countertop. The microwave is positioned next to a stove, with a pot on the stove. The man is holding the microwave with one hand and placing it on the countertop with the other hand. This action suggests that the man is either moving the microwave from one location to another or preparing to use it for cooking. The presence of the pot on the stove indicates that the man might be cooking something in the microwave. The scene is taking place in a kitchen, where the man is performing a task related to cooking or using the appliances in the kitchen.",
+        "answer_id": "57yM5wJUnoRPUJEjaZe4td",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_54",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000019031.jpg",
+        "action": "take pot",
+        "description": "In the image, there is a person standing in a bathroom, holding a sponge in their hand. The person is positioned in front of a sink, with the sponge in their hand and a bowl on the counter next to the sink. The person is likely cleaning the sink with the sponge, and the bowl may be used to hold the dirty water from the sink. The scene shows a person performing a common task in a bathroom, such as cleaning the sink, which is an essential part of maintaining a clean and hygienic environment.",
+        "answer_id": "BpQdijHb6vuXn5zc6hr5pV",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_55",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000019524.jpg",
+        "action": "empty water in pot",
+        "description": "In the image, you see a man standing in front of a kitchen sink, holding a cup of coffee. He is pouring the coffee into the sink, which is filled with hot water. The man is positioned in the kitchen, and the sink is located on the countertop. The man is performing the action of pouring the coffee into the sink, possibly to clean the cup or to prepare the coffee for consumption. The presence of the cup and the hot water in the sink suggests that the man is taking care of his coffee or preparing it for a hot beverage.",
+        "answer_id": "jN7Rmw748KZcvmFDVvwRWC",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_56",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000019753.jpg",
+        "action": "place kettle on base",
+        "description": "In the image, there is a person holding a toaster and standing in front of a kitchen counter. The person is holding the toaster in one hand and using the other hand to turn it on. The toaster is positioned on the counter, and there are some utensils and food items nearby. The scene suggests that the person is about to toast some bread or other food items. The presence of the utensils and food items indicates that the person is preparing to make a meal or snack.",
+        "answer_id": "JfSeTV9pFpHAfSiWwR848i",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_57",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000019961.jpg",
+        "action": "place pot on hob",
+        "description": "In the image, there are two pots on a stove, one with a lid and the other without. A person is holding a spatula and placing food into the pot with the lid. The pots are positioned on the stove, with one pot being filled with food and the other being empty. The person is performing the action of adding food to the pot with the lid, which suggests that they might be preparing a meal or cooking a dish.",
+        "answer_id": "CjTBZum24utzkjDEf2Jav9",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_58",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000020307.jpg",
+        "action": "take wooden spoon",
+        "description": "In the image, we see a kitchen with a stove, a sink, and a refrigerator. A human is standing in the kitchen, holding a spatula and a frying pan, and is possibly preparing food. The frying pan is placed on the stove, and the spatula is in the human's hand. The sink is also visible, indicating that the human might be washing the utensils or cleaning the kitchen. The scene suggests that the person is actively engaged in cooking or preparing a meal, using the stove, sink, and other kitchen appliances to complete the task.",
+        "answer_id": "AjJUTAMapxi5xvZZVCH3z3",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_59",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000020762.jpg",
+        "action": "pour soup into pot",
+        "description": "In the image, a person is standing in front of a stove, holding a spatula and a frying pan. The person is likely preparing food, as the frying pan is filled with a mixture of ingredients. The stove has a pot on it, which could be used for cooking or heating up the food. The person is positioned near the stove, possibly to monitor the cooking process or to add ingredients to the pot. The image suggests that the person is actively involved in cooking, possibly preparing a meal for themselves or others.",
+        "answer_id": "o6AfjdCd96ZeFDGNzMg8yr",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_60",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000021705.jpg",
+        "action": "stir soup",
+        "description": "In the image, we see a person holding a spatula and a wooden spoon while standing in front of a stove. The person is cooking, and the spatula and spoon are being used to stir or mix the food. The objects are positioned on a stove, with the spatula and spoon placed on top of a cooking pot or pan. The person is likely preparing a meal or cooking a dish using these kitchen utensils.",
+        "answer_id": "njF7jCNrhzBUjPHG89aq9x",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_61",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000022157.jpg",
+        "action": "press button",
+        "description": "In the image, you see a human hand pointing towards a bottle of oil, which is placed on top of a stove. The hand is pointing towards the bottle while the person is standing in front of the stove, indicating that they are trying to retrieve the oil from the stove. The bottle is positioned on top of the stove, which suggests that it might be used for cooking or preparing food. The person's action, pointing towards the bottle, indicates that they might be looking for the oil or need to use it for a specific purpose.",
+        "answer_id": "Z68etxL5Fte8LnUHF5G4X2",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_62",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000022444.jpg",
+        "action": "place wooden spoon on refrigerator",
+        "description": "In the image, there is a person holding a spatula and a wooden spoon, standing in front of a stove with two pots on it. One pot contains a sauce, and the other pot has a dish of food. The person is likely preparing a meal by stirring the sauce in the first pot and serving the food in the second pot. The presence of the spatula and wooden spoon indicates that the person is actively involved in the cooking process, possibly stirring or flipping the food in the dish. The image captures the moment when the person is about to serve the meal, which suggests that the cooking process is almost complete.",
+        "answer_id": "LorEtCX93PQtwwG8xXPNp8",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_63",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000022589.jpg",
+        "action": "cover pot",
+        "description": "In the image, there is a person holding a spatula and a frying pan, with a bottle of oil and a bowl of food nearby. The person is likely preparing a meal, possibly cooking vegetables or meat in the frying pan. The spatula is being used to stir the food in the pan, while the bottle of oil is being poured into the pan. The bowl of food is positioned nearby, indicating that the person may be adding ingredients to the meal or preparing a side dish. The scene suggests that the person is actively engaged in cooking and preparing a meal, possibly for themselves or others.",
+        "answer_id": "dHHugeerXH9oTnd9nJ6UZX",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_64",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000022749.jpg",
+        "action": "take wooden spatula",
+        "description": "In the image, we see a person holding a spatula while standing in front of a stove with a pot on it. The pot contains a mixture of vegetables and oil, and the person is preparing to stir the contents. The stove has a gas burner on it, and there is a bottle of oil on the counter next to the stove. The person is likely cooking a meal using the pot and spatula. The scene suggests that the person is actively engaged in the cooking process, stirring the food to ensure it is well-cooked and evenly seasoned.",
+        "answer_id": "9hyWsQ7bNANVagKpVmxKwC",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_65",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000022868.jpg",
+        "action": "stir salad in pot",
+        "description": "In the image, we see a person holding a spatula and a frying pan on a stove. The person is positioned in front of a stove, with the frying pan on the stove and the spatula in their hand. The action being performed by the human is cooking food in the frying pan. The presence of the spatula suggests that the person is preparing to flip or stir the food in the pan. The image captures a moment in the cooking process, where the person is actively engaged in preparing a meal.",
+        "answer_id": "TmrANEQVh89npUnEioKjvX",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_66",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000024404.jpg",
+        "action": "place wooden spatula on refrigerator",
+        "description": "In the image, we see a person standing in front of a kitchen counter, with a stove, a pan, and a spatula in the foreground. The person is holding a spatula and stirring something in the pan. The objects are positioned on the counter, with the stove and the pan being placed on the same level. The person is likely preparing a meal or cooking something in the pan, using the spatula to stir and mix the ingredients.",
+        "answer_id": "YkH2j6ewQt6av6jhdRCsG3",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_67",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000026416.jpg",
+        "action": "take wooden spatula",
+        "description": "In the image, there is a man holding a spoon and standing in front of a stove, with a pot and a frying pan on it. The man is likely preparing food, possibly stirring or flipping the contents of the pot. The spoon is being used for the task, and the objects are positioned on the stove in a way that allows the man to easily access and interact with them. The image shows the man in the process of cooking, and the presence of the spoon and pots on the stove indicates that he is actively preparing a meal.",
+        "answer_id": "Yw6Xsv9MViEyRb8TZKEwHD",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_68",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000027257.jpg",
+        "action": "stir salad in pot",
+        "description": "In the image, there is a person holding a frying pan with food inside it, and they are standing in front of a stove. The person is likely preparing a meal by cooking the food in the frying pan on the stove. The frying pan is positioned on the stove, and the person is holding it with one hand while using the other hand to stir the food inside. This scene suggests that the person is actively engaged in cooking and preparing a meal.",
+        "answer_id": "NYvTAoHqxo2GWA9xpaqsGn",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_69",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000027561.jpg",
+        "action": "place wooden spatula on refrigerator",
+        "description": "In the image, there is a man standing in front of a stove, holding a spoon and a bowl. The stove has a pot on it, and there are also some utensils, such as a spatula, on the counter. The man is likely preparing a meal using the pot on the stove, and the bowl in his hand might contain food or a sauce. The utensils on the counter are likely used for serving or stirring the food. The scene suggests that the man is actively engaged in cooking and preparing a meal.",
+        "answer_id": "MjAtQ84u3UmKcaSrm8qjSs",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_70",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000028412.jpg",
+        "action": "take wooden spoon",
+        "description": "In the image, we see a person holding a spoon and a bottle of oil while standing in front of a stove. The person is likely preparing food, possibly stirring a pot or cooking something on the stove. The spoon and bottle of oil are positioned on the countertop next to the stove, and the person is holding the spoon and bottle in their hands. The image suggests that the person is actively engaged in cooking or preparing a meal.",
+        "answer_id": "Esj5QTdnUEByyBd3ju5ctf",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_71",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000028507.jpg",
+        "action": "uncover pot",
+        "description": "In the image, a man is standing in front of a stove, holding a spoon and a pot. The pot is filled with a stew or soup, and the man is stirring it with the spoon. The stove is positioned on the counter, and the man is using it to cook the food. The scene appears to be a kitchen setting where the man is preparing a meal for himself or others. The man's actions indicate that he is actively cooking the stew or soup, ensuring that it is well-mixed and cooked to perfection.",
+        "answer_id": "mctAyLEyJhhW3eU5H83dds",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_72",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000028800.jpg",
+        "action": "stir soup",
+        "description": "In the image, there is a man standing in front of a stove, holding a spatula. He is positioned next to a pot, which is filled with food. The man is using the spatula to stir the food in the pot, possibly preparing a meal. The stove is also equipped with a frying pan, which might be used for cooking the food. The scene suggests that the man is actively engaged in cooking, possibly stirring a sauce or a dish.",
+        "answer_id": "9TaAa4Lunag6T2FHshEJe8",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_73",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000029304.jpg",
+        "action": "cover pot",
+        "description": "In the image, we see a man standing in front of a stove with a pot and a pan on it. He is holding a spatula and appears to be preparing food. The pot and pan are positioned on the stove, and the man is using the spatula to stir the food in the pot. The scene suggests that the man is cooking something, possibly a meal or a dish, and is actively engaged in the process of preparing the food.",
+        "answer_id": "CRcDUGNdwgjesEUmrUA9dr",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_74",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000029352.jpg",
+        "action": "place wooden spoon on refrigerator",
+        "description": "In the image, a human is holding a spoon and a fork while standing in front of a stove. There is a pot on the stove, and the human is stirring the contents of the pot with the spoon. The pot is filled with food, and the human is likely preparing a meal. The objects in the image are positioned in a kitchen setting, with the stove being the primary focus. The human is performing the action of stirring the food in the pot, which is an essential step in cooking and preparing meals.",
+        "answer_id": "VHnextcuFHHZm7zNZwSHF8",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_75",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000032040.jpg",
+        "action": "take wooden spoon",
+        "description": "In the image, a man is standing in front of a stove, holding a spoon. There is a pot on the stove, and a bottle of oil is also present. The man is likely preparing a meal, possibly stirring or adding ingredients to the pot. The objects are positioned on the stove, with the pot being the primary focus of the scene. The man is holding the spoon, which suggests that he is actively involved in the cooking process.",
+        "answer_id": "kMx5WZrt8Emv2hkww4kruJ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_76",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000032141.jpg",
+        "action": "uncover pot",
+        "description": "In the image, a man is standing in front of a stove, holding a spatula in his hand. He is positioned next to a pot containing a mixture of vegetables and water. The man is likely preparing a dish by stirring the contents of the pot with the spatula. The stove is also equipped with a frying pan, which may be used for cooking the dish. The scene suggests that the man is cooking a meal using the stove and its various cooking utensils.",
+        "answer_id": "KFSJtSkNv2rucfg4AkZLWw",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_77",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000032406.jpg",
+        "action": "stir soup",
+        "description": "In the image, we see a man standing in front of a stove with a pot and a spatula in his hand. The pot is filled with a dish of food, and the man is stirring it with the spatula. The man is positioned near the stove, and the pot is placed on the stove's burner. The image suggests that the man is cooking or preparing a meal using the pot and the stove. The presence of the spatula indicates that he is actively stirring or mixing the food in the pot.",
+        "answer_id": "RpcABMY93Y9fNMXm5JJe7T",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_78",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000032621.jpg",
+        "action": "cover pot",
+        "description": "In the image, we see a man standing in front of a stove with two pots on it. One pot contains a stew, while the other pot is empty. The man is holding a wooden spoon and stirring the stew. The pots are positioned on the stove, and the man is using the spoon to mix the contents of the pots. This scene suggests that the man is preparing a meal, possibly a stew, and is actively stirring the ingredients to ensure they are well-combined and cooked evenly.",
+        "answer_id": "PpwrFYMQmdFMYew6f7XEPi",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_79",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000032675.jpg",
+        "action": "place wooden spoon on refrigerator",
+        "description": "In the image, we see a person holding a wooden spoon and standing in front of a stove with a pot on it. The person is likely preparing food, possibly stirring or mixing the ingredients in the pot. The wooden spoon is being used as an essential tool for this process. The objects are positioned in a kitchen setting, with the stove being the primary cooking appliance. The person is engaged in the act of cooking, which is an essential part of daily life for many individuals.",
+        "answer_id": "YHEt6rS9XJRyDCjhdnFayQ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_80",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000032752.jpg",
+        "action": "turn off hob",
+        "description": "In the image, there are two pots on a stove, one with a lid on and the other without. A person is standing next to the stove, possibly preparing food. The pots are positioned on the stove, with one pot having a lid on and the other pot being empty. The person is likely stirring or cooking food in the pots, using the stove as a heat source. The image captures the moment of the person's interaction with the pots and the stove, as they prepare a meal.",
+        "answer_id": "dnszzoLMtY2zYemLDx6nC2",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_81",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000032900.jpg",
+        "action": "press switch",
+        "description": "In the image, we see a man standing in a bathroom, holding a bottle of oil and a can of beer. The man is positioned near a sink, with the bottle of oil and the can of beer placed on the counter. The man is holding the bottle of oil and looking at it, possibly contemplating using it for cleaning purposes. The presence of the can of beer suggests that the man might be planning to use the oil for cleaning and then relaxing with a drink afterward.",
+        "answer_id": "ToSa7R4wnG4fWnbuGDNv49",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_82",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000033104.jpg",
+        "action": "take pot",
+        "description": "In the image, there is a man standing in front of a kitchen counter with two pots on it. One pot contains a sauce, and the other pot contains a vegetable. The man is holding a spatula and stirring the sauce in the pot. The pots are positioned on the counter, and the man is using the spatula to stir the sauce and mix it with the vegetable. This scene suggests that the man is preparing a meal, possibly a sauce-based dish, and is actively engaged in the cooking process.",
+        "answer_id": "mYhkvCjxN2uFXSKNvLFYze",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_83",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000033221.jpg",
+        "action": "shake pot",
+        "description": "In the image, there is a man standing in front of a stove with two pots on it. One pot contains cooked food, and the other pot is empty. The man is holding a spatula and stirring the cooked food in the pot. The pots are positioned on the stove, and the man is preparing to cook or serve the food. The scene suggests that the man is either preparing a meal or finishing up a cooking process.",
+        "answer_id": "dRQXhc4LYX4q9vLUYYJ6ER",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_84",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000035064.jpg",
+        "action": "take wooden spatula",
+        "description": "In the image, we see a man holding a spoon, standing in front of a stove with a pot on it. The man is likely preparing a meal or cooking something in the pot. The objects in the image include the spoon, the pot, and a stove, which are positioned in a kitchen setting. The man is performing the action of stirring or cooking the food in the pot using the spoon.",
+        "answer_id": "GPEtSZgR3XMvkG5zVdQEU6",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_85",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000035216.jpg",
+        "action": "stir salad in pot",
+        "description": "In the image, there is a person holding a pot with a lid and a spoon, while standing in front of a stove with two burners. The person is preparing food, possibly stirring or cooking it. The pot and spoon are positioned on the stove, and the person is holding the pot with the lid on top. The scene suggests that the person is actively engaged in cooking or preparing a meal.",
+        "answer_id": "P8tCRfbXtVp7TwnSqMZgQW",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_86",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000036000.jpg",
+        "action": "place wooden spatula on refrigerator",
+        "description": "In the image, a human is holding a spatula and standing in front of a stove, with a pot and a frying pan on it. The human is likely preparing food, as the pot and frying pan are filled with ingredients. The spatula is being used to stir the contents in the pots and pans. The scene suggests that the person is cooking or preparing a meal, possibly using the stove to heat up the ingredients or cook them. The objects are positioned on the stove, with the pots and pans containing food, and the human is actively engaged in the cooking process.",
+        "answer_id": "JDQhbpj6vPHZM5UyXY5KAY",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_87",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000037334.jpg",
+        "action": "take plate",
+        "description": "In the image, there is a human holding a cup of coffee and a mug, standing next to a counter with a microwave, a toaster, and a coffee maker. The human is likely preparing to make or consume a hot beverage, possibly coffee or tea. The objects are placed on the counter, with the microwave and toaster being positioned on the top of the counter, and the coffee maker and mugs on the bottom. The human is holding the cup of coffee and the mug, indicating that they might be about to pour the coffee into the mug or take a sip. The scene suggests that the person is in the process of preparing or consuming a hot beverage, possibly in their kitchen or living room.",
+        "answer_id": "MiWSD4VDQmgXpjnNpWhm7g",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_88",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000037428.jpg",
+        "action": "place dish on table",
+        "description": "In the image, there is a man standing in front of a kitchen counter, holding a cup of coffee. He is looking at a microwave oven, which is positioned next to the counter. The microwave oven is empty, and the man is likely checking if it is clean and ready for use. The scene shows a kitchen setting with a counter, microwave oven, and a cup of coffee. The man's action is checking the microwave oven, which is a common task in maintaining a clean and functional kitchen.",
+        "answer_id": "CmQJSpZDmit8txSmPvdR3J",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_89",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000037887.jpg",
+        "action": "take wooden spatula",
+        "description": "In the image, a man is standing in front of a stove holding a spatula. There is a pan on the stove, and the man is using the spatula to stir the contents of the pan. The pan is filled with a mixture of vegetables, and the man is stirring the vegetables with the spatula. The image shows the man's hand holding the spatula, and the pan is positioned on the stove, with the man standing in front of it. The scene suggests that the man is preparing a meal on the stove, possibly stirring a vegetable dish or cooking a meal using the pan.",
+        "answer_id": "mZ3CNohzfbKQMbZgUSLhfs",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_90",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000038008.jpg",
+        "action": "take pot",
+        "description": "In the image, we see a person holding a pot of food, possibly a stew or soup, and a spoon. The person is standing in front of a stove, which is likely a gas stove. The pot is placed on the stove, and the person is holding the spoon, possibly to stir or serve the food. The scene appears to be in a kitchen, with the stove and the pot being the main focus. The presence of the spoon suggests that the person is about to eat or prepare the food.",
+        "answer_id": "H33YtmkWdDCzUQhJQj7RGC",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_91",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000038690.jpg",
+        "action": "pour salad on plate",
+        "description": "In the image, we see a man standing over a kitchen counter, holding a spatula and a plate. The spatula is being used to flip a pancake on the stovetop, while the plate is likely holding the cooked pancake. The man is positioned near the stove, with the pancake in the pan on the stove and the plate on the counter. The action being performed by the human is flipping the pancake on the stovetop, which is a common technique used to cook pancakes.",
+        "answer_id": "PdV97K9qfhEhLtzoQY6s72",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_92",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000040186.jpg",
+        "action": "rinse pot",
+        "description": "In the image, there is a sink with a faucet, a stove, and a dishwasher. The sink is filled with water, and the faucet is turned on. A human is standing next to the sink, holding a sponge and possibly cleaning the sink. The stove and dishwasher are positioned nearby, and there are some dishes on the counter. The scene suggests that the human is performing a cleaning task, such as washing dishes or cleaning the sink, and is using the sponge to do so.",
+        "answer_id": "6ceuqp6z29TQQdQewymyAM",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_93",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000040688.jpg",
+        "action": "wash pot",
+        "description": "In the image, there is a sink with a faucet, a dish rack, and a dishwasher. The sink is positioned next to the dish rack, and the dishwasher is located on the opposite side of the sink. A person is standing in front of the sink, holding a sponge and cleaning a plate. The person is using the sponge to clean the plate, which is placed on the dish rack. The sink is filled with water, and the faucet is turned on, indicating that the person is using the sink to clean the dishes.",
+        "answer_id": "57SWZBovMsAXQdUz3PdmyR",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_94",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000043786.jpg",
+        "action": "place pot on drainer",
+        "description": "In the image, we see a kitchen sink, a stove, a dishwasher, a refrigerator, and a countertop. The objects are positioned in a kitchen setting, with the sink and stove being placed on the countertop, while the dishwasher is located near the sink. The human is holding a spoon and is possibly preparing to wash dishes in the sink. The image captures a moment of the human performing a daily chore, which is washing dishes, in the kitchen.",
+        "answer_id": "YRvCNjQsVRyzfRcdMGL6BE",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_95",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000044032.jpg",
+        "action": "take wooden spoon",
+        "description": "In the image, we see a person holding a spoon and a bottle of oil on a stove. The person is standing in front of a stove with a pot on it, and they are using the spoon to stir the pot. The bottle of oil is placed on the stove next to the pot, and the person is holding the spoon and bottle in their hands. This scene suggests that the person is preparing a meal, possibly stirring a sauce or oil-based dish. The image captures the moment when the person is actively engaged in cooking, using the spoon to mix the ingredients in the pot.",
+        "answer_id": "737eEXW3KSzGsaTgcKzfrC",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_96",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000044140.jpg",
+        "action": "uncover pot",
+        "description": "In the image, a man is standing in front of a stove, holding a spoon and a bowl. He is positioned next to a pot, which is filled with a liquid. The man is likely cooking or preparing food in the pot, and he is using the spoon to stir the contents. The bowl may be used for serving or mixing the food. The scene suggests that the man is actively engaged in cooking or preparing a meal, and the presence of the spoon and bowl indicates that he is using these tools to perform the necessary actions.",
+        "answer_id": "9yBWLZHmVtzLZRhmARR2pM",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_97",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000044688.jpg",
+        "action": "stir soup",
+        "description": "In the image, a man is standing in front of a stove, holding a spoon and stirring a pot of soup. The soup is being cooked in a pot on the stove, and the man is using the spoon to stir it. The man is positioned near the stove, with the pot of soup on the stove and the spoon in his hand. This scene suggests that the man is actively preparing the soup, possibly adding ingredients or stirring the mixture to ensure that it is cooked evenly. The image captures a moment in the process of cooking, highlighting the human's role in preparing the meal.",
+        "answer_id": "Ymgbr3Ri55EA9vmwPiGCbr",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_98",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000044876.jpg",
+        "action": "cover pot",
+        "description": "In the image, we see a man holding a spoon and a pot of sauce, standing in front of a stove. The man is likely preparing a meal or cooking sauce on the stove. The sauce is being poured into the pot, and the man is using the spoon to stir it. The objects are positioned in a kitchen setting, with the stove being the primary focus of the scene. The man's action of stirring the sauce indicates that he is actively engaged in the cooking process, and the image captures a moment in time when he is preparing the meal or sauce.",
+        "answer_id": "LGSgGHfLrdx6Q3achVtdp8",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__1",
+        "id": "P05_07_99",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000044897.jpg",
+        "action": "place wooden spoon on refrigerator",
+        "description": "In the image, we see a man standing in front of a kitchen stove with two pots on it. One pot is filled with a liquid, and the other pot is empty. The man is holding a spoon and stirring the contents of the filled pot. The pots are positioned on the stove, with the filled pot on the right side and the empty pot on the left side. The man is performing the action of stirring the liquid in the filled pot, possibly preparing a meal or cooking something.",
+        "answer_id": "oKcJ4mA8M2FsSkgcHLb9uL",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__2",
+        "id": "P05_07_100",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000045073.jpg",
+        "action": "uncover pot",
+        "description": "In the image, there is a person holding a glass of wine, standing next to a stove with two burners on. The person is pouring the wine into the glass, and the glass is placed on the countertop. The stove has a bottle of oil on it, which might be used for cooking. The scene suggests that the person is preparing to cook or prepare a meal, and the wine is likely being used as a beverage during the process. The person is standing in a kitchen, which is a common space for cooking and preparing meals.",
+        "answer_id": "FvvaNoyRFMmuzbt95HGvQg",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__2",
+        "id": "P05_07_101",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000045386.jpg",
+        "action": "take pot",
+        "description": "In the image, we see a man standing in front of a stove, holding a pot with a spoon in his hand. The stove has two burners on it, and there is a pan on the burner. The man is stirring the contents in the pan, possibly cooking or preparing food. The objects are positioned in a kitchen setting, where the man is performing the action of cooking.",
+        "answer_id": "bRTekxVHvVXfkT8SG3cUcb",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__2",
+        "id": "P05_07_102",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000045721.jpg",
+        "action": "pour soup into bowl",
+        "description": "In the image, there is a sink with a faucet, a stove, and a dishwasher. The sink is filled with water, and a human is washing dishes in the sink. The stove is positioned next to the sink, and the dishwasher is located on the other side of the sink. The human is washing dishes in the sink, using the faucet to rinse the dishes. This scene shows the human performing a common household task, such as washing dishes, in the kitchen.",
+        "answer_id": "PBno9v3jDwDbMoprVQx6sZ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__2",
+        "id": "P05_07_103",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000045989.jpg",
+        "action": "take wooden spoon",
+        "description": "In the image, there is a person holding a spoon and a bowl, with a pot on the stove. The person is standing in a kitchen, possibly preparing a meal. The spoon and bowl are positioned on a countertop, while the pot is on the stove. The person is holding the spoon and bowl, indicating that they might be about to serve or eat the food. The image captures a moment of the person's activity in the kitchen, showcasing the various objects and their placement in the room.",
+        "answer_id": "BMpcrJ6yyBE2JCDXU2J8uV",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__2",
+        "id": "P05_07_104",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000046465.jpg",
+        "action": "serve soup in bowl",
+        "description": "In the image, there is a man standing over a sink, holding a spoon and a cup. He is pouring liquid from the cup into the sink, possibly washing dishes or cleaning the sink. The sink is filled with water, and the man is carefully pouring the liquid into it. The objects are positioned in a way that the man can easily access the sink and pour the liquid without any obstruction. The image captures a moment in time where the man is performing a simple task, such as cleaning the sink or washing dishes, which is an essential part of maintaining a clean and organized home.",
+        "answer_id": "RfXhcBYYtAuGRwCPVEb3nQ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__2",
+        "id": "P05_07_105",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000047177.jpg",
+        "action": "place wooden spoon on refrigerator",
+        "description": "In the image, there is a man standing in front of a kitchen counter, holding a spoon and a pot. The man is holding the spoon and stirring the contents of the pot, possibly a sauce or soup. The pot is positioned on the kitchen counter, and there are other kitchen items nearby, such as a stove and a refrigerator. The man is wearing a jacket and appears to be preparing a meal.",
+        "answer_id": "QYNtes2qiVrN6MrHKZ5oy3",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__2",
+        "id": "P05_07_106",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000047240.jpg",
+        "action": "place pot on hob",
+        "description": "In the image, we see a person holding a spatula while standing in front of a stove. The stove has two pots on it, one of which is filled with a red liquid, possibly a sauce or soup. The person is holding the spatula and is about to stir the contents in the pot. The pots are positioned on the stove, and the person is standing in front of the stove, ready to perform the action of stirring the contents in the pot.",
+        "answer_id": "QxNsdamFSdpLPchjeGy96c",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__2",
+        "id": "P05_07_107",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000047402.jpg",
+        "action": "cover pot",
+        "description": "In the image, there is a man standing in front of a stove, holding a spoon and a bottle of oil. The stove has a pot on it, and there is a spoon in the pot. The man is likely preparing a meal or cooking something in the pot. The bottle of oil is placed next to the pot, and the spoon is being used to stir the contents of the pot. The scene suggests that the man is actively engaged in cooking, using the spoon and the oil to prepare the meal.",
+        "answer_id": "48vDjdV37ggzXWWPwWhHKv",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__2",
+        "id": "P05_07_108",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000047529.jpg",
+        "action": "press switch",
+        "description": "In the image, there is a person holding a bottle of dish soap and a bottle of laundry detergent, both of which are placed on a countertop. The person is pouring the dish soap into the dishwasher, and the laundry detergent is sitting next to the dishwasher. The person is performing the action of pouring the dish soap into the dishwasher, which is likely preparing for a washing cycle. The presence of the laundry detergent suggests that the person might be planning to wash clothes as well. The image captures a moment of the person's daily routine, where they are prepping for a washing cycle and ensuring that their dishwasher and laundry are clean and ready for use.",
+        "answer_id": "YTXjwHydxJsvJ5XgqdUDtU",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__2",
+        "id": "P05_07_109",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000047746.jpg",
+        "action": "take bowl",
+        "description": "In the image, we see a person holding a cup of hot coffee, standing next to a sink. The sink is filled with water, and the person is pouring the coffee into the sink. This action is likely being performed to clean the cup or to prepare the coffee for further use. The objects in the image include the cup of hot coffee, the sink, and the person holding the cup. The positioning of the objects suggests that the person is standing next to the sink, with the cup of coffee in their hand, and the sink is filled with water.",
+        "answer_id": "G33zAHGJxsxFvdEwMk977N",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P05_07__2",
+        "id": "P05_07_110",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P05/rgb_frames/P05_07.tar",
+        "image": "./frame_0000047885.jpg",
+        "action": "place bowl on table",
+        "description": "In the image, there is a man sitting at a table with a cup of hot tea in front of him. The cup is placed on a white plate, and the man is holding a spoon while looking at the cup. The man is likely enjoying his tea and taking a moment to appreciate the warmth and flavor of the beverage. The tea cup and spoon are positioned on the table, and the man is sitting in a comfortable position, possibly enjoying the moment of relaxation.",
+        "answer_id": "gLm6uE7uwQmennJASDG5Rp",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    }
+]

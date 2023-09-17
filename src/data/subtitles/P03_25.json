@@ -1,0 +1,162 @@
+[
+    {
+        "ep_id": "P03_25__0",
+        "id": "P03_25_0",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_25.tar",
+        "image": "./frame_0000000199.jpg",
+        "action": "put glasses on the side",
+        "description": "In the image, there is a sink with a faucet, a dishwasher, a stove, and a person standing near the sink. The person is holding a sponge and a dishcloth, and they are cleaning the sink. The sink is positioned in the foreground, and the dishwasher is placed behind it. The stove is also visible in the background. The person is performing the action of cleaning the sink using the sponge and dishcloth, which are being held in their hands.",
+        "answer_id": "MYCYYgicYe5UScRm4o796Q",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P03_25__0",
+        "id": "P03_25_1",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_25.tar",
+        "image": "./frame_0000000310.jpg",
+        "action": "fill glass",
+        "description": "In the image, there is a sink with a faucet, a dishwasher, and a person washing dishes. The person is holding a dish and placing it in the sink, which is filled with water. The sink is positioned next to the dishwasher, and the person is using the faucet to rinse the dish before placing it in the dishwasher. This scene shows the person performing a routine task of washing dishes, which is a common activity in many households.",
+        "answer_id": "kbzSEV4bPioj7HbxG4iEUd",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P03_25__0",
+        "id": "P03_25_2",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_25.tar",
+        "image": "./frame_0000000622.jpg",
+        "action": "put glass on side",
+        "description": "In the image, you see a kitchen sink filled with dishes, a frying pan, and a glass. The human is holding a spoon and pouring water from the glass into the frying pan. The dishes are placed on the counter, and the frying pan is positioned on the stove. The human is performing the action of washing the dishes by pouring water into the frying pan, which is likely to be used for cleaning the dishes.",
+        "answer_id": "FKFRideoT34wtuAo9cavet",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P03_25__0",
+        "id": "P03_25_3",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_25.tar",
+        "image": "./frame_0000000814.jpg",
+        "action": "open fridge",
+        "description": "In the image, we see a refrigerator with a door open, and a person is reaching inside to grab a bottle of juice. The person is positioned in front of the refrigerator, and the bottle of juice is placed on the shelf inside the refrigerator. The person is likely trying to retrieve the juice from the shelf, and the open door of the refrigerator allows them to access the contents inside. This scene could be part of a daily routine, such as a person preparing a drink or restocking their refrigerator with food or beverages.",
+        "answer_id": "7uZfUtmWu5jjhJ7D6MJ3E5",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P03_25__0",
+        "id": "P03_25_4",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_25.tar",
+        "image": "./frame_0000000819.jpg",
+        "action": "take squash",
+        "description": "In the image, a human is holding a microwave oven door open while standing in front of a refrigerator. The microwave oven is positioned on the countertop, and the human is holding the door open with one hand while using the other hand to pull out a dish from the refrigerator. The dish is likely a plate or a container, and the human is likely about to place it in the microwave oven to heat it up. The scene suggests that the person is preparing a meal or snack using the microwave oven and the refrigerator.",
+        "answer_id": "SCXMbxzpb8m25iXKmmkDyp",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P03_25__0",
+        "id": "P03_25_5",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_25.tar",
+        "image": "./frame_0000000845.jpg",
+        "action": "close fridge",
+        "description": "In the image, there is a sink with a faucet and a dishwasher located next to it. A person is standing in front of the sink, holding a sponge and possibly cleaning dishes. The sink and dishwasher are positioned in a kitchen, and the person is performing the action of cleaning dishes using the sponge and the sink.",
+        "answer_id": "gBhtYJQVEhnjn3LPGyGsrv",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P03_25__0",
+        "id": "P03_25_6",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_25.tar",
+        "image": "./frame_0000000965.jpg",
+        "action": "pour squash",
+        "description": "In the image, you see a kitchen counter with a frying pan, a glass of water, and a bottle of wine. The human is holding a glass of water and pouring it into the frying pan, which is likely used for cooking. The objects are positioned on the counter, with the frying pan being placed on the stove, and the glass of water and the bottle of wine being placed on the counter next to the stove. The human is performing the action of pouring water into the frying pan, which is a common practice in cooking to prevent food from sticking to the pan and to help clean it.",
+        "answer_id": "GoNnGa9hbejwQaTv7q2q7p",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P03_25__0",
+        "id": "P03_25_7",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_25.tar",
+        "image": "./frame_0000001075.jpg",
+        "action": "close squash",
+        "description": "In the image, there is a person standing in a kitchen, holding a bottle of liquid and a spoon. The person is pouring the liquid into a bowl, which is placed on a countertop. The bottle is positioned on the countertop next to the bowl, and the spoon is being used to pour the liquid into the bowl. The person is performing the action of pouring the liquid into the bowl, which is likely a part of a cooking or cleaning process. The image captures a moment in time, showcasing the person's hands and the objects involved in the action.",
+        "answer_id": "gApQGTBwUxuCDXayxxmakE",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P03_25__0",
+        "id": "P03_25_8",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_25.tar",
+        "image": "./frame_0000001164.jpg",
+        "action": "put squash in fridge",
+        "description": "In the image, a person is holding a bottle of lemonade and standing in front of a refrigerator. The refrigerator is open, and there are several bottles of lemonade inside. The person is about to take a lemonade bottle from the refrigerator. The bottle is positioned on the top shelf of the refrigerator, and the person is reaching up to grab it. This scene suggests that the person is preparing to consume the lemonade or is about to store it back in the refrigerator.",
+        "answer_id": "WyJLuHsNFQYfb6U9uuV4L8",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P03_25__0",
+        "id": "P03_25_9",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_25.tar",
+        "image": "./frame_0000001255.jpg",
+        "action": "take grapes",
+        "description": "In the image, a person is holding a plate of cake and placing it into a refrigerator. The plate is positioned on a counter, and the person is standing in front of the refrigerator. The action being performed is the person placing the cake into the refrigerator, which suggests that they might be storing it for later or keeping it fresh. The image provides a glimpse into the person's daily routine, as they are preparing food for consumption or storage.",
+        "answer_id": "B7QekCUERASGEu8bwhqV7Y",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P03_25__0",
+        "id": "P03_25_10",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_25.tar",
+        "image": "./frame_0000001347.jpg",
+        "action": "close fridge",
+        "description": "In the image, a human is seen standing in front of a fire, with a tree in the background. The human is holding a firearm, and the firearm is being aimed at the fire. The tree is positioned behind the human, and the fire is burning in the foreground. The human is performing the action of aiming the firearm at the fire, possibly to extinguish it or to ensure its safety. The image captures the moment of the human's action, creating a sense of tension and focus on the scene.",
+        "answer_id": "Xtid68C4iHKpwMUJ5qPKPu",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P03_25__0",
+        "id": "P03_25_11",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_25.tar",
+        "image": "./frame_0000001487.jpg",
+        "action": "pick up glass",
+        "description": "In the image, there is a person standing in front of a sink, with a frying pan and a bottle of oil on the counter. The person is holding a spatula and is about to pour the oil into the pan. The frying pan is positioned on the stove, and the bottle of oil is on the counter next to the sink. The person is preparing to cook food in the pan, possibly using the oil to fry or saut\u00e9 ingredients. The scene suggests that the person is in the process of cooking, and the use of the spatula indicates that they are actively involved in the cooking process.",
+        "answer_id": "iXsf7eH6VP8WjFvFgEB4es",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P03_25__0",
+        "id": "P03_25_12",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_25.tar",
+        "image": "./frame_0000001612.jpg",
+        "action": "turn on tap",
+        "description": "In the image, there is a sink with a person washing their hands. The sink is positioned in a kitchen, with a stove, a dishwasher, and a refrigerator nearby. The person is holding a bottle of wine and pouring it into a glass, possibly to enjoy a drink. The image captures a moment of the person taking a break from their daily chores, such as cleaning dishes or preparing food, to relax and enjoy a glass of wine. The presence of the sink, stove, and other kitchen appliances in the background suggests that the person might be in the process of cooking or cleaning up after a meal.",
+        "answer_id": "NKFM4FzJmJKFU99H7D6Jb3",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P03_25__0",
+        "id": "P03_25_13",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_25.tar",
+        "image": "./frame_0000001731.jpg",
+        "action": "fill up glass",
+        "description": "In the image, you see a kitchen sink with a person washing their hands. The person is standing in front of the sink, holding a bottle of hand sanitizer. They are pouring the sanitizer into their hands, which are submerged in the sink water. The objects in the image include the sink, the bottle of hand sanitizer, and the person's hands. The person is positioned in front of the sink, with their hands in the water and the bottle of sanitizer nearby. The action being performed is the person washing their hands with soap and water, and then applying hand sanitizer to further disinfect their hands.",
+        "answer_id": "2eywrZTDPG2YHJAhcfNnSr",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P03_25__0",
+        "id": "P03_25_14",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_25.tar",
+        "image": "./frame_0000001859.jpg",
+        "action": "turn off tap",
+        "description": "In the image, there is a sink with a faucet, a sponge, and a bottle of dish soap. The human is holding a bottle of dish soap and pouring it into the sink. The sink is positioned on a countertop, and the human is standing next to it. The bottle of dish soap is being poured into the sink, and the sponge is also present in the sink. This scene suggests that the person is preparing to wash dishes or clean the sink.",
+        "answer_id": "2r5DRbfzJ7jFwHW9s7EveT",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P03_25__0",
+        "id": "P03_25_15",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_25.tar",
+        "image": "./frame_0000002119.jpg",
+        "action": "pick up glass",
+        "description": "In the image, there is a person holding a glass of water and standing next to a stove. The stove has a pot on it, and the person is pouring water from the glass into the pot. The person is positioned on a wooden floor, and the stove is placed on a wooden countertop. The scene suggests that the person is preparing a meal or cooking something in the pot on the stove. The act of pouring water into the pot indicates that the person is likely adding liquid to the dish or cooking process.",
+        "answer_id": "Q2xutukN5Ugy9tb5v5wnPL",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    }
+]

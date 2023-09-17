@@ -1,0 +1,112 @@
+[
+    {
+        "ep_id": "P04_27__0",
+        "id": "P04_27_0",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P04/rgb_frames/P04_27.tar",
+        "image": "./frame_0000000263.jpg",
+        "action": "remove pith from chilli",
+        "description": "In the image, there is a woman standing in front of a kitchen counter, with a knife and a cutting board on it. She is holding a tomato and cutting it with the knife, possibly preparing to cook or prepare a meal. The woman is positioned near the cutting board, which is placed on the counter. The kitchen counter is filled with various kitchen items, such as a pot, a spoon, and a bottle of oil. The scene suggests that the woman is actively engaged in cooking or preparing a meal.",
+        "answer_id": "VVqVF47i8LCMGEurtPGmL3",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P04_27__0",
+        "id": "P04_27_1",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P04/rgb_frames/P04_27.tar",
+        "image": "./frame_0000000628.jpg",
+        "action": "slice chilli",
+        "description": "In the image, we see a person holding a knife and cutting a vegetable on a cutting board. The cutting board is placed on a countertop, and there are various kitchen utensils and ingredients nearby. The person is cutting the vegetable with a knife, possibly preparing it for cooking or consumption. The scene shows a well-organized kitchen with a variety of kitchen tools and ingredients, indicating that the person is likely cooking or preparing a meal.",
+        "answer_id": "FV5bYvy5SGe5LYtWRVHUof",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P04_27__0",
+        "id": "P04_27_2",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P04/rgb_frames/P04_27.tar",
+        "image": "./frame_0000000761.jpg",
+        "action": "put chilli in pan",
+        "description": "In the image, a woman is standing in front of a stove, holding a spatula and stirring a pot of food. The pot is filled with a mixture of vegetables, and the woman is using the spatula to stir the contents. The woman is positioned near the stove, and the pot is placed on the stove. The woman is performing the action of stirring the food, which suggests that she is preparing it for consumption. The presence of a knife and a cutting board nearby indicates that she may be chopping or cutting the vegetables before adding them to the pot.",
+        "answer_id": "RgumWCxQNFjV5eYDwbQABP",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P04_27__0",
+        "id": "P04_27_3",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P04/rgb_frames/P04_27.tar",
+        "image": "./frame_0000001006.jpg",
+        "action": "remove pith",
+        "description": "In the image, a person is standing in front of a kitchen counter, surrounded by various objects such as a knife, a cutting board, and a bowl. The person is holding a knife and is about to cut a red pepper on the cutting board. The cutting board is placed on the counter, and the bowl is nearby. The person is wearing a white shirt and appears to be preparing a meal. The scene suggests that the person is engaged in the process of chopping vegetables, possibly for a salad or a dish that requires the use of fresh ingredients.",
+        "answer_id": "bWsTe3TobmPTQGtL26XZ3J",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P04_27__0",
+        "id": "P04_27_4",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P04/rgb_frames/P04_27.tar",
+        "image": "./frame_0000001314.jpg",
+        "action": "slice chilli",
+        "description": "In the image, you see a person holding a knife and cutting vegetables on a cutting board. The cutting board is placed on a kitchen counter, and the person is standing next to the counter. The person is cutting the vegetables, which are arranged on the cutting board. The scene is focused on the person's hands and the knife, highlighting the act of cutting and preparing the vegetables for consumption.",
+        "answer_id": "KnQJ3T8Pjny7BHfyVBdpdE",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P04_27__0",
+        "id": "P04_27_5",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P04/rgb_frames/P04_27.tar",
+        "image": "./frame_0000001597.jpg",
+        "action": "put chilli in pan",
+        "description": "In the image, there is a person holding a knife and chopping a red pepper on a cutting board. The cutting board is placed on a countertop, and the person is standing next to a stove. The red pepper is likely being prepared for cooking or a meal. The person is chopping the pepper with the knife, which is positioned on the cutting board. The scene suggests that the person is in the process of preparing food and is using the knife to chop the pepper into smaller pieces.",
+        "answer_id": "nK7aehGw8QjgXaf24pVF5n",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P04_27__0",
+        "id": "P04_27_6",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P04/rgb_frames/P04_27.tar",
+        "image": "./frame_0000002145.jpg",
+        "action": "chop end of chilli",
+        "description": "In the image, a young woman is standing in front of a kitchen counter, holding a knife and cutting a piece of meat. The counter is filled with various objects, including a cutting board, a knife, a pan, and a spoon. The woman is positioned in front of the counter, and she is cutting the meat with the knife. The image captures a moment of her performing the action of cutting the meat, which is likely part of a cooking or preparation process.",
+        "answer_id": "U3SAu2wfwCfbZtSutq49rN",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P04_27__0",
+        "id": "P04_27_7",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P04/rgb_frames/P04_27.tar",
+        "image": "./frame_0000002592.jpg",
+        "action": "remove pith from chilli",
+        "description": "In the image, there is a woman holding a wooden cutting board with a knife and cutting a vegetable. The cutting board is positioned on a countertop, and the woman is standing next to a stove. The woman is preparing a meal by cutting the vegetable and possibly cooking it on the stove. The presence of a knife and cutting board indicates that she is about to prepare a dish, and the stove suggests that she is cooking the meal. The woman's action of cutting the vegetable with the knife shows that she is actively engaged in the process of preparing the meal.",
+        "answer_id": "VFADkoKo2rr7jxTSvoWfoi",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P04_27__0",
+        "id": "P04_27_8",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P04/rgb_frames/P04_27.tar",
+        "image": "./frame_0000003015.jpg",
+        "action": "remove pith from chilli",
+        "description": "In the image, a person is standing in front of a kitchen counter, holding a knife and cutting vegetables. The person is positioned next to a cutting board, which is placed on top of a stainless steel counter. The cutting board is filled with various vegetables, including carrots, onions, and green beans. The person is cutting the vegetables with the knife, likely preparing them for a meal or a recipe. The presence of the knife and cutting board indicates that the person is engaged in the process of food preparation, which is an essential part of cooking.",
+        "answer_id": "cJYWdMsuNPojiovkbfNnSP",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P04_27__0",
+        "id": "P04_27_9",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P04/rgb_frames/P04_27.tar",
+        "image": "./frame_0000004551.jpg",
+        "action": "slice chilli",
+        "description": "In the image, there is a person holding a knife and cutting a vegetable on a cutting board. The cutting board is placed on a countertop, and the person is standing in front of the counter. The vegetable is likely a carrot, and the person is using the knife to cut it into smaller pieces. The scene shows a kitchen setting, with various kitchen tools and utensils nearby, such as a bowl and a spoon. The person is performing the action of cutting the vegetable, which is a common task in cooking and preparing meals.",
+        "answer_id": "7593hu9GGrPT9WLem5G62U",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P04_27__0",
+        "id": "P04_27_10",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P04/rgb_frames/P04_27.tar",
+        "image": "./frame_0000005756.jpg",
+        "action": "put chilli in pan",
+        "description": "In the image, we see a kitchen with a stove, a frying pan, a cutting board, and a knife. The human is holding a knife and cutting a piece of meat. The meat is placed on the cutting board, and the frying pan is on the stove. The knife is being used to cut the meat, and the human is positioned near the cutting board and the stove. The scene suggests that the person is preparing to cook the meat in the frying pan.",
+        "answer_id": "LKZmizfDRJqkV9xpNdhcuu",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    }
+]

@@ -1,0 +1,342 @@
+[
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_0",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000000186.jpg",
+        "action": "open cupboards",
+        "description": "In the image, there is a sink, a dish rack, and several plates and bowls placed on the countertop. The human is washing dishes in the sink, using a sponge to clean the dirty dishes. The dishes are positioned on the countertop, and the sink is filled with water. The scene appears to be a kitchen setting, where the person is performing a daily chore of washing dishes after a meal.",
+        "answer_id": "ZNpwdJFBXNaKq44pgysq4y",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_1",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000000239.jpg",
+        "action": "pick up plate",
+        "description": "In the image, we see a man standing in a kitchen, holding a plate and a spoon. The plate is on a countertop, and the spoon is in his hand. The man is positioned near the sink, which is located in the kitchen. He is performing the action of washing the dishes, which involves placing the plate in the sink and using the spoon to clean it. The image captures a moment in the process of cleaning the dishes, and it provides a glimpse into the daily routine of maintaining a clean and organized kitchen.",
+        "answer_id": "CbGNMro2QiTDm8pKiVERJz",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_2",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000000402.jpg",
+        "action": "pick up knife",
+        "description": "In the image, there is a person sitting at a kitchen counter, surrounded by various objects such as a cup, a spoon, a fork, a plate, and a bowl. The person is holding a cup of coffee in one hand and a spoon in the other hand. They are also wearing a hat, which adds a unique element to the scene. The objects are positioned on the kitchen counter, with the cup and spoon placed on top of the plate. The person is likely preparing or consuming their breakfast, and the presence of the hat suggests that they might be enjoying a casual or relaxed moment.",
+        "answer_id": "hGtTmjXdyQudt6xTp6bLRc",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_3",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000000524.jpg",
+        "action": "put down plate",
+        "description": "In the image, there is a person holding a knife and a plate, with a pile of food on the plate. The person is standing in front of a stove, possibly preparing to cook the food. The knife is being used to cut the food, and the person is holding the plate with the cut food in their hand. The image captures a moment in the process of cooking, where the person is about to place the cut food on the plate. The scene is focused on the person's hands and the food, emphasizing the act of preparing and cooking the meal.",
+        "answer_id": "2eNb3bSXwGFiLZ9jgLH7Mx",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_4",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000000550.jpg",
+        "action": "put down knife",
+        "description": "In the image, there are two plates on a countertop, with a knife and a fork placed on top of each plate. A human hand is holding a knife and a fork, and they are about to cut and eat food. The plates are positioned next to each other, and the human is preparing to cut the food on the plate using the knife. This scene suggests that the person is preparing to eat a meal, and the image captures the moment before the food is cut and served.",
+        "answer_id": "AARcnJv79cux2WtPEaZU88",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_5",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000000570.jpg",
+        "action": "open fridge",
+        "description": "In the image, there are two white plates on a countertop, with a knife and a cutting board placed on top of them. A person is standing next to the countertop, holding a spoon and a fork, and is about to pick up a piece of food from the plate. The person is positioned in front of the countertop, with the plates and utensils placed in front of them. The action being performed is the person picking up food from the plate using the fork and spoon.",
+        "answer_id": "gdTvhq6KdgXjpxggnRvS7j",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_6",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000000748.jpg",
+        "action": "open drawer",
+        "description": "In the image, a man is sitting on a couch with his legs up, and there is a refrigerator in the background. The man is holding a spoon and is about to eat a bowl of food. The bowl of food is on the couch next to him, and he is positioned in a relaxed manner. The man is likely preparing to eat his meal, and the refrigerator is nearby, providing access to the food he is about to consume.",
+        "answer_id": "CJJKHMi6ZdpQ7Rco3YNqri",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_7",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000000914.jpg",
+        "action": "pick up bread",
+        "description": "In the image, there is a person sitting on a chair, holding a knife and a plate. The plate is filled with food, and the person is about to cut the food with the knife. The knife is positioned on the plate, and the person is holding it with one hand while using the other hand to cut the food. The scene is set in a kitchen, and the person is likely preparing a meal.",
+        "answer_id": "EEMFbceYgcX5SFniw5xQ8k",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_8",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000001078.jpg",
+        "action": "open bread",
+        "description": "In the image, there is a man holding a spatula and a knife, standing in front of a stove. The man is preparing food, possibly cooking a meal, and is using the spatula to stir the contents of a pot. The knife is being held in his hand, ready to be used for cutting or chopping ingredients. The objects are positioned on the stove, with the pot containing the food being stirred by the spatula. The man is performing the action of cooking, which involves preparing and preparing food for consumption.",
+        "answer_id": "efVp8enNVT35w4ZPNaydUj",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_9",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000001187.jpg",
+        "action": "take out bread",
+        "description": "In the image, a human is holding a piece of bread and using a knife to cut it. The bread is placed on a cutting board, and the human is positioned in front of a sink. The cutting board is positioned on a countertop, and the sink is located nearby. The human is cutting the bread with the knife, which is held in their hand. The scene suggests that the person might be preparing to eat the bread or is in the process of doing so.",
+        "answer_id": "LNBE2pdtRA8w5D4dNDNVz5",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_10",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000001343.jpg",
+        "action": "close bread",
+        "description": "In the image, there are two bowls on a countertop, one of which contains a mixture of chopped vegetables, and the other contains a piece of bread. A person is holding a knife and is about to cut the bread. The person is positioned in front of the bowls, with the chopped vegetables and bread arranged on the countertop. The person is preparing to cut the bread with the knife, which is likely to be used for making a sandwich or for other purposes.",
+        "answer_id": "MRwoRCYMmaj5B4FECeSf2r",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_11",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000001482.jpg",
+        "action": "open fridge",
+        "description": "In the image, a man is standing in front of a kitchen counter with a plate of food on it. He is holding a knife and a fork, and he is about to cut the food. The plate is positioned on the counter, and the man is standing in front of the counter, ready to cut the food with the knife and eat it with the fork.",
+        "answer_id": "4KUnzeiecjaVERPjHELYXy",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_12",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000001627.jpg",
+        "action": "put away bread",
+        "description": "In the image, a man is standing in front of a refrigerator, holding a bottle of ketchup and pointing towards the open freezer door. The refrigerator has a shelf with a container of food on it, and the man is likely trying to place the ketchup inside the freezer. The man is positioned in front of the refrigerator, and the bottle of ketchup is held in his hand. The action being performed by the man is placing the ketchup in the freezer, which is located inside the refrigerator.",
+        "answer_id": "Cti24UfQF7oMmGUMsbfEbj",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_13",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000001825.jpg",
+        "action": "close fridge",
+        "description": "In the image, there are two plates on a counter, with a sandwich on one of them. A person is holding a knife and cutting the sandwich. The person is standing on a stool, which is positioned on top of the counter. The plates and the sandwich are placed on the counter, and the person is using the knife to cut the sandwich into smaller pieces. This scene shows the person preparing a meal by cutting the sandwich into smaller portions.",
+        "answer_id": "jSjUUZfeduxY8ykCobmV7k",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_14",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000001849.jpg",
+        "action": "pick up knife",
+        "description": "In the image, there is a man sitting on a kitchen counter, and he is holding a plate with a sandwich on it. The sandwich is placed on a white plate, and the man is cutting it with a knife. The man is wearing a white shirt and black shorts, and he is positioned in front of a kitchen sink. The scene appears to be in a kitchen, and the man is preparing to eat the sandwich.",
+        "answer_id": "AQ8uPG6fTC3yZWdgC4PQKf",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_15",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000001942.jpg",
+        "action": "open bread",
+        "description": "In the image, a person is holding a slice of bread and a knife, while standing in front of a plate. The bread slice is placed on the plate, and the person is about to cut it with the knife. The person is positioned next to a bowl of soup, which is likely to be the food being served along with the bread. The image shows a simple and casual meal setting, where the person is preparing to eat the bread and soup together.",
+        "answer_id": "f2pxMfd7srYxkPPxdiGxQR",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_16",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000002065.jpg",
+        "action": "put down knife",
+        "description": "In the image, a person is holding a knife and cutting a piece of bread. The bread is placed on a plate, and the person is standing in front of a counter or table. The person is cutting the bread with the knife, which is positioned on the plate. The image captures the moment when the person is about to take a bite of the bread. The scene is simple and focuses on the human interaction with the bread and the knife, highlighting the act of preparing and consuming food.",
+        "answer_id": "XbcSMZWAMbNSwSnAswQA8F",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_17",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000002203.jpg",
+        "action": "open hummus",
+        "description": "In the image, there is a man standing in front of a counter with a plate, a spoon, and a jar of peanut butter. He is holding the spoon and peanut butter jar, and he is about to scoop some peanut butter onto the plate. The man is positioned in front of the counter, which is likely a kitchen counter or a dining table. The objects are arranged in a way that the man can easily access the peanut butter and spoon to perform the action of scooping the peanut butter onto the plate. The man is engaged in the act of preparing a snack or meal, which involves using the spoon and peanut butter jar to scoop and spread the peanut butter onto the plate.",
+        "answer_id": "KdRdCN4LJQMANXVQuaGm2b",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_18",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000002416.jpg",
+        "action": "remove wrapper",
+        "description": "In the image, there is a man standing on a kitchen counter, holding a glass of milk. He is positioned next to a plate with a sandwich on it. The man is about to pour the milk into the glass, and there are utensils, such as a knife and a fork, on the table. The scene suggests that the man is preparing to eat his lunch or snack, and the glass of milk is likely a part of his meal.",
+        "answer_id": "8ANJSHRidQpSg7cb9pMYdX",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_19",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000002559.jpg",
+        "action": "throw away wrapper",
+        "description": "In the image, there is a man standing on a counter, holding a piece of bread and a knife. The bread is on a plate, and the man is about to cut it. The man is wearing a green shirt and blue jeans, and the scene is taking place in a kitchen. The man is positioned on the counter, which is a raised surface, allowing him to reach the bread and knife more easily. The man is performing the action of cutting the bread, which is likely part of a meal preparation process.",
+        "answer_id": "gMScD2P5ejRUqi6ASoBCHR",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_20",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000002627.jpg",
+        "action": "pick up wrapper",
+        "description": "In the image, a man is standing on a kitchen counter, with his feet on the countertop and his hands holding onto the edge of the counter. He is wearing socks and appears to be preparing to clean the kitchen floor. The man is positioned in the middle of the kitchen, surrounded by various objects such as a dishwasher, a refrigerator, and a stove. The dishwasher is located on the left side of the kitchen, while the stove is on the right side. The man's feet are on the countertop, which is a common surface for cleaning floors in kitchens. He is likely using a cleaning tool or a mop to clean the floor, as his hands are holding onto the edge of the counter. The image captures a moment of the man's daily routine, as he is performing a necessary task to maintain the cleanliness of his kitchen.",
+        "answer_id": "hdiBq6ddghNvYxKvaZvMU6",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_21",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000002692.jpg",
+        "action": "throw away wrapper",
+        "description": "In the image, there is a person holding a sponge and a dish towel, and they are positioned near a sink. The person is likely preparing to clean the sink, as they are holding the sponge and dish towel. The sponge is placed on the sink, and the dish towel is being held in the person's hand. This scene suggests that the person is about to clean the sink using the sponge and dish towel.",
+        "answer_id": "FMLmU6vx8bVow4hsVuKCKs",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_22",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000002766.jpg",
+        "action": "pick up knife",
+        "description": "In the image, a man is holding a piece of toast and a knife, while standing in front of a counter with a plate. He is about to cut the toast with the knife. The man is positioned with the toast in his left hand and the knife in his right hand, ready to cut the toast. The plate is placed on the counter, and the man is standing in front of it. This scene suggests that the man is preparing to eat the toast or is in the process of doing so.",
+        "answer_id": "Uj6zwUdAdycvaJQv3M7SRx",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_23",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000002908.jpg",
+        "action": "open hummus",
+        "description": "In the image, we see a man holding a jar of peanut butter and a spoon while standing in front of a counter. He is preparing to spread the peanut butter on a plate, which is already set on the counter. The man is positioned next to a bowl, which is also on the counter. The scene shows the man in the process of preparing a meal or snack, likely using the peanut butter as a spread or as an ingredient in a recipe.",
+        "answer_id": "2hRcgxk3UHtvUiqsmqkgNU",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_24",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000003317.jpg",
+        "action": "apply hummus",
+        "description": "In the image, there is a man sitting at a table, holding a piece of bread and a knife. He is about to cut the bread with the knife. The bread is placed on a plate, and there is a fork and a glass of water on the table as well. The man is positioned with his hands holding the bread and knife, preparing to cut the bread.",
+        "answer_id": "RVDMWHwAabiVyzLyTtLAqq",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_25",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000003409.jpg",
+        "action": "apply hummus",
+        "description": "In the image, a person is holding a piece of bread and using a knife to spread butter on it. The bread is placed on a plate, and the person is standing in front of a stove, possibly preparing to cook the bread. The person is holding the knife in their hand and is about to cut the bread. The image shows a close-up view of the person's hand and the knife, indicating that they are performing the action of cutting the bread.",
+        "answer_id": "HmidsedRHkMLArjHmqn62p",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_26",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000003550.jpg",
+        "action": "apply hummus",
+        "description": "In the image, a person is holding a knife and cutting a piece of bread in a bowl. The person is standing in front of a kitchen counter, and there are other objects, such as a plate, a spoon, and a cup, present on the counter. The person is cutting the bread with the knife, and the image captures a moment in time where the person is about to take a bite of the bread. The scene shows a simple and everyday activity, as the person is preparing and consuming a meal.",
+        "answer_id": "PM5ZgHppgcPgieftgRTXN9",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_27",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000003736.jpg",
+        "action": "wipe off knife",
+        "description": "In the image, we see a man holding a piece of bread and a knife while standing in front of a table. The bread is placed on a plate, and the knife is being used to cut the bread. The man is positioned with the bread in one hand and the knife in the other, ready to cut the bread. This scene suggests that the man is preparing to eat the bread or is in the process of doing so. The image captures the moment when the man is about to cut the bread, which is an essential step in the process of consuming it.",
+        "answer_id": "oCHGAQYa4edvE7Vb54wkEB",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_28",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000004027.jpg",
+        "action": "apply more hummus",
+        "description": "In the image, there is a man sitting at a table with a plate of toast and a knife. He is holding the knife and is about to cut the toast. The plate is positioned on the table, and the man is sitting next to it. The knife is being held in his hand, and he is preparing to cut the toast with it. This scene suggests that the man is about to eat his breakfast or is in the process of preparing it.",
+        "answer_id": "Y4LC9qt3tdiRNyZA49iE4P",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_29",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000004105.jpg",
+        "action": "wipe off knife",
+        "description": "In the image, a man is sitting at a table with a plate of toast and a glass of milk. He is holding a knife and a fork, and he is about to cut his toast. The man is positioned in front of a bowl of milk, which is placed on the table next to the plate of toast. The man is preparing to cut his toast and eat it with the milk. This scene suggests that the man is about to enjoy a simple breakfast or snack, and the presence of the milk and toast indicates that he is looking to consume a dairy-based meal.",
+        "answer_id": "VSDVV5zdjH4ddzNs4fD6NB",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_30",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000004293.jpg",
+        "action": "close hummus",
+        "description": "In the image, there is a man standing on a kitchen counter, holding a knife and a plate of food. He is cutting the food with the knife, and the plate is positioned on the counter. The man is wearing a white shirt, which suggests that he might be preparing a meal or snack. The presence of the knife and the plate of food indicates that he is engaged in the process of preparing or cutting the food. The image captures a moment of focus and attention from the man as he works on the food.",
+        "answer_id": "DUDn4psbMYaJZ42P9r3bAf",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_31",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000004327.jpg",
+        "action": "wipe off knife",
+        "description": "In the image, there is a man sitting at a counter with a plate of food in front of him. He is holding a knife and a fork, and he is about to cut his food. The man is positioned next to a plate of sandwiches, and there is a fork and knife on the plate. The man is preparing to cut his sandwich with the knife and fork.",
+        "answer_id": "YeJMygukd4hiFVLm4dKtjQ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_32",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000004600.jpg",
+        "action": "put away hummus",
+        "description": "In the image, there is a man standing in front of a kitchen counter, with a plate and a can of soda on it. He is holding a knife and is about to cut the can open. The man is positioned near the kitchen sink, and the plate is placed on top of the counter. The action being performed by the man is cutting open the can of soda with the knife.",
+        "answer_id": "Rb5L2346gdQkApmU4cVoW8",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_19__0",
+        "id": "P11_19_33",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_19.tar",
+        "image": "./frame_0000004940.jpg",
+        "action": "close bread",
+        "description": "In the image, a man is holding a piece of bread and a knife, and he is positioned in front of a counter with a plate on it. The man is about to cut the bread with the knife. The bread is placed on the plate, and the knife is held in his hand. The scene suggests that the man is preparing to eat the bread or is in the process of slicing it. The objects are positioned in a way that allows the man to easily access the bread and knife, making it convenient for him to perform the action.",
+        "answer_id": "JYXcTSGNHMTtRejxeQvxwz",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    }
+]

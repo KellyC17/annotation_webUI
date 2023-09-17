@@ -1,0 +1,272 @@
+[
+    {
+        "ep_id": "P18_02__0",
+        "id": "P18_02_0",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_02.tar",
+        "image": "./frame_0000000273.jpg",
+        "action": "stop toaster",
+        "description": "In the image, you see a woman standing in front of a kitchen counter with a coffee maker, a toaster, and a microwave. The coffee maker is on the counter, and the woman is holding a plate of food. She is about to put the plate on the counter next to the coffee maker. The woman is positioned in front of the kitchen counter, with the coffee maker, toaster, and microwave arranged around her. The woman is preparing to place her plate of food on the counter, likely to eat or prepare her meal.",
+        "answer_id": "TY5erq3xPNcTAbAWtZmR3v",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_02__0",
+        "id": "P18_02_1",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_02.tar",
+        "image": "./frame_0000000380.jpg",
+        "action": "take off coffee",
+        "description": "In the image, we see a woman standing in front of a kitchen counter, holding a coffee mug and a spoon. She is about to pour coffee into the mug from a coffee maker, which is positioned on the counter. The coffee maker is a black and white appliance with a handle on top. The woman is holding the mug with one hand and the spoon with the other, ready to pour the coffee into the mug. The objects are placed on the counter in a neat and organized manner, with the coffee maker and the mug being the primary focus of the image. The woman is performing the action of pouring coffee into the mug, which is a common daily task for many people.",
+        "answer_id": "AkoSgYSipfQUiuUbkawUT8",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_02__0",
+        "id": "P18_02_2",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_02.tar",
+        "image": "./frame_0000000811.jpg",
+        "action": "pour coffee in mug",
+        "description": "In the image, you see a person holding a spoon and a fork, positioned on a plate. The person is about to eat a meal, possibly from a bowl or a plate, and is using the utensils to pick up food. The image is taken from a close-up perspective, which emphasizes the focus on the person's hands and the utensils. The person is preparing to eat a meal, and the utensils are ready to be used for the task.",
+        "answer_id": "8eMxuun4MRgxuV7ZyJsCmH",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_02__0",
+        "id": "P18_02_3",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_02.tar",
+        "image": "./frame_0000000974.jpg",
+        "action": "place coffee pot in sink",
+        "description": "In the image, there is a sink with a faucet, a dishwasher, and a person washing dishes. The sink is positioned in a kitchen, and the person is using the dishwasher to clean the dishes. The person is holding a sponge and a dishcloth, and they are likely rinsing the dishes before putting them in the dishwasher. The presence of the dishwasher indicates that the person is using a machine to clean the dishes, which can save time and effort compared to hand-washing them. The image shows a practical and efficient way of cleaning dishes in a kitchen setting.",
+        "answer_id": "9ZVkF7koKDFGzLnffLVgRB",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_02__0",
+        "id": "P18_02_4",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_02.tar",
+        "image": "./frame_0000001210.jpg",
+        "action": "take out slices or switch around the slices of bread",
+        "description": "In the image, a woman is standing in front of a kitchen counter, with a microwave oven, a stove, and a sink present. She is holding a sponge and is cleaning the microwave oven with it. The woman is positioned in front of the microwave oven, using the sponge to wipe down the interior of the appliance. The microwave oven is located on the counter, and the woman is standing in front of it, cleaning it with the sponge. The stove and sink are also present in the kitchen, but they are not the main focus of the image. The woman's action of cleaning the microwave oven with the sponge indicates that she is taking care of her kitchen appliances and ensuring they remain clean and well-maintained.",
+        "answer_id": "GkoWT7iPvDx8B5DC5km4mR",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_02__0",
+        "id": "P18_02_5",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_02.tar",
+        "image": "./frame_0000001268.jpg",
+        "action": "put back in toaster",
+        "description": "In the image, a woman is standing in front of a kitchen counter, holding a wooden spoon and a jar of peanut butter. She is using the spoon to scoop out some peanut butter from the jar and is about to put it on a plate. The jar is placed on the counter, and the woman is positioned near the stove, which is likely used for cooking. The scene suggests that the woman is preparing a meal or snack, possibly using the peanut butter as a spread or ingredient.",
+        "answer_id": "GrHq5xFHQczUqKpnMtVtN8",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_02__0",
+        "id": "P18_02_6",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_02.tar",
+        "image": "./frame_0000001749.jpg",
+        "action": "take sponge",
+        "description": "In the image, a woman is standing in a kitchen, with a sink, a stove, and a refrigerator visible. She is holding a dishcloth and cleaning the sink, which suggests that she is performing a cleaning task. The sink is positioned near the stove, and the refrigerator is located behind the woman. The objects are arranged in a way that allows the woman to easily access and clean the sink, as well as the surrounding area. The woman's action of cleaning the sink indicates that she is taking care of her kitchen and ensuring it remains clean and hygienic.",
+        "answer_id": "WdPhTkuX8D8hHPWb5A2Teb",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_02__0",
+        "id": "P18_02_7",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_02.tar",
+        "image": "./frame_0000001947.jpg",
+        "action": "put dish soap on sponge",
+        "description": "In the image, a woman is standing in front of a sink, holding a bottle of liquid. She is pouring the liquid into the sink, possibly cleaning the sink or washing dishes. The sink is positioned on the counter, and the woman is standing near the sink, holding the bottle with both hands. The image captures a moment of her performing the action of pouring the liquid into the sink, which is likely a part of her daily routine or chore.",
+        "answer_id": "4NgMdWqxMjhhCaS3Q5NAbp",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_02__0",
+        "id": "P18_02_8",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_02.tar",
+        "image": "./frame_0000002570.jpg",
+        "action": "wash spoon",
+        "description": "In the image, we see a sink with a faucet, a dish towel, and a person's hands. The person is holding a dish towel and using it to clean the sink, specifically the faucet. The sink is positioned in a kitchen, and the person is using the dish towel to remove any dirt or debris from the faucet. This action is likely part of the person's daily routine, ensuring the sink remains clean and hygienic for their use.",
+        "answer_id": "BGAGqwjRquZm5zVxKJUn6o",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_02__0",
+        "id": "P18_02_9",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_02.tar",
+        "image": "./frame_0000003058.jpg",
+        "action": "wash plate",
+        "description": "In the image, there is a sink with a faucet, a dish towel, and a person washing their hands. The person is standing in front of the sink, holding a dish towel, and using it to clean their hands. The sink is positioned in a kitchen, with the faucet located on the wall. The person is performing the action of washing their hands, which is a common practice in maintaining personal hygiene and preventing the spread of germs.",
+        "answer_id": "YRjNtrGpHLun5KYvRWg6C4",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_02__0",
+        "id": "P18_02_11",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_02.tar",
+        "image": "./frame_0000003709.jpg",
+        "action": "take coffee pot",
+        "description": "In the image, there is a sink with a faucet, a dish rack, and a person washing dishes. The sink is positioned in a kitchen, and the person is using a sponge to clean dishes. The dish rack is placed next to the sink, and the person is holding a dish in their hand while washing it. The scene shows the person performing the task of washing dishes in the sink, with the dish rack nearby to hold clean dishes.",
+        "answer_id": "BVGbctApjDTy28GxwejK2F",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_02__0",
+        "id": "P18_02_10",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_02.tar",
+        "image": "./frame_0000003713.jpg",
+        "action": "take off the lid",
+        "description": "In the image, a woman is standing next to a sink, which is filled with water. She is holding a sponge and cleaning the sink with soap and water. The sink is positioned on the countertop, and there are other objects, such as a towel and a dish, nearby. The woman is performing the action of cleaning the sink, using the sponge and soap to remove any dirt or grime.",
+        "answer_id": "XjTzCTqLU8dZNfoCYpFQsN",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_02__0",
+        "id": "P18_02_12",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_02.tar",
+        "image": "./frame_0000003751.jpg",
+        "action": "wash lid",
+        "description": "In the image, there is a sink with a faucet, a dish rack, and a person washing dishes. The person is holding a sponge and a dishcloth, and they are positioned near the sink. The dish rack is placed above the sink, and the dishes are being washed in the sink. The person is using the sponge and dishcloth to clean the dishes, and the dish rack is being used to dry them. The sink is filled with water, and the person is standing next to the sink, possibly rinsing the dishes or preparing to put them in the dish rack. This scene shows a person performing a common household task, such as washing and drying dishes, in a kitchen setting.",
+        "answer_id": "QobBeb33QxTHrRo9facLiK",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_02__0",
+        "id": "P18_02_13",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_02.tar",
+        "image": "./frame_0000005049.jpg",
+        "action": "wash coffee pot",
+        "description": "In the image, a woman is standing in front of a sink, with a faucet, a sink basin, and a dish rack nearby. She is holding a dish towel and appears to be washing dishes. The sink basin is filled with water, and the woman is using the dish towel to clean the dishes. The objects are positioned in a typical kitchen setting, with the sink basin and faucet being the primary focus of the image. The woman is performing the action of washing dishes, which is a common task in a kitchen.",
+        "answer_id": "fJbkXZey9RwJ5AgddggWk3",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_02__0",
+        "id": "P18_02_14",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_02.tar",
+        "image": "./frame_0000006776.jpg",
+        "action": "still washing coffee pot",
+        "description": "In the image, a woman is standing in front of a sink, with a towel and a sponge in her hands. She is in the process of cleaning the sink, using the sponge to wipe down the surface. The sink is filled with water, and there are some dishes and a cup on the counter next to it. The woman is wearing a white shirt and a black skirt, and her hair is tied back. The scene appears to be a domestic setting, with the woman performing a routine cleaning task in her kitchen.",
+        "answer_id": "k5cFP2LECMv7UTve8qSPeG",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_02__0",
+        "id": "P18_02_15",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_02.tar",
+        "image": "./frame_0000007509.jpg",
+        "action": "put soap on hands",
+        "description": "In the image, we see a woman standing over a sink, holding a glass of water. She is pouring water from the glass into the sink, which is filled with dishes. The sink is positioned in a kitchen, and the woman is wearing a white apron. The scene appears to be a part of a daily routine, as the woman is likely washing dishes after a meal. The presence of the glass of water and the dishes in the sink suggests that the woman is preparing to clean the dishes, which is a common task in household chores.",
+        "answer_id": "CTzM8wygaVEeWKM6WpAHLW",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_02__0",
+        "id": "P18_02_16",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_02.tar",
+        "image": "./frame_0000007997.jpg",
+        "action": "wash hands",
+        "description": "In the image, you see a person washing their hands in a sink, which is located in a kitchen. The sink is filled with water, and there are dishes and a towel nearby. The person is standing in front of the sink, holding a towel, and using it to clean their hands. The sink is positioned in a corner of the kitchen, and the person is standing in a corner as well. The scene appears to be a part of a daily routine, as the person is taking care of their personal hygiene in the kitchen.",
+        "answer_id": "YxBAWaziBLT5EEo9RDEYAJ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_02__0",
+        "id": "P18_02_17",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_02.tar",
+        "image": "./frame_0000008168.jpg",
+        "action": "turn off the tap",
+        "description": "In the image, there is a sink with a person washing their hands. The sink is filled with water, and the person is using a sponge to clean their hands. The sink is positioned on a countertop, and the person is standing in front of the sink, using the sponge to clean their hands. The image captures a moment of the person performing the action of washing their hands, which is an essential part of personal hygiene and maintaining good health.",
+        "answer_id": "8ca22XFc9rtFffAWma9Kmu",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_02__0",
+        "id": "P18_02_18",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_02.tar",
+        "image": "./frame_0000008597.jpg",
+        "action": "dry hands on towel",
+        "description": "In the image, a woman is seen cleaning a kitchen countertop using a dishcloth. The countertop is covered with various kitchen items, including a frying pan, a spatula, and a dish towel. The woman is holding the dish towel and using it to wipe down the countertop, cleaning the area. The objects are positioned on the countertop, and the woman is performing the action of cleaning the countertop using the dishcloth.",
+        "answer_id": "D5oJDyVhDNzTmN5cDzFNU8",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_02__0",
+        "id": "P18_02_20",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_02.tar",
+        "image": "./frame_0000009186.jpg",
+        "action": "take slices out of toaster",
+        "description": "In the image, you see a woman standing in a kitchen, holding a toaster in her hand. She is positioned near a stove, and the toaster is being used to toast bread. The woman is likely preparing breakfast or snacks using the toaster and the stove. The image captures a moment in time where the woman is about to place the toasted bread on a plate or a dish, ready to be served or consumed.",
+        "answer_id": "V7teN8BTLjdrn224bp3EaE",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_02__0",
+        "id": "P18_02_21",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_02.tar",
+        "image": "./frame_0000009379.jpg",
+        "action": "unscrew peanut butter",
+        "description": "In the image, there is a person holding a spatula and a plate, with a bowl and a cup on the counter. The person is standing in front of a stove, with a microwave oven on the right side. The person is likely preparing or cooking food using the stove or microwave. The objects are positioned in a way that allows the person to easily access and use them while working in the kitchen. The action being performed by the human is likely the act of cooking or preparing a meal.",
+        "answer_id": "425tbjbneJbxcepbdDMo6q",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_02__0",
+        "id": "P18_02_22",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_02.tar",
+        "image": "./frame_0000009612.jpg",
+        "action": "put knife in peanut butter",
+        "description": "In the image, there is a person holding a plate of two slices of bread, which are likely to be toast or sandwiches. The person is standing in front of a kitchen counter, with a microwave and a coffee maker nearby. The person is holding the plate with one hand and using a spoon to scoop up a portion of the bread from the plate. This action suggests that the person might be preparing to eat the bread or is in the process of consuming it. The presence of the microwave and coffee maker in the background indicates that the kitchen is equipped with appliances for cooking and preparing food, which could be used to heat up the bread or make a beverage to accompany the meal.",
+        "answer_id": "ZutpBNaUyvetqbJnPwhUti",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_02__0",
+        "id": "P18_02_23",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_02.tar",
+        "image": "./frame_0000009783.jpg",
+        "action": "spread peanut butter onto toast",
+        "description": "In the image, a woman is holding a spoon and a jar of peanut butter, while standing in front of a stove. She is about to spread the peanut butter on a slice of bread, which is already on the counter. The jar is placed on the counter next to the bread, and the spoon is in her hand. The woman is preparing to spread the peanut butter on the bread, which is likely part of a meal or snack. The objects are positioned in a way that allows the woman to easily access the jar and spread the peanut butter on the bread.",
+        "answer_id": "DzUsi3ydxfzVo2fBuqeTxj",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_02__0",
+        "id": "P18_02_25",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_02.tar",
+        "image": "./frame_0000010911.jpg",
+        "action": "put the cap on the peanut butter",
+        "description": "In the image, a woman is standing in front of a kitchen counter, holding a green sponge and a bottle of dish soap. The sponge is being used to clean a dirty dish, with the woman using the bottle of dish soap to rinse the sponge. The objects are positioned on the countertop, with the bottle of dish soap placed on the edge of the counter and the sponge being held in the woman's hand. The woman is performing the action of rinsing the sponge with the dish soap, which is an essential step in cleaning dishes.",
+        "answer_id": "4LdStdh2p5amLJyzdANyCq",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_02__0",
+        "id": "P18_02_26",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_02.tar",
+        "image": "./frame_0000011092.jpg",
+        "action": "open cupboard",
+        "description": "In the image, there is a woman standing in front of a kitchen counter, holding a spatula and a plate. She is preparing a meal, possibly cooking eggs or pancakes, as she is holding a plate with food on it. The woman is positioned in front of a microwave oven, which is also visible in the image. The microwave oven is located on the kitchen counter, and the woman is using it to heat up her food. The woman is also holding a cup of coffee, which suggests that she might be enjoying a morning meal or snack. The scene is focused on the woman's hands and the objects she is using, which gives a sense of the activity she is engaged in.",
+        "answer_id": "fEWWL6WmnZSKeXWt2mGUFW",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_02__0",
+        "id": "P18_02_27",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_02.tar",
+        "image": "./frame_0000011191.jpg",
+        "action": "put peanut butter in cupboard",
+        "description": "In the image, a woman is standing in front of a kitchen counter, holding a jar of peanut butter and a spoon. She is positioned near a stove, and there are various kitchen utensils and dishes nearby. The woman is about to open the jar of peanut butter and scoop some out using the spoon. This action indicates that she might be preparing to make a meal or snack, possibly using the peanut butter as an ingredient.",
+        "answer_id": "HEEwvGKMRRt9m8tNptLgbK",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P18_02__0",
+        "id": "P18_02_28",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_02.tar",
+        "image": "./frame_0000011265.jpg",
+        "action": "close cupboard",
+        "description": "In the image, there is a person sitting at a kitchen counter, eating a sandwich. The person is holding a fork and has a plate with a sandwich in front of them. The sandwich is placed on a plate, and the person is eating it with the fork. The kitchen counter is also equipped with a microwave oven, a coffee maker, and a toaster. The scene appears to be a casual, everyday setting where the person is enjoying their meal.",
+        "answer_id": "CSjUfPTr7tFcyn8ZiD77Pi",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    }
+]

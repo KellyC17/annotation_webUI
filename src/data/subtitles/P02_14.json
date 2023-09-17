@@ -1,0 +1,142 @@
+[
+    {
+        "ep_id": "P02_14__0",
+        "id": "P02_14_0",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_14.tar",
+        "image": "./frame_0000000219.jpg",
+        "action": "set off timer",
+        "description": "In the image, we see a kitchen with a stove, a sink, and a dishwasher. The human is standing in front of the stove, holding a spatula, and appears to be preparing food. The objects are positioned in a way that allows the person to easily access the stove and the sink, which are located next to each other. The human is performing the action of cooking, which involves using the spatula to stir or flip food on the stove.",
+        "answer_id": "V7q9GRLYM4TcH79FTDkChc",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_14__0",
+        "id": "P02_14_1",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_14.tar",
+        "image": "./frame_0000000296.jpg",
+        "action": "wear oven glove",
+        "description": "In the image, we see a person holding a piece of paper and a small plate, both of which are placed on top of a stove. The person is likely preparing to cook or prepare food on the stove. The paper might be a recipe or a note related to the food preparation. The plate is empty, indicating that it is waiting to be filled with food. The scene suggests that the person is actively engaged in cooking or preparing a meal, and the objects on the stove are part of the process.",
+        "answer_id": "npJqbm5dHRkVnqZzudC4yb",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_14__0",
+        "id": "P02_14_2",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_14.tar",
+        "image": "./frame_0000000385.jpg",
+        "action": "open oven",
+        "description": "In the image, we see a person holding a long, thin object, possibly a broom, while standing in front of a stove. The person is positioned in the kitchen, with the stove to their right. The broom is being held in the person's hand, and they are possibly using it to clean the stove or the surrounding area. The image captures a moment of the person performing a task, which could be part of their daily routine or a specific cleaning task.",
+        "answer_id": "MYiCAPhyC3jzP4Dqv5n2ah",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_14__0",
+        "id": "P02_14_4",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_14.tar",
+        "image": "./frame_0000000714.jpg",
+        "action": "pull drawer of oven",
+        "description": "In the image, there is a person holding a spatula while standing in front of a stove with an oven. The person is wearing gloves and appears to be preparing food. The spatula is being used to remove food from the oven, and the person is holding it with both hands. The oven is open, and the person is standing in front of it, indicating that they are cooking or preparing food in the oven. The image shows the person's hands and the spatula, which are essential tools for cooking and preparing food.",
+        "answer_id": "ZrpCCtYwN5LCvKF5c7mXn2",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_14__0",
+        "id": "P02_14_3",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_14.tar",
+        "image": "./frame_0000000744.jpg",
+        "action": "pick up tray",
+        "description": "In the image, a woman is holding a tray with a variety of baked goods, such as cookies, and is placing them into a large oven. The tray is positioned on a countertop, and the woman is wearing a white apron. She is using a spatula to transfer the baked goods from the tray into the oven, ensuring that they are properly arranged and cooked evenly. The image captures the process of baking the delicious treats, showcasing the woman's skill and attention to detail in preparing the baked goods for consumption.",
+        "answer_id": "U72fcec2Ttb3eyKY62h5tv",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_14__0",
+        "id": "P02_14_5",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_14.tar",
+        "image": "./frame_0000000865.jpg",
+        "action": "place tray on stove",
+        "description": "In the image, a human is holding a tray with a dish of food, and they are placing it into a microwave oven. The human is positioned in front of the microwave, with the tray of food on their hands. The microwave is located on the countertop, and the human is carefully placing the dish inside the oven. The scene suggests that the person is preparing a meal using the microwave, which is a common kitchen appliance used for heating and cooking food quickly.",
+        "answer_id": "9iXZsG9DtPQ8LJoMcB7rpN",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_14__0",
+        "id": "P02_14_6",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_14.tar",
+        "image": "./frame_0000001034.jpg",
+        "action": "pull drawer",
+        "description": "In the image, a person is holding a tray with a baking dish on it, and they are using a spatula to remove a baked item from the oven. The baked item appears to be a cake, and the person is carefully removing it from the oven using the spatula. The tray is positioned on top of a stove, and the person is wearing gloves to protect their hands from the hot oven surface. The image shows a close-up view of the person's hands and the baked cake, highlighting the delicate process of removing the cake from the oven without damaging it.",
+        "answer_id": "Bxe6LgiAPctkkV7oqczMcN",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_14__0",
+        "id": "P02_14_7",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_14.tar",
+        "image": "./frame_0000001153.jpg",
+        "action": "pick up tray",
+        "description": "In the image, we see a person holding a tray of freshly baked cookies, which are arranged on a baking tray. The tray is placed inside a toaster oven, and the person is holding a spatula, which they are using to spread the cookies out evenly on the tray. The person is wearing gloves, which suggests that they are taking precautions to avoid burning their hands while handling the hot cookies. The image shows the person carefully spreading the cookies out on the tray, ensuring they are evenly distributed and ready for cooking.",
+        "answer_id": "iTJPKfM8VKQWe46ijMXZd5",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_14__0",
+        "id": "P02_14_8",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_14.tar",
+        "image": "./frame_0000001240.jpg",
+        "action": "put tray",
+        "description": "In the image, a person is holding a tray with several pizza dough balls on it. The tray is positioned on a stove, and the person is wearing a glove to protect their hands from the hot surface. The person is likely preparing the pizza dough balls for baking or cooking. The image shows the person's hand holding the tray, with the pizza dough balls placed on it, and the glove protecting their hand from the heat. The person is performing the action of preparing the pizza dough balls for cooking or baking, which involves handling the hot tray and potentially adding toppings or sauces to the dough balls.",
+        "answer_id": "h8Tz5kP8iomhgmHAUVqNb2",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_14__0",
+        "id": "P02_14_9",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_14.tar",
+        "image": "./frame_0000001354.jpg",
+        "action": "pick up tray",
+        "description": "In the image, we see a man standing in front of a kitchen oven, holding a spatula. He is positioned near the oven, and the spatula is being used to remove food from the oven. The man is likely preparing or cleaning the oven, which is a common task in maintaining the kitchen appliance. The image captures a moment in time, where the man is actively engaged in the process of removing food from the oven, which is an essential part of cooking and cleaning the oven.",
+        "answer_id": "M7QGj5jSDER9tYXpuvJsLL",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_14__0",
+        "id": "P02_14_10",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_14.tar",
+        "image": "./frame_0000001482.jpg",
+        "action": "put tray in oven",
+        "description": "In the image, we see a person holding a tray of food and placing it into a microwave oven. The tray is positioned on the counter, and the person is standing next to the microwave with the tray in hand. The action being performed is the person placing the tray of food into the microwave oven, which is likely to heat up the food for consumption.",
+        "answer_id": "PzbK6WPoi9byi76LbPkjFD",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_14__0",
+        "id": "P02_14_11",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_14.tar",
+        "image": "./frame_0000001516.jpg",
+        "action": "close oven",
+        "description": "In the image, a person is holding a spatula and reaching into a kitchen cabinet. The person is positioned in front of a kitchen counter, and the spatula is being used to open the cabinet door. The person is likely trying to retrieve something from the cabinet, such as a cooking utensil, a dish, or a kitchen appliance. The image shows the person's hand holding the spatula and their arm reaching into the cabinet, indicating that they are actively engaging in the task of opening the cabinet door and retrieving an item.",
+        "answer_id": "TJoVvoKQY3cCSQwEgB7MKe",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_14__0",
+        "id": "P02_14_12",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_14.tar",
+        "image": "./frame_0000001582.jpg",
+        "action": "set timer",
+        "description": "In the image, a woman is holding a spatula and using it to open the oven door. She is standing in front of the oven, which is located in a kitchen. The woman is holding the spatula with her right hand, and she is using it to open the oven door with her left hand. The oven door is positioned at an angle, and the woman is trying to open it by pushing it with the spatula. The image shows the woman's hands and the spatula, as well as the oven door and the kitchen environment.",
+        "answer_id": "M2hBFFpiS68NETSrVFQQRs",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P02_14__0",
+        "id": "P02_14_13",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P02/rgb_frames/P02_14.tar",
+        "image": "./frame_0000001803.jpg",
+        "action": "remove oven glove",
+        "description": "In the image, there is a person holding a towel and cleaning a kitchen countertop. The person is using the towel to wipe down the countertop, which is positioned above a stove or oven. The objects on the countertop include a plate, a bowl, and a cup. The person is performing the action of cleaning the countertop, ensuring that the surface is free of dirt and debris.",
+        "answer_id": "kVodPD7P7UTYdhuiyoVRAg",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "ep_id": "P28_19__0",
+        "id": "P28_19_0",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_19.tar",
+        "image": "./frame_0000000092.jpg",
+        "action": "take knife and piece of pepper",
+        "description": "In the image, there is a woman standing in front of a kitchen counter, surrounded by various food items and cooking utensils. The woman is holding a knife and appears to be preparing to cut a vegetable, possibly a tomato. The food items include a bowl of chopped vegetables, a bottle of oil, and a spice jar. The woman is positioned in front of a countertop, which suggests that she is likely preparing a meal or snack. The presence of the knife and the chopped vegetables indicates that she is actively engaged in food preparation, possibly chopping or cutting the vegetables for a recipe.",
+        "answer_id": "gXKyEYvgus3pJNRbt4g54q",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_19__0",
+        "id": "P28_19_1",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_19.tar",
+        "image": "./frame_0000000866.jpg",
+        "action": "chop pepper",
+        "description": "In the image, there is a man holding a knife and cutting a pizza with a red sauce. The pizza is placed on a cutting board, and the man is using a knife to cut it into slices. The cutting board is positioned on a kitchen counter, and the man is standing next to it while performing the action of cutting the pizza. The presence of a bottle of olive oil and a bowl of chopped onions suggests that the man might be preparing a meal or snack. The image captures a moment of the man's preparation process, showcasing the ingredients and tools involved in the process.",
+        "answer_id": "PANxSa85cRd9tcJ5kv5Fai",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_19__0",
+        "id": "P28_19_2",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_19.tar",
+        "image": "./frame_0000001199.jpg",
+        "action": "continue chopping pepper",
+        "description": "In the image, there is a person holding a knife and cutting a taco shell. The taco shell is placed on a cutting board, and the person is cutting it into small pieces. The image also includes a bowl of chopped onions, a bottle of hot sauce, and a plate. The person is likely preparing a taco dish, possibly for a meal or a snack. The presence of the knife, cutting board, onions, hot sauce, and plate indicates that the person is engaged in the process of preparing the taco ingredients.",
+        "answer_id": "9cibfNiR3TrE6pSdrKtqQJ",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_19__0",
+        "id": "P28_19_3",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_19.tar",
+        "image": "./frame_0000001325.jpg",
+        "action": "move piece of pepper",
+        "description": "In the image, there is a man standing on a kitchen counter, holding a knife and a cutting board. He is cutting a red pepper and a green pepper on the cutting board, which is placed on the counter. The man is positioned in front of a bowl, possibly containing ingredients for the meal. The cutting board and the knife are positioned in a way that allows the man to easily cut the peppers and prepare the ingredients for cooking. The action being performed by the man is cutting the peppers, which suggests that he is preparing a meal or cooking for himself or others.",
+        "answer_id": "XanoSPNQJVKC4AfoB6Q4oD",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_19__0",
+        "id": "P28_19_4",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_19.tar",
+        "image": "./frame_0000001910.jpg",
+        "action": "chop pepper",
+        "description": "In the image, there is a person holding a knife and cutting a pizza. The pizza is placed on a cutting board, and the person is cutting it into slices. The cutting board is positioned on a countertop, and the person is cutting the pizza with a knife. The image shows the person performing the action of cutting the pizza, which is a common task in preparing food for consumption.",
+        "answer_id": "LskhxXj8RX2kxz3rSyyZj4",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_19__0",
+        "id": "P28_19_5",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_19.tar",
+        "image": "./frame_0000002184.jpg",
+        "action": "continue chopping pepper",
+        "description": "In the image, a person is standing in front of a kitchen counter with a knife and a cutting board. The person is holding the knife and cutting a red onion, which is placed on the cutting board. The onion is being cut into smaller pieces, and the person is using the knife to perform this action. The cutting board and knife are positioned on the counter, with the onion placed on top of the cutting board. The person is engaged in the process of preparing the onion for cooking or consumption.",
+        "answer_id": "cY9bqYhH2GgouFLheE6dDk",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_19__0",
+        "id": "P28_19_6",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_19.tar",
+        "image": "./frame_0000002521.jpg",
+        "action": "put down knife",
+        "description": "In the image, you see a person holding a knife and cutting a tortilla. The tortilla is placed on a cutting board, and the person is cutting it into small pieces. The person is positioned in front of a bowl, which likely contains ingredients for the meal. The scene suggests that the person is preparing a meal, possibly a Mexican dish, by cutting the tortilla and preparing ingredients for the meal.",
+        "answer_id": "bRS4VQHmmFYZuaDvVw9EC6",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_19__0",
+        "id": "P28_19_7",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_19.tar",
+        "image": "./frame_0000002639.jpg",
+        "action": "take oil",
+        "description": "In the image, a man is standing in front of a stove, holding a bottle of beer and a spatula. He is positioned next to a pot, which is on the stove. The man is pouring beer into the pot, possibly to cook or prepare food. The image captures a moment in time where the man is performing this action, and it may be a part of a cooking or preparation process.",
+        "answer_id": "5NEcq6vtWS3bGmyLZzCA45",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_19__0",
+        "id": "P28_19_8",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_19.tar",
+        "image": "./frame_0000002658.jpg",
+        "action": "open oil",
+        "description": "In the image, I see a person holding a spatula and a frying pan on a stove. The spatula is being used to stir the contents in the frying pan, which is filled with food. The person is performing the action of cooking, likely preparing a meal or cooking a dish. The objects are positioned on the stove, with the spatula and frying pan being used in the cooking process. The image captures a moment in time, where the person is actively engaged in cooking, and the spatula and frying pan are essential tools for the task.",
+        "answer_id": "b62JTfPW6niPqt5r7iGAB4",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_19__0",
+        "id": "P28_19_9",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_19.tar",
+        "image": "./frame_0000002966.jpg",
+        "action": "put oil in pan",
+        "description": "In the image, a man is standing in front of a stove, holding a spatula. He is using the spatula to stir a pot of water, which is placed on the stove. The man is positioned in front of the stove, with the pot of water on the stove and the spatula in his hand. He is performing the action of stirring the water with the spatula, possibly preparing a meal or cooking something in the pot.",
+        "answer_id": "g3fv8isQx4w2QhJ6QubuaL",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_19__0",
+        "id": "P28_19_10",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_19.tar",
+        "image": "./frame_0000003069.jpg",
+        "action": "put down oil",
+        "description": "In the image, we see a person holding a bottle of oil and a knife, while standing in front of a kitchen counter with various ingredients and utensils. The person is likely preparing a meal or cooking something, as they are holding the bottle of oil and the knife. The objects on the counter include a cutting board, a bowl, and a spoon. The person is positioned in front of the counter, ready to use the knife and the oil to prepare the meal. This image captures the moment of the person preparing to cook, highlighting the essential tools and ingredients needed for the process.",
+        "answer_id": "5XoxKtBnTrjVFyrYX7Eivk",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_19__0",
+        "id": "P28_19_11",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_19.tar",
+        "image": "./frame_0000003259.jpg",
+        "action": "read instructions on package",
+        "description": "In the image, a person is holding a box of food, which is positioned on a countertop. The person is also holding a bottle of sauce, which is likely used to prepare the food. The person is about to open the box and pour the sauce into it. This action indicates that the person is preparing a meal or snack using the contents of the box and the bottle of sauce. The image shows the person's hands holding the box and bottle, and the food box is placed on a countertop, which suggests that the person is in a kitchen or dining area.",
+        "answer_id": "SQG5TZJ5H6uJgaUVcAsKU7",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_19__0",
+        "id": "P28_19_12",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_19.tar",
+        "image": "./frame_0000003559.jpg",
+        "action": "put down package",
+        "description": "In the image, there is a person standing next to a stove, holding a spatula and a pot of cooked food. The person is likely preparing or serving food, as they are holding the spatula and the pot. The objects are positioned on the stove, with the pot on the burner and the spatula in the person's hand. The scene suggests that the person is in the process of cooking or preparing a meal, possibly using the spatula to stir or flip the food in the pot.",
+        "answer_id": "QXH6snKQ2BPCiWSQ6xgwLg",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_19__0",
+        "id": "P28_19_13",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_19.tar",
+        "image": "./frame_0000003699.jpg",
+        "action": "turn on stove",
+        "description": "In the image, there is a person holding a spatula and a frying pan, both of which are positioned on a kitchen counter. The person is using the spatula to stir the food in the frying pan, possibly cooking or preparing a meal. The objects are placed on the counter, which is a common area for food preparation in a kitchen. The person is performing the action of stirring the food in the pan using the spatula, which is a common kitchen tool used for flipping, stirring, and scraping food in cooking.",
+        "answer_id": "Ery4HxCUPVtLhCYzi9C8vx",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_19__0",
+        "id": "P28_19_14",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_19.tar",
+        "image": "./frame_0000003885.jpg",
+        "action": "adjust cooker",
+        "description": "In the image, there is a man standing in front of a kitchen sink, and he is holding a sponge. The sink is filled with water, and the man is using the sponge to clean the sink. The sponge is positioned in the sink, and the man is holding it with both hands, possibly to clean the sink more effectively. The man is performing the action of cleaning the sink with the sponge, which is a common task in maintaining a clean and hygienic kitchen environment.",
+        "answer_id": "L4XMBTucwyugK4zvKSDnki",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_19__0",
+        "id": "P28_19_15",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_19.tar",
+        "image": "./frame_0000004322.jpg",
+        "action": "take pan",
+        "description": "In the image, there is a person holding a frying pan with a spatula, and they are placing it on a stove. The frying pan is positioned on the stove, and the person is holding the spatula in their hand. They are likely preparing to cook food in the pan. The image captures a moment in time, where the person is about to place the pan on the stove, and the spatula is being used to position it correctly.",
+        "answer_id": "RfSfu27aVd6rVH2nGZcRqc",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_19__0",
+        "id": "P28_19_16",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_19.tar",
+        "image": "./frame_0000004464.jpg",
+        "action": "apply oil in pan",
+        "description": "In the image, we see a black frying pan on a stove, and a person is holding a spatula. The person is using the spatula to pour oil into the frying pan. The frying pan is positioned on top of a stove, and the person is holding the spatula in their hand. The action being performed is pouring oil into the frying pan, which is likely to be used for cooking.",
+        "answer_id": "fmnzPQ5dfxW3BVP26p8Dx9",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_19__0",
+        "id": "P28_19_17",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_19.tar",
+        "image": "./frame_0000004705.jpg",
+        "action": "put down pan",
+        "description": "In the image, we see a person holding a spatula while standing in front of a stove. The person is holding the spatula in their hand and is positioned near a pot on the stove. The pot contains a liquid, which could be water or a cooking sauce. The person is likely preparing to stir or flip the contents in the pot using the spatula. The image captures a moment in the cooking process, where the person is about to perform a specific action with the spatula.",
+        "answer_id": "EdmaaTou6FC2MEn5LsHVmM",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_19__0",
+        "id": "P28_19_18",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_19.tar",
+        "image": "./frame_0000005026.jpg",
+        "action": "move pan",
+        "description": "In the image, you see a person holding a green spatula and a frying pan on a stove. The person is positioned in front of a stove, with the frying pan on the stove and the spatula in their hand. The person is likely preparing food, possibly cooking eggs or stirring a pan of food. The green spatula adds a pop of color to the scene, making it visually appealing. The image captures a moment in time, showcasing the person's activity in the kitchen, and it could be used as a still image in a cooking tutorial or a food blog post.",
+        "answer_id": "2oXjk8PnvpGniBWNQPfuUL",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P28_19__0",
+        "id": "P28_19_19",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P28/rgb_frames/P28_19.tar",
+        "image": "./frame_0000005253.jpg",
+        "action": "check oil temperature",
+        "description": "In the image, we see a person holding a spatula while standing in front of a stove. The person is holding the spatula in their hand, and the spatula is positioned on the stove. The person is likely preparing food or cooking something using the spatula. The action being performed is the person holding the spatula and possibly stirring or flipping food on the stove. The image captures a moment in time, showcasing the person's hand and the spatula on the stove, as they work on their culinary task.",
+        "answer_id": "98tqhmWqetCRjk9eCfCv73",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    }
+]

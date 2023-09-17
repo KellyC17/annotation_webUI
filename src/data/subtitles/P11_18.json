@@ -1,0 +1,182 @@
+[
+    {
+        "ep_id": "P11_18__0",
+        "id": "P11_18_0",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_18.tar",
+        "image": "./frame_0000000204.jpg",
+        "action": "open cupboards",
+        "description": "In the image, you see a kitchen sink with a person washing dishes in it. The person is holding a dish rack, which is filled with dirty dishes, and is positioned over the sink. The person is using a dishwasher to clean the dishes, which is located on the countertop. The dirty dishes are being washed in the sink, and the person is using the dish rack to hold the dishes in place while they are being cleaned. This image shows the process of washing dishes in a kitchen sink, with the dish rack and dishwasher being used to make the task more efficient and organized.",
+        "answer_id": "kekcxPEUemp5AZpVvuYtAb",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_18__0",
+        "id": "P11_18_1",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_18.tar",
+        "image": "./frame_0000000227.jpg",
+        "action": "pick up bowl",
+        "description": "In the image, we see a man reaching for a dish in a refrigerator, specifically a plate. The plate is placed on a shelf in the refrigerator, and the man is trying to retrieve it. The dish is positioned near other dishes and utensils, which are also stored in the refrigerator. The man is performing an action of retrieving the plate from the refrigerator, which is a common task for household chores.",
+        "answer_id": "SJcNB7XbBn8sBQPpD9x6RM",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_18__0",
+        "id": "P11_18_2",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_18.tar",
+        "image": "./frame_0000000383.jpg",
+        "action": "close cupboards",
+        "description": "In the image, there is a person holding a cup of coffee while standing in front of a kitchen counter. The counter has a sink, a stove, and a microwave oven. The person is holding the cup of coffee and looking at the sink, possibly washing their hands before or after preparing the coffee. The objects are positioned in a way that the sink is in the foreground, with the stove and microwave oven behind it. The person is performing the action of holding the cup of coffee and looking at the sink, indicating that they might be preparing to wash their hands or clean up the kitchen area.",
+        "answer_id": "De5J2WnBgNyBov3xtsakC3",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_18__0",
+        "id": "P11_18_3",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_18.tar",
+        "image": "./frame_0000000418.jpg",
+        "action": "pick up spoon",
+        "description": "In the image, we see a person holding a cup of coffee and a spoon, positioned on a countertop. The person is also holding a knife, which they are using to cut the coffee. The objects are placed on top of a table, and the person is standing next to the table. The action being performed is the person cutting the coffee with the knife, which is a common activity when preparing a cup of coffee.",
+        "answer_id": "RDwxbjYjWiCY58bpvRb7St",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_18__0",
+        "id": "P11_18_4",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_18.tar",
+        "image": "./frame_0000000509.jpg",
+        "action": "put down bowl",
+        "description": "In the image, a person is holding a bowl and pouring water into it. The bowl is sitting on a countertop, and the person is pouring water from a spouted container into the bowl. The person is positioned in front of the countertop, and the bowl is placed on top of it. The action being performed is the act of pouring water into the bowl, which is likely for cleaning or preparing food.",
+        "answer_id": "4rNCL36oENy8aipXjLgiP4",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_18__0",
+        "id": "P11_18_5",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_18.tar",
+        "image": "./frame_0000000565.jpg",
+        "action": "put down spoon",
+        "description": "In the image, there are two people standing on a countertop, holding a bowl and a spoon. The bowl is filled with milk, and the spoon is being used to scoop up the milk. The two people are positioned next to each other, with one person holding the bowl and the other holding the spoon. They are engaged in the act of eating or drinking the milk from the bowl. The scene suggests that they might be enjoying a snack or a meal together, or that they are preparing a beverage for themselves or someone else.",
+        "answer_id": "HniYmszZwm59X8PWW4UX5x",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_18__0",
+        "id": "P11_18_6",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_18.tar",
+        "image": "./frame_0000000607.jpg",
+        "action": "open fridge",
+        "description": "In the image, we see a person holding a spoon and a bowl, and they are standing near a counter. The person is likely preparing or serving food, as they are holding the spoon and bowl. The bowl is empty, and the spoon is being used to scoop out food from the bowl. The person is standing on a wooden floor, which suggests that the scene is taking place in a kitchen or dining area. The image captures the moment of the person performing the action of scooping food from the bowl, indicating that they are preparing or serving a meal.",
+        "answer_id": "7CAze3cBk6D95oRf3Z3axz",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_18__0",
+        "id": "P11_18_7",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_18.tar",
+        "image": "./frame_0000000635.jpg",
+        "action": "pick up milk",
+        "description": "In the image, we see a person standing in front of a refrigerator, holding a can of soda. The refrigerator is positioned in the kitchen, and the person is holding the can of soda in their hand. The person is about to open the refrigerator door, which suggests that they might be looking for something inside or taking out a drink. The image captures a moment of interaction between the person and the refrigerator, indicating that the person is actively engaging with the appliance.",
+        "answer_id": "jeGkc3ojUJrxgDt5afZcrt",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_18__0",
+        "id": "P11_18_8",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_18.tar",
+        "image": "./frame_0000000757.jpg",
+        "action": "open milk",
+        "description": "In the image, we see a man holding a spoon and a fork while standing in front of a sink. The man is washing his hands in the sink, using the spoon and fork to clean his hands. The spoon and fork are positioned on the counter next to the sink, and the man is using them to wash his hands. This scene shows the man performing a daily chore, which is washing his hands, and using the spoon and fork to clean his hands effectively.",
+        "answer_id": "YWg23Dw37wR7Tt33AVPUoC",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_18__0",
+        "id": "P11_18_9",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_18.tar",
+        "image": "./frame_0000000984.jpg",
+        "action": "pour milk",
+        "description": "In the image, there is a man standing next to a kitchen counter, holding a spoon and a bowl. The man is pouring milk from the bowl into the spoon. The bowl is sitting on the counter, and the spoon is being held by the man's hand. The man is performing this action while standing next to the counter, indicating that he is likely preparing a meal or snack. The presence of the spoon and bowl suggests that he is about to consume the milk or use it in a recipe.",
+        "answer_id": "MvzB5hQUmg4Vjm34kV3vjf",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_18__0",
+        "id": "P11_18_10",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_18.tar",
+        "image": "./frame_0000001150.jpg",
+        "action": "put away milk",
+        "description": "In the image, there is a person standing in front of a refrigerator, holding a bottle of milk. The refrigerator is open, and the person is about to put the bottle inside. The person is positioned in front of the refrigerator, with the bottle in their hand and the refrigerator door open. The action being performed is the person placing the bottle of milk inside the refrigerator.",
+        "answer_id": "KwT4cdKWQ364FYJkTogCqw",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_18__0",
+        "id": "P11_18_11",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_18.tar",
+        "image": "./frame_0000001341.jpg",
+        "action": "pick up cereal",
+        "description": "In the image, a person is holding a spoon and a bowl, and they are standing in front of a counter with a cup. The person is likely preparing a meal or snack, as they are holding a spoon and a bowl, and there is a cup on the counter. The person is possibly scooping or pouring food into the bowl using the spoon. The objects are positioned in a way that allows the person to easily access and handle them while preparing the meal or snack.",
+        "answer_id": "WAKgDN7kVFBbu2VcGwQ5Ap",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_18__0",
+        "id": "P11_18_13",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_18.tar",
+        "image": "./frame_0000001524.jpg",
+        "action": "pour cereal",
+        "description": "In the image, we see a person holding a bowl of cereal and pouring it into a spoon. The person is standing in front of a table, and the bowl is placed on the table. The person is holding the spoon in one hand and pouring the cereal into the spoon with the other hand. The image captures a moment in time when the person is about to take a bite of the cereal. The objects in the image include the bowl of cereal, the spoon, and the table.",
+        "answer_id": "ab757WdkBNcrDB6XuCkyw7",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_18__0",
+        "id": "P11_18_12",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_18.tar",
+        "image": "./frame_0000001601.jpg",
+        "action": "pour cereal",
+        "description": "In the image, a woman is holding a bowl of food and pouring it into a separate bowl. The woman is standing in front of a counter, and the bowls are placed on the counter. The woman is performing the action of pouring the food from the original bowl into the second bowl, which is likely for serving or storing the food. The image captures the moment when the woman is transferring the food from the original bowl to the second bowl, and it highlights the process of food preparation and serving.",
+        "answer_id": "nB72DqtfLTrk68gme69Rrz",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_18__0",
+        "id": "P11_18_14",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_18.tar",
+        "image": "./frame_0000001793.jpg",
+        "action": "put down cereal",
+        "description": "In the image, a man is sitting at a table with a bowl of food in front of him. He is holding a spoon and is about to eat from the bowl. The bowl is positioned on the table, and the man is leaning forward to take a bite. The image captures a moment of the man preparing to consume the food, which suggests that he is hungry and ready to eat.",
+        "answer_id": "VhHzV3rZfqTTtCTyMgRmVm",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_18__0",
+        "id": "P11_18_15",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_18.tar",
+        "image": "./frame_0000001983.jpg",
+        "action": "pick up bowl",
+        "description": "In the image, a person is holding a bowl of cereal in their hand while walking down a staircase. The bowl is filled with cereal, and the person is walking down the stairs with the bowl in their hand. The cereal bowl is positioned in front of the person's body, and the person is walking with the bowl in their hand. This scene suggests that the person might be carrying the bowl to a different location, such as a table or a counter, where they can eat the cereal or store it for later use.",
+        "answer_id": "5V4CViQQytwCJTiwPwRg49",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_18__0",
+        "id": "P11_18_16",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_18.tar",
+        "image": "./frame_0000002048.jpg",
+        "action": "put down bowl",
+        "description": "In the image, there is a human holding a bowl of cereal in their hand. The bowl is positioned on a desk, and the human is standing in front of the desk. The cereal bowl is full of cereal, and the human is holding it with one hand while standing next to the desk. This scene suggests that the person might be preparing to eat the cereal or is about to eat it, as they are standing in front of the desk with the bowl in their hand.",
+        "answer_id": "bUWZWWqeqyWPLX4zqKD7iK",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    },
+    {
+        "ep_id": "P11_18__0",
+        "id": "P11_18_17",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P11/rgb_frames/P11_18.tar",
+        "image": "./frame_0000002166.jpg",
+        "action": "move mouse",
+        "description": "In the image, we see a person sitting at a table with a bowl of cereal in front of them. The bowl is placed on a table, and the person is holding a spoon and eating the cereal. The image captures a moment of the person enjoying their breakfast, and the spoon is being used to scoop up the cereal from the bowl. The table is positioned in a way that allows the person to easily access the bowl and eat their breakfast comfortably.",
+        "answer_id": "NK7saV6vJUpENcNmrbNx2y",
+        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+    }
+]
