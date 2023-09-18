@@ -70,10 +70,10 @@ const View1 = () => {
     const existed = annotations.findIndex((item) => item.id === currEp && item.image === currFrame)
 
     if (existed != -1) {
-      annotations[existed] = { id: currEp, image: currFrame, states: currAnnotationList.slice(1) }
+      annotations[existed] = { id: currEp, image: currFrame, states: currAnnotationList }
     }
     else {
-      setAnnotations([...annotations, { id: currEp, image: currFrame, states: currAnnotationList.slice(1) }])
+      setAnnotations([...annotations, { id: currEp, image: currFrame, states: currAnnotationList }])
     }
     const nextIdx = frames.indexOf(currItem) + direction
 
