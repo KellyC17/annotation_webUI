@@ -18,6 +18,7 @@ const View1 = () => {
   const [currAnnotation, setCurrAnnotation] = useState("")
   const [annotations, setAnnotations] = useState([{ id: "", image: "", states: [""] }])
 
+  const [annotationInput, setAnnotationInput] = useState(JSON.stringify(currAnnotationList))
 
   const loadImage = () => {
     // Load the image using the provided image path
@@ -57,6 +58,7 @@ const View1 = () => {
   const onEnter = (annotation: string) => {
     if (currAnnotationList[0] === "") {
       setCurrAnnotationList([annotation])
+
     }
     else {
       setCurrAnnotationList([...currAnnotationList, annotation])
@@ -88,6 +90,18 @@ const View1 = () => {
       console.log(annotations)
     }
 
+  }
+
+  const onChangeList = (lst: string) => {
+    try {
+      const value = eval(lst)
+      if (Array.isArray(value)) {
+        setCurrAnnotationList(value)
+      }
+    }
+    catch (e) {
+      message.info("please make sure inputs are in string[] format")
+    }
   }
 
   function downloadJSON() {
@@ -138,8 +152,7 @@ const View1 = () => {
           <Title level={4}>States Annotation</Title>
           <TextArea value={currAnnotation} style={{ height: 100 }} onChange={(e) => setCurrAnnotation(e.target.value)} onPressEnter={(e) => { e.preventDefault(); onEnter(currAnnotation) }} />
           <div style={{ marginTop: '10px' }}></div>
-          <TextArea value={JSON.stringify(currAnnotationList)} onChange={(e) => setCurrAnnotationList(eval(e.target.value))
-          } />
+          <TextArea value={JSON.stringify(currAnnotationList)} onChange={(e) => onChangeList(e.target.value)} />
         </Card>
 
       </Space>
