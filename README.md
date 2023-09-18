@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
+Check [https://annotation-web-ui.vercel.app/](https://annotation-web-ui.vercel.app/) to play with the online deployment of the web app if you don't want to clone to local
 
 ## Available Scripts
 
