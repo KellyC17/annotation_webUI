@@ -9,16 +9,28 @@ const { Title } = Typography;
 
 const View1 = () => {
 
-  const [imageUrl, setImageUrl] = useState('./data/frames/P01_11/frame_0000000082.jpg');
+  const [imageUrl, setImageUrl] = useState('./data/frames/P01_14/frame_0000000152.jpg');
   const [currEp, setCurrEp] = useState(data[0])
-  const [currFrame, setCurrFrame] = useState("frame_0000000082")
-  const [currItem, setCurrItem] = useState({ "ep_id": "P01_11__0", "id": "P01_11_0", "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P01/rgb_frames/P01_11.tar", "image": "./frame_0000000082.jpg", "action": "take plate", "description": "In the image, there is a man standing on a kitchen floor, holding a plate and a spoon. The plate is positioned on the ground, and the spoon is being held in the man's hand. The man is performing the action of holding the plate and spoon, possibly preparing to serve food or clean up after a meal. The image shows the man's hand holding the spoon and the plate, indicating that he is in the process of using the spoon to scoop or serve food from the plate.", "answer_id": "g6234enEcPchyCH4GiVLty", "model_id": "llava-llama-2-7b-chat-hf-lightning-merge" })
+  const [currFrame, setCurrFrame] = useState("frame_0000000152")
+  const [currItem, setCurrItem] = useState({
+    "ep_id": "P01_14__0",
+    "id": "P01_14_0",
+    "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P01/rgb_frames/P01_14.tar",
+    "image": "./frame_0000000182.jpg",
+    "start_image": "./frame_0000000152.jpg",
+    "end_image": "./frame_0000000274.jpg",
+    "action": "take bin",
+    "objects": [
+      "bin/garbage can/recycling bin",
+      "right hand",
+      "left hand"
+    ]
+  })
   const [frames, setFrames] = useState([currItem])
   const [currAnnotationList, setCurrAnnotationList] = useState([""])
   const [currAnnotation, setCurrAnnotation] = useState("")
-  const [annotations, setAnnotations] = useState([{ id: "", image: "", states: [""] }])
+  const [annotations, setAnnotations] = useState([{ id: "", start_image: "", states: [""] }])
 
-  const [annotationInput, setAnnotationInput] = useState(JSON.stringify(currAnnotationList))
 
   const loadImage = () => {
     // Load the image using the provided image path
@@ -36,7 +48,7 @@ const View1 = () => {
     import(`./data/subtitles/${currEp}.json`)
       .then((res) => {
         setFrames(res.default)
-        const imgPath = res.default[0].image
+        const imgPath = res.default[0].start_image
         setCurrFrame(imgPath.substring(2, 18))
       })
       .catch(_ => null);
@@ -46,7 +58,7 @@ const View1 = () => {
   useEffect(() => { findTextAndIndex(currFrame); loadImage(); setCurrAnnotationList([""]) }, [frames])
 
   function findTextAndIndex(imageName: string) {
-    const item = frames.find((item) => item.image === `./${imageName}.jpg`);
+    const item = frames.find((item) => item.start_image === `./${imageName}.jpg`);
 
     if (item) {
       setCurrItem(item);
@@ -67,13 +79,13 @@ const View1 = () => {
   }
 
   const saveNextorPrev = (direction: number) => {
-    const existed = annotations.findIndex((item) => item.id === currEp && item.image === currFrame)
+    const existed = annotations.findIndex((item) => item.id === currEp && item.start_image === currFrame)
 
     if (existed != -1) {
-      annotations[existed] = { id: currEp, image: currFrame, states: currAnnotationList }
+      annotations[existed] = { id: currItem.id, start_image: currFrame, states: currAnnotationList }
     }
     else {
-      setAnnotations([...annotations, { id: currEp, image: currFrame, states: currAnnotationList }])
+      setAnnotations([...annotations, { id: currItem.id, start_image: currFrame, states: currAnnotationList }])
     }
     const nextIdx = frames.indexOf(currItem) + direction
 
@@ -85,8 +97,8 @@ const View1 = () => {
       setCurrAnnotationList([""])
       setCurrAnnotation("")
       setCurrItem(nextItem)
-      setCurrFrame(nextItem.image.substring(2, 18))
-      setImageUrl(`./data/frames/${currEp}/${nextItem.image.substring(2)}`);
+      setCurrFrame(nextItem.start_image.substring(2, 18))
+      setImageUrl(`./data/frames/${currEp}/${nextItem.start_image.substring(2)}`);
       console.log(annotations)
     }
 
@@ -147,8 +159,8 @@ const View1 = () => {
         <Card bordered={false} style={{ width: '50vw', height: 500 }}>
           <Title level={4}>Action</Title>
           {currItem.action}
-          <Title level={4}>Description</Title>
-          {currItem.description}
+          <Title level={4}>Objects</Title>
+          {JSON.stringify(currItem.objects)}
           <Title level={4}>States Annotation</Title>
           <TextArea value={currAnnotation} style={{ height: 100 }} onChange={(e) => setCurrAnnotation(e.target.value)} onPressEnter={(e) => { e.preventDefault(); onEnter(currAnnotation) }} />
           <div style={{ marginTop: '10px' }}></div>

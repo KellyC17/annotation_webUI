@@ -3,320 +3,411 @@
         "ep_id": "P06_14__0",
         "id": "P06_14_0",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P06/rgb_frames/P06_14.tar",
-        "image": "./frame_0000000300.jpg",
+        "image": "./frame_0000000280.jpg",
+        "start_image": "./frame_0000000235.jpg",
+        "end_image": "./frame_0000000315.jpg",
         "action": "turn off extractor fan",
-        "description": "In the image, there is a man standing in front of a stove with two pots on it. One pot is filled with red sauce, and the other pot is empty. The man is holding a spoon and is about to stir the contents of the pot. The pots are positioned on the stove, and the man is standing in front of the stove, ready to perform the action of stirring the sauce.",
-        "answer_id": "Zmv4zjmWABjzU6LGhavoZL",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "right hand"
+        ]
     },
     {
         "ep_id": "P06_14__0",
         "id": "P06_14_1",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P06/rgb_frames/P06_14.tar",
-        "image": "./frame_0000000414.jpg",
+        "image": "./frame_0000000382.jpg",
+        "start_image": "./frame_0000000346.jpg",
+        "end_image": "./frame_0000000463.jpg",
         "action": "open cupboard",
-        "description": "In the image, we see a kitchen sink, a stove, and a person holding a knife. The sink is positioned on the countertop, and the stove is located next to it. The person is standing in front of the sink, holding the knife and possibly preparing food. The scene appears to be a kitchen setting, where the person is engaged in cooking or preparing a meal.",
-        "answer_id": "5wEMQXnzmPMcFJy2VMJ5Ke",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "right hand"
+        ]
     },
     {
         "ep_id": "P06_14__0",
         "id": "P06_14_2",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P06/rgb_frames/P06_14.tar",
-        "image": "./frame_0000000662.jpg",
+        "image": "./frame_0000000642.jpg",
+        "start_image": "./frame_0000000486.jpg",
+        "end_image": "./frame_0000000669.jpg",
         "action": "take cereal",
-        "description": "In the image, there is a person standing in front of a kitchen sink, holding a spoon and a bowl. The person is preparing to wash the bowl, which is filled with food. The sink is positioned next to the stove, and there are a few kitchen utensils on the counter. The person is likely washing the bowl with soap and water to clean it before using it for the next meal.",
-        "answer_id": "YuvsU5d7QGfkSqF5NbRUts",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
-    },
-    {
-        "ep_id": "P06_14__0",
-        "id": "P06_14_3",
-        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P06/rgb_frames/P06_14.tar",
-        "image": "./frame_0000000674.jpg",
-        "action": "take raisins",
-        "description": "In the image, there is a person holding a spoon and a bowl, and they are standing in front of a stove. The person is likely preparing a meal, possibly soup or a sauce, as they are holding the bowl and spoon. The objects are positioned on the countertop, with the bowl and spoon being used for the food preparation. The person is also holding a bottle of oil, which might be used for cooking or as a condiment. The scene suggests that the person is actively engaged in cooking and preparing a meal, and the objects are arranged in a way that facilitates the cooking process.",
-        "answer_id": "RwrX9Q8246cwxHtPrEpweq",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "right hand",
+            "cereal",
+            "cupboard"
+        ]
     },
     {
         "ep_id": "P06_14__0",
         "id": "P06_14_4",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P06/rgb_frames/P06_14.tar",
-        "image": "./frame_0000000858.jpg",
+        "image": "./frame_0000000814.jpg",
+        "start_image": "./frame_0000000791.jpg",
+        "end_image": "./frame_0000000888.jpg",
         "action": "close cupboard",
-        "description": "In the image, we see a kitchen counter with a stove, a sink, and a dishwasher. There is a person standing in front of the stove, possibly preparing food or cooking. The person is holding a spatula and is using it to stir something in a pot. The kitchen counter is clean and organized, with utensils and dishes placed strategically. The presence of a dishwasher indicates that the kitchen is well-equipped and organized, which suggests that the person might be a skilled cook or someone who values cleanliness and efficiency in their kitchen.",
-        "answer_id": "S9hZKjBQCQRiHqqBncdmSg",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "cupboard",
+            "cereal"
+        ]
     },
     {
         "ep_id": "P06_14__0",
         "id": "P06_14_5",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P06/rgb_frames/P06_14.tar",
-        "image": "./frame_0000000976.jpg",
+        "image": "./frame_0000000918.jpg",
+        "start_image": "./frame_0000000896.jpg",
+        "end_image": "./frame_0000001001.jpg",
         "action": "open cupboard",
-        "description": "In the image, there is a person standing in front of a kitchen counter, holding a spoon and a pot with a lid. The person is preparing a meal, possibly stirring the contents of the pot. The kitchen counter has a white tile backsplash, and there are some utensils and dishes on the counter. The person is positioned in front of the stove, which is not visible in the image. This scene suggests that the person is cooking or preparing a meal in the kitchen, possibly using the stove to heat up the contents of the pot.",
-        "answer_id": "eFhZZRXUWUXFAra2cfy8Wp",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "cupboard",
+            "cereal"
+        ]
     },
     {
         "ep_id": "P06_14__0",
         "id": "P06_14_6",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P06/rgb_frames/P06_14.tar",
-        "image": "./frame_0000001129.jpg",
+        "image": "./frame_0000001138.jpg",
+        "start_image": "./frame_0000001032.jpg",
+        "end_image": "./frame_0000001167.jpg",
         "action": "take bowl",
-        "description": "In the image, we see a person standing on a kitchen counter, holding a bowl of cereal. The bowl is placed on a countertop, and the person is holding it with both hands. The person is likely preparing to eat the cereal or is in the process of eating it. The image captures a moment of the person's daily routine, showcasing the act of preparing and consuming a meal. The presence of the bowl on the countertop and the person's position on the counter suggest that this is a common area for food preparation and consumption in the kitchen.",
-        "answer_id": "DutPXYVez9hVdpeQZ7vqEd",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "left hand",
+            "bowl",
+            "cereal"
+        ]
     },
     {
         "ep_id": "P06_14__0",
         "id": "P06_14_7",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P06/rgb_frames/P06_14.tar",
-        "image": "./frame_0000001249.jpg",
+        "image": "./frame_0000001295.jpg",
+        "start_image": "./frame_0000001231.jpg",
+        "end_image": "./frame_0000001321.jpg",
         "action": "open drawer",
-        "description": "In the image, I see a woman standing on a carpeted floor, and she is holding a vacuum cleaner. The woman is positioned in front of a couch, and she is using the vacuum cleaner to clean the floor. The vacuum cleaner is being held in her hand, and she is moving it around to clean the area. This scene shows the woman performing a daily chore, which is cleaning the floor, using a vacuum cleaner.",
-        "answer_id": "L54Dq3feAfmoBXkymf3AZA",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
-    },
-    {
-        "ep_id": "P06_14__0",
-        "id": "P06_14_8",
-        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P06/rgb_frames/P06_14.tar",
-        "image": "./frame_0000001358.jpg",
-        "action": "take spoon",
-        "description": "In the image, a woman is walking down a staircase, and there are two bags on the stairs. The bags are placed on the stairs, and the woman is walking past them. The woman is wearing shoes, and it appears that she is carrying a small bag or purse. The bags on the stairs might be her belongings or belongings of someone else, and her walking past them suggests that she is either moving them or simply passing by them. The image captures a moment in time, and it could be a part of a daily routine or a specific event where the woman is carrying her belongings up or down the stairs.",
-        "answer_id": "h8oEtZifHc95YZWmhWBejq",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "right hand",
+            "drawer"
+        ]
     },
     {
         "ep_id": "P06_14__0",
         "id": "P06_14_9",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P06/rgb_frames/P06_14.tar",
-        "image": "./frame_0000001420.jpg",
+        "image": "./frame_0000001449.jpg",
+        "start_image": "./frame_0000001405.jpg",
+        "end_image": "./frame_0000001465.jpg",
         "action": "put spoon in bowl",
-        "description": "In the image, there is a man standing in front of a kitchen counter, holding a spoon and a bowl. He is holding the spoon in one hand and the bowl in the other, and he is likely preparing a meal or snack. The objects are positioned on a countertop, with the bowl and spoon being placed next to each other. The man is performing the action of stirring the contents in the bowl with the spoon.",
-        "answer_id": "JBHCLwkdNHgzYqRcpr5pN6",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "right hand",
+            "cereal",
+            "bowl",
+            "left hand",
+            "spoon"
+        ]
     },
     {
         "ep_id": "P06_14__0",
         "id": "P06_14_10",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P06/rgb_frames/P06_14.tar",
-        "image": "./frame_0000001601.jpg",
+        "image": "./frame_0000001532.jpg",
+        "start_image": "./frame_0000001476.jpg",
+        "end_image": "./frame_0000001623.jpg",
         "action": "take cereal",
-        "description": "In the image, we see a person holding a bowl of cereal and a spoon, standing in front of a stove. The bowl is filled with cereal, and the person is holding the spoon while standing near the stove. The person is likely preparing to eat the cereal, possibly by pouring it into a bowl or scooping it up with the spoon. The objects are positioned in a way that allows the person to easily access the cereal and the stove, which is likely used for cooking or heating the food.",
-        "answer_id": "9jsWLfepxd7FVtq8KG3g3D",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "right hand",
+            "cereal",
+            "bowl",
+            "left hand",
+            "spoon"
+        ]
     },
     {
         "ep_id": "P06_14__0",
         "id": "P06_14_11",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P06/rgb_frames/P06_14.tar",
-        "image": "./frame_0000001851.jpg",
+        "image": "./frame_0000001773.jpg",
+        "start_image": "./frame_0000001698.jpg",
+        "end_image": "./frame_0000001980.jpg",
         "action": "put cereal in bowl",
-        "description": "In the image, a woman is holding a bowl and a spoon while standing in front of a counter. The bowl is filled with a mixture of flour and water, and the woman is using the spoon to stir the mixture. The bowl and spoon are positioned on the counter, and the woman is performing the action of stirring the mixture with the spoon. This scene suggests that she might be preparing a dish or a recipe that requires the mixture to be stirred.",
-        "answer_id": "DkfCBtKRC6CNUw549Vvryg",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
-    },
-    {
-        "ep_id": "P06_14__0",
-        "id": "P06_14_12",
-        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P06/rgb_frames/P06_14.tar",
-        "image": "./frame_0000002010.jpg",
-        "action": "put cereal back in packet",
-        "description": "In the image, we see a woman standing next to a kitchen counter, holding a spoon and a bowl. She is preparing a meal, possibly stirring or scooping food into the bowl. The woman is wearing a shirt, and her hands are covered in gloves, which suggests that she might be handling hot or cold food. The objects are positioned on the counter, with the bowl and spoon being used for the meal preparation. The woman is performing the action of stirring or scooping food into the bowl, which is a common task in cooking and preparing meals.",
-        "answer_id": "82xwgw7q8fqDqhggwFcdEP",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "right hand",
+            "cereal",
+            "packet",
+            "bowl",
+            "left hand",
+            "cereal box"
+        ]
     },
     {
         "ep_id": "P06_14__0",
         "id": "P06_14_13",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P06/rgb_frames/P06_14.tar",
-        "image": "./frame_0000002084.jpg",
+        "image": "./frame_0000002140.jpg",
+        "start_image": "./frame_0000002082.jpg",
+        "end_image": "./frame_0000002149.jpg",
         "action": "take raisins",
-        "description": "In the image, a woman is holding a bowl of food and a spoon, while standing in front of a stove. The bowl is filled with a red sauce, and the woman is about to stir it with the spoon. The woman is positioned near the stove, with the bowl and spoon close to the stove's burner. The scene suggests that she is preparing to cook or prepare the food in the bowl.",
-        "answer_id": "cg4T2ZeARU9E5jGWXxL4rT",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "right hand",
+            "cereal",
+            "packet",
+            "left hand",
+            "raisin"
+        ]
     },
     {
         "ep_id": "P06_14__0",
         "id": "P06_14_14",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P06/rgb_frames/P06_14.tar",
-        "image": "./frame_0000002317.jpg",
+        "image": "./frame_0000002267.jpg",
+        "start_image": "./frame_0000002223.jpg",
+        "end_image": "./frame_0000002433.jpg",
         "action": "pour raisins into bowl",
-        "description": "In the image, there is a human hand holding a green plastic cup, which is positioned on a countertop. The human is also holding a spoon, which is placed on top of the cup. The human is performing the action of pouring the contents of the cup into the spoon. The scene appears to be in a kitchen setting, and the human is likely preparing a meal or snack. The presence of the cup and spoon suggests that the human is using them to serve or consume food or drinks.",
-        "answer_id": "CcgP3U3Dtyv3KkEahNjAye",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "right hand",
+            "cereal",
+            "packet",
+            "bowl",
+            "left hand"
+        ]
     },
     {
         "ep_id": "P06_14__0",
         "id": "P06_14_15",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P06/rgb_frames/P06_14.tar",
-        "image": "./frame_0000002718.jpg",
+        "image": "./frame_0000002689.jpg",
+        "start_image": "./frame_0000002634.jpg",
+        "end_image": "./frame_0000002806.jpg",
         "action": "put rubbish in bin",
-        "description": "In the image, there is a person holding a bottle of water and a spoon while standing in front of a sink. The person is holding the bottle with one hand and the spoon with the other hand. They are standing in front of the sink, which suggests that they might be preparing to wash their hands or clean the spoon. The presence of the bottle of water indicates that the person might be preparing to drink water or use it for cleaning purposes. The image captures a moment in time where the person is taking a break from their daily tasks, possibly to take a drink or clean their hands.",
-        "answer_id": "NkiB9WPt9oBKD5DcVPbWoN",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
-    },
-    {
-        "ep_id": "P06_14__0",
-        "id": "P06_14_16",
-        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P06/rgb_frames/P06_14.tar",
-        "image": "./frame_0000002833.jpg",
-        "action": "open cupboard",
-        "description": "In the image, there is a woman standing in front of a kitchen sink, with a bowl of food on the counter next to her. She is smoking a cigarette while holding a spoon and a knife. The bowl of food is positioned on the counter, and the woman is holding the spoon and knife in her hands. The woman is performing the action of smoking a cigarette while preparing the food.",
-        "answer_id": "XaFAHQUcBSsG6sbJ5Ekjfg",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "left hand",
+            "rubbish",
+            "right hand"
+        ]
     },
     {
         "ep_id": "P06_14__0",
         "id": "P06_14_17",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P06/rgb_frames/P06_14.tar",
-        "image": "./frame_0000003068.jpg",
+        "image": "./frame_0000003014.jpg",
+        "start_image": "./frame_0000002962.jpg",
+        "end_image": "./frame_0000003096.jpg",
         "action": "take raisins",
-        "description": "In the image, there is a woman standing in front of a kitchen sink, holding a green plastic bag. The bag is partially filled with food items, and she is about to put it into the sink. The woman is positioned in the kitchen, and the sink is located next to the countertop. The woman is performing the action of emptying the bag into the sink, which is likely part of her daily routine or preparing for cooking or cleaning.",
-        "answer_id": "GTtnZkmnrx9AuFL4njsfeE",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "right hand",
+            "left hand",
+            "raisin"
+        ]
     },
     {
         "ep_id": "P06_14__0",
         "id": "P06_14_18",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P06/rgb_frames/P06_14.tar",
-        "image": "./frame_0000003475.jpg",
+        "image": "./frame_0000003225.jpg",
+        "start_image": "./frame_0000003177.jpg",
+        "end_image": "./frame_0000003507.jpg",
         "action": "open raisins with scissors",
-        "description": "In the image, a woman is holding a bowl of cereal and a spoon while standing in front of a counter. The bowl is filled with cereal, and the woman is holding the spoon in one hand and the bowl in the other. She is likely preparing to eat the cereal or is in the process of doing so. The objects are positioned on the counter, and the woman is standing in front of the counter, indicating that she is in a kitchen or dining area. The scene suggests that the woman is about to consume her breakfast or is actively eating her cereal.",
-        "answer_id": "SSoYg6qA23PYzAxnTxxXAu",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "right hand",
+            "scissors",
+            "left hand",
+            "raisin"
+        ]
     },
     {
         "ep_id": "P06_14__0",
         "id": "P06_14_19",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P06/rgb_frames/P06_14.tar",
-        "image": "./frame_0000003685.jpg",
+        "image": "./frame_0000003622.jpg",
+        "start_image": "./frame_0000003528.jpg",
+        "end_image": "./frame_0000003879.jpg",
         "action": "pour raisins into pan",
-        "description": "In the image, there is a person sitting on a countertop, holding a bowl with a green substance, possibly a smoothie or a bowl of food. The person is holding the bowl with one hand and is about to take a bite from it. The bowl is positioned on the countertop, and the person is sitting on the counter, which suggests that they might be preparing or consuming a meal or snack. The image captures a moment of the person taking a bite from the bowl, indicating that they are about to eat the contents of the bowl.",
-        "answer_id": "T8sZLVfViijxEwPG4kXjFs",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
-    },
-    {
-        "ep_id": "P06_14__0",
-        "id": "P06_14_20",
-        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P06/rgb_frames/P06_14.tar",
-        "image": "./frame_0000004200.jpg",
-        "action": "reseal raisins",
-        "description": "In the image, a woman is holding a bowl and a spoon, and she is about to put a spoonful of food into the bowl. The bowl is placed on a table, and the woman is standing next to it. The woman is positioned in front of the bowl, and she is holding the spoon in her hand. She is performing the action of scooping food from a container or a dish and placing it into the bowl. This scene suggests that the woman is preparing a meal or snack, and she is using the spoon and bowl to do so.",
-        "answer_id": "MLWebo42QB5fMa4Y39Cd3k",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "bowl",
+            "right hand",
+            "cereal",
+            "left hand",
+            "spoon",
+            "raisin",
+            "packet"
+        ]
     },
     {
         "ep_id": "P06_14__0",
         "id": "P06_14_21",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P06/rgb_frames/P06_14.tar",
-        "image": "./frame_0000004292.jpg",
+        "image": "./frame_0000004370.jpg",
+        "start_image": "./frame_0000004289.jpg",
+        "end_image": "./frame_0000004394.jpg",
         "action": "open cupboard",
-        "description": "In the image, there is a man standing on a kitchen counter, holding a spoon and a bowl. He is stirring a pot of pasta on the stove, using a wooden spoon to mix the contents. The man is positioned on the counter, which is a raised surface that allows him to reach the stove and the pot. The objects in the image include the spoon, bowl, and pot, which are all related to the act of cooking and stirring the pasta. The man is performing the action of stirring the pasta, which is a common task in cooking to ensure that the ingredients are well-mixed and cooked evenly.",
-        "answer_id": "9tbSM2BmN6YY9gZPxqiivi",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "cereal",
+            "bowl",
+            "left hand",
+            "spoon",
+            "raisin",
+            "packet"
+        ]
     },
     {
         "ep_id": "P06_14__0",
         "id": "P06_14_22",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P06/rgb_frames/P06_14.tar",
-        "image": "./frame_0000004441.jpg",
+        "image": "./frame_0000004370.jpg",
+        "start_image": "./frame_0000004320.jpg",
+        "end_image": "./frame_0000004457.jpg",
         "action": "put raisins in cupboard",
-        "description": "In the image, there is a person holding a bottle of dish soap, standing in front of a sink. The sink is filled with water, and there is a bowl of food on the counter next to the sink. The person is about to pour the dish soap into the sink, possibly to wash dishes or clean the sink. The objects are positioned in a way that allows the person to easily access the sink and the bowl of food. The image captures a moment of the person preparing to perform a task related to cleaning or cooking in the kitchen.",
-        "answer_id": "UTg7vJ6LYiPQLpBFh5Fgu6",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "cereal",
+            "bowl",
+            "left hand",
+            "spoon",
+            "raisin",
+            "packet"
+        ]
     },
     {
         "ep_id": "P06_14__0",
         "id": "P06_14_23",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P06/rgb_frames/P06_14.tar",
-        "image": "./frame_0000004558.jpg",
+        "image": "./frame_0000004649.jpg",
+        "start_image": "./frame_0000004491.jpg",
+        "end_image": "./frame_0000004681.jpg",
         "action": "put cereal in cupboard",
-        "description": "In the image, a human is holding a box of cereal and placing it on a countertop. The box is open, and the human is about to pour the cereal into a bowl. The cereal box is positioned on the countertop next to a bowl, which is already filled with cereal. The human is performing the action of pouring the cereal into the bowl, and the scene is taking place in a kitchen setting.",
-        "answer_id": "FkqqY5eWyxv8V8Pe9AhndD",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "right hand",
+            "cereal box",
+            "bowl",
+            "left hand",
+            "spoon",
+            "cupboard"
+        ]
     },
     {
         "ep_id": "P06_14__0",
         "id": "P06_14_24",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P06/rgb_frames/P06_14.tar",
-        "image": "./frame_0000004770.jpg",
+        "image": "./frame_0000004700.jpg",
+        "start_image": "./frame_0000004687.jpg",
+        "end_image": "./frame_0000004783.jpg",
         "action": "close cupboard",
-        "description": "In the image, a woman is holding a cup of coffee and standing on a staircase. The staircase is positioned in front of a kitchen counter, and the woman is standing on the stairs with her back to the counter. She is holding the cup of coffee with her right hand, and her left hand is resting on the railing of the stairs. The woman is performing the action of taking a sip of her coffee while standing on the stairs. This scene suggests that she might be taking a break from cooking or preparing food in the kitchen, or she might be enjoying her coffee while relaxing on the stairs.",
-        "answer_id": "C6dspVfoYckJjCe9htm8hB",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "left hand",
+            "cupboard"
+        ]
     },
     {
         "ep_id": "P06_14__0",
         "id": "P06_14_25",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P06/rgb_frames/P06_14.tar",
-        "image": "./frame_0000004932.jpg",
+        "image": "./frame_0000004926.jpg",
+        "start_image": "./frame_0000004882.jpg",
+        "end_image": "./frame_0000004935.jpg",
         "action": "open fridge",
-        "description": "In the image, a man is standing on a wooden floor, with his feet bare and his hands holding onto a chair. He is looking down at a small object, possibly a phone or a remote control, which is placed on the floor. The man is performing the action of picking up the object from the floor. The objects are positioned in a way that the man can easily reach the small object with his hands while standing on the floor. This scene suggests that the man might be in a situation where he needs to retrieve something from the floor, and he is using the chair to support himself while doing so.",
-        "answer_id": "65icGZ3CnSFqEJ9s94RdYR",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "right hand",
+            "left hand"
+        ]
     },
     {
         "ep_id": "P06_14__0",
         "id": "P06_14_26",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P06/rgb_frames/P06_14.tar",
-        "image": "./frame_0000005012.jpg",
+        "image": "./frame_0000004986.jpg",
+        "start_image": "./frame_0000004938.jpg",
+        "end_image": "./frame_0000005015.jpg",
         "action": "take milk",
-        "description": "In the image, we see a man standing in front of a white wall, holding a toilet brush and a toilet plunger. The man is positioned with his back to the wall and is holding the toilet brush and plunger in his hands. He is likely preparing to clean the toilet by using the brush to scrub the inside of the bowl and the plunger to unclog any blockages. This scene suggests that the man is performing a task related to cleaning the bathroom, which is an essential part of maintaining a clean and hygienic living space.",
-        "answer_id": "FVh269LzeywtmXdFEHWE9T",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "right hand",
+            "fridge",
+            "left hand",
+            "milk"
+        ]
     },
     {
         "ep_id": "P06_14__0",
         "id": "P06_14_27",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P06/rgb_frames/P06_14.tar",
-        "image": "./frame_0000005313.jpg",
+        "image": "./frame_0000005348.jpg",
+        "start_image": "./frame_0000005166.jpg",
+        "end_image": "./frame_0000005414.jpg",
         "action": "pour milk into bowl",
-        "description": "In the image, a man is holding a spoon and a bottle of milk, and he is standing on a counter with a bowl of cereal in front of him. He is about to pour the milk into the bowl. The objects are positioned on the counter, with the bowl and spoon on one side, and the bottle of milk on the other side. The man is performing the action of pouring the milk into the bowl, which is a common task for preparing breakfast or a snack.",
-        "answer_id": "E8yuJGSfbKPTkQJ4e5xZpR",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "milk",
+            "right hand",
+            "lid",
+            "bowl",
+            "left hand",
+            "milk bottle",
+            "spoon",
+            "raisin",
+            "cereal"
+        ]
     },
     {
         "ep_id": "P06_14__0",
         "id": "P06_14_28",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P06/rgb_frames/P06_14.tar",
-        "image": "./frame_0000005449.jpg",
+        "image": "./frame_0000005450.jpg",
+        "start_image": "./frame_0000005420.jpg",
+        "end_image": "./frame_0000005539.jpg",
         "action": "put lid on milk",
-        "description": "In the image, a woman is standing on a chair, holding a bottle of milk, and pouring it into a bowl. She is positioned on a countertop, with the bowl and the bottle of milk placed on the counter. The woman is performing the action of pouring the milk from the bottle into the bowl, which is likely for her to eat or prepare a meal.",
-        "answer_id": "eUFw3KM8z8NTmLyqvVtLS2",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "milk",
+            "right hand",
+            "lid",
+            "left hand",
+            "milk bottle",
+            "raisin",
+            "cereal",
+            "bowl",
+            "spoon"
+        ]
     },
     {
         "ep_id": "P06_14__0",
         "id": "P06_14_29",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P06/rgb_frames/P06_14.tar",
-        "image": "./frame_0000005655.jpg",
+        "image": "./frame_0000005633.jpg",
+        "start_image": "./frame_0000005609.jpg",
+        "end_image": "./frame_0000005662.jpg",
         "action": "open fridge",
-        "description": "In the image, a man is standing on a wooden floor with his feet on the ground, and he is holding a broom in his hand. The broom is positioned on the floor, and the man is using it to sweep the floor. The man is performing the action of sweeping the floor, which is a common household chore that helps maintain cleanliness and tidiness in a home.",
-        "answer_id": "JAL88ERFqqWKwZG4KvNvv7",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "right hand",
+            "fridge",
+            "left hand",
+            "milk"
+        ]
     },
     {
         "ep_id": "P06_14__0",
         "id": "P06_14_30",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P06/rgb_frames/P06_14.tar",
-        "image": "./frame_0000005729.jpg",
+        "image": "./frame_0000005677.jpg",
+        "start_image": "./frame_0000005668.jpg",
+        "end_image": "./frame_0000005735.jpg",
         "action": "put milk in fridge",
-        "description": "In the image, there is a man standing on a wooden floor with a white box in front of him. He is holding a broom and using it to sweep the floor. The white box is positioned on the floor, and the man is using the broom to clean around it. The scene appears to be a domestic setting, with the man performing a daily chore, such as sweeping the floor, to maintain a clean and organized environment.",
-        "answer_id": "XYsN3MPRBGEzGJmQ5JVFM2",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "fridge",
+            "left hand",
+            "milk"
+        ]
     },
     {
         "ep_id": "P06_14__0",
         "id": "P06_14_31",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P06/rgb_frames/P06_14.tar",
-        "image": "./frame_0000005934.jpg",
+        "image": "./frame_0000005924.jpg",
+        "start_image": "./frame_0000005913.jpg",
+        "end_image": "./frame_0000005989.jpg",
         "action": "pick up bowl",
-        "description": "In the image, a man is standing on a counter, holding a bowl of cereal, and looking down at the floor. The bowl of cereal is positioned on the counter, and the man is holding it with one hand. The floor is visible below the man, and he is likely looking at the floor to ensure that he is standing safely on the counter. The man's feet are visible, and he is wearing shorts, which suggests that he might be preparing to eat the cereal or clean up afterward. The image captures a moment of the man's daily routine, where he is interacting with the bowl of cereal and the floor, indicating that he is likely preparing a meal or taking care of his living space.",
-        "answer_id": "ioCGHUJCP6quVz9PoSB9mM",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "right hand",
+            "bowl",
+            "left hand",
+            "milk",
+            "spoon",
+            "cereal"
+        ]
     }
 ]

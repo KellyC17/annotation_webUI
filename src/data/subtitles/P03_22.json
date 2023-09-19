@@ -3,260 +3,321 @@
         "ep_id": "P03_22__0",
         "id": "P03_22_0",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_22.tar",
-        "image": "./frame_0000000176.jpg",
+        "image": "./frame_0000000122.jpg",
+        "start_image": "./frame_0000000118.jpg",
+        "end_image": "./frame_0000000181.jpg",
         "action": "put bag",
-        "description": "In the image, there is a man standing in a room with a sink and a refrigerator. The man is holding a sponge and appears to be cleaning the sink. The sink is located on the right side of the room, and the refrigerator is on the left side. The man is positioned in the middle of the room, with the sink and refrigerator in the background. The man is performing the action of cleaning the sink, which is an essential task for maintaining the cleanliness and hygiene of the room.",
-        "answer_id": "dBhZxpcBjnXDEnxra6tj6P",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "right hand",
+            "bag"
+        ]
     },
     {
         "ep_id": "P03_22__0",
         "id": "P03_22_1",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_22.tar",
-        "image": "./frame_0000000234.jpg",
+        "image": "./frame_0000000216.jpg",
+        "start_image": "./frame_0000000211.jpg",
+        "end_image": "./frame_0000000262.jpg",
         "action": "put glass",
-        "description": "In the image, we see a man holding a glass of orange juice and a spoon while standing near a sink. The sink is filled with water, and there is a dish towel hanging on the wall. The man is about to pour the orange juice into the sink, possibly to clean the glass or to wash his hands. The objects are positioned in a way that the sink is the primary focus, with the man standing near it and the glass and spoon nearby. The action being performed by the man is pouring the orange juice into the sink, which suggests that he might be preparing to wash his hands or clean the glass.",
-        "answer_id": "ivJSjTPYe4cSgzx8sqPMzb",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "glass",
+            "left hand"
+        ]
     },
     {
         "ep_id": "P03_22__0",
         "id": "P03_22_2",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_22.tar",
-        "image": "./frame_0000000380.jpg",
+        "image": "./frame_0000000362.jpg",
+        "start_image": "./frame_0000000345.jpg",
+        "end_image": "./frame_0000000409.jpg",
         "action": "open fridge",
-        "description": "In the image, there is a man standing in front of a refrigerator, holding a plate of food. The plate is filled with various food items, and the man is holding it with his hands. The refrigerator is open, and there are several food items visible inside. The man is likely about to put the plate of food into the refrigerator, possibly to store it for later or to keep it fresh. The scene shows the man's hands holding the plate, and the plate is positioned in front of the open refrigerator door.",
-        "answer_id": "FAcBprzWzHQdsGnNZHuhCP",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "fridge"
+        ]
     },
     {
         "ep_id": "P03_22__0",
         "id": "P03_22_3",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_22.tar",
-        "image": "./frame_0000000544.jpg",
+        "image": "./frame_0000000502.jpg",
+        "start_image": "./frame_0000000435.jpg",
+        "end_image": "./frame_0000000544.jpg",
         "action": "grab lunch box",
-        "description": "In the image, we see a human hand holding a green leaf while another hand is holding a white piece of paper. The human is positioned in front of a white wall, and the leaf and paper are placed on the wall. The human is performing the action of placing the leaf and paper on the wall, possibly as part of an artistic or decorative display. The image captures a moment in time when the person is positioning the leaf and paper, showcasing the interaction between the objects and the human's hand movements.",
-        "answer_id": "eVqDtbLBfkugj4Ep5uukGt",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
-    },
-    {
-        "ep_id": "P03_22__0",
-        "id": "P03_22_4",
-        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_22.tar",
-        "image": "./frame_0000000552.jpg",
-        "action": "close fridge",
-        "description": "In the image, there is a man standing in a room with a white floor and a green rug. He is holding a broom and is positioned in front of a trash can. The man is performing the action of sweeping the floor with the broom, which is a common household task. The objects in the image, including the man, the broom, and the trash can, are arranged in a way that allows the man to effectively clean the floor. The presence of the trash can suggests that the man might be cleaning the floor in preparation for a cleaning or maintenance task.",
-        "answer_id": "YTLd9FLhXgtgTbwxojDsr6",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "fridge",
+            "lunch box",
+            "left hand"
+        ]
     },
     {
         "ep_id": "P03_22__0",
         "id": "P03_22_5",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_22.tar",
-        "image": "./frame_0000000682.jpg",
+        "image": "./frame_0000000695.jpg",
+        "start_image": "./frame_0000000670.jpg",
+        "end_image": "./frame_0000000762.jpg",
         "action": "grab fork",
-        "description": "In the image, we see a man standing in a kitchen, holding a wooden spoon and a metal bowl. The spoon is being used to stir a pot of food on the stove, while the bowl is being held in the man's hand. The objects are positioned close to each other, with the pot on the stove and the bowl in the man's hand. The man is performing the action of stirring the food in the pot, which is likely a cooking or preparation process.",
-        "answer_id": "cj3DAj9DxrsCKhxgTre3KW",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "left hand"
+        ]
     },
     {
         "ep_id": "P03_22__0",
         "id": "P03_22_6",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_22.tar",
-        "image": "./frame_0000001000.jpg",
+        "image": "./frame_0000001019.jpg",
+        "start_image": "./frame_0000000906.jpg",
+        "end_image": "./frame_0000001080.jpg",
         "action": "open bag",
-        "description": "In the image, we see a man standing in front of a washing machine, with a red backpack on his back. He is holding a clothes basket and is about to put the clothes inside the washing machine. The clothes basket is positioned on the floor, and the man is standing next to the washing machine, ready to load the clothes. The scene suggests that the man is preparing to do laundry, which is a common household chore.",
-        "answer_id": "Rjui2tgm8JsczKfBc8dLEd",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "right hand",
+            "bag",
+            "left hand"
+        ]
     },
     {
         "ep_id": "P03_22__0",
         "id": "P03_22_7",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_22.tar",
-        "image": "./frame_0000001166.jpg",
+        "image": "./frame_0000001121.jpg",
+        "start_image": "./frame_0000001097.jpg",
+        "end_image": "./frame_0000001215.jpg",
         "action": "put lunch box in bag",
-        "description": "In the image, we see a man standing in front of a washing machine, holding a detergent bottle. He is positioned near the washing machine, and he is holding the detergent bottle in his hand. The man is likely about to add the detergent to the washing machine, which is located on the floor. This action is an essential part of the laundry process, as the detergent helps to clean and remove dirt and stains from the clothes during the washing cycle.",
-        "answer_id": "TFNXo9Ut6MBCVrvgmL7SS2",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "right hand",
+            "lunch box"
+        ]
     },
     {
         "ep_id": "P03_22__0",
         "id": "P03_22_8",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_22.tar",
-        "image": "./frame_0000001335.jpg",
+        "image": "./frame_0000001307.jpg",
+        "start_image": "./frame_0000001294.jpg",
+        "end_image": "./frame_0000001350.jpg",
         "action": "put fork in bag",
-        "description": "In the image, a man is standing in front of a washing machine with a clothes dryer next to it. He is holding a clothes dryer sheet and is about to place it into the washing machine. The clothes dryer sheet is positioned on the floor next to the washing machine, and the man is in the process of placing it inside the machine. This action is likely part of the laundry process, where the dryer sheet is used to help remove excess moisture from clothes before they are washed.",
-        "answer_id": "Ma2qyEKoas3yzE2wyPuqLt",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "right hand",
+            "bag",
+            "lunch box",
+            "left hand"
+        ]
     },
     {
         "ep_id": "P03_22__0",
         "id": "P03_22_9",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_22.tar",
-        "image": "./frame_0000001435.jpg",
+        "image": "./frame_0000001413.jpg",
+        "start_image": "./frame_0000001390.jpg",
+        "end_image": "./frame_0000001459.jpg",
         "action": "open fridge",
-        "description": "In the image, I see a refrigerator, a human, and some food items. The human is reaching for a jar of peanut butter that is placed on top of the refrigerator. The jar is positioned on the open door of the refrigerator, and the human is trying to grab it. The scene appears to be in a kitchen, and the human is likely trying to access the peanut butter for a meal or snack.",
-        "answer_id": "F9pLGNefo92jebzLpytYCe",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "right hand",
+            "fridge"
+        ]
     },
     {
         "ep_id": "P03_22__0",
         "id": "P03_22_10",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_22.tar",
-        "image": "./frame_0000001534.jpg",
+        "image": "./frame_0000001487.jpg",
+        "start_image": "./frame_0000001465.jpg",
+        "end_image": "./frame_0000001539.jpg",
         "action": "grab drink",
-        "description": "In the image, we see a person holding a small knife and a can of sardines. The person is standing in front of a refrigerator, and the knife is being used to open the can of sardines. The person is holding the knife with one hand and the can with the other, and they are positioned close to the refrigerator. The action being performed is the person opening the can of sardines using the knife.",
-        "answer_id": "TxS5AREnvcmSPRaJo8wu8h",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "fridge",
+            "left hand"
+        ]
     },
     {
         "ep_id": "P03_22__0",
         "id": "P03_22_11",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_22.tar",
-        "image": "./frame_0000001570.jpg",
+        "image": "./frame_0000001564.jpg",
+        "start_image": "./frame_0000001544.jpg",
+        "end_image": "./frame_0000001584.jpg",
         "action": "close fridge",
-        "description": "In the image, there is a person holding a dish towel and a sponge, both of which are positioned on the countertop. The person is likely cleaning the countertop with the sponge and dish towel, preparing the area for washing dishes or cleaning up spills. The objects are placed on the countertop in a way that allows the person to easily access and use them during the cleaning process. The image captures a moment in time where the person is performing a routine task, such as cleaning the countertop, which is an essential part of maintaining a clean and organized kitchen environment.",
-        "answer_id": "KmcEaR5Ldd4BEUrYiCGSuu",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "right hand",
+            "drink",
+            "bag",
+            "left hand"
+        ]
     },
     {
         "ep_id": "P03_22__0",
         "id": "P03_22_12",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_22.tar",
-        "image": "./frame_0000001740.jpg",
+        "image": "./frame_0000001693.jpg",
+        "start_image": "./frame_0000001590.jpg",
+        "end_image": "./frame_0000001804.jpg",
         "action": "put drink in bag",
-        "description": "In the image, a person is standing on a tiled floor, holding a bottle of water, and wearing a pair of shoes. The person is positioned in front of a washing machine, which is located in the kitchen. The person is holding the bottle of water and appears to be about to put it in the washing machine. This action suggests that the person might be preparing to wash clothes or clean the washing machine. The presence of the tiled floor and the washing machine in the kitchen indicates that the person is likely in a domestic setting, possibly at home.",
-        "answer_id": "GPxRCWKbnh2VXTYNVWBARi",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "right hand",
+            "drink",
+            "bag",
+            "left hand"
+        ]
     },
     {
         "ep_id": "P03_22__0",
         "id": "P03_22_13",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_22.tar",
-        "image": "./frame_0000002000.jpg",
+        "image": "./frame_0000002010.jpg",
+        "start_image": "./frame_0000001810.jpg",
+        "end_image": "./frame_0000002059.jpg",
         "action": "close bag",
-        "description": "In the image, a man is standing in front of a washing machine, holding a black dog. The washing machine is located on the floor, and the man is holding the dog by its leash. The dog is standing on its hind legs, and the man is holding its front paws. The scene appears to be a moment of play or interaction between the man and the dog, as the man is holding the dog and the dog is standing on its hind legs.",
-        "answer_id": "jd4V6tEb6VVkw5KQAmC27L",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "bag",
+            "left hand",
+            "right hand"
+        ]
     },
     {
         "ep_id": "P03_22__0",
         "id": "P03_22_14",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_22.tar",
-        "image": "./frame_0000002177.jpg",
+        "image": "./frame_0000002121.jpg",
+        "start_image": "./frame_0000002084.jpg",
+        "end_image": "./frame_0000002189.jpg",
         "action": "pick up bag",
-        "description": "In the image, there is a person holding a sponge and a dish towel, and they are standing in front of a sink. The person is likely cleaning up or preparing for cleaning a dish or a surface. The sponge and dish towel are positioned on the countertop, and the person is holding them in their hands. The action being performed is the person cleaning or wiping down the surface using the sponge and dish towel.",
-        "answer_id": "fzjAMukfNYTpFkw3jnkk5M",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "bag",
+            "left hand"
+        ]
     },
     {
         "ep_id": "P03_22__0",
         "id": "P03_22_15",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_22.tar",
-        "image": "./frame_0000002248.jpg",
+        "image": "./frame_0000002254.jpg",
+        "start_image": "./frame_0000002239.jpg",
+        "end_image": "./frame_0000002301.jpg",
         "action": "open fridge",
-        "description": "In the image, a human is holding a toilet brush and cleaning a toilet bowl. The toilet brush is positioned in the toilet bowl, and the human is using it to clean the bowl. The image shows a close-up view of the toilet brush and the human's hand holding it. The scene is taking place in a bathroom, with the toilet located in the corner of the room. The human is performing the action of cleaning the toilet bowl, ensuring that it is hygienic and free of any dirt or debris.",
-        "answer_id": "6jeonHTcaLPb5Y5i9Ce9Zf",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
-    },
-    {
-        "ep_id": "P03_22__0",
-        "id": "P03_22_16",
-        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_22.tar",
-        "image": "./frame_0000002352.jpg",
-        "action": "grab pancakes",
-        "description": "In the image, we see a man holding a plate of food and standing in front of a refrigerator. The plate is filled with food, and the man is holding it with one hand while reaching for the refrigerator door with the other hand. It appears that he is about to put the plate of food inside the refrigerator. The man is positioned in front of the refrigerator, and the plate is placed on the countertop. This scene suggests that the man is preparing to store the food in the refrigerator, possibly to keep it fresh or to save it for later use.",
-        "answer_id": "LhXPrpbsDXAxiME2mq9SfJ",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "fridge"
+        ]
     },
     {
         "ep_id": "P03_22__0",
         "id": "P03_22_17",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_22.tar",
-        "image": "./frame_0000002467.jpg",
+        "image": "./frame_0000002494.jpg",
+        "start_image": "./frame_0000002455.jpg",
+        "end_image": "./frame_0000002521.jpg",
         "action": "close fridge",
-        "description": "In the image, a person is holding a bag of food, possibly a sandwich or a snack, and is standing in front of a refrigerator. The refrigerator is filled with various food items, including a carton of eggs, a jar of pickles, and a bag of chips. The person is holding the bag of food and looking at the refrigerator, possibly contemplating what to eat or where to store the food. The scene suggests that the person is in a kitchen, possibly preparing or deciding on their meal for the day.",
-        "answer_id": "ZeUDXSwZ9nkn9Thg22MTuy",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "fridge",
+            "left hand"
+        ]
     },
     {
         "ep_id": "P03_22__0",
         "id": "P03_22_18",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_22.tar",
-        "image": "./frame_0000002832.jpg",
+        "image": "./frame_0000002781.jpg",
+        "start_image": "./frame_0000002770.jpg",
+        "end_image": "./frame_0000002835.jpg",
         "action": "open cupboard",
-        "description": "In the image, we see a sink, a dish rack, and a person washing dishes. The sink is positioned on the left side of the image, and the dish rack is placed on the counter next to the sink. The person is standing in front of the sink, washing dishes with a sponge. The scene suggests that the person is cleaning dishes after a meal or preparing for the next meal. The presence of the dish rack indicates that the person is organizing the clean dishes and placing them on the rack to dry. The image captures a moment of the person's daily routine, highlighting the importance of cleanliness and organization in maintaining a hygienic and functional kitchen environment.",
-        "answer_id": "Ah5mt8ayeUhcgJMVcH8ryZ",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "right hand",
+            "cupboard"
+        ]
     },
     {
         "ep_id": "P03_22__0",
         "id": "P03_22_19",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_22.tar",
-        "image": "./frame_0000002893.jpg",
+        "image": "./frame_0000002862.jpg",
+        "start_image": "./frame_0000002841.jpg",
+        "end_image": "./frame_0000002911.jpg",
         "action": "take plate",
-        "description": "In the image, we see a man standing in front of a white wall, holding a pair of scissors. He is cutting a piece of paper with the scissors, and the scissors are positioned in his hand with the blades facing down. The man is standing in front of a white wall, which could be a wall in a room or a blank wall in an outdoor setting. The action being performed by the man is cutting the paper with the scissors, which is a common task used for various purposes, such as crafting, paperwork, or art projects.",
-        "answer_id": "KAWE3XyuRk6qY4ARydpMQA",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "right hand",
+            "plate",
+            "cupboard"
+        ]
     },
     {
         "ep_id": "P03_22__0",
         "id": "P03_22_20",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_22.tar",
-        "image": "./frame_0000002931.jpg",
+        "image": "./frame_0000002970.jpg",
+        "start_image": "./frame_0000002929.jpg",
+        "end_image": "./frame_0000002980.jpg",
         "action": "put plate",
-        "description": "In the image, a person is holding a piece of bread and a bowl, both of which are placed on a countertop. The person is holding the bread with one hand and the bowl with the other hand. The bread is wrapped in a plastic bag, and the bowl is filled with a substance, possibly cereal or other food. The person is likely preparing to eat or serve the food. The image shows the person's hands holding the bread and bowl, indicating that they are about to consume or serve the food.",
-        "answer_id": "L5YfytfCmvjTwiAyzDLqBw",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "right hand",
+            "plate",
+            "left hand"
+        ]
     },
     {
         "ep_id": "P03_22__0",
         "id": "P03_22_21",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_22.tar",
-        "image": "./frame_0000003042.jpg",
+        "image": "./frame_0000003018.jpg",
+        "start_image": "./frame_0000002995.jpg",
+        "end_image": "./frame_0000003062.jpg",
         "action": "put pancakes on plate",
-        "description": "In the image, there are two plates on a kitchen counter, one with a slice of cake and the other with a sandwich. A person is holding a spoon and is about to eat the cake. The cake is placed on a plate, and the sandwich is placed on the other plate. The person is positioned in front of the kitchen counter, holding the spoon and about to take a bite of the cake.",
-        "answer_id": "aTVLrzALccg94CqUuS38zM",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "right hand",
+            "pancake",
+            "plate",
+            "left hand"
+        ]
     },
     {
         "ep_id": "P03_22__0",
         "id": "P03_22_22",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_22.tar",
-        "image": "./frame_0000003107.jpg",
+        "image": "./frame_0000003102.jpg",
+        "start_image": "./frame_0000003094.jpg",
+        "end_image": "./frame_0000003152.jpg",
         "action": "close cupboard",
-        "description": "In the image, there is a person holding a pot and a spatula while standing in front of a stove. The person is likely preparing food, possibly stirring or cooking something in the pot. The kitchen setting suggests that the person is in the process of cooking or preparing a meal. The objects in the image include the pot, the spatula, and the stove, which are all positioned in a way that facilitates the cooking process. The person is engaged in the activity of stirring or cooking, and the presence of the pot and spatula indicates that they are actively involved in preparing a meal.",
-        "answer_id": "jbvHXscTFFspFceWTyyDiu",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "cupboard"
+        ]
     },
     {
         "ep_id": "P03_22__0",
         "id": "P03_22_23",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_22.tar",
-        "image": "./frame_0000003350.jpg",
+        "image": "./frame_0000003334.jpg",
+        "start_image": "./frame_0000003294.jpg",
+        "end_image": "./frame_0000003366.jpg",
         "action": "put in bin",
-        "description": "In the image, there is a toaster, a plate, and a person sitting at a table. The person is holding a toaster and placing it on the table. The toaster is positioned on the table, and the plate is placed on top of it. The person is performing the action of placing the toaster on the table. The image shows a kitchen setting, with the person sitting at the table and the toaster being placed on the table.",
-        "answer_id": "6FafMb2CfesLFqmGCk7LPd",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "bin/garbage can/recycling bin",
+            "bag"
+        ]
     },
     {
         "ep_id": "P03_22__0",
         "id": "P03_22_24",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_22.tar",
-        "image": "./frame_0000003455.jpg",
+        "image": "./frame_0000003423.jpg",
+        "start_image": "./frame_0000003399.jpg",
+        "end_image": "./frame_0000003471.jpg",
         "action": "take plate",
-        "description": "In the image, we see a white plate with a round, golden-brown object on it, which appears to be a slice of pizza. The human hand is holding the plate and is about to take a bite of the pizza. The objects are positioned on a table, with the plate and the pizza slice placed on top of it. The action being performed by the human is taking a bite of the pizza, which is a common activity when consuming food.",
-        "answer_id": "WjUxcGTLmmNcJd9J4zbSdj",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "right hand"
+        ]
     },
     {
         "ep_id": "P03_22__0",
         "id": "P03_22_25",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P03/rgb_frames/P03_22.tar",
-        "image": "./frame_0000003556.jpg",
+        "image": "./frame_0000003546.jpg",
+        "start_image": "./frame_0000003526.jpg",
+        "end_image": "./frame_0000003628.jpg",
         "action": "take bag",
-        "description": "In the image, there is a person standing in a kitchen, holding a dish towel and a sponge. The person is positioned near a sink, which is filled with water. The person is likely preparing to wash dishes. The dish towel and sponge are likely being used to clean the dishes before putting them in the dishwasher. The person is standing in the kitchen, which suggests that they are in the process of doing chores or cleaning up after a meal.",
-        "answer_id": "Q5GaC8k9PcN7NQ6tdLCvaz",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "bin/garbage can/recycling bin",
+            "right hand",
+            "bag"
+        ]
     }
 ]

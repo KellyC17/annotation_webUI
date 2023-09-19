@@ -1,912 +1,1265 @@
 [
     {
         "ep_id": "P18_06__0",
-        "id": "P18_06_1",
-        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000000327.jpg",
-        "action": "open cupboard",
-        "description": "In the image, there is a sink with a faucet, a dish rack, a dishwasher, and a person washing dishes. The sink is located on the countertop, and the dish rack is placed next to it. The dishwasher is also positioned nearby. The person is washing dishes in the sink, using a sponge and a dishcloth to clean the dishes. The scene suggests that the person is in the process of doing the dishes, which is a common household chore.",
-        "answer_id": "giZss4SMswfv8aXMesWSN2",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
-    },
-    {
-        "ep_id": "P18_06__0",
         "id": "P18_06_0",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000000459.jpg",
+        "image": "./frame_0000000452.jpg",
+        "start_image": "./frame_0000000207.jpg",
+        "end_image": "./frame_0000000563.jpg",
         "action": "take pot",
-        "description": "In the image, a woman is holding a spoon and stirring a pot of soup on a stove. The woman is standing in front of the stove, and the spoon is positioned in her hand, stirring the soup. The soup is likely being cooked in a large pot, and the woman is actively stirring it to ensure it is well-mixed and heated evenly. The scene shows the woman's hands and the spoon, as well as the pot of soup, indicating that she is actively preparing the meal.",
-        "answer_id": "Bn25Akhw5ELahP7CNXj6Eg",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "saucepan",
+            "left hand",
+            "cupboard",
+            "right hand",
+            "drainer"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_2",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000000553.jpg",
+        "image": "./frame_0000000452.jpg",
+        "start_image": "./frame_0000000448.jpg",
+        "end_image": "./frame_0000000568.jpg",
         "action": "put pot in cupboard",
-        "description": "In the image, a woman is standing in front of a sink, holding a towel and a bottle of shampoo. The woman is positioned in a way that she is facing the sink and holding the bottle of shampoo in her hand. The towel is draped over her arm, and she is possibly preparing to wash her hair. The objects are placed in a way that the woman can easily access them while performing the action of washing her hair.",
-        "answer_id": "VL5ynW2DRJr78XroUk8LSS",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "saucepan",
+            "left hand",
+            "cupboard",
+            "right hand",
+            "drainer"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_3",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000000713.jpg",
+        "image": "./frame_0000000637.jpg",
+        "start_image": "./frame_0000000598.jpg",
+        "end_image": "./frame_0000000753.jpg",
         "action": "take bowl",
-        "description": "In the image, we see a person holding a yellow spatula while standing in front of a sink. The sink is filled with water, and the person is about to wash a dish. The spatula is being used to scoop up food debris from the dish before washing it. The person is positioned in front of the sink, with the spatula in their hand, and the dish is placed on the counter next to the sink. This scene depicts a common everyday task, such as washing dishes, which involves using a spatula to remove food debris and clean the dish before washing it in the sink.",
-        "answer_id": "czZCwZxA7UXnMfPeCz7Kff",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "left hand",
+            "bowl",
+            "cupboard",
+            "drainer"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_4",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000000891.jpg",
+        "image": "./frame_0000000913.jpg",
+        "start_image": "./frame_0000000768.jpg",
+        "end_image": "./frame_0000000954.jpg",
         "action": "put bowl in cupboard",
-        "description": "In the image, there is a woman standing in front of a kitchen counter, with a frying pan and a spatula on the counter. The frying pan is positioned on the counter, and the spatula is placed next to it. The woman is holding a spatula in her hand, and she is possibly preparing to use it to flip food in the frying pan. The woman is wearing a white shirt, which suggests that she might be in the process of cooking or preparing a meal. The image provides a glimpse into the woman's kitchen workspace, where she is actively engaged in cooking or preparing food.",
-        "answer_id": "cyLGjAKJhfGvyTbA5YJGLR",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "saucepan",
+            "left hand",
+            "bowl",
+            "cupboard",
+            "right hand",
+            "drainer"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_5",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
         "image": "./frame_0000001091.jpg",
+        "start_image": "./frame_0000001027.jpg",
+        "end_image": "./frame_0000001120.jpg",
         "action": "take lid of pot",
-        "description": "In the image, we see a woman holding a spoon and a bowl, with a plate on the counter. She is standing in front of a stove, and the bowl is placed on the counter next to the stove. The woman is likely preparing food or cleaning the dishes. The image captures a moment in time, where the woman is about to put the spoon and bowl into the dishwasher, as evidenced by the presence of the dishwasher in the background. The scene suggests that the woman is in the process of washing dishes, and the image provides a glimpse into her daily routine.",
-        "answer_id": "HyFvACH3YogoeFZeRFWbyi",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "left hand",
+            "cupboard",
+            "right hand",
+            "lid",
+            "drainer",
+            "plate"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_6",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
         "image": "./frame_0000001227.jpg",
+        "start_image": "./frame_0000001170.jpg",
+        "end_image": "./frame_0000001260.jpg",
         "action": "put on pot",
-        "description": "In the image, you see a kitchen sink, a frying pan, and a stove. The frying pan is placed on the stove, and the human is washing dishes in the sink. The sink is positioned next to the stove, and the frying pan is positioned on top of the stove. The human is performing the action of washing dishes in the sink, which is filled with water.",
-        "answer_id": "NhppsiVchJdhqPZbX8ogGt",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "saucepan",
+            "cupboard",
+            "right hand",
+            "lid",
+            "drainer",
+            "plate"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_7",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000001407.jpg",
+        "image": "./frame_0000001371.jpg",
+        "start_image": "./frame_0000001266.jpg",
+        "end_image": "./frame_0000001420.jpg",
         "action": "close cupboard",
-        "description": "In the image, there is a woman standing in front of a sink, holding a dish towel. She is positioned next to a dish rack, which is filled with dishes. The woman is likely preparing to wash the dishes, as she is holding a dish towel and has a dish rack nearby. The dishes are positioned on the dish rack, which is placed on the countertop. This scene suggests that the woman is about to start the process of washing the dishes, which is an essential part of maintaining a clean and organized kitchen.",
-        "answer_id": "G5RsAkDtdzdNGZjjm876Yy",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "cupboard",
+            "drainer",
+            "plate"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_8",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000001548.jpg",
+        "image": "./frame_0000001497.jpg",
+        "start_image": "./frame_0000001484.jpg",
+        "end_image": "./frame_0000001552.jpg",
         "action": "take mug",
-        "description": "In the image, a woman is holding a glass of water and a bottle of wine, both of which are placed on a countertop. The woman is pouring the wine into the glass, and the bottle is positioned next to the glass. The scene appears to be a kitchen setting, with a dish towel hanging nearby. The woman is performing the action of pouring the wine into the glass, which suggests that she might be preparing to serve the wine or enjoying it herself.",
-        "answer_id": "dR5FzExKA9fscGRRxfkAGX",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "left hand",
+            "right hand",
+            "counter",
+            "mug",
+            "plate",
+            "drainer"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_9",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000001632.jpg",
+        "image": "./frame_0000001600.jpg",
+        "start_image": "./frame_0000001585.jpg",
+        "end_image": "./frame_0000001634.jpg",
         "action": "put on counter",
-        "description": "In the image, we see a kitchen scene with a person holding a spoon and a bowl. The person is standing next to a stove, and the bowl is placed on the stove. The person is about to pour the contents of the bowl into the spoon. The objects are positioned in a way that the person can easily access the bowl and the spoon, making it convenient for them to perform the action. The image captures a moment in time when the person is preparing to eat or serve food, possibly from a pot or a dish on the stove.",
-        "answer_id": "HpAfDNBa2ogGopQaTqkSyE",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "left hand",
+            "right hand",
+            "counter",
+            "mug",
+            "plate",
+            "drainer"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_10",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000001748.jpg",
+        "image": "./frame_0000001646.jpg",
+        "start_image": "./frame_0000001644.jpg",
+        "end_image": "./frame_0000001809.jpg",
         "action": "take plate and other plate",
-        "description": "In the image, we see a person holding a bread knife and a plate, while standing in front of a kitchen counter. The person is about to slice bread on the plate. The bread knife is positioned on the counter, and the plate is placed on top of a dish rack. The person is preparing to cut the bread, which is likely to be served as a snack or used in a meal. The scene suggests that the person is about to perform a simple yet essential task in the kitchen, such as preparing a meal or snack.",
-        "answer_id": "3SE47yh5gLzjRE6HvhCAzS",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "left hand",
+            "right hand",
+            "counter",
+            "plate",
+            "drainer"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_11",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000001972.jpg",
+        "image": "./frame_0000002012.jpg",
+        "start_image": "./frame_0000001966.jpg",
+        "end_image": "./frame_0000002013.jpg",
         "action": "open cupboard",
-        "description": "In the image, we see a person holding a dishcloth and cleaning a dirty dish in a sink. The person is positioned in front of a sink, with the dishcloth in their hand and the dirty dish on the counter. The sink is filled with water, and the person is using the dishcloth to clean the dish. The image shows the person's hands and the dishcloth, but it does not provide a clear view of the dish or the sink. This image captures a moment in the process of cleaning, where the person is actively engaged in the task of washing the dirty dish.",
-        "answer_id": "fnRqCb6qmrrZekfUopN9vM",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "plate",
+            "cupboard",
+            "cloth"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_12",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000002051.jpg",
+        "image": "./frame_0000002106.jpg",
+        "start_image": "./frame_0000002019.jpg",
+        "end_image": "./frame_0000002133.jpg",
         "action": "put plates in cupboard",
-        "description": "In the image, a person is holding a white plate and placing it on a countertop. The plate is positioned on the countertop next to a white bowl, and the person is holding the plate with both hands. The action being performed is placing the plate on the countertop, likely to prepare for a meal or to store the plate for later use. The image shows a person interacting with the plate and bowl, demonstrating their ability to handle and position objects in a kitchen setting.",
-        "answer_id": "W8EAxy7Jm6DuqR4HZhqTkd",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "left hand",
+            "plate",
+            "bowl",
+            "right hand",
+            "cupboard",
+            "cloth"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_13",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000002295.jpg",
+        "image": "./frame_0000002283.jpg",
+        "start_image": "./frame_0000002139.jpg",
+        "end_image": "./frame_0000002309.jpg",
         "action": "take out bowl",
-        "description": "In the image, we see a person holding a roll of toilet paper and placing it on a kitchen counter. The person is standing next to a sink, and there is a towel hanging on the wall. The toilet paper roll is being placed on the counter, and the person is holding it with both hands. This scene suggests that the person might be preparing to use the toilet paper for cleaning or wiping purposes. The presence of the towel hanging on the wall indicates that the person might be preparing for a cleaning task or has recently finished one.",
-        "answer_id": "aBdGxiauiqJejRgKg9kabB",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
-    },
-    {
-        "ep_id": "P18_06__0",
-        "id": "P18_06_14",
-        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000002297.jpg",
-        "action": "put bowl on counter",
-        "description": "In the image, there is a person holding a sponge and a dish towel, both of which are positioned on a countertop. The person is likely preparing to clean a dish or a surface using the sponge and dish towel. The objects are placed next to each other, with the sponge on the left and the dish towel on the right. The person is holding the sponge and dish towel, indicating that they are ready to perform the cleaning action.",
-        "answer_id": "hfa7wyViqKo2UiPn6BBDjy",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "plate",
+            "bowl",
+            "right hand",
+            "cupboard"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_15",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000002336.jpg",
+        "image": "./frame_0000002376.jpg",
+        "start_image": "./frame_0000002312.jpg",
+        "end_image": "./frame_0000002387.jpg",
         "action": "take mug",
-        "description": "In the image, you see a woman holding a spoon and a plate in her hand while standing in front of a kitchen counter. The woman is holding the spoon and plate, possibly after using them to eat or prepare food. The spoon and plate are positioned on the counter, with the spoon resting on the plate. The woman is standing in front of the counter, possibly looking at the food or preparing to put the plate and spoon away. The image suggests that the woman is in the process of cleaning up after a meal or preparing food for another meal.",
-        "answer_id": "3NuYTnhLgw7mVqZ37maReu",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "left hand",
+            "bowl",
+            "right hand",
+            "cupboard",
+            "cup",
+            "cloth"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_16",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000002400.jpg",
+        "image": "./frame_0000002412.jpg",
+        "start_image": "./frame_0000002393.jpg",
+        "end_image": "./frame_0000002443.jpg",
         "action": "put mug on counter",
-        "description": "In the image, there is a person holding a spoon and a fork, and they are standing in front of a sink. The person is holding the utensils in their hands, and they appear to be preparing to wash them. The utensils are positioned on the countertop, and the sink is nearby. This scene suggests that the person is about to clean their utensils after using them for eating or cooking.",
-        "answer_id": "S6dPxiT6d8zQsycjrwiQPs",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "bowl",
+            "cupboard",
+            "cup",
+            "cloth"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_17",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000002499.jpg",
+        "image": "./frame_0000002488.jpg",
+        "start_image": "./frame_0000002449.jpg",
+        "end_image": "./frame_0000002555.jpg",
         "action": "close cupboard",
-        "description": "In the image, a woman is standing in front of a kitchen cabinet, and she is holding a dish towel. The cabinet is filled with various dishes, utensils, and other kitchen items. The woman is holding the dish towel and is possibly about to wipe down the counter or clean up some mess. The objects in the cabinet are positioned in a neat and organized manner, indicating that the kitchen is well-maintained and organized. The presence of the dish towel suggests that the woman is taking care of the cleanliness of the kitchen, which is an essential aspect of maintaining a clean and hygienic living space.",
-        "answer_id": "EXaMjzmVc9nddmaT6wPDfM",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "bowl",
+            "right hand",
+            "cupboard",
+            "cup",
+            "cloth"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_18",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000002758.jpg",
+        "image": "./frame_0000002793.jpg",
+        "start_image": "./frame_0000002703.jpg",
+        "end_image": "./frame_0000002832.jpg",
         "action": "take water boiler",
-        "description": "In the image, there is a sink, a stove, and a refrigerator arranged in a kitchen setting. A human is standing in front of the sink, washing their hands. The sink is positioned on the countertop, and the stove and refrigerator are placed on the floor. The human is performing the action of washing their hands, demonstrating the importance of proper hand hygiene in maintaining personal and public health.",
-        "answer_id": "SjU9jcHpFXDLob4k9NCfhp",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "tap",
+            "sink"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_19",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000002935.jpg",
+        "image": "./frame_0000002886.jpg",
+        "start_image": "./frame_0000002877.jpg",
+        "end_image": "./frame_0000002979.jpg",
         "action": "open tap",
-        "description": "In the image, there is a woman standing in front of a sink, with a faucet and a dish rack nearby. She is holding a sponge and a bottle of dish soap, and she is about to wash dishes. The woman is positioned near the sink, with the faucet and dish rack in the background. The objects are arranged in a way that facilitates the woman's task of washing dishes. The woman is about to use the sponge and dish soap to clean the dishes, which are likely placed on the dish rack. This scene demonstrates the everyday activity of washing dishes in a kitchen setting.",
-        "answer_id": "7thgUAv4tTfZtiD9bmbGY7",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "tap",
+            "left hand",
+            "sink",
+            "right hand",
+            "water boiler"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_20",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000002958.jpg",
+        "image": "./frame_0000002971.jpg",
+        "start_image": "./frame_0000002910.jpg",
+        "end_image": "./frame_0000003045.jpg",
         "action": "put water in water boiler",
-        "description": "In the image, we see a woman standing next to a sink, holding a bottle of dish soap. She is positioned in front of a faucet, with the bottle of dish soap resting on the counter. The woman is about to pour the dish soap into the sink, possibly to clean dishes or wash her hands. The image captures a moment of her preparing to perform this action, which is a common task in everyday life.",
-        "answer_id": "HnBTMD8H93UY3QDchdkrES",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "sink",
+            "left hand",
+            "tap",
+            "right hand",
+            "water",
+            "water boiler"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_21",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000003179.jpg",
+        "image": "./frame_0000003124.jpg",
+        "start_image": "./frame_0000003088.jpg",
+        "end_image": "./frame_0000003189.jpg",
         "action": "put water boiler on stove top",
-        "description": "In the image, you see a person holding a cup of coffee and a spoon while standing in front of a stove. The stove has a pot on it, and there is a sink nearby. The person is likely preparing or serving coffee, using the cup and spoon to stir or pour the beverage. The objects are positioned in a kitchen setting, with the stove and sink being essential elements for cooking and preparing food. The person's actions suggest that they are engaged in the process of making or serving coffee, which could be a daily routine or a casual activity.",
-        "answer_id": "nN77McGT3CrnUebToTMSoo",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
-    },
-    {
-        "ep_id": "P18_06__0",
-        "id": "P18_06_22",
-        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000003263.jpg",
-        "action": "turn on stove top",
-        "description": "In the image, there is a woman standing in front of a kitchen sink, with a sponge and a dishcloth on the counter next to her. She is holding a dishrag and using it to clean a dish or a sink. The objects are positioned in a way that the woman can easily access them and perform her cleaning task. The woman is standing in front of the sink, which is likely filled with water, and is using the dishrag to clean the dish or the sink. This scene shows a common domestic activity in which people clean dishes, utensils, or other items in the kitchen using dishrags or sponges.",
-        "answer_id": "kc8xK7qTnPbMXNm6c7BoBT",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "stove top",
+            "right hand",
+            "water boiler"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_23",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000003487.jpg",
+        "image": "./frame_0000003505.jpg",
+        "start_image": "./frame_0000003432.jpg",
+        "end_image": "./frame_0000003919.jpg",
         "action": "take knives forks and spoon and cup",
-        "description": "In the image, we see a person washing dishes in a sink with a dish rack. The sink is filled with water, and the person is using a sponge to clean the dishes. The dishes are placed on the dish rack, which is positioned on top of the sink. The person is standing in front of the sink, holding the sponge and cleaning the dishes. This scene shows the person performing a daily chore, such as washing dishes, in a kitchen setting.",
-        "answer_id": "hkTcswo2MMD9z5b8Cugkc8",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "left hand",
+            "right hand",
+            "cutlery bowl",
+            "fork",
+            "knife",
+            "drainer"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_24",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000004685.jpg",
+        "image": "./frame_0000004669.jpg",
+        "start_image": "./frame_0000004659.jpg",
+        "end_image": "./frame_0000004698.jpg",
         "action": "open drawer",
-        "description": "In the image, we see a kitchen counter with a glass of red wine, a bottle of wine, and a bottle of water. The glass of red wine is placed on the counter, while the bottle of wine and the bottle of water are sitting next to each other. A human is pouring the red wine into the glass, likely preparing to drink it. The objects are positioned in a way that allows the human to easily access and pour the wine into the glass. The scene suggests that the person is about to enjoy a glass of wine after possibly opening the bottle and pouring it into the glass.",
-        "answer_id": "U7oJKgvSmdZiEPhpoUffDx",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
-    },
-    {
-        "ep_id": "P18_06__0",
-        "id": "P18_06_25",
-        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000004688.jpg",
-        "action": "place cup in drawer",
-        "description": "In the image, there is a person holding a glass of wine and a bottle of wine, both of which are placed on a countertop. The person is pouring the wine into the glass, and the glass is positioned on the countertop next to the bottle. The scene appears to be in a kitchen or dining area, as there are dishes and utensils nearby. The person is engaged in the act of enjoying a glass of wine, which is a common social activity that can be relaxing and enjoyable.",
-        "answer_id": "QtZTMdA49gF65ihtwZ8XBH",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "cup",
+            "drawer"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_26",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000004891.jpg",
+        "image": "./frame_0000004899.jpg",
+        "start_image": "./frame_0000004810.jpg",
+        "end_image": "./frame_0000004919.jpg",
         "action": "open other drawer",
-        "description": "In the image, we see a person holding a red cup and a knife, standing in front of a kitchen counter. The person is likely preparing food or drinks, as the cup and knife are used for various tasks in the kitchen. The cup is positioned on the counter, and the knife is held in the person's hand. The image captures a moment in time, showcasing the person's readiness to perform a specific action with the cup and knife.",
-        "answer_id": "YraG68CSnzYJ3LrxGNvWt6",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
-    },
-    {
-        "ep_id": "P18_06__0",
-        "id": "P18_06_28",
-        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000005028.jpg",
-        "action": "close drawer",
-        "description": "In the image, we see a kitchen with a stove, a sink, and a refrigerator. The human is standing in front of the stove, possibly preparing food. The objects are positioned in a way that the human can easily access and use them while cooking. The sink is located near the stove, and the refrigerator is positioned on the opposite side of the kitchen. The human is performing an action of cooking, which involves using the stove to prepare food.",
-        "answer_id": "BZ624kBsovYEjBnemNSK6j",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "cup",
+            "spoon",
+            "fork",
+            "knife",
+            "drawer"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_27",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000005031.jpg",
+        "image": "./frame_0000005035.jpg",
+        "start_image": "./frame_0000004881.jpg",
+        "end_image": "./frame_0000005043.jpg",
         "action": "place cutlery in drawer",
-        "description": "In the image, there is a person holding a spatula and a pot, positioned on a stove. The person is likely preparing food, possibly stirring or flipping a pancake or egg. The spatula is being used to manipulate the food in the pan, while the pot is likely filled with a liquid or a sauce. The scene is set in a kitchen, where the person is actively engaged in cooking. The objects are positioned on the stove, which is a common area for cooking and preparing meals.",
-        "answer_id": "cVyHZi2Ef4UYYzLQWCpU3c",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "drawer"
+        ]
+    },
+    {
+        "ep_id": "P18_06__0",
+        "id": "P18_06_28",
+        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
+        "image": "./frame_0000005035.jpg",
+        "start_image": "./frame_0000005013.jpg",
+        "end_image": "./frame_0000005089.jpg",
+        "action": "close drawer",
+        "objects": [
+            "drawer"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_29",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000005318.jpg",
+        "image": "./frame_0000005311.jpg",
+        "start_image": "./frame_0000005269.jpg",
+        "end_image": "./frame_0000005331.jpg",
         "action": "take coffee machine",
-        "description": "In the image, a woman is holding a toaster and a microwave oven, both of which are positioned on a kitchen counter. She is holding the toaster in one hand and the microwave in the other, and she appears to be examining or comparing the two appliances. The woman is likely considering which appliance to use for a particular task, such as toasting bread or heating up leftovers. The presence of the toaster and microwave on the counter suggests that they are both available for use in the kitchen.",
-        "answer_id": "GFw54pSgFD7aZqHbgXdemK",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "coffee machine",
+            "left hand",
+            "right hand",
+            "coffee pot"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_30",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000005376.jpg",
+        "image": "./frame_0000005371.jpg",
+        "start_image": "./frame_0000005318.jpg",
+        "end_image": "./frame_0000005386.jpg",
         "action": "open coffee machine",
-        "description": "In the image, a woman is standing in front of a kitchen counter, holding a coffee mug and a toaster. The toaster is on the counter, and the woman is pouring coffee into the mug. The woman is positioned in front of the counter, and the coffee mug and toaster are placed on the countertop. The woman is performing the action of pouring coffee into the mug, which suggests that she is preparing to make a cup of coffee.",
-        "answer_id": "NBYmF9Vi3neCfRKkoBzz2d",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "coffee",
+            "coffee machine",
+            "left hand",
+            "right hand",
+            "coffee filter",
+            "coffee pot"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_31",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000005466.jpg",
+        "image": "./frame_0000005445.jpg",
+        "start_image": "./frame_0000005337.jpg",
+        "end_image": "./frame_0000005472.jpg",
         "action": "take out coffee filter",
-        "description": "In the image, a woman is holding a cup of coffee and a spoon, while standing in front of a microwave oven. The microwave is open, and the woman is about to put the cup of coffee inside. The objects are positioned in a way that the woman is holding the cup of coffee with one hand and the spoon with the other hand. The woman is performing the action of placing the cup of coffee inside the microwave oven, which is likely to heat the coffee for a short time.",
-        "answer_id": "2PiKvHznpA6iLWZNNtfnev",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "coffee machine",
+            "left hand",
+            "right hand",
+            "coffee filter",
+            "coffee pot"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_32",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000005555.jpg",
+        "image": "./frame_0000005618.jpg",
+        "start_image": "./frame_0000005538.jpg",
+        "end_image": "./frame_0000005628.jpg",
         "action": "throw out coffee filter",
-        "description": "In the image, we see a kitchen sink with a faucet and a dishrag on the counter. A human is washing dishes in the sink, using the dishrag to clean the dishes. The sink is positioned on the counter, and the dishes are placed on the counter as well. The human is performing the action of washing dishes in the sink, using the dishrag to clean the dishes.",
-        "answer_id": "KEfeSVtFAnEKzSyzTfXHoy",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "tap",
+            "sink"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_33",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000005760.jpg",
+        "image": "./frame_0000005724.jpg",
+        "start_image": "./frame_0000005697.jpg",
+        "end_image": "./frame_0000005784.jpg",
         "action": "take coffee pot",
-        "description": "In the image, a young boy is sitting on a kitchen counter, and he is holding a cup of coffee. The cup is positioned on the counter, and the boy is holding it with both hands. The image shows a close-up view of the boy's hands and the cup, indicating that he is about to take a sip of the coffee. The scene suggests that the boy is enjoying a moment of relaxation, possibly after a meal or while taking a break from an activity. The presence of the cup of coffee also implies that the boy might be in a comfortable and familiar environment, such as his home or a place where he frequently spends time.",
-        "answer_id": "Ce28H4B7QRHMh8RpzNFgPF",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "left hand",
+            "coffee pot",
+            "coffee machine"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_34",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000005788.jpg",
+        "image": "./frame_0000005862.jpg",
+        "start_image": "./frame_0000005786.jpg",
+        "end_image": "./frame_0000006063.jpg",
         "action": "put water in coffee pot",
-        "description": "In the image, there is a sink, a dishwasher, and a person standing next to the sink. The person is washing dishes in the sink, and the dishwasher is positioned next to the sink. The sink and dishwasher are both filled with water, and the person is using a sponge to clean the dishes. The scene appears to be a part of a kitchen, with the sink and dishwasher being essential appliances for cleaning and preparing food.",
-        "answer_id": "QtFVqs2Pb6cj2sp4coefXr",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "tap",
+            "left hand",
+            "sink",
+            "right hand",
+            "coffee pot"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_35",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000006485.jpg",
+        "image": "./frame_0000006464.jpg",
+        "start_image": "./frame_0000006214.jpg",
+        "end_image": "./frame_0000006555.jpg",
         "action": "pour water into coffee machine",
-        "description": "In the image, a woman is standing in front of a stove, holding a coffee maker. She is about to pour coffee into the machine, which is positioned on the stove. The woman is positioned in front of the stove, and the coffee maker is placed on top of it. This scene suggests that she is preparing to make a cup of coffee using the coffee maker. The woman is holding the coffee maker, and her hand is about to pour the coffee into the machine.",
-        "answer_id": "B3mqLYebgr7BqbWNhPc3C5",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "coffee machine",
+            "left hand",
+            "right hand",
+            "cupboard",
+            "coffee pot"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_36",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000006684.jpg",
+        "image": "./frame_0000006709.jpg",
+        "start_image": "./frame_0000006678.jpg",
+        "end_image": "./frame_0000006753.jpg",
         "action": "open cupboard",
-        "description": "In the image, a woman is holding a piece of bread and placing it in a toaster. The toaster is located on a countertop, and the woman is standing next to it. The bread is placed on the countertop, and the woman is holding it with her hands. She is about to put the bread in the toaster, which is a common action in preparing breakfast or a snack. The image shows the woman's hands and the toaster, with the bread in the background, indicating that she is in the process of toasting the bread.",
-        "answer_id": "ejvw2B2WRofNqDhraZeD39",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "coffee machine",
+            "left hand",
+            "cupboard"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_37",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000006829.jpg",
+        "image": "./frame_0000006827.jpg",
+        "start_image": "./frame_0000006759.jpg",
+        "end_image": "./frame_0000006844.jpg",
         "action": "place pot back in coffee machine",
-        "description": "In the image, there is a person holding a coffee maker, which is positioned on a countertop in a kitchen. The coffee maker is surrounded by various items, such as a bread loaf, a toaster, and a microwave. The person is holding the coffee maker and appears to be preparing to use it. The presence of the bread loaf and toaster suggests that the person might be planning to make a coffee-based breakfast or snack. The microwave is also nearby, which could be used for heating up the coffee or other food items. The image captures the moment of the person preparing to use the coffee maker, indicating that they are about to start their day with a hot cup of coffee.",
-        "answer_id": "UuNHSdXRuyABhMDA7hFBM7",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "coffee machine",
+            "left hand",
+            "right hand",
+            "cupboard",
+            "coffee pot"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_38",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000006960.jpg",
+        "image": "./frame_0000006945.jpg",
+        "start_image": "./frame_0000006850.jpg",
+        "end_image": "./frame_0000006984.jpg",
         "action": "take out coffee filters",
-        "description": "In the image, a woman is holding a spoon and standing in front of a microwave oven. She is holding the spoon in her hand and appears to be about to place it into the microwave. The microwave is positioned on the countertop, and the woman is standing in front of it, ready to place the spoon inside. This scene suggests that she might be preparing to heat up some food or liquid using the microwave.",
-        "answer_id": "iqsp64ceCs9yc3rP2H3bRB",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "left hand",
+            "right hand",
+            "cupboard",
+            "coffee filter bag"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_39",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000007191.jpg",
+        "image": "./frame_0000007091.jpg",
+        "start_image": "./frame_0000007042.jpg",
+        "end_image": "./frame_0000007213.jpg",
         "action": "take out coffee",
-        "description": "In the image, a woman is holding a bag of groceries and placing them into a kitchen trash can. The bag of groceries is on a countertop, and the woman is using her hands to open it and remove the contents. The trash can is located on the floor, and the woman is positioning the bag of groceries inside it. This action suggests that the woman is disposing of the groceries, which may be expired, damaged, or no longer needed. The image captures the moment when the woman is carefully placing the bag of groceries into the trash can, indicating that she is taking care to ensure that the items are disposed of properly.",
-        "answer_id": "TLrSMY8gShbbag3ne8CY7D",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "left hand",
+            "right hand",
+            "cupboard",
+            "coffee bag"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_40",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000007532.jpg",
+        "image": "./frame_0000007337.jpg",
+        "start_image": "./frame_0000007272.jpg",
+        "end_image": "./frame_0000007594.jpg",
         "action": "take a coffee filter",
-        "description": "In the image, we see a person holding a bowl and a spoon while standing in front of a kitchen counter. The bowl is filled with a mixture of flour and water, and the person is preparing to mix it. The bowl is placed on the counter, and the spoon is being used to mix the contents. The person is standing in front of the counter, which suggests that they may be in the process of preparing a meal or a recipe. The image captures the moment when the person is about to start mixing the ingredients, indicating that they are actively engaged in cooking or preparing food.",
-        "answer_id": "TFWGT3JHJBhW7aHUS5u4wq",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
-    },
-    {
-        "ep_id": "P18_06__0",
-        "id": "P18_06_41",
-        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000007616.jpg",
-        "action": "place in coffee machine",
-        "description": "In the image, a woman is using a coffee maker to prepare a cup of coffee. She is holding a cup and pouring coffee into it from the coffee maker. The coffee maker is positioned on a countertop, and the cup is placed on the counter next to the coffee maker. The woman is carefully pouring the coffee into the cup, ensuring that the liquid is evenly distributed. This scene shows the woman's attention to detail and her focus on preparing a perfect cup of coffee.",
-        "answer_id": "XydsbFkrtMqTbUWQNjhQ89",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "left hand",
+            "right hand",
+            "coffee filter bag",
+            "coffee bag"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_42",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000008023.jpg",
+        "image": "./frame_0000007988.jpg",
+        "start_image": "./frame_0000007846.jpg",
+        "end_image": "./frame_0000008023.jpg",
         "action": "open coffee",
-        "description": "In the image, a woman is seen standing in front of a kitchen counter, holding a spoon and a cup. The cup is filled with coffee, and the woman is pouring the coffee into the cup using the spoon. The objects are positioned on the counter, with the cup and spoon placed next to each other. The woman is performing the action of pouring the coffee into the cup, which is likely part of her daily routine or a casual activity.",
-        "answer_id": "RobCwyWGgZRkmAeNpcoPgN",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "coffee machine",
+            "left hand",
+            "right hand",
+            "spoon",
+            "coffee bag",
+            "coffee filter"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_43",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000008108.jpg",
+        "image": "./frame_0000008112.jpg",
+        "start_image": "./frame_0000008064.jpg",
+        "end_image": "./frame_0000008202.jpg",
         "action": "put spoon in coffee",
-        "description": "In the image, we see a woman standing in front of a kitchen counter, holding a coffee maker. She is using the coffee maker to make a cup of coffee. The coffee maker is positioned on the counter, and the woman is pouring coffee into a cup. The woman is also holding a spoon, which is likely used to stir the coffee. The scene shows a person actively engaged in the process of making a cup of coffee, demonstrating the steps involved in the process.",
-        "answer_id": "KBJr2zaajoF9RcNH7igiL3",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "coffee pot",
+            "coffee machine",
+            "left hand",
+            "right hand",
+            "spoon",
+            "coffee bag",
+            "coffee filter"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_44",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000008160.jpg",
+        "image": "./frame_0000008112.jpg",
+        "start_image": "./frame_0000008095.jpg",
+        "end_image": "./frame_0000008431.jpg",
         "action": "put coffee in coffee machine",
-        "description": "In the image, a woman is seen standing in front of a kitchen counter, with a coffee maker, a microwave, and a toaster on the counter. She is holding a bag of coffee beans and is about to grind them using the coffee grinder. The woman is positioned between the coffee maker and the microwave, with the toaster located behind her. The woman is preparing to grind the coffee beans, which will then be used to make a cup of coffee.",
-        "answer_id": "Mg7hj8WxzcEhKgyTaYoVNn",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "coffee pot",
+            "coffee machine",
+            "left hand",
+            "right hand",
+            "spoon",
+            "coffee bag",
+            "coffee filter"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_45",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000008484.jpg",
+        "image": "./frame_0000008496.jpg",
+        "start_image": "./frame_0000008471.jpg",
+        "end_image": "./frame_0000008573.jpg",
         "action": "put spoon in coffee",
-        "description": "In the image, a woman is seen holding a coffee maker and pouring coffee into a cup. The coffee maker is positioned on a kitchen counter, and the woman is standing next to it. She is holding the coffee maker with one hand and pouring the coffee into a cup with the other hand. The image captures a moment in time when the woman is preparing a cup of coffee, possibly for herself or for someone else. The presence of the coffee maker and the cup of coffee suggests that the woman is in the process of making a cup of coffee, which is a common activity in many households.",
-        "answer_id": "mLhLBpbCJXP3GidJxAuuWX",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "coffee filter",
+            "coffee machine",
+            "left hand",
+            "right hand",
+            "coffee",
+            "coffee bag"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_46",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000008715.jpg",
+        "image": "./frame_0000008533.jpg",
+        "start_image": "./frame_0000008517.jpg",
+        "end_image": "./frame_0000008962.jpg",
         "action": "put coffee in coffee machine",
-        "description": "In the image, you see a person holding a coffee mug while standing in front of a microwave oven. The microwave is filled with coffee cups, and the person is about to put their mug inside. The person is positioned near the microwave, and the mug is close to the microwave as well. The action being performed by the person is placing their mug inside the microwave to heat up the coffee.",
-        "answer_id": "Ct6oVX8mZ3frLnGYdd5W6g",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "coffee pot",
+            "coffee machine",
+            "left hand",
+            "right hand",
+            "coffee",
+            "coffee bag",
+            "coffee filter"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_47",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000009169.jpg",
+        "image": "./frame_0000009109.jpg",
+        "start_image": "./frame_0000009093.jpg",
+        "end_image": "./frame_0000009174.jpg",
         "action": "close coffee machine",
-        "description": "In the image, a woman is standing in front of a kitchen counter, holding a coffee mug and a spoon. There is a coffee machine, a cup, and a plate of food on the counter. The woman is pouring coffee into the mug, and the spoon is likely being used to stir the coffee. The objects are positioned on the counter, with the coffee machine and cup on the left, and the plate of food on the right. The woman is performing the action of pouring coffee into the mug while holding the spoon.",
-        "answer_id": "dMU9VcezVtZ3wtocMgrpUQ",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "coffee filter",
+            "coffee machine",
+            "left hand",
+            "right hand",
+            "coffee",
+            "coffee pot",
+            "spoon",
+            "coffee bag"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_48",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000009365.jpg",
+        "image": "./frame_0000009333.jpg",
+        "start_image": "./frame_0000009288.jpg",
+        "end_image": "./frame_0000009401.jpg",
         "action": "rinse spoon",
-        "description": "In the image, you see a woman standing in front of a sink, holding a bottle of water. The sink is located in a kitchen, and there is a dish rack nearby. The woman is pouring water from the bottle into the sink, possibly to wash her hands or clean the dishes. The bottle of water is positioned on the counter next to the sink, and the woman is holding it with one hand while pouring water into the sink with the other hand. This scene shows a common everyday activity in a kitchen, where people often use the sink to clean their hands or dishes.",
-        "answer_id": "7nY3JhZ4NXQFkqG2RBHsSq",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "tap",
+            "water",
+            "left hand",
+            "sink",
+            "right hand",
+            "spoon"
+        ]
     },
     {
         "ep_id": "P18_06__0",
         "id": "P18_06_49",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000009545.jpg",
+        "image": "./frame_0000009542.jpg",
+        "start_image": "./frame_0000009525.jpg",
+        "end_image": "./frame_0000009561.jpg",
         "action": "put spoon in coffee cup",
-        "description": "In the image, a woman is standing next to a kitchen counter with a sink, a stove, and a refrigerator. She is holding a cup of coffee and is about to pour it into a cup. The woman is positioned in front of the sink, and the cup of coffee is placed on the counter next to the sink. The objects are arranged in a way that allows the woman to easily access the sink and the cup of coffee. The action being performed by the woman is pouring the coffee into the cup, which is a common task in a kitchen setting.",
-        "answer_id": "fvwJx9Lt7mC8H8cix7p8VR",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "left hand",
+            "cup",
+            "spoon"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_50",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000009667.jpg",
+        "image": "./frame_0000009614.jpg",
+        "start_image": "./frame_0000009569.jpg",
+        "end_image": "./frame_0000009772.jpg",
         "action": "close coffee",
-        "description": "In the image, a woman is preparing to make coffee using a coffee maker. She is holding a bag of coffee grounds and placing it into the coffee maker. The coffee maker is positioned on a countertop, and the woman is standing next to it. The woman is carefully measuring the coffee grounds and placing them into the machine, which is about to brew the coffee. This scene shows the process of preparing a cup of coffee, which is a common daily task for many people.",
-        "answer_id": "bK4m5ZPkPdb8kTCTQphiUB",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "right hand",
+            "coffee bag"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_51",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000009839.jpg",
+        "image": "./frame_0000009722.jpg",
+        "start_image": "./frame_0000009625.jpg",
+        "end_image": "./frame_0000010018.jpg",
         "action": "put coffee in cupboard",
-        "description": "In the image, there is a woman standing in front of a counter with a coffee maker, a toaster, and a microwave. The coffee maker is on the counter, and the toaster is on the stove. The woman is holding a piece of bread and is about to put it into the toaster. The microwave is also visible on the counter. The scene suggests that the woman is preparing breakfast in her kitchen, possibly using the coffee maker to make a cup of coffee to accompany her meal.",
-        "answer_id": "RKWJRkUVnh2HaiGt5osg9j",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "left hand",
+            "right hand",
+            "cupboard",
+            "coffee filter bag",
+            "coffee bag"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_52",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000010229.jpg",
+        "image": "./frame_0000010182.jpg",
+        "start_image": "./frame_0000010152.jpg",
+        "end_image": "./frame_0000010246.jpg",
         "action": "put coffee filters in cupboard",
-        "description": "In the image, a woman is reaching for a jar of peanut butter that is placed on a shelf in a kitchen. She is holding a spoon, and her hand is positioned above the jar. The jar is placed on a shelf in a kitchen cabinet, and the woman is trying to retrieve the peanut butter from the shelf. The jar is partially open, and the woman is likely trying to scoop out some of the peanut butter using the spoon. This action is a common task in a kitchen, as peanut butter is a popular spread used in various recipes and snacks.",
-        "answer_id": "ZcVdyMqQGtLU6UQdBTPQSw",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "left hand",
+            "right hand",
+            "cupboard",
+            "coffee filter bag"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_53",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000010383.jpg",
+        "image": "./frame_0000010222.jpg",
+        "start_image": "./frame_0000010206.jpg",
+        "end_image": "./frame_0000010414.jpg",
         "action": "take out oatmeal bag",
-        "description": "In the image, a person is holding a spoon and a bowl, and they are standing in front of a kitchen counter. The person is holding the spoon and bowl in their hands, and they are looking at the bowl while standing in front of the counter. The spoon and bowl are positioned on the counter, and the person is performing an action of holding the bowl and spoon, possibly preparing to eat or serve food. The image captures a moment in time, and it could be a part of a routine or a specific task the person is performing in the kitchen.",
-        "answer_id": "e8GELH4cKKQufhvtF2Rxu2",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "left hand",
+            "right hand",
+            "cupboard",
+            "coffee filter bag"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_54",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000010516.jpg",
+        "image": "./frame_0000010482.jpg",
+        "start_image": "./frame_0000010419.jpg",
+        "end_image": "./frame_0000010528.jpg",
         "action": "close cupboard",
-        "description": "In the image, a woman is standing in front of a kitchen counter, with her hands holding a jar and a spoon. The jar is placed on the counter, and the spoon is being used to scoop out some food from the jar. The woman is positioned in front of the counter, and her hands are close to the jar and spoon. The scene suggests that she is preparing or serving food, possibly from the jar, and is using the spoon to scoop out the contents.",
-        "answer_id": "6GCAoAzhCbRzEec7bFEJq2",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "left hand",
+            "right hand",
+            "cupboard"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_55",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000010661.jpg",
+        "image": "./frame_0000010694.jpg",
+        "start_image": "./frame_0000010534.jpg",
+        "end_image": "./frame_0000010789.jpg",
         "action": "take bowl",
-        "description": "In the image, there are three black pots on a stove, with one pot being placed on top of another. The human is holding a spatula and appears to be stirring the contents of the pots. The pots are positioned in a way that the top pot is resting on the bottom pot, creating a stacked arrangement. The human is performing the action of stirring the contents of the pots, which could be cooking or preparing food. The scene suggests that the person is actively engaged in cooking or preparing a meal using the pots on the stove.",
-        "answer_id": "DW2jU3LagEBvJZbZqLvWU4",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "tissue",
+            "bowl",
+            "cup"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_56",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000011077.jpg",
+        "image": "./frame_0000010986.jpg",
+        "start_image": "./frame_0000010797.jpg",
+        "end_image": "./frame_0000011507.jpg",
         "action": "dry cup",
-        "description": "In the image, you see a person holding a sponge and a bottle of liquid, possibly cleaning solution, while standing in front of a sink. The person is holding the sponge and bottle in their hands, and they are positioned near the sink. The person is likely cleaning the sink with the sponge and the cleaning solution, ensuring that the sink is clean and hygienic. The image captures a moment in the process of cleaning, showcasing the person's interaction with the sink and the cleaning tools.",
-        "answer_id": "eViLwukYDFmx8CujCgxApy",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "tissue",
+            "cup"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_57",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000011614.jpg",
+        "image": "./frame_0000011550.jpg",
+        "start_image": "./frame_0000011513.jpg",
+        "end_image": "./frame_0000011646.jpg",
         "action": "open cupboard",
-        "description": "In the image, we see a kitchen sink, a faucet, a dishrag, and a sponge. The faucet is located on the right side of the sink, and the dishrag is placed on the left side. A human is standing next to the sink, possibly washing dishes or preparing to do so. The image provides a clear view of the sink and its contents, indicating that the human is about to engage in cleaning or washing tasks.",
-        "answer_id": "8pVPiSjcSP3PoTHdQ3B58f",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "measuring spoon",
+            "left hand",
+            "tissue",
+            "bowl",
+            "right hand"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_58",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000011673.jpg",
+        "image": "./frame_0000011684.jpg",
+        "start_image": "./frame_0000011652.jpg",
+        "end_image": "./frame_0000011693.jpg",
         "action": "throw out tissue",
-        "description": "In the image, there is a sink, a faucet, and a dishwasher. The sink is positioned on the countertop, and the faucet is attached to the sink. The dishwasher is also positioned on the countertop, and it appears to be open, with a person reaching inside it. The person is likely cleaning dishes or loading the dishwasher with dirty dishes. The scene suggests that the kitchen is well-organized, with the sink and dishwasher being used for cleaning and washing dishes.",
-        "answer_id": "dpj9TtNzconWTrtP6rTPs8",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "bin/garbage can/recycling bin",
+            "left hand",
+            "plate",
+            "cupboard",
+            "drainer"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_59",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000011774.jpg",
+        "image": "./frame_0000011762.jpg",
+        "start_image": "./frame_0000011699.jpg",
+        "end_image": "./frame_0000011910.jpg",
         "action": "take out oatmeal",
-        "description": "In the image, we see a kitchen counter with a blue bowl, a spoon, and a cup. The bowl is filled with water, and the spoon is placed inside the bowl. A human is pouring water from the cup into the bowl using the spoon. The objects are positioned on the counter, with the cup and spoon being used to transfer water from the cup to the bowl. This action is likely being performed as part of a daily chore, such as washing dishes or cleaning the kitchen.",
-        "answer_id": "YAfk9L8K8Cqbk7Dyb34bAF",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "plate",
+            "cupboard",
+            "drainer"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
-        "id": "P18_06_60",
-        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000011943.jpg",
-        "action": "open oatmeal",
-        "description": "In the image, there is a sink, a dish rack, and a person washing dishes. The sink is located on the countertop, and the dish rack is placed on top of the sink. The person is washing dishes in the sink, using a sponge and a dishcloth to clean the dishes. The sink and the dish rack are positioned next to each other, allowing the person to easily access the dishes and clean them.",
-        "answer_id": "im3NtE8Z5wxir27V4BAT6g",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
-    },
-    {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_61",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000012139.jpg",
+        "image": "./frame_0000012136.jpg",
+        "start_image": "./frame_0000012122.jpg",
+        "end_image": "./frame_0000012213.jpg",
         "action": "take plate",
-        "description": "In the image, there is a man sitting on a kitchen counter, holding a spoon and a bowl. The man is preparing to eat a bowl of soup, which is placed on the counter in front of him. The bowl is positioned on a ceramic plate, and the spoon is being used to scoop up the soup. The man is also holding a bag of bread, which might be used as a dipping device for the soup. The scene shows the man actively engaged in the process of eating his soup, and the objects are positioned in a way that facilitates his meal preparation and consumption.",
-        "answer_id": "AU3DmHyv8iv5Wo4b6HxD47",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "plate",
+            "cupboard",
+            "right hand",
+            "drainer"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
-        "id": "P18_06_62",
-        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000012300.jpg",
-        "action": "open cupboard",
-        "description": "In the image, a woman is cleaning a kitchen countertop using a cloth. The countertop is covered with various objects, including a bottle, a glass, and a spoon. The woman is using a cloth to wipe down the countertop, removing any dirt, dust, or debris that may have accumulated on the surface. The objects on the countertop are positioned in a random arrangement, with the bottle and glass placed on the edge of the counter, and the spoon sitting on top of the bottle. The woman is performing the cleaning action by gently wiping the cloth across the countertop, ensuring that the surface remains clean and hygienic.",
-        "answer_id": "QY7LB8eukWSuudQ5SDfcE3",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
-    },
-    {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_63",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000012423.jpg",
+        "image": "./frame_0000012384.jpg",
+        "start_image": "./frame_0000012346.jpg",
+        "end_image": "./frame_0000012456.jpg",
         "action": "put plate in cupboard",
-        "description": "In the image, a woman is standing in front of a kitchen sink, holding a plate and a spoon. She is placing the plate on the counter, and the spoon is in her hand. The plate is positioned on the counter, and the woman is about to put it down. This action suggests that she might be preparing to wash the dishes or clean the plate. The image shows a kitchen setting, which indicates that the woman is likely in the process of doing some household chores.",
-        "answer_id": "hHJ9s23XwGUxciiGrqvgXC",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "left hand",
+            "plate",
+            "right hand",
+            "cupboard",
+            "cloth"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
-        "id": "P18_06_64",
-        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000012506.jpg",
-        "action": "close cupboard",
-        "description": "In the image, a woman is holding a spoon and standing in front of a stove with a pot on it. The woman is likely preparing a meal or cooking something in the pot. The spoon is in her hand, and she is looking at the pot while standing in front of the stove. The objects are positioned in a way that the woman can easily access the pot and stir or add ingredients to the food. The action being performed by the human is cooking or preparing a meal, which involves using the spoon to stir or add ingredients to the pot.",
-        "answer_id": "R5ZrYpBGwHE79c9Z355foe",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
-    },
-    {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_65",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000012700.jpg",
+        "image": "./frame_0000012665.jpg",
+        "start_image": "./frame_0000012624.jpg",
+        "end_image": "./frame_0000012774.jpg",
         "action": "open oatmeal",
-        "description": "In the image, a woman is preparing a meal in a kitchen. She is standing in front of a stove, where a pot of food is being heated. There is a microwave oven on the counter, and a dishwasher is also visible. The woman is holding a spoon and is about to add a spoonful of food to the pot. She is wearing a white apron, which suggests that she is actively involved in cooking. The objects in the kitchen are positioned in a way that allows the woman to easily access and use them while preparing the meal. The scene shows the woman's hands-on approach to cooking and her attention to detail in preparing the food.",
-        "answer_id": "Uf2RZzmHBYgY5SxL6X9Y2U",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "left hand",
+            "right hand",
+            "oatmeal bag"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_66",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000013139.jpg",
+        "image": "./frame_0000012851.jpg",
+        "start_image": "./frame_0000012780.jpg",
+        "end_image": "./frame_0000013204.jpg",
         "action": "scoop out oatmeal with cup",
-        "description": "In the image, a person is holding a bowl of popcorn and using a spoon to scoop out some of the popcorn. The bowl is placed on a countertop, and the person is standing next to the counter. The image shows a close-up view of the person's hand holding the spoon and the bowl, as they are about to take a bite of the popcorn. The scene is set in a kitchen, and the person is likely enjoying a snack or preparing to share it with someone else.",
-        "answer_id": "kG59CjZgYZF364B2tpG4Si",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "left hand",
+            "right hand",
+            "oatmeal bag"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
-        "id": "P18_06_67",
-        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000013320.jpg",
-        "action": "put oatmeal in bowl",
-        "description": "In the image, a person is standing in front of a kitchen counter, with a bowl of dog food and a spoon in their hands. The person is about to scoop the dog food into the spoon. The bowl is placed on the counter next to a coffee maker, and there is a dish towel on the counter as well. The scene suggests that the person is preparing to feed their dog or preparing a meal for themselves.",
-        "answer_id": "4hjvrUsUCd9rvt4esJCFsk",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
-    },
-    {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_68",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000013735.jpg",
+        "image": "./frame_0000013680.jpg",
+        "start_image": "./frame_0000013515.jpg",
+        "end_image": "./frame_0000013740.jpg",
         "action": "close oatmeal",
-        "description": "In the image, you see a woman holding a spoon and a bowl, standing in front of a stove with a pot on it. The woman is likely preparing a meal, possibly stirring or mixing the contents of the bowl. The objects are positioned on the stove, with the bowl and spoon being used for cooking or preparing food. The woman is engaged in an action related to the meal preparation, which could involve adding ingredients, stirring, or serving the food.",
-        "answer_id": "BngXqbrWLXWQcZjbZCVxX4",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "clip",
+            "coffee machine",
+            "oatmeal",
+            "left hand",
+            "right hand",
+            "oatmeal bag",
+            "bowl"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_69",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000013789.jpg",
+        "image": "./frame_0000013768.jpg",
+        "start_image": "./frame_0000013749.jpg",
+        "end_image": "./frame_0000013813.jpg",
         "action": "turn on coffee machine",
-        "description": "In the image, a woman is standing at a kitchen counter, near a coffee maker, and a bowl of cereal. The woman is pouring cereal into the bowl, and the coffee maker is located on the counter next to the bowl. The woman is holding a spoon and is in the process of adding cereal to the bowl. The presence of the coffee maker suggests that the woman might be preparing to make a cup of coffee or has already made one. The scene is likely a part of her daily routine, where she is preparing breakfast and possibly enjoying a hot cup of coffee.",
-        "answer_id": "644LZrB99wgqZENgjiPMuT",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "coffee machine",
+            "oatmeal",
+            "left hand",
+            "cupboard",
+            "bowl"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_70",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000013892.jpg",
+        "image": "./frame_0000013872.jpg",
+        "start_image": "./frame_0000013812.jpg",
+        "end_image": "./frame_0000013933.jpg",
         "action": "open cupboard",
-        "description": "In the image, we see a sink, a faucet, and a dishwasher in a kitchen. The sink is positioned on the countertop, and the faucet is attached to the sink. The dishwasher is placed next to the sink, and a human is washing dishes in the sink. The human is using a sponge to clean the dishes, and the dishwasher is not currently in use. The sink, faucet, and dishwasher are all arranged in a way that allows for efficient use of space in the kitchen.",
-        "answer_id": "5E6YusuzE8JyLtuWWPsdcy",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "oatmeal",
+            "left hand",
+            "cupboard",
+            "bowl"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_71",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000013933.jpg",
+        "image": "./frame_0000014028.jpg",
+        "start_image": "./frame_0000013822.jpg",
+        "end_image": "./frame_0000014107.jpg",
         "action": "put oatmeal in cupboard",
-        "description": "In the image, there is a blue and white plate on a countertop, with a spoon and a bowl of cereal on it. A human is holding a spoon and pouring cereal into the bowl. The objects are positioned on the countertop, with the bowl and spoon being used to prepare and serve the cereal. The human is performing the action of pouring cereal into the bowl, which is likely part of a daily routine or a meal preparation process.",
-        "answer_id": "8kQn4C3KrC6ZMv9uFNEpwu",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "coffee machine",
+            "oatmeal",
+            "bowl"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_72",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000014047.jpg",
+        "image": "./frame_0000014028.jpg",
+        "start_image": "./frame_0000014022.jpg",
+        "end_image": "./frame_0000014107.jpg",
         "action": "close cupboard",
-        "description": "In the image, there is a woman standing in front of a kitchen counter, with a bowl of cereal on the counter. She is holding a spoon and is about to eat the cereal. The bowl is positioned on the counter, and the woman is standing in front of it, ready to scoop up some cereal. The scene shows a simple and casual moment of the woman preparing to eat her breakfast.",
-        "answer_id": "mr9UYPSa7Sh43pGwbwkvn7",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "coffee machine",
+            "oatmeal",
+            "bowl"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_73",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000014347.jpg",
+        "image": "./frame_0000014328.jpg",
+        "start_image": "./frame_0000014294.jpg",
+        "end_image": "./frame_0000014472.jpg",
         "action": "open oatmeal bag",
-        "description": "In the image, there is a person washing dishes in a sink, surrounded by various kitchen items such as a dish rack, a sponge, and a dish towel. The person is using a sponge to clean dishes, and the dish rack is placed on the counter next to the sink. The sink is filled with water, and the person is using a dish towel to dry the cleaned dishes. The scene shows a person performing a common household task, which is cleaning dishes, and demonstrates the use of various kitchen items in the process.",
-        "answer_id": "An6pjpCaCAdUppzen2DThh",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "coffee bag",
+            "oatmeal",
+            "tap",
+            "left hand",
+            "bowl",
+            "sink",
+            "right hand"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_74",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000014702.jpg",
+        "image": "./frame_0000014424.jpg",
+        "start_image": "./frame_0000014383.jpg",
+        "end_image": "./frame_0000014815.jpg",
         "action": "pour oatmeal into bowl",
-        "description": "In the image, a woman is standing in front of a sink, holding a paintbrush and a cup of water. She is preparing to paint a small area on the sink. The sink is filled with water, and there are various kitchen utensils and tools nearby, such as a sponge and a dishcloth. The woman is positioned in front of the sink, with the paintbrush and cup of water in her hands. She is likely about to start painting the sink with the water and paint mixture.",
-        "answer_id": "XhSE4rukHmEJGhVnAFbmba",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "oatmeal",
+            "tap",
+            "left hand",
+            "bowl",
+            "sink",
+            "right hand",
+            "coffee bag"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_75",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000015094.jpg",
+        "image": "./frame_0000015079.jpg",
+        "start_image": "./frame_0000015057.jpg",
+        "end_image": "./frame_0000015128.jpg",
         "action": "throw out oatmeal bag",
-        "description": "In the image, we see a kitchen sink, a faucet, and a dishwasher. The dishwasher is positioned next to the sink, and the faucet is located on the countertop. A person is standing near the sink, possibly preparing to wash dishes or cleaning the sink. The image captures the kitchen setting, where cleaning and maintenance tasks are essential for maintaining a hygienic and organized environment.",
-        "answer_id": "8VmWF9tRnneHsSNxnsYBVB",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "coffee bag",
+            "tap",
+            "sink",
+            "bin/garbage can/recycling bin",
+            "cupboard"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_76",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000015415.jpg",
+        "image": "./frame_0000015433.jpg",
+        "start_image": "./frame_0000015327.jpg",
+        "end_image": "./frame_0000015498.jpg",
         "action": "rinse cup",
-        "description": "In the image, we see a person standing in front of a sink, holding a sponge and a bottle of dish soap. The sink is filled with water, and the person is about to wash their hands. The sponge and dish soap are positioned on the sink counter, and the person is preparing to clean their hands with the sponge and soap. This scene suggests that the person is in the process of washing their hands, which is a common action people perform after using the restroom or before eating to maintain personal hygiene.",
-        "answer_id": "kR9toN7a5zbKGiUhyAAC7x",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "measuring spoon",
+            "tap",
+            "left hand",
+            "sink",
+            "right hand",
+            "water"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_77",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000015657.jpg",
+        "image": "./frame_0000015644.jpg",
+        "start_image": "./frame_0000015571.jpg",
+        "end_image": "./frame_0000015662.jpg",
         "action": "put cup in sink",
-        "description": "In the image, we see a kitchen countertop with various objects placed on it. There is a dish towel, a bowl, a cup, and a spoon. The human is holding a spoon and pouring something into the bowl. The objects are positioned in a neat and organized manner on the countertop, indicating that the person is preparing a meal or snack. The human is performing the action of pouring food into the bowl using the spoon, which suggests that they are either serving themselves or preparing a meal for someone else.",
-        "answer_id": "VJ7dHWg8nJYKDfh8ukvsMw",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "tap",
+            "sink"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_78",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000016880.jpg",
+        "image": "./frame_0000016875.jpg",
+        "start_image": "./frame_0000016864.jpg",
+        "end_image": "./frame_0000016984.jpg",
         "action": "take cup",
-        "description": "In the image, there is a woman standing in front of a kitchen counter with a microwave, a stove, and a sink. She is holding a cup of coffee and is about to pour it into the sink. The objects are positioned in a way that the woman can easily access them, with the microwave and stove being placed on the countertop, and the sink being located below the counter. The woman is performing the action of pouring the coffee into the sink, which might be done for various reasons, such as cleaning the cup or disposing of the coffee grounds.",
-        "answer_id": "DXGarNgTBfebg6XpcfqHdP",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "right hand",
+            "cup"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_79",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000017050.jpg",
+        "image": "./frame_0000017133.jpg",
+        "start_image": "./frame_0000017005.jpg",
+        "end_image": "./frame_0000017155.jpg",
         "action": "put cup on counter",
-        "description": "In the image, a woman is holding a cup of coffee and standing next to a stove with a pot on it. The woman is positioned near the stove, and the cup of coffee is being held in her hand. She is likely preparing to pour the coffee into the pot or is in the process of doing so. The objects are positioned close to each other, with the cup of coffee and the pot on the stove being within arm's reach. This scene suggests that the woman is preparing to make a cup of coffee for herself or someone else, and the image captures a moment in the process of making the beverage.",
-        "answer_id": "9HrEncbg29Dfn9gNqqWubd",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "right hand",
+            "cup"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_80",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000018640.jpg",
+        "image": "./frame_0000018603.jpg",
+        "start_image": "./frame_0000018571.jpg",
+        "end_image": "./frame_0000018661.jpg",
         "action": "turn off stove",
-        "description": "In the image, a woman is standing in front of a stove with a frying pan on it. She is holding a spatula and is about to turn on the stove. The frying pan is positioned on the stove, and the woman is preparing to cook something using the spatula. The objects in the image are a stove, a frying pan, and a spatula. The woman is performing the action of turning on the stove to start cooking her meal.",
-        "answer_id": "9ZYivijrhKH2dfgMwhsEW9",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "switch",
+            "stove top",
+            "right hand"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_81",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000019059.jpg",
+        "image": "./frame_0000018825.jpg",
+        "start_image": "./frame_0000018704.jpg",
+        "end_image": "./frame_0000019137.jpg",
         "action": "pour water into oatmeal bowl",
-        "description": "In the image, a woman is holding a bowl of food and pouring it into a cup. The bowl is positioned on a countertop, and the cup is placed on a stove. The woman is performing the action of pouring the food from the bowl into the cup, possibly for cooking or serving. The scene shows a kitchen setting, where the woman is preparing or preparing to prepare food.",
-        "answer_id": "6S8NnkogsUpDJaoyvThziE",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "bowl",
+            "left hand",
+            "stove top",
+            "right hand",
+            "water boiler",
+            "oatmeal"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_82",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000019232.jpg",
+        "image": "./frame_0000019251.jpg",
+        "start_image": "./frame_0000019150.jpg",
+        "end_image": "./frame_0000019288.jpg",
         "action": "put boiler back on stove top",
-        "description": "In the image, we see a man standing in front of a stove, with a pot on the stove and a coffee maker on the counter. The man is holding a spoon and stirring the pot, possibly preparing a meal or cooking something. The coffee maker is also present, indicating that the man might be making coffee or tea as well. The objects are positioned in a kitchen setting, with the stove and countertops being the primary workspace for cooking and preparing food and beverages. The man is performing the action of stirring the pot, which is a common task in cooking to ensure that the food is well-cooked and evenly mixed.",
-        "answer_id": "WogKfgPB3E8pU3jCAviu7T",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "stove top",
+            "right hand",
+            "bowl",
+            "water boiler",
+            "oatmeal"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_83",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000019308.jpg",
+        "image": "./frame_0000019327.jpg",
+        "start_image": "./frame_0000019294.jpg",
+        "end_image": "./frame_0000019375.jpg",
         "action": "take spoon",
-        "description": "In the image, a woman is standing in front of a kitchen counter, holding a spoon and a bowl. The woman is preparing food, possibly a bowl of cereal or a dish of soup, and is stirring it with the spoon. The bowl is placed on the counter, and the woman is using the spoon to mix the contents of the bowl. The woman's hands are positioned above the bowl, and she is performing the action of stirring the food. The kitchen counter is also visible in the image, which suggests that the woman is in a kitchen setting.",
-        "answer_id": "5HLSLVTznMm2Jrdv74bRPx",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "cup",
+            "left hand",
+            "right hand",
+            "bowl",
+            "oatmeal"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_84",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000019559.jpg",
+        "image": "./frame_0000019427.jpg",
+        "start_image": "./frame_0000019379.jpg",
+        "end_image": "./frame_0000019636.jpg",
         "action": "stir oatmeal",
-        "description": "In the image, a woman is holding a bowl of cereal and pouring it into a coffee mug. The bowl is placed on a countertop, and the woman is standing next to the countertop. She is holding the mug with one hand and pouring the cereal into it with the other hand. This action suggests that she is preparing to eat the cereal or is in the process of doing so. The presence of the bowl and the mug on the countertop indicates that the woman is likely in her kitchen, and the scene may be part of her daily routine or a casual moment.",
-        "answer_id": "YjPyKpfp3jyBzGsL4gpwfj",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "left hand",
+            "right hand",
+            "bowl",
+            "spoon",
+            "oatmeal"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_85",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000020161.jpg",
+        "image": "./frame_0000020110.jpg",
+        "start_image": "./frame_0000019670.jpg",
+        "end_image": "./frame_0000020190.jpg",
         "action": "keep stirring oatmeal",
-        "description": "In the image, we see a man and a woman standing next to a kitchen counter, with a bowl of cereal and a cup of coffee on the counter. The man is holding a spoon and pouring cereal into the bowl, while the woman is holding a cup of coffee and looking at the man. The objects are positioned on the counter, with the bowl of cereal and the cup of coffee placed side by side. The man is performing the action of pouring cereal into the bowl, and the woman is watching him. This scene suggests that they might be preparing breakfast together or engaging in a casual conversation while enjoying their morning meal.",
-        "answer_id": "4YWe7wEQQHENp8MYSqR3Wp",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "left hand",
+            "right hand",
+            "bowl",
+            "spoon",
+            "oatmeal"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_86",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000021437.jpg",
+        "image": "./frame_0000020745.jpg",
+        "start_image": "./frame_0000020244.jpg",
+        "end_image": "./frame_0000022266.jpg",
         "action": "twist bowl and stir oatmeal",
-        "description": "In the image, you see a woman holding a bowl of cereal and pouring it into a coffee mug. The bowl and the mug are positioned on a countertop, with the woman standing next to the counter. The woman is performing the action of pouring the cereal into the mug, which suggests that she might be preparing a breakfast or snack. The presence of the bowl and the mug on the countertop indicates that the woman is likely preparing food or drinks in the kitchen.",
-        "answer_id": "WCAaHfJLNVtKGhhfa2zMnK",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "coffee machine",
+            "left hand",
+            "right hand",
+            "bowl",
+            "spoon",
+            "coffee pot",
+            "cup",
+            "oatmeal"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_87",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000024003.jpg",
+        "image": "./frame_0000023900.jpg",
+        "start_image": "./frame_0000023857.jpg",
+        "end_image": "./frame_0000024019.jpg",
         "action": "take coffee pot",
-        "description": "In the image, a woman is standing in front of a kitchen counter, with a coffee maker and a microwave on the counter. She is holding a red cup and pouring coffee into the coffee maker. The woman is positioned between the coffee maker and the microwave, with the cup in her hand. The action she is performing is pouring coffee into the coffee maker, which is likely to be brewing the coffee. The presence of the microwave suggests that the woman might be preparing a snack or a meal to accompany the coffee. The scene appears to be a typical morning routine in a kitchen, where the woman is preparing a hot beverage and possibly a meal for herself or someone else.",
-        "answer_id": "BhHrgr5xSXnWxmLXAiMmKV",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "coffee machine",
+            "right hand",
+            "bowl",
+            "spoon",
+            "coffee pot",
+            "cup",
+            "oatmeal"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
-        "id": "P18_06_88",
-        "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000024433.jpg",
-        "action": "pour coffee in mug",
-        "description": "In the image, you see a woman standing over a stove, holding a spoon and pouring a liquid into a pot. The pot is on the stove, and the woman is wearing a white apron. The liquid being poured into the pot is likely a sauce or a liquid ingredient, and the woman is carefully pouring it into the pot to ensure it is evenly distributed. The woman is positioned over the stove, which suggests that she is preparing a meal or cooking something on the stove. The apron she is wearing may indicate that she is in the process of cooking or preparing food.",
-        "answer_id": "Kuxhb8MMNre6jBRuocvYtm",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
-    },
-    {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_89",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000024750.jpg",
+        "image": "./frame_0000024629.jpg",
+        "start_image": "./frame_0000024578.jpg",
+        "end_image": "./frame_0000024797.jpg",
         "action": "put pot back in coffee machine",
-        "description": "In the image, a woman is holding a coffee mug and pouring coffee into a bowl. She is positioned in front of a stove, with a pot of coffee on the stove. The woman is using a spoon to scoop out the coffee from the pot and pour it into the mug. The objects are arranged in a way that the woman can easily access the coffee pot and the bowl. The action being performed by the woman is pouring the coffee from the pot into the mug, which is likely part of her daily routine or a casual activity.",
-        "answer_id": "oFpPK6b92mxAWxk3nGkmB9",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "coffee machine",
+            "left hand",
+            "right hand",
+            "coffee",
+            "bowl",
+            "spoon",
+            "coffee pot",
+            "cup",
+            "oatmeal"
+        ]
     },
     {
-        "ep_id": "P18_06__1",
+        "ep_id": "P18_06__0",
         "id": "P18_06_90",
         "tar_path": "/share/portal/ys749/EPIC-KITCHENS/P18/rgb_frames/P18_06.tar",
-        "image": "./frame_0000024882.jpg",
+        "image": "./frame_0000024833.jpg",
+        "start_image": "./frame_0000024814.jpg",
+        "end_image": "./frame_0000024887.jpg",
         "action": "turn off coffee machine",
-        "description": "In the image, a woman is standing next to a kitchen counter, holding a coffee mug and a spoon. She is holding the spoon in her hand and is about to pour the coffee into the mug. The coffee mug is placed on the counter, and the woman is positioned in front of the mug. The woman is preparing to pour the coffee into the mug, and the spoon is being used to scoop the coffee from the pot. The scene shows the woman in the process of making a cup of coffee, which is a common activity in many households.",
-        "answer_id": "Ge6RGkgWr3CoaC2FaFRfWB",
-        "model_id": "llava-llama-2-7b-chat-hf-lightning-merge"
+        "objects": [
+            "coffee machine",
+            "left hand",
+            "right hand",
+            "coffee pot"
+        ]
     }
 ]
