@@ -1,10 +1,12 @@
 import React, { useState, useEffect } from 'react';
-import { Input, Button, Image, Card } from 'antd';
+import { Input, Button, Image, Card, AutoComplete } from 'antd';
 import { data } from './data/menu'
 import type { MenuProps } from 'antd';
 import { Dropdown, Space, message, Typography } from 'antd';
+import { dictionary } from './data/dict';
 const { TextArea } = Input;
 const { Title } = Typography;
+
 
 
 const View1 = () => {
@@ -31,6 +33,7 @@ const View1 = () => {
   const [currAnnotation, setCurrAnnotation] = useState("")
   const [annotations, setAnnotations] = useState([{ id: "", start_image: "", states: [""] }])
 
+  const [options, setOptions] = useState<{ value: string }[]>(dictionary)
 
   const loadImage = () => {
     // Load the image using the provided image path
@@ -57,6 +60,16 @@ const View1 = () => {
 
   useEffect(() => { findTextAndIndex(currFrame); loadImage(); setCurrAnnotationList([""]) }, [frames])
 
+  useEffect(() => {
+    const existed = annotations.find((item) => item.id.startsWith(currEp) && item.start_image === currFrame)
+    if (existed !== undefined) {
+      setCurrAnnotationList(existed.states);
+    }
+    else {
+      setCurrAnnotationList([""])
+    }
+  }, [currEp + currFrame])
+
   function findTextAndIndex(imageName: string) {
     const item = frames.find((item) => item.start_image === `./${imageName}.jpg`);
 
@@ -79,7 +92,8 @@ const View1 = () => {
   }
 
   const saveNextorPrev = (direction: number) => {
-    const existed = annotations.findIndex((item) => item.id === currEp && item.start_image === currFrame)
+    const existed = annotations.findIndex((item) => item.id.startsWith(currEp) && item.start_image === currFrame)
+    console.log(existed)
 
     if (existed != -1) {
       annotations[existed] = { id: currItem.id, start_image: currFrame, states: currAnnotationList }
@@ -94,12 +108,11 @@ const View1 = () => {
     }
     else {
       const nextItem = frames[nextIdx]
-      setCurrAnnotationList([""])
+      // setCurrAnnotationList([""])
       setCurrAnnotation("")
       setCurrItem(nextItem)
       setCurrFrame(nextItem.start_image.substring(2, 18))
       setImageUrl(`./data/frames/${currEp}/${nextItem.start_image.substring(2)}`);
-      console.log(annotations)
     }
 
   }
@@ -162,7 +175,7 @@ const View1 = () => {
           <Title level={4}>Objects</Title>
           {JSON.stringify(currItem.objects)}
           <Title level={4}>States Annotation</Title>
-          <TextArea value={currAnnotation} style={{ height: 100 }} onChange={(e) => setCurrAnnotation(e.target.value)} onPressEnter={(e) => { e.preventDefault(); onEnter(currAnnotation) }} />
+          <AutoComplete options={options.filter((item) => item.value.startsWith(currAnnotation))} value={currAnnotation} onChange={(e) => setCurrAnnotation(e)} style={{ width: 400 }} onKeyDown={(e) => { if (e.key === 'Enter') { e.preventDefault(); onEnter(currAnnotation) } }} ></AutoComplete>
           <div style={{ marginTop: '10px' }}></div>
           <TextArea value={JSON.stringify(currAnnotationList)} onChange={(e) => onChangeList(e.target.value)} />
         </Card>
