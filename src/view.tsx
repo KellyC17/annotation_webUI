@@ -31,7 +31,7 @@ const View1 = () => {
   const [frames, setFrames] = useState([currItem])
   const [currAnnotationList, setCurrAnnotationList] = useState([""])
   const [currAnnotation, setCurrAnnotation] = useState("")
-  const [annotations, setAnnotations] = useState([{ id: "", start_image: "", states: [""] }])
+  const [annotations, setAnnotations] = useState<{ id: string, start_image: string, states: string[] }[]>([])
 
   const [options, setOptions] = useState<{ value: string }[]>(dictionary)
 
@@ -83,7 +83,6 @@ const View1 = () => {
   const onEnter = (annotation: string) => {
     if (currAnnotationList[0] === "") {
       setCurrAnnotationList([annotation])
-
     }
     else {
       setCurrAnnotationList([...currAnnotationList, annotation])
@@ -91,9 +90,30 @@ const View1 = () => {
     setCurrAnnotation("")
   }
 
+  const readFile = (event: React.ChangeEvent<HTMLInputElement>) => {
+    const fileReader = new FileReader();
+    const { files } = event.target;
+
+    if (files && files[0]) {
+      fileReader.readAsText(files[0], "UTF-8");
+      fileReader.onload = e => {
+        const content = e.target!.result;
+        console.log(content);
+        if (typeof content === 'string') {
+          const contentJson: { id: string, start_image: string, states: string[] }[] = JSON.parse(content)
+          setAnnotations(contentJson)
+          const states = contentJson.map((item) => item.states).flat()
+          const new_options = new Set([...options.map((item) => item.value), ...states])
+          setOptions(Array.from(new_options).map((item) => ({ value: item })))
+        }
+      };
+
+    }
+
+  };
+
   const saveNextorPrev = (direction: number) => {
     const existed = annotations.findIndex((item) => item.id.startsWith(currEp) && item.start_image === currFrame)
-    console.log(existed)
 
     if (existed != -1) {
       annotations[existed] = { id: currItem.id, start_image: currFrame, states: currAnnotationList }
@@ -102,6 +122,9 @@ const View1 = () => {
       setAnnotations([...annotations, { id: currItem.id, start_image: currFrame, states: currAnnotationList }])
     }
     const nextIdx = frames.indexOf(currItem) + direction
+
+    const new_options = new Set([...options.map((item) => item.value), ...currAnnotationList])
+    setOptions(Array.from(new_options).map(item => ({ value: item })))
 
     if (nextIdx < 0 || nextIdx >= frames.length) {
       message.info("no next/prev frame in this episode")
@@ -113,6 +136,7 @@ const View1 = () => {
       setCurrItem(nextItem)
       setCurrFrame(nextItem.start_image.substring(2, 18))
       setImageUrl(`./data/frames/${currEp}/${nextItem.start_image.substring(2)}`);
+
     }
 
   }
@@ -131,7 +155,7 @@ const View1 = () => {
 
   function downloadJSON() {
     // Convert the JSON data to a Blob
-    const jsonData = new Blob([JSON.stringify(annotations.slice(1))], { type: 'application/json' });
+    const jsonData = new Blob([JSON.stringify(annotations)], { type: 'application/json' });
 
     // Create a temporary link element
     const a = document.createElement('a');
@@ -195,10 +219,11 @@ const View1 = () => {
       <Space>
         <h2>Saved Annotations</h2>
         <Button onClick={() => downloadJSON()}>Download JSON</Button>
+        <input type="file" onChange={readFile} />
       </Space>
 
       <div>
-        {JSON.stringify(annotations.slice(1))}</div>
+        {annotations.map((item) => (<div >{JSON.stringify(item)}</div>))}</div>
 
     </div>
 
