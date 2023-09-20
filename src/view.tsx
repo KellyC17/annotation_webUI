@@ -113,13 +113,18 @@ const View1 = () => {
   };
 
   const saveNextorPrev = (direction: number) => {
+    const a = { id: currItem.id, start_image: currFrame, states: currAnnotationList }
+    if (currAnnotation !== "") {
+      a.states = [...a.states, currAnnotation]
+    }
+
     const existed = annotations.findIndex((item) => item.id.startsWith(currEp) && item.start_image === currFrame)
 
     if (existed != -1) {
-      annotations[existed] = { id: currItem.id, start_image: currFrame, states: currAnnotationList }
+      annotations[existed] = a
     }
     else {
-      setAnnotations([...annotations, { id: currItem.id, start_image: currFrame, states: currAnnotationList }])
+      setAnnotations([...annotations, a])
     }
     const nextIdx = frames.indexOf(currItem) + direction
 
